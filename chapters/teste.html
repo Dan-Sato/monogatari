@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>第三十七章　夕暮れの約束</title>
+    <style>
+      body {
+        background-color: #f7f3e9;
+        color: #2b2b2b;
+        font-family: "Noto Sans JP", "Yu Gothic", "Meiryo", sans-serif;
+        font-size: 22px;
+        line-height: 1.85;
+        margin: 0;
+        padding: 32px;
+        display: flex;
+        justify-content: center;
+      }
+      .page {
+        max-width: 800px;
+      }
+      h1 {
+        text-align: center;
+        margin-bottom: 24px;
+      }
+      p {
+        margin: 14px 0;
+        text-align: justify;
+        text-justify: inter-word;
+        cursor: default;
+        position: relative;
+      }
+
+      /* visual da marcação */
+      .word {
+        cursor: pointer;
+        background: rgba(255, 230, 150, 0.35);
+        border-radius: 3px;
+        padding: 0 2px;
+        border-bottom: 1px dotted rgba(0, 0, 0, 0.18);
+        position: relative;
+      }
+
+      /* tooltip */
+      #tooltip {
+        position: absolute;
+        background: #fffdf7;
+        border: 1px solid #b8a584;
+        padding: 10px;
+        border-radius: 10px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+        max-width: 340px;
+        display: none;
+        z-index: 9999;
+        font-size: 16px;
+        line-height: 1.4;
+      }
+
+      footer {
+        margin-top: 26px;
+        font-size: 0.85em;
+        color: #4b4b4b;
+        text-align: right;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page">
+      <h1>第三十七章　夕暮れの約束</h1>
+
+      <p>
+        午後の練習を終えたあと、舞がふと言った。「ねえ、ダン。少し歩かない？」
+      </p>
+
+      <p>
+        ダンは汗を拭いながらうなずいた。夕日が沈み始め、空は橙色に染まっていく。舞は静かに微笑み、坂道を上り始めた。
+      </p>
+
+      <p>
+        高台に着くと、町が一望できた。昨日の祭りの提灯がまだ少し残っており、風にゆれる。ダンはその景色に息をのんだ。
+      </p>
+
+      <p>
+        すると舞が唐突に言った。「ここね、わたしのお気に入りなんだ。昔からずっと。」
+        その声は夕暮れの光に溶け込むように優しかった。
+      </p>
+
+      <p>「ダン、これからも一緒に強くなるたい。」</p>
+
+      <p>
+        ダンは胸が熱くなるのを感じた。「もちろん。ぼくも……舞さんと一緒に。」
+        その言葉に舞は頬をわずかに赤らめた。
+      </p>
+
+      <p>
+        夕暮れの風がゆっくり吹き、ふたりの髪を揺らした。
+        舞は少し迷ってから、そっと指先を伸ばしてダンの手に触れた。「ねえ……ダン。」
+        その声はどこか不安で、どこか期待を含んでいた。
+      </p>
+
+      <p>「わたし、もっとあなたを知りたい。」</p>
+
+      <p>
+        ダンは胸に浮かぶ感情をうまく言葉にできず、ただ「うん」と答えることしかできなかった。
+        それでも舞は満足そうに微笑んだ。
+      </p>
+
+      <p>
+        空には一番星が瞬き始めていた。ふたりの影が寄り添い、ゆっくりと夕暮れが夜へ変わっていく。
+        ダンは心の中で静かに誓った。「舞さんを大切にしよう。これからもずっと。」
+      </p>
+
+      <footer>— 第三十七章　終</footer>
+    </div>
+
+    <!-- tooltip -->
+    <div id="tooltip"></div>
+
+    <script>
+      /*
+  Auto-mark + tooltip script (final)
+  - coloca spans .word automaticamente seguindo as regras:
+    * marca tokens que começam com kanji (kanji-only compounds, kanji+okurigana, kanji single)
+    * tenta encontrar o MAIOR prefixo do token presente no INDEX (ex: 上り em 上り始めた)
+    * comportamento A: marca apenas a primeira sequência encontrada em cada token
+    * se token for composto apenas por kanji e não tiver match no INDEX, marca o token inteiro (para revisar kanji/compostos)
+  - requer jmdict.json (formato simplificado com { words: [...] }) na mesma pasta
+*/
+
+      const TOOLTIP = document.getElementById("tooltip");
+      let INDEX = {}; // word -> [entries]
+      let DICT_WORDS = null;
+
+      async function loadAndIndex() {
+        try {
+          const r = await fetch("jmdict.json");
+          const json = await r.json();
+          DICT_WORDS = json.words || [];
+
+          for (const entry of DICT_WORDS) {
+            if (entry.kanji && Array.isArray(entry.kanji)) {
+              for (const k of entry.kanji) {
+                const key = (k.text || "").trim();
+                if (!key) continue;
+                if (!INDEX[key]) INDEX[key] = [];
+                INDEX[key].push(entry);
+              }
+            }
+            if (entry.kana && Array.isArray(entry.kana)) {
+              for (const k of entry.kana) {
+                const key = (k.text || "").trim();
+                if (!key) continue;
+                if (!INDEX[key]) INDEX[key] = [];
+                INDEX[key].push(entry);
+              }
+            }
+          }
+
+          console.log(
+            "JMDict carregado. INDEX keys:",
+            Object.keys(INDEX).length
+          );
+          wrapJapaneseTokens(); // run after index ready
+        } catch (e) {
+          console.error("Erro ao carregar jmdict.json:", e);
+        }
+      }
+
+      // util: contém caracteres japoneses?
+      function hasJapanese(s) {
+        return /[\u3041-\u30FF\u4E00-\u9FFF]/.test(s);
+      }
+
+      // should we attempt to mark this token?
+      // rules:
+      //  - starts with kanji
+      //  - covers: kanji single, kanji+kanji compounds, kanji+kana (okurigana)
+      function shouldMarkWord(tok) {
+        if (!tok) return false;
+        const clean = tok.replace(/^[\u3000\s]+|[\u3000\s]+$/g, ""); // trim
+        // start with kanji?
+        if (/^[\u4E00-\u9FFF]/.test(clean)) return true;
+        return false;
+      }
+
+      // longest prefix in INDEX
+      function longestPrefixMatch(token, maxChars = 12) {
+        const limit = Math.min(token.length, maxChars);
+        for (let len = limit; len >= 1; len--) {
+          const cand = token.slice(0, len);
+          if (INDEX[cand]) return cand;
+        }
+        return null;
+      }
+
+      // wrap tokens inside .page: only first match per token (behavior A)
+      function wrapJapaneseTokens() {
+        if (!window.Intl || !Intl.Segmenter) {
+          console.warn(
+            "Intl.Segmenter não disponível. Marcação automática não pode rodar."
+          );
+          return;
+        }
+        const segmenter = new Intl.Segmenter("ja", { granularity: "word" });
+        const root = document.querySelector(".page");
+        if (!root) return;
+
+        // gather text nodes
+        const walker = document.createTreeWalker(
+          root,
+          NodeFilter.SHOW_TEXT,
+          null
+        );
+        const nodes = [];
+        let node;
+        while ((node = walker.nextNode())) {
+          if (
+            node.parentElement &&
+            (node.parentElement.closest(".word") ||
+              node.parentElement.closest("#tooltip"))
+          )
+            continue;
+          if (!node.nodeValue.trim()) continue;
+          nodes.push(node);
+        }
+
+        for (const textNode of nodes) {
+          const text = textNode.nodeValue;
+          const segs = Array.from(segmenter.segment(text));
+          // skip if no japanese tokens
+          if (!segs.some((s) => hasJapanese(s.segment))) continue;
+
+          const frag = document.createDocumentFragment();
+
+          for (const seg of segs) {
+            const tok = seg.segment;
+            if (!hasJapanese(tok)) {
+              frag.appendChild(document.createTextNode(tok));
+              continue;
+            }
+
+            // only mark tokens that begin with kanji (as requested)
+            if (!shouldMarkWord(tok)) {
+              frag.appendChild(document.createTextNode(tok));
+              continue;
+            }
+
+            // try to find longest prefix that exists in INDEX
+            const match = longestPrefixMatch(tok, Math.min(12, tok.length));
+            if (match) {
+              // wrap the match only (behavior A)
+              const span = document.createElement("span");
+              span.className = "word";
+              span.textContent = match;
+              frag.appendChild(span);
+              // append remainder if any
+              const rest = tok.slice(match.length);
+              if (rest) frag.appendChild(document.createTextNode(rest));
+              continue;
+            }
+
+            // if no prefix found, and token is kanji-only or kanji-compound, wrap entire token
+            if (/^[\u4E00-\u9FFF]+$/.test(tok)) {
+              const span = document.createElement("span");
+              span.className = "word";
+              span.textContent = tok;
+              frag.appendChild(span);
+              continue;
+            }
+
+            // fallback: attempt to find any substring of length>=2 that exists in INDEX (first occurrence)
+            let found = false;
+            for (let len = Math.min(8, tok.length); len >= 2 && !found; len--) {
+              for (let start = 0; start + len <= tok.length; start++) {
+                const sub = tok.slice(start, start + len);
+                if (INDEX[sub]) {
+                  // append before
+                  const before = tok.slice(0, start);
+                  if (before) frag.appendChild(document.createTextNode(before));
+                  // append matched
+                  const span = document.createElement("span");
+                  span.className = "word";
+                  span.textContent = sub;
+                  frag.appendChild(span);
+                  // append after
+                  const after = tok.slice(start + len);
+                  if (after) frag.appendChild(document.createTextNode(after));
+                  found = true;
+                  break;
+                }
+              }
+            }
+            if (found) continue;
+
+            // last fallback: don't mark
+            frag.appendChild(document.createTextNode(tok));
+          }
+
+          textNode.parentNode.replaceChild(frag, textNode);
+        }
+
+        // done wrapping — attach handlers
+        attachWordHandlers();
+      }
+
+      // handlers: tooltip lookup
+      function attachWordHandlers() {
+        document.querySelectorAll(".word").forEach((span) => {
+          if (span._hasHandler) return;
+          span._hasHandler = true;
+          span.addEventListener("click", (e) => {
+            e.stopPropagation();
+            const text = span.textContent.trim();
+            if (!text) return;
+
+            const entries = INDEX[text];
+            if (!entries || entries.length === 0) {
+              showTooltipAt(
+                span,
+                `<b>${text}</b><div style="margin-top:6px;color:#666">（未登録）</div>`
+              );
+              return;
+            }
+
+            const entry = entries[0];
+            const readings =
+              (entry.kana || [])
+                .map((k) => k.text)
+                .filter(Boolean)
+                .join("・") || "—";
+            const meanings =
+              (entry.sense || [])
+                .flatMap((s) => (s.gloss || []).map((g) => g.text))
+                .slice(0, 6)
+                .join("<br>") || "—";
+
+            const html = `<div><strong style="font-size:18px">${text}</strong></div>
+                    <div style="margin-top:6px;color:#444">
+                      <div><strong>読み:</strong> ${readings}</div>
+                      <div style="margin-top:6px"><strong>意味:</strong><br>${meanings}</div>
+                    </div>`;
+            showTooltipAt(span, html);
+          });
+        });
+      }
+
+      // tooltip helper
+      function showTooltipAt(el, html) {
+        const rect = el.getBoundingClientRect();
+        TOOLTIP.innerHTML = html;
+        TOOLTIP.style.left = rect.left + window.scrollX + 8 + "px";
+        TOOLTIP.style.top = rect.bottom + window.scrollY + 8 + "px";
+        TOOLTIP.style.display = "block";
+      }
+
+      document.addEventListener("click", (e) => {
+        if (!e.target.closest(".word")) TOOLTIP.style.display = "none";
+      });
+
+      // start indexing + wrapping
+      loadAndIndex();
+    </script>
+  </body>
+</html>

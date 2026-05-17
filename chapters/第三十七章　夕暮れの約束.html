@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>第三十七章　夕暮れの約束</title>
+
+<style>
+  body{
+    background-color:#f7f3e9;
+    color:#2b2b2b;
+    font-family:"Noto Sans JP","Yu Gothic","Meiryo",sans-serif;
+    font-size:22px;
+    line-height:1.85;
+    margin:0;
+    padding:32px;
+    display:flex;
+    justify-content:center;
+  }
+  .page{max-width:800px;}
+
+  h1{text-align:center;margin-bottom:24px;}
+
+  p{
+    margin:14px 0;
+    text-align:justify;
+    text-justify:inter-word;
+    cursor:default;
+    position:relative;
+  }
+
+  /* Furigana hover */
+  ruby{position:relative;display:inline-block;}
+  ruby rt{
+    position:absolute;
+    top:-1.3em;
+    left:50%;
+    transform:translateX(-50%);
+    visibility:hidden;
+    font-size:0.55em;
+    color:#4a3f35;
+    white-space:nowrap;
+    pointer-events:none;
+  }
+  ruby:hover rt{visibility:visible;}
+
+  /* Notas clicáveis */
+  .note-target{
+    color:#3a3a8a;
+    border-bottom:1px dotted #3a3a8a;
+    cursor:pointer;
+  }
+
+  .balloon{
+    display:none;
+    position:absolute;
+    left:0;
+    top:100%;
+    background:#ffffff;
+    border:1px solid #c7c2b8;
+    border-radius:8px;
+    padding:10px 14px;
+    width:280px;
+    font-size:0.8em;
+    color:#333;
+    line-height:1.4;
+    box-shadow:0 3px 10px rgba(0,0,0,0.15);
+    z-index:10;
+  }
+
+  .balloon.visible{display:block;}
+
+  footer{
+    margin-top:26px;
+    font-size:0.85em;
+    color:#4b4b4b;
+    text-align:right;
+  }
+</style>
+
+<script>
+  // sistema de notas clicáveis
+  function toggleBalloon(id){
+    const b = document.getElementById(id);
+    if(b.classList.contains("visible")){
+      b.classList.remove("visible");
+    }else{
+      // fecha outros balões antes
+      document.querySelectorAll(".balloon").forEach(el=>el.classList.remove("visible"));
+      b.classList.add("visible");
+    }
+  }
+
+  // fechar balões ao clicar fora
+  document.addEventListener("click",(e)=>{
+    if(!e.target.classList.contains("note-target")){
+      document.querySelectorAll(".balloon").forEach(el=>el.classList.remove("visible"));
+    }
+  });
+</script>
+</head>
+
+<body>
+<div class="page">
+
+<h1>第三十七章　<ruby>夕暮<rt>ゆうぐ</rt></ruby>れの<ruby>約束<rt>やくそく</rt></ruby></h1>
+
+<p>
+<ruby>午後<rt>ごご</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby>を終えたあと、<ruby>舞<rt>まい</rt></ruby>がふと<ruby>言<rt>い</rt></ruby>った。「ねえ、ダン。<span class="note-target" onclick="toggleBalloon('n1')">少し歩かない？</span>」  
+<span id="n1" class="balloon">やわらかい誘い。ふたりだけの落ち着いた時間への前置き。</span>
+</p>
+
+<p>
+ダンは<ruby>汗<rt>あせ</rt></ruby>を<ruby>拭<rt>ふ</rt></ruby>いながらうなずいた。<ruby>夕日<rt>ゆうひ</rt></ruby>が<ruby>沈<rt>しず</rt></ruby>み始め、<ruby>空<rt>そら</rt></ruby>は<ruby>橙色<rt>だいだいいろ</rt></ruby>に<ruby>染<rt>そ</rt></ruby>まっていく。<ruby>舞<rt>まい</rt></ruby>は<ruby>静<rt>しず</rt></ruby>かに<ruby>微笑<rt>ほほえ</rt></ruby>み、<ruby>坂道<rt>さかみち</rt></ruby>を<ruby>上<rt>のぼ</rt></ruby>り始めた。
+</p>
+
+<p>
+<ruby>高台<rt>たかだい</rt></ruby>に<ruby>着<rt>つ</rt></ruby>くと、<ruby>町<rt>まち</rt></ruby>が<ruby>一望<rt>いちぼう</rt></ruby>できた。<ruby>昨日<rt>きのう</rt></ruby>の<ruby>祭<rt>まつ</rt></ruby>りの<ruby>提灯<rt>ちょうちん</rt></ruby>がまだ少し<ruby>残<rt>のこ</rt></ruby>っており、<ruby>風<rt>かぜ</rt></ruby>にゆれる。ダンはその<ruby>景色<rt>けしき</rt></ruby>に<ruby>息<rt>いき</rt></ruby>をのんだ。
+</p>
+
+<p>
+すると舞が<ruby>唐突<rt>とうとつ</rt></ruby>に<ruby>言<rt>い</rt></ruby>った。「ここね、わたしのお気に入りなんだ。<ruby>昔<rt>むかし</rt></ruby>からずっと。」  
+その<ruby>声<rt>こえ</rt></ruby>は<ruby>夕暮<rt>ゆうぐ</rt></ruby>れの<ruby>光<rt>ひかり</rt></ruby>に溶け込むように優しかった。
+</p>
+
+<p>
+「ダン、<span class="note-target" onclick="toggleBalloon('n2')">これからも一緒に強くなりたい</span>。」  
+<span id="n2" class="balloon">舞の本音。技術だけでなく、心の支えとしての“強さ”。</span>
+</p>
+
+<p>
+ダンは<ruby>胸<rt>むね</rt></ruby>が<ruby>熱<rt>あつ</rt></ruby>くなるのを感じた。「もちろん。ぼくも……舞さんと一緒に。」  
+その<ruby>言葉<rt>ことば</rt></ruby>に舞は<ruby>頬<rt>ほお</rt></ruby>をわずかに<ruby>赤<rt>あか</rt></ruby>らめた。
+</p>
+
+<p>
+<ruby>夕暮<rt>ゆうぐ</rt></ruby>れの<ruby>風<rt>かぜ</rt></ruby>がゆっくり<ruby>吹<rt>ふ</rt></ruby>き、ふたりの<ruby>髪<rt>かみ</rt></ruby>を揺らした。  
+舞は少し迷ってから、そっと<ruby>指先<rt>ゆびさき</rt></ruby>を伸ばしてダンの<ruby>手<rt>て</rt></ruby>に触れた。「ねえ……ダン。」  
+その<ruby>声<rt>こえ</rt></ruby>はどこか<ruby>不安<rt>ふあん</rt></ruby>で、どこか<ruby>期待<rt>きたい</rt></ruby>を含んでいた。
+</p>
+
+<p>
+「<span class="note-target" onclick="toggleBalloon('n3')">わたし、もっとあなたを知りたい</span>。」  
+<span id="n3" class="balloon">恋愛感情を遠回しに示す典型的な日本語表現。</span>
+</p>
+
+<p>
+ダンは<ruby>胸<rt>むね</rt></ruby>に<ruby>浮<rt>う</rt></ruby>かぶ<ruby>感情<rt>かんじょう</rt></ruby>をうまく言葉にできず、ただ「うん」と<ruby>答<rt>こた</rt></ruby>えることしかできなかった。  
+それでも舞は満足そうに<ruby>微笑<rt>ほほえ</rt></ruby>んだ。
+</p>
+
+<p>
+<ruby>空<rt>そら</rt></ruby>には<ruby>一番星<rt>いちばんぼし</rt></ruby>が<ruby>瞬<rt>またた</rt></ruby>き始めていた。ふたりの<ruby>影<rt>かげ</rt></ruby>が<ruby>寄<rt>よ</rt></ruby>り添い、ゆっくりと<ruby>夕暮<rt>ゆうぐ</rt></ruby>れが<ruby>夜<rt>よる</rt></ruby>へ<ruby>変<rt>か</rt></ruby>わっていく。  
+ダンは<ruby>心<rt>こころ</rt></ruby>の中で静かに<ruby>誓<rt>ちか</rt></ruby>った。「舞さんを大切にしよう。これからもずっと。」
+</p>
+
+<footer>— 第三十七章　終</footer>
+
+</div>
+</body>
+</html>

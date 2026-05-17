@@ -1,0 +1,435 @@
+<!doctype html>
+<html lang="pt">
+  <head>
+    <meta charset="utf-8" />
+    <title>GUIA DE CONTINUIDADE — Light Novel HTML</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        max-width: 900px;
+        margin: 2rem auto;
+        padding: 1rem;
+        line-height: 1.7;
+        background: #fdfdf5;
+        color: #222;
+      }
+      h1 {
+        color: #8b4513;
+        border-bottom: 2px solid #8b4513;
+      }
+      h2 {
+        color: #5a3010;
+        border-bottom: 1px solid #ccc;
+        margin-top: 2rem;
+      }
+      h3 {
+        color: #7a4020;
+      }
+      table {
+        border-collapse: collapse;
+        width: 100%;
+        margin: 1rem 0;
+      }
+      td,
+      th {
+        border: 1px solid #ccc;
+        padding: 6px 10px;
+      }
+      th {
+        background: #f0e8d8;
+      }
+      code {
+        background: #f0e8d8;
+        padding: 2px 5px;
+        border-radius: 3px;
+      }
+      .warn {
+        background: #fff3cd;
+        border-left: 4px solid #f0ad4e;
+        padding: 8px 12px;
+      }
+      .ok {
+        background: #d4edda;
+        border-left: 4px solid #28a745;
+        padding: 8px 12px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>GUIA DE CONTINUIDADE — Light Novel HTML</h1>
+    <p><em>Projeto de leitura em japonês. Atualizado após capítulo 322.</em></p>
+
+    <h2>⚠️ FORMATO TÉCNICO OBRIGATÓRIO</h2>
+    <div class="warn">
+      <ul>
+        <li>HTML puro — SEM &lt;style&gt; blocks ou inline styles</li>
+        <li>
+          Apenas: <code>&lt;link rel="stylesheet" href="style.css"&gt;</code>
+        </li>
+        <li>
+          Ruby:
+          <code
+            >&lt;ruby&gt;漢字&lt;rt&gt;ふりがな&lt;/rt&gt;&lt;span
+            class="mean"&gt;tradução&lt;/span&gt;&lt;/ruby&gt;</code
+          >
+        </li>
+        <li>
+          <strong>FURIGANA SEMPRE EM HIRAGANA/KATAKANA — NUNCA ROMAJI</strong>
+        </li>
+        <li>Verificar toda tag &lt;ruby&gt; tem &lt;rt&gt; antes de fechar</li>
+        <li>Nome dos arquivos: 第〇〇章　タイトル.html</li>
+        <li>Nível Genki I+II até lição ~16</li>
+        <li>3 notas de rodapé por capítulo</li>
+        <li>Narrativa: 3ª pessoa, parágrafos contínuos, diálogo em 「」</li>
+        <li>Tom sugestivo/sensual permitido; explícito nunca</li>
+      </ul>
+    </div>
+
+    <h2>👥 PERSONAGENS</h2>
+
+    <h3>舞 (Mai Shiranui — SNK)</h3>
+    <ul>
+      <li>Herdeira do clã ninja 不知火流</li>
+      <li>Confiante, provocadora, sensual, lidera emocionalmente</li>
+      <li>SEMPRE carrega o leque (扇子) — mesmo de 浴衣 ou em combate</li>
+      <li>Filosofia: 「蝶のように舞い、蜂のように刺す」</li>
+      <li>❤️ ダン (casal principal)</li>
+    </ul>
+
+    <h3>ダン</h3>
+    <ul>
+      <li>Direto, reservado, abrindo-se gradualmente</li>
+      <li>Prático: pesquisa destinos, prepara café, analisa dados</li>
+      <li>NÃO é lutador de elite — suporte tático/estratégico em combate</li>
+      <li>❤️ 舞</li>
+    </ul>
+
+    <h3>ティファ (Tifa Lockhart — FFVII)</h3>
+    <ul>
+      <li>Doce, expressiva, bartender do 7th Heaven</li>
+      <li>
+        Zangan-ryu: sem hesitação, golpes que penetram para dentro, fluxo
+        contínuo
+      </li>
+      <li>Membro da AVALANCHE (anti-Shinra)</li>
+      <li>
+        Cicatriz no peito: ferida de Sephiroth — já revelada ao grupo (cap. 317)
+      </li>
+      <li>
+        クラウド: existe no background, 「遠くにいる」 — não elaborar mais por
+        ora
+      </li>
+      <li>❤️ キャミィ</li>
+    </ul>
+
+    <h3>キャミィ (Cammy White — Street Fighter)</h3>
+    <ul>
+      <li>Delta Red / MI6 britânica, inglesa, de Londres</li>
+      <li>Ex-Shadaloo (Killer Bee) — sem memória dessa época</li>
+      <li>Extremamente direta, fala pouco, não gosta de barulho</li>
+      <li>Gosta: matcha, café forte, curry com garam masala, coisas amargas</li>
+      <li>Avalia sentimentos com linguagem de missão</li>
+      <li>Abre-se gradualmente — vulnerabilidade é rara e preciosa</li>
+      <li>
+        ユーニ: "irmã" ex-Doll, em recuperação em Londres — laço mais próximo
+      </li>
+      <li>❤️ ティファ</li>
+    </ul>
+
+    <h3>Relacionamentos</h3>
+    <ul>
+      <li>Relação aberta entre os quatro — interações cruzadas naturais</li>
+      <li>舞❤️ダン = casal principal; ティファ❤️キャミィ = casal secundário</li>
+    </ul>
+
+    <h2>🏛️ ORGANIZAÇÕES</h2>
+    <table>
+      <tr>
+        <th>Nome</th>
+        <th>Descrição</th>
+      </tr>
+      <tr>
+        <td>不知火流</td>
+        <td>Clã ninja da 舞 — une dança e ninjutsu</td>
+      </tr>
+      <tr>
+        <td>Delta Red</td>
+        <td>Força especial britânica (MI6), Londres — キャミィ é membro</td>
+      </tr>
+      <tr>
+        <td>AVALANCHE</td>
+        <td>Resistência anti-Shinra; base no 7th Heaven de ティファ</td>
+      </tr>
+      <tr>
+        <td>Shadaloo</td>
+        <td>
+          Organização criminosa derrotada; キャミィ foi membro involuntária
+        </td>
+      </tr>
+      <tr>
+        <td>神羅 (Shinra)</td>
+        <td>Megacorporação de FFVII; controla 魔晄炉 e exército</td>
+      </tr>
+    </table>
+
+    <h2>📚 RESUMO DOS ARCOS CONCLUÍDOS</h2>
+
+    <h3>お祭り編 (236–244)</h3>
+    <p>
+      Festival de verão. 浴衣, fogos. Primeiros momentos dos quatro juntos. 舞
+      sempre com leque mesmo de 浴衣.
+    </p>
+
+    <h3>海辺編 (245–252)</h3>
+    <p>Praia. Trem, pôr do sol, primeiros momentos íntimos.</p>
+
+    <h3>旅行編 (253–261)</h3>
+    <p>Cidade histórica. Cadeado numa ponte, onsen, キャバクラ.</p>
+
+    <h3>雨の日編 (262–267)</h3>
+    <p>
+      Dia de chuva em casa. Filme, conversa longa, primeira noite íntima dos
+      quatro.
+    </p>
+
+    <h3>日常編 (268–273)</h3>
+    <p>
+      Cotidiano. Parque, スーパー, キャミィ faz カレー com garam masala da
+      Índia.
+    </p>
+
+    <h3>文化祭編 (274–279)</h3>
+    <p>
+      Festival universitário. キャミィ em modo missão total, faz 攻略 com lista
+      de eficiência.<br />
+      射的: キャミィ erra tudo (pistola de cortiça ≠ arma real).<br />
+      仮装コンテスト: キャミィ vence dizendo 「勝ちに来た」, não entende por que
+      riram.<br />
+      Agradece 舞 pelo figurino quietamente. Coloca troféu no quarto — única
+      exceção à regra "nada desnecessário".
+    </p>
+
+    <h3>温泉旅行編 (280–285)</h3>
+    <p>
+      Ryokan com onsen. Cap 282: onsen 昼 (舞+ティファ+キャミィ, sensual).<br />
+      Cap 284: 混浴 noturno — quatro juntos, dois casais simultâneos.<br />
+      Cap 285: manhã → trilha → EMBOSCADA Shadaloo → início アクション編.
+    </p>
+
+    <h3>アクション編 (286–294)</h3>
+    <p>
+      Emboscada na trilha. 舞 combate de 浴衣 com leque na manga.<br />
+      キャミィ revela passado Shadaloo. ダン analisa dados na base
+      infiltrada.<br />
+      Objetivo Shadaloo: recapturar キャミィ. Segunda equipe derrotada.<br />
+      キャミィ: 「私は戻らない。一人ではないから」
+    </p>
+
+    <h3>京都編 (295–302)</h3>
+    <p>
+      Cap 297: 舞 dança no santuário — ダン havia pesquisado especialmente para
+      ela.<br />
+      Cap 300 (ESPECIAL): festival, 山鉾, 着物. キャミィ sobre o que mudou em
+      300 dias:<br />
+      「料理がある。スパイスがある。温泉がある。…あとはみんながいる」
+    </p>
+
+    <h3>遊園地編 (303–308)</h3>
+    <p>
+      キャミィ faz 攻略 com 2 páginas de lista. ダン responde tudo com
+      「遊園地だから」.<br />
+      お化け屋敷: ティファ grita 「反射！」; キャミィ na 2ª vez fala 「反射」
+      antes dela.<br />
+      観覧車: para no topo com ティファ+キャミィ. Fogos de artifício.<br />
+      キャミィ: 「花火よりも良かった」. 「想定外が二つあった」.<br />
+      Final: キャミィ diz avaliação é alta 「想定外があったから」. Três chamam
+      de fofa.<br />
+      キャミィ: 「多数決で決める話ではない」
+    </p>
+
+    <h3>嵐の夜編 (309–314)</h3>
+    <p>
+      キャミィ faz lista de emergência em 2 folhas. Velas perfumadas (cedeu ao
+      argumento de 雰囲気).<br />
+      Cap 312: 舞+ダン. 「酔っていなくても知ってる」. 「ずっと秘密にしておく」
+      (frase padrão de 舞).<br />
+      Cap 313: ティファ+キャミィ. 「受け取り方が分からないかもしれない」.<br />
+      キャミィ puxa ティファ por conta própria (1ª vez). 「続けて」.
+      「本当のことしか言わない」.<br />
+      Cap 314: 「昨夜の感情を説明する言葉がない」. GANCHO: ティファ quer contar
+      o passado.
+    </p>
+
+    <h3>ティファの過去編 (315–321)</h3>
+    <p>
+      <strong>Nibelheim:</strong> cidade natal pequena, 魔晄炉 da Shinra.<br />
+      <strong>Zangan:</strong> mestre de artes marciais — ensinou ティファ na
+      infância, salvou-a das chamas.<br />
+      <strong>Sephiroth:</strong> "英雄" da Shinra, foi guiado por ティファ (15
+      anos) até o reator.<br />
+      Enlouqueceu, queimou Nibelheim, matou o pai de ティファ, feriu ela no
+      peito.<br />
+      クラウド enfrentou Sephiroth e caíram juntos no reator.<br />
+      <strong>Cicatriz:</strong> キャミィ e 舞 viram mas nunca perguntaram —
+      esperaram ela contar.<br />
+      <strong>Midgar/AVALANCHE:</strong> Barret, Jessie (mencionada no passado),
+      Biggs, Wedge.<br />
+      クラウド reencontrado com memória fragmentada. 「遠くにいる」 — não
+      elaborar.<br />
+      <strong>7th Heaven:</strong> bar no スラム = onde ティファ criou raízes
+      depois de Nibelheim.<br />
+      キャミィ: 「ティファが聞くから、私は話せた」<br />
+      GANCHO cap 320: ダン já pesquisando → 「海外はどうだ」 → 「また今度」 →
+      三人に怒られる.
+    </p>
+
+    <h2>🇬🇧 ARCO ATUAL: 海外旅行編 (322–329) — Londres</h2>
+
+    <div class="ok">
+      <strong
+        >Próximo capítulo a gerar:
+        第三百二十三章　ロンドン到着・キャミィのアパート・ユーニとの再会</strong
+      >
+    </div>
+
+    <h3>Ordem correta dos eventos:</h3>
+    <ol>
+      <li>Chegada em Londres — aeroporto</li>
+      <li>Apartamento de キャミィ (onde morava com ユーニ)</li>
+      <li>
+        <strong>Reencontro com ユーニ PRIMEIRO</strong> (antes do relatório)
+      </li>
+      <li>
+        キャミィ vai SOZINHA ao Delta Red — os outros não entram na organização
+      </li>
+      <li>Durante o relatório: ユーニ fica com ダン, 舞, ティファ</li>
+      <li>キャミィ volta → os cinco juntos</li>
+      <li>Passeios turísticos (キャミィ como guia local)</li>
+    </ol>
+
+    <h3>Sobre ユーニ (Juni)</h3>
+    <ul>
+      <li>Ex-Doll da Shadaloo (assassinas programadas)</li>
+      <li>Loira, olhos azuis, personalidade mais suave que キャミィ</li>
+      <li>Em recuperação em Londres, sob proteção do Delta Red</li>
+      <li>Aprendendo a cozinhar</li>
+      <li>Laço mais forte com キャミィ entre todas as ex-Dolls — "irmã"</li>
+      <li>Não tem raiva de キャミィ — ambas eram vítimas da Shadaloo</li>
+    </ul>
+
+    <h3>Cronograma 海外旅行編</h3>
+    <table>
+      <tr>
+        <th>章</th>
+        <th>テーマ</th>
+      </tr>
+      <tr>
+        <td>322</td>
+        <td>イギリスへ・計画と出発 ✅</td>
+      </tr>
+      <tr>
+        <td>323</td>
+        <td>ロンドン到着・キャミィのアパート・ユーニとの再会</td>
+      </tr>
+      <tr>
+        <td>324</td>
+        <td>デルタレッドへの報告（キャミィ一人）・ユーニと三人</td>
+      </tr>
+      <tr>
+        <td>325</td>
+        <td>ロンドン観光・街歩き</td>
+      </tr>
+      <tr>
+        <td>326</td>
+        <td>お城と舞の空想（結婚式を想像する）</td>
+      </tr>
+      <tr>
+        <td>327</td>
+        <td>パブの夜</td>
+      </tr>
+      <tr>
+        <td>328</td>
+        <td>最終日・テムズ川</td>
+      </tr>
+      <tr>
+        <td>329</td>
+        <td>アークの終わり</td>
+      </tr>
+    </table>
+
+    <h2>📅 PLANEJAMENTO DE ARCOS FUTUROS</h2>
+    <table>
+      <tr>
+        <th>アーク</th>
+        <th>章</th>
+        <th>Tom</th>
+      </tr>
+      <tr>
+        <td>海外旅行編</td>
+        <td>322–329</td>
+        <td>🇬🇧 Londres — EM ANDAMENTO</td>
+      </tr>
+      <tr>
+        <td>舞の修行編</td>
+        <td>330–336</td>
+        <td>⚔️ 舞 retorna ao clã 不知火, ação/ninja</td>
+      </tr>
+      <tr>
+        <td>なんでもない夏編</td>
+        <td>337–342</td>
+        <td>Arco cotidiano de verão preparando terreno emocional</td>
+      </tr>
+      <tr>
+        <td>海辺のリゾート編</td>
+        <td>343-349</td>
+        <td>☀️ Verão, praia, festivais, cotidiano</td>
+      </tr>
+      <tr>
+        <td>ミステリー編</td>
+        <td>350-356</td>
+        <td>🔍 Suspense/humor, mistério local</td>
+      </tr>
+    </table>
+
+    <h2>📌 NOTAS DE CONTINUIDADE</h2>
+    <ol>
+      <li><strong>舞 sempre com leque</strong> — mesmo em combate ou 浴衣</li>
+      <li>
+        <strong>ダン em combate</strong> = suporte/estratégia, não lutador de
+        elite
+      </li>
+      <li>
+        <strong>「反射」</strong> = piada recorrente de ティファ negando medo;
+        キャミィ aprendeu a usar antes
+      </li>
+      <li>
+        <strong>「遊園地だから」</strong> = ダン respondendo キャミィ —
+        reutilizável
+      </li>
+      <li>
+        <strong>「ずっと秘密にしておく」</strong> = frase padrão de 舞 (観覧車 e
+        嵐の夜)
+      </li>
+      <li>
+        <strong>「本当のことしか言わない」</strong> = frase padrão de キャミィ
+        (観覧車 e 嵐の夜)
+      </li>
+      <li>
+        <strong>キャミィ e comida</strong> = curry com garam masala, matcha,
+        amargo
+      </li>
+      <li>
+        <strong>Cicatriz de ティファ</strong> = revelada no cap 317 — já
+        processado pelo grupo
+      </li>
+      <li>
+        <strong>クラウド</strong> = existe no background, não elaborar mais por
+        ora
+      </li>
+      <li>
+        <strong>Erros frequentes</strong> = furigana em romaji (PROIBIDO), ruby
+        sem fechar
+      </li>
+    </ol>
+  </body>
+</html>

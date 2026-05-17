@@ -1,0 +1,99 @@
+body {
+  background-color: #f7f3e9;
+  color: #2b2b2b;
+  font-family: "Noto Sans JP", "Yu Gothic", "Meiryo", sans-serif;
+  font-size: 22px;
+  line-height: 1.85;
+  margin: 0;
+  padding: 32px;
+  display: flex;
+  justify-content: center;
+}
+.page {
+  max-width: 800px;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 24px;
+}
+p {
+  margin: 14px 0;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* hover readings + meanings */
+ruby {
+  position: relative;
+  display: inline-block;
+  padding: 0 2px;
+}
+ruby rt {
+  position: absolute;
+  top: -1.35em;
+  left: 50%;
+  transform: translateX(-50%);
+  visibility: hidden;
+  font-size: 0.55em;
+  color: #4a3f35;
+  white-space: nowrap;
+  pointer-events: none;
+}
+ruby .mean {
+  position: absolute;
+  bottom: -1.35em;
+  left: 50%;
+  transform: translateX(-50%);
+  visibility: hidden;
+  font-size: 0.55em;
+  color: #4a3f35;
+  white-space: nowrap;
+  pointer-events: none;
+}
+ruby:hover rt,
+ruby:hover .mean {
+  visibility: visible;
+}
+
+footer {
+  margin-top: 26px;
+  font-size: 0.85em;
+  color: #4b4b4b;
+  text-align: right;
+}
+
+/* tooltip base (recomendado position: fixed) */
+#tooltip {
+  position: fixed;
+  z-index: 999999;
+  display: none;
+  pointer-events: none;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+  max-width: 360px;
+  font-size: 16px;
+  line-height: 1.4;
+}
+
+/* visual por classe */
+.tooltip-default {
+  background: #fffdf7;
+  border: 1px solid #b8a584;
+  color: #222;
+}
+.tooltip-noun {
+  background: #e9f3ff;
+  border: 1px solid #6ba4ff;
+  color: #0b2a4a;
+}
+.tooltip-verb {
+  background: #fff0f0;
+  border: 1px solid #ff6b6b;
+  color: #4a0b0b;
+}
+.tooltip-adj {
+  background: #f7fff0;
+  border: 1px solid #9bdc8a;
+  color: #18380f;
+}
