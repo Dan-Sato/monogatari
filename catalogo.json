@@ -1,0 +1,28 @@
+{
+  "chapters_source": "chapters/*.html",
+  "css_path": "chapters/style.css",
+  "guide_path": "guia-continuidade.html",
+  "notes": [
+    "Este arquivo é um modelo inicial para o catálogo gerado automaticamente.",
+    "Capítulos faltantes não devem causar erro; eles podem ser marcados com status missing_or_skipped.",
+    "A associação de arco deve ser feita por faixa numérica conforme arcos.json."
+  ],
+  "chapters": [
+    {
+      "chapter": 322,
+      "chapter_kanji": "第三百二十二章",
+      "title": "イギリスへ・計画と出発",
+      "file": "chapters/第三百二十二章　イギリスへ・計画と出発.html",
+      "arc": "海外旅行編",
+      "status": "existing"
+    },
+    {
+      "chapter": 321,
+      "chapter_kanji": "第三百二十一章",
+      "title": null,
+      "file": null,
+      "arc": "ティファの過去編",
+      "status": "missing_or_skipped"
+    }
+  ]
+}
