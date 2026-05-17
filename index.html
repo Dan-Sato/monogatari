@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>monogatari index</title>
+  <style>
+    :root {
+      --bg: #f7f7f5;
+      --card: #ffffff;
+      --text: #222;
+      --muted: #666;
+      --line: #ddd;
+      --accent: #2d6a4f;
+      --missing: #b26a00;
+      --planned: #888;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, 'Segoe UI', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+    }
+    main {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+    h1 { margin: 0 0 8px; font-size: 28px; }
+    p.top { margin: 0 0 24px; color: var(--muted); }
+    section { margin: 28px 0; }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 16px;
+    }
+    details.arc {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 10px 14px;
+      margin: 14px 0;
+    }
+    details.arc > summary {
+      cursor: pointer;
+      font-weight: 700;
+      list-style: none;
+    }
+    details.arc > summary::-webkit-details-marker { display: none; }
+    .count { color: var(--muted); font-weight: 400; margin-left: 8px; }
+    ul { margin: 12px 0 0; padding-left: 18px; }
+    li { margin: 6px 0; }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .missing { color: var(--missing); }
+    .planned { color: var(--planned); }
+    .meta { color: var(--muted); font-size: 14px; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Monogatari archive</h1>
+    <p class="top">Capítulos até 235 em lista simples. A partir do 236, capítulos agrupados por arco.</p>
+
+    <section class="card">
+      <h2>Capítulos 1–235</h2>
+      <p class="meta">Lista simples, sem agrupamento por arco.</p>
+      <ul id="pre236"></ul>
+    </section>
+
+    <section>
+      <h2>Capítulos 236+</h2>
+      <div id="arcs"></div>
+    </section>
+  </main>
+
+  <script>
+    async function loadJson(path) {
+      const res = await fetch(path);
+      if (!res.ok) throw new Error(`Failed to load ${path}`);
+      return res.json();
+    }
+
+    function el(tag, attrs = {}, text = '') {
+      const node = document.createElement(tag);
+      for (const [k, v] of Object.entries(attrs)) {
+        if (k === 'class') node.className = v;
+        else node.setAttribute(k, v);
+      }
+      if (text) node.textContent = text;
+      return node;
+    }
+
+    function chapterLabel(ch) {
+      const base = `${ch.chapter} · ${ch.chapter_kanji}`;
+      if (ch.title) return `${base} — ${ch.title}`;
+      return base;
+    }
+
+    function chapterItem(ch) {
+      const li = el('li');
+      if (ch.status === 'existing' && ch.file) {
+        const a = el('a', { href: ch.file, target: '_blank', rel: 'noopener noreferrer' }, chapterLabel(ch));
+        li.appendChild(a);
+      } else {
+        const span = el('span', { class: ch.status === 'planned' ? 'planned' : 'missing' }, chapterLabel(ch));
+        li.appendChild(span);
+      }
+      return li;
+    }
+
+    async function main() {
+      const catalog = await loadJson('./catalogo.json');
+      const chapters = catalog.chapters || [];
+
+      const pre236 = chapters.filter(ch => ch.chapter < 236 && ch.status === 'existing');
+      const post236 = chapters.filter(ch => ch.chapter >= 236);
+
+      const pre236List = document.getElementById('pre236');
+      if (pre236.length === 0) {
+        pre236List.appendChild(el('li', { class: 'meta' }, 'Nenhum capítulo 1–235 foi incluído no catalogo.json ainda.'));
+      } else {
+        pre236.forEach(ch => pre236List.appendChild(chapterItem(ch)));
+      }
+
+      const grouped = new Map();
+      for (const ch of post236) {
+        const key = ch.arc || 'Sem arco';
+        if (!grouped.has(key)) grouped.set(key, []);
+        grouped.get(key).push(ch);
+      }
+
+      const arcsRoot = document.getElementById('arcs');
+      for (const [arcName, items] of grouped.entries()) {
+        const details = el('details', { class: 'arc' });
+        details.open = true;
+        const existing = items.filter(i => i.status === 'existing').length;
+        const missing = items.filter(i => i.status === 'missing_or_skipped').length;
+        const planned = items.filter(i => i.status === 'planned').length;
+
+        const summary = el('summary');
+        summary.textContent = arcName;
+        const count = el('span', { class: 'count' }, `${existing} existentes` + (missing ? `, ${missing} faltando` : '') + (planned ? `, ${planned} planejados` : ''));
+        summary.appendChild(count);
+        details.appendChild(summary);
+
+        const ul = el('ul');
+        items.forEach(ch => ul.appendChild(chapterItem(ch)));
+        details.appendChild(ul);
+        arcsRoot.appendChild(details);
+      }
+    }
+
+    main().catch(err => {
+      document.body.innerHTML = '<main><p>Erro ao carregar catalogo.json.</p><pre>' + err.message + '</pre></main>';
+    });
+  </script>
+</body>
+</html>

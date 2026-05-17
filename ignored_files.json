@@ -1,0 +1,30 @@
+[
+  {
+    "file": "chapters/capitulo9.html",
+    "reason": "filename_does_not_match_expected_pattern"
+  },
+  {
+    "file": "chapters/Novo(a) Documento de Texto.html",
+    "reason": "filename_does_not_match_expected_pattern"
+  },
+  {
+    "file": "chapters/Novo(a) Documento de Texto.txt.html",
+    "reason": "filename_does_not_match_expected_pattern"
+  },
+  {
+    "file": "chapters/teste.html",
+    "reason": "filename_does_not_match_expected_pattern"
+  },
+  {
+    "file": "chapters/teste2.html",
+    "reason": "filename_does_not_match_expected_pattern"
+  },
+  {
+    "file": "chapters/第二十三章・番外　日差しの下で.html",
+    "reason": "filename_does_not_match_expected_pattern"
+  },
+  {
+    "file": "chapters/第二十五章・お風呂の夜.html",
+    "reason": "filename_does_not_match_expected_pattern"
+  }
+]
