@@ -106,52 +106,29 @@ def parse_existing_files():
     return existing, ignored
 
 
-def build_arc_lookup(arcs):
-    lookup = {}
-    for arc in arcs:
-        for chapter_num in range(arc['start'], arc['end'] + 1):
-            lookup[chapter_num] = arc
-    return lookup
-
-
 def build_catalog():
     arcs = load_arcs()
-    arc_lookup = build_arc_lookup(arcs)
     existing, ignored = parse_existing_files()
     chapters = []
 
-    all_numbers = sorted(existing.keys())
-    if arc_lookup:
-        max_known = max(max(all_numbers, default=0), max(arc_lookup.keys()))
-    else:
-        max_known = max(all_numbers, default=0)
-
-    for chapter_num in range(1, max_known + 1):
-        arc = arc_lookup.get(chapter_num)
-        arc_name = arc['arc'] if arc else None
-        planned = arc.get('status') == 'planned' if arc else False
-
-        base = {
-            'chapter': chapter_num,
-            'chapter_kanji': f'第{chapter_to_kanji(chapter_num)}章',
-            'arc': arc_name,
-            'group': arc_name if arc_name else 'Capítulos 1–235'
-        }
-
-        if chapter_num in existing:
-            row = {**base, **existing[chapter_num], 'arc': arc_name, 'group': base['group']}
-        else:
-            if arc:
-                status = 'planned' if planned else 'missing_or_skipped'
-            else:
-                status = 'missing_or_skipped'
-            row = {
-                **base,
-                'title': None,
-                'file': None,
-                'status': status
+    for arc in arcs:
+        planned = arc.get('status') == 'planned'
+        for chapter_num in range(arc['start'], arc['end'] + 1):
+            base = {
+                'chapter': chapter_num,
+                'chapter_kanji': f'第{chapter_to_kanji(chapter_num)}章',
+                'arc': arc['arc']
             }
-        chapters.append(row)
+            if chapter_num in existing:
+                row = {**base, **existing[chapter_num], 'arc': arc['arc']}
+            else:
+                row = {
+                    **base,
+                    'title': None,
+                    'file': None,
+                    'status': 'planned' if planned else 'missing_or_skipped'
+                }
+            chapters.append(row)
 
     catalog = {
         'chapters_source': 'chapters/*.html',

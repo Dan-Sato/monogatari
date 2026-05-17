@@ -1,162 +1,566 @@
 <!doctype html>
 <html lang="ja">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>monogatari index</title>
-  <style>
-    :root {
-      --bg: #f7f7f5;
-      --card: #ffffff;
-      --text: #222;
-      --muted: #666;
-      --line: #ddd;
-      --accent: #2d6a4f;
-      --missing: #b26a00;
-      --planned: #888;
-    }
-    * { box-sizing: border-box; }
-    body {
-      margin: 0;
-      font-family: system-ui, -apple-system, 'Segoe UI', sans-serif;
-      background: var(--bg);
-      color: var(--text);
-      line-height: 1.5;
-    }
-    main {
-      max-width: 980px;
-      margin: 0 auto;
-      padding: 24px;
-    }
-    h1 { margin: 0 0 8px; font-size: 28px; }
-    p.top { margin: 0 0 24px; color: var(--muted); }
-    section { margin: 28px 0; }
-    .card {
-      background: var(--card);
-      border: 1px solid var(--line);
-      border-radius: 12px;
-      padding: 16px;
-    }
-    details.arc {
-      background: var(--card);
-      border: 1px solid var(--line);
-      border-radius: 12px;
-      padding: 10px 14px;
-      margin: 14px 0;
-    }
-    details.arc > summary {
-      cursor: pointer;
-      font-weight: 700;
-      list-style: none;
-    }
-    details.arc > summary::-webkit-details-marker { display: none; }
-    .count { color: var(--muted); font-weight: 400; margin-left: 8px; }
-    ul { margin: 12px 0 0; padding-left: 18px; }
-    li { margin: 6px 0; }
-    a { color: var(--accent); text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    .missing { color: var(--missing); }
-    .planned { color: var(--planned); }
-    .meta { color: var(--muted); font-size: 14px; }
-  </style>
-</head>
-<body>
-  <main>
-    <h1>Monogatari archive</h1>
-    <p class="top">Capítulos até 235 em lista simples. A partir do 236, capítulos agrupados por arco.</p>
-
-    <section class="card">
-      <h2>Capítulos 1–235</h2>
-      <p class="meta">Lista simples, sem agrupamento por arco.</p>
-      <ul id="pre236"></ul>
-    </section>
-
-    <section>
-      <h2>Capítulos 236+</h2>
-      <div id="arcs"></div>
-    </section>
-  </main>
-
-  <script>
-    async function loadJson(path) {
-      const res = await fetch(path);
-      if (!res.ok) throw new Error(`Failed to load ${path}`);
-      return res.json();
-    }
-
-    function el(tag, attrs = {}, text = '') {
-      const node = document.createElement(tag);
-      for (const [k, v] of Object.entries(attrs)) {
-        if (k === 'class') node.className = v;
-        else node.setAttribute(k, v);
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>monogatari index</title>
+    <style>
+      :root {
+        --bg: #f7f3e9;
+        --surface: #e8ddcb;
+        --surface-2: #ddd0b9;
+        --text: #26231d;
+        --muted: #746f68;
+        --border: #b8ae9a;
+        --accent: #0f6a6f;
+        --accent-soft: #d7e8e6;
+        --missing: #a96913;
+        --planned: #8b8580;
+        --shadow: 0 8px 24px rgba(32, 24, 14, 0.08);
       }
-      if (text) node.textContent = text;
-      return node;
-    }
-
-    function chapterLabel(ch) {
-      const base = `${ch.chapter} · ${ch.chapter_kanji}`;
-      if (ch.title) return `${base} — ${ch.title}`;
-      return base;
-    }
-
-    function chapterItem(ch) {
-      const li = el('li');
-      if (ch.status === 'existing' && ch.file) {
-        const a = el('a', { href: ch.file, target: '_blank', rel: 'noopener noreferrer' }, chapterLabel(ch));
-        li.appendChild(a);
-      } else {
-        const span = el('span', { class: ch.status === 'planned' ? 'planned' : 'missing' }, chapterLabel(ch));
-        li.appendChild(span);
+      * {
+        box-sizing: border-box;
       }
-      return li;
-    }
+      html,
+      body {
+        height: 100%;
+      }
+      body {
+        margin: 0;
+        font-family:
+          system-ui,
+          -apple-system,
+          BlinkMacSystemFont,
+          "Segoe UI",
+          sans-serif;
+        background: var(--bg);
+        color: var(--text);
+        line-height: 1.5;
+      }
+      a {
+        color: inherit;
+      }
+      button,
+      input {
+        font: inherit;
+      }
+      .app {
+        display: grid;
+        grid-template-columns: 340px minmax(0, 1fr);
+        min-height: 100vh;
+      }
+      .sidebar {
+        border-right: 1px solid var(--border);
+        background: var(--surface);
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+        position: sticky;
+        top: 0;
+        max-height: 100vh;
+        z-index: 20;
+      }
+      .sidebar-header {
+        padding: 18px 18px 14px;
+        border-bottom: 1px solid var(--border);
+        background: rgba(232, 221, 203, 0.92);
+        backdrop-filter: blur(10px);
+      }
+      .sidebar-header h1 {
+        font-size: 22px;
+        margin: 0 0 6px;
+      }
+      .sidebar-header p {
+        margin: 0;
+        color: var(--muted);
+        font-size: 14px;
+      }
+      .search-wrap {
+        padding: 12px 18px;
+        border-bottom: 1px solid var(--border);
+        background: var(--surface);
+      }
+      .search {
+        width: 100%;
+        border: 1px solid var(--border);
+        border-radius: 10px;
+        padding: 10px 12px;
+        background: #e2d5bf;
+        color: var(--text);
+      }
+      .nav {
+        overflow: auto;
+        padding: 12px;
+      }
+      .group {
+        margin-bottom: 12px;
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        background: #e2d5bf;
+        overflow: hidden;
+      }
+      .group summary {
+        cursor: pointer;
+        list-style: none;
+        padding: 12px 14px;
+        font-weight: 700;
+        background: #d9c9ad;
+      }
+      .group summary::-webkit-details-marker {
+        display: none;
+      }
+      .group summary span {
+        display: block;
+        color: var(--muted);
+        font-size: 12px;
+        font-weight: 500;
+        margin-top: 2px;
+      }
+      .chapter-list {
+        display: flex;
+        flex-direction: column;
+        padding: 6px;
+        gap: 4px;
+      }
+      .chapter-link {
+        display: block;
+        text-decoration: none;
+        border-radius: 10px;
+        padding: 9px 10px;
+        font-size: 14px;
+        color: var(--text);
+        border: 1px solid transparent;
+      }
+      .chapter-link:hover {
+        background: #d3c2a3;
+        border-color: var(--border);
+      }
+      .chapter-link.active {
+        background: var(--accent-soft);
+        border-color: #a8cbc8;
+        color: #11484b;
+      }
+      .chapter-link small {
+        display: block;
+        color: var(--muted);
+        font-size: 12px;
+        margin-top: 2px;
+      }
+      .chapter-link.missing {
+        color: var(--missing);
+      }
+      .chapter-link.planned {
+        color: var(--planned);
+      }
+      .content {
+        min-width: 0;
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+        position: relative;
+      }
+      .content-header {
+        padding: 14px 18px;
+        border-bottom: 1px solid var(--border);
+        background: rgba(247, 243, 233, 0.94);
+        backdrop-filter: blur(10px);
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        display: flex;
+        justify-content: space-between;
+        gap: 16px;
+        align-items: center;
+      }
+      .content-header h2 {
+        margin: 0 0 4px;
+        font-size: 19px;
+      }
+      .content-header p {
+        margin: 0;
+        color: var(--muted);
+        font-size: 14px;
+      }
+      .toolbar {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+      }
+      .status-badge,
+      .tool-btn,
+      .zoom-indicator {
+        border-radius: 999px;
+        padding: 6px 10px;
+        font-size: 12px;
+        border: 1px solid var(--border);
+        background: #fff;
+        white-space: nowrap;
+      }
+      .tool-btn {
+        cursor: pointer;
+      }
+      .tool-btn:hover {
+        border-color: #bdb5aa;
+        background: #faf8f4;
+      }
+      .viewer {
+        flex: 1;
+        min-width: 0;
+        position: relative;
+        overflow: auto;
+        background: #fff;
+      }
+      .frame-shell {
+        transform-origin: top left;
+        width: 100%;
+        min-height: calc(100vh - 70px);
+      }
+      iframe {
+        width: 100%;
+        height: calc(100vh - 70px);
+        border: none;
+        display: block;
+        background: #fff;
+      }
+      .placeholder {
+        height: calc(100vh - 70px);
+        display: grid;
+        place-items: center;
+        text-align: center;
+        color: var(--muted);
+        padding: 24px;
+        background: var(--bg);
+      }
+      .placeholder strong {
+        display: block;
+        color: var(--text);
+        margin-bottom: 8px;
+        font-size: 18px;
+      }
+      .mobile-toggle {
+        display: none;
+        border: 1px solid var(--border);
+        background: #fff;
+        border-radius: 10px;
+        padding: 8px 10px;
+        margin-bottom: 8px;
+        cursor: pointer;
+      }
+      .overlay {
+        display: none;
+      }
+      @media (max-width: 960px) {
+        .app {
+          grid-template-columns: 1fr;
+        }
+        .sidebar {
+          position: fixed;
+          inset: 0 auto 0 0;
+          width: min(88vw, 340px);
+          transform: translateX(-100%);
+          transition: transform 0.22s ease;
+          box-shadow: var(--shadow);
+        }
+        .sidebar.open {
+          transform: translateX(0);
+        }
+        .mobile-toggle {
+          display: inline-flex;
+          align-items: center;
+          gap: 8px;
+        }
+        .overlay.show {
+          display: block;
+          position: fixed;
+          inset: 0;
+          background: rgba(0, 0, 0, 0.2);
+          z-index: 15;
+        }
+        iframe,
+        .placeholder,
+        .frame-shell {
+          height: calc(100vh - 108px);
+          min-height: calc(100vh - 108px);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="overlay" id="overlay"></div>
+    <div class="app">
+      <aside class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+          <h1>Monogatari archive</h1>
+          <p>
+            Capítulos até 235 sem arco. A partir do 236, capítulos agrupados por
+            arco.
+          </p>
+        </div>
+        <div class="search-wrap">
+          <input
+            id="search"
+            class="search"
+            type="search"
+            placeholder="Buscar capítulo, número, título ou arco"
+          />
+        </div>
+        <nav class="nav" id="nav"></nav>
+      </aside>
 
-    async function main() {
-      const catalog = await loadJson('./catalogo.json');
-      const chapters = catalog.chapters || [];
+      <main class="content">
+        <header class="content-header">
+          <div>
+            <button class="mobile-toggle" id="mobileToggle" type="button">
+              ☰ Capítulos
+            </button>
+            <h2 id="viewerTitle">Selecione um capítulo</h2>
+            <p id="viewerMeta">A navegação fica na lateral esquerda.</p>
+          </div>
+          <div class="toolbar">
+            <button class="tool-btn" id="zoomOut" type="button">A-</button>
+            <span class="zoom-indicator" id="zoomLevel">100%</span>
+            <button class="tool-btn" id="zoomIn" type="button">A+</button>
+            <button class="tool-btn" id="zoomReset" type="button">Reset</button>
+            <div class="status-badge" id="viewerStatus">Aguardando seleção</div>
+          </div>
+        </header>
 
-      const pre236 = chapters.filter(ch => ch.chapter < 236 && ch.status === 'existing');
-      const post236 = chapters.filter(ch => ch.chapter >= 236);
+        <section class="viewer" id="viewer">
+          <div class="placeholder" id="placeholder">
+            <div>
+              <strong>Nenhum capítulo aberto</strong>
+              Clique em um capítulo na lateral para abrir o HTML aqui na
+              direita.
+            </div>
+          </div>
+          <div class="frame-shell" id="frameShell" style="display: none">
+            <iframe id="chapterFrame" title="chapter viewer"></iframe>
+          </div>
+        </section>
+      </main>
+    </div>
 
-      const pre236List = document.getElementById('pre236');
-      if (pre236.length === 0) {
-        pre236List.appendChild(el('li', { class: 'meta' }, 'Nenhum capítulo 1–235 foi incluído no catalogo.json ainda.'));
-      } else {
-        pre236.forEach(ch => pre236List.appendChild(chapterItem(ch)));
+    <script>
+      async function loadJson(path) {
+        const res = await fetch(path);
+        if (!res.ok) throw new Error(`Failed to load ${path}`);
+        return res.json();
       }
 
-      const grouped = new Map();
-      for (const ch of post236) {
-        const key = ch.arc || 'Sem arco';
-        if (!grouped.has(key)) grouped.set(key, []);
-        grouped.get(key).push(ch);
+      function el(tag, attrs = {}, text = "") {
+        const node = document.createElement(tag);
+        for (const [k, v] of Object.entries(attrs)) {
+          if (k === "class") node.className = v;
+          else node.setAttribute(k, v);
+        }
+        if (text) node.textContent = text;
+        return node;
       }
 
-      const arcsRoot = document.getElementById('arcs');
-      for (const [arcName, items] of grouped.entries()) {
-        const details = el('details', { class: 'arc' });
-        details.open = true;
-        const existing = items.filter(i => i.status === 'existing').length;
-        const missing = items.filter(i => i.status === 'missing_or_skipped').length;
-        const planned = items.filter(i => i.status === 'planned').length;
-
-        const summary = el('summary');
-        summary.textContent = arcName;
-        const count = el('span', { class: 'count' }, `${existing} existentes` + (missing ? `, ${missing} faltando` : '') + (planned ? `, ${planned} planejados` : ''));
-        summary.appendChild(count);
-        details.appendChild(summary);
-
-        const ul = el('ul');
-        items.forEach(ch => ul.appendChild(chapterItem(ch)));
-        details.appendChild(ul);
-        arcsRoot.appendChild(details);
+      function chapterLabel(ch) {
+        return `${ch.chapter} · ${ch.chapter_kanji}${ch.title ? ` — ${ch.title}` : ""}`;
       }
-    }
 
-    main().catch(err => {
-      document.body.innerHTML = '<main><p>Erro ao carregar catalogo.json.</p><pre>' + err.message + '</pre></main>';
-    });
-  </script>
-</body>
+      const state = { chapters: [], activeChapter: null, query: "", zoom: 1 };
+      const MIN_ZOOM = 0.8;
+      const MAX_ZOOM = 1.4;
+      const STEP = 0.1;
+
+      function statusText(ch) {
+        if (ch.status === "existing") return "Existente";
+        if (ch.status === "planned") return "Planejado";
+        return "Faltando ou pulado";
+      }
+
+      function groupLabel(ch) {
+        return ch.group || ch.arc || "Sem grupo";
+      }
+
+      function applyZoom() {
+        const shell = document.getElementById("frameShell");
+        const frame = document.getElementById("chapterFrame");
+        const zoomLevel = document.getElementById("zoomLevel");
+        const z = state.zoom;
+        zoomLevel.textContent = `${Math.round(z * 100)}%`;
+        shell.style.transform = `scale(${z})`;
+        shell.style.width = `${100 / z}%`;
+        frame.style.height = `${(window.innerHeight - (window.innerWidth <= 960 ? 108 : 70)) / z}px`;
+      }
+
+      function closeSidebar() {
+        document.getElementById("sidebar").classList.remove("open");
+        document.getElementById("overlay").classList.remove("show");
+      }
+
+      function openSidebar() {
+        document.getElementById("sidebar").classList.add("open");
+        document.getElementById("overlay").classList.add("show");
+      }
+
+      function setActive(ch) {
+        state.activeChapter = ch.chapter;
+        document.getElementById("viewerTitle").textContent = chapterLabel(ch);
+        document.getElementById("viewerMeta").textContent = ch.arc
+          ? `${ch.arc} · ${ch.file || "sem arquivo"}`
+          : `${groupLabel(ch)} · ${ch.file || "sem arquivo"}`;
+        document.getElementById("viewerStatus").textContent = statusText(ch);
+
+        const frame = document.getElementById("chapterFrame");
+        const shell = document.getElementById("frameShell");
+        const placeholder = document.getElementById("placeholder");
+
+        if (ch.status === "existing" && ch.file) {
+          frame.src = ch.file;
+          shell.style.display = "block";
+          placeholder.style.display = "none";
+        } else {
+          shell.style.display = "none";
+          frame.removeAttribute("src");
+          placeholder.style.display = "grid";
+          placeholder.innerHTML = `<div><strong>${statusText(ch)}</strong>${chapterLabel(ch)} não possui arquivo disponível para abrir.</div>`;
+        }
+
+        document.querySelectorAll(".chapter-link").forEach((a) => {
+          a.classList.toggle(
+            "active",
+            Number(a.dataset.chapter) === ch.chapter,
+          );
+        });
+        applyZoom();
+      }
+
+      function renderNav() {
+        const nav = document.getElementById("nav");
+        nav.innerHTML = "";
+        const query = state.query.trim().toLowerCase();
+        const filtered = state.chapters.filter((ch) => {
+          if (!query) return true;
+          const hay = [
+            ch.chapter,
+            ch.chapter_kanji,
+            ch.title,
+            ch.arc,
+            ch.group,
+            ch.file,
+          ]
+            .filter(Boolean)
+            .join(" ")
+            .toLowerCase();
+          return hay.includes(query);
+        });
+
+        const grouped = new Map();
+        for (const ch of filtered) {
+          const key = groupLabel(ch);
+          if (!grouped.has(key)) grouped.set(key, []);
+          grouped.get(key).push(ch);
+        }
+
+        for (const [groupName, items] of grouped.entries()) {
+          const details = el("details", { class: "group" });
+          details.open = true;
+          const existing = items.filter((i) => i.status === "existing").length;
+          const summary = el("summary");
+          summary.textContent = groupName;
+          const sub = el(
+            "span",
+            {},
+            `${items.length} capítulos · ${existing} existentes`,
+          );
+          summary.appendChild(sub);
+          details.appendChild(summary);
+
+          const list = el("div", { class: "chapter-list" });
+          for (const ch of items) {
+            const link = el("a", {
+              href: "#",
+              class: `chapter-link ${ch.status === "planned" ? "planned" : ch.status === "missing_or_skipped" ? "missing" : ""}`,
+              "data-chapter": String(ch.chapter),
+            });
+            link.innerHTML = `<div>${chapterLabel(ch)}</div><small>${statusText(ch)}</small>`;
+            link.addEventListener("click", (ev) => {
+              ev.preventDefault();
+              setActive(ch);
+              if (window.innerWidth <= 960) closeSidebar();
+            });
+            if (state.activeChapter === ch.chapter)
+              link.classList.add("active");
+            list.appendChild(link);
+          }
+          details.appendChild(list);
+          nav.appendChild(details);
+        }
+      }
+
+      async function main() {
+        const catalog = await loadJson("./catalogo.json");
+        state.chapters = (catalog.chapters || []).sort(
+          (a, b) => a.chapter - b.chapter,
+        );
+        renderNav();
+        const firstExisting = state.chapters.find(
+          (ch) => ch.status === "existing",
+        );
+        if (firstExisting) setActive(firstExisting);
+        applyZoom();
+      }
+
+      document.getElementById("search").addEventListener("input", (e) => {
+        state.query = e.target.value;
+        renderNav();
+      });
+
+      document.getElementById("mobileToggle").addEventListener("click", () => {
+        const sidebar = document.getElementById("sidebar");
+        if (sidebar.classList.contains("open")) closeSidebar();
+        else openSidebar();
+      });
+
+      document
+        .getElementById("overlay")
+        .addEventListener("click", closeSidebar);
+
+      document.addEventListener("click", (event) => {
+        if (window.innerWidth > 960) return;
+        const sidebar = document.getElementById("sidebar");
+        const toggle = document.getElementById("mobileToggle");
+        if (!sidebar.classList.contains("open")) return;
+        if (sidebar.contains(event.target) || toggle.contains(event.target))
+          return;
+        closeSidebar();
+      });
+
+      document.getElementById("zoomIn").addEventListener("click", () => {
+        state.zoom = Math.min(
+          MAX_ZOOM,
+          Math.round((state.zoom + STEP) * 10) / 10,
+        );
+        applyZoom();
+      });
+      document.getElementById("zoomOut").addEventListener("click", () => {
+        state.zoom = Math.max(
+          MIN_ZOOM,
+          Math.round((state.zoom - STEP) * 10) / 10,
+        );
+        applyZoom();
+      });
+      document.getElementById("zoomReset").addEventListener("click", () => {
+        state.zoom = 1;
+        applyZoom();
+      });
+      window.addEventListener("resize", () => {
+        applyZoom();
+        if (window.innerWidth > 960) closeSidebar();
+      });
+
+      main().catch((err) => {
+        document.body.innerHTML =
+          '<main style="padding:24px"><p>Erro ao carregar catalogo.json.</p><pre>' +
+          err.message +
+          "</pre></main>";
+      });
+    </script>
+  </body>
 </html>
