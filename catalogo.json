@@ -3150,60 +3150,114 @@
       "chapter_kanji": "第三百五十章",
       "arc": "ミステリー編",
       "group": "ミステリー編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "不思議な出来事",
+      "file": "chapters/第三百五十章　不思議な出来事.html",
+      "status": "existing"
     },
     {
       "chapter": 351,
       "chapter_kanji": "第三百五十一章",
       "arc": "ミステリー編",
       "group": "ミステリー編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "調査開始",
+      "file": "chapters/第三百五十一章　調査開始.html",
+      "status": "existing"
     },
     {
       "chapter": 352,
       "chapter_kanji": "第三百五十二章",
       "arc": "ミステリー編",
       "group": "ミステリー編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "夜の張り込み",
+      "file": "chapters/第三百五十二章　夜の張り込み.html",
+      "status": "existing"
     },
     {
       "chapter": 353,
       "chapter_kanji": "第三百五十三章",
       "arc": "ミステリー編",
       "group": "ミステリー編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "意外な真実",
+      "file": "chapters/第三百五十三章　意外な真実.html",
+      "status": "existing"
     },
     {
       "chapter": 354,
       "chapter_kanji": "第三百五十四章",
       "arc": "ミステリー編",
       "group": "ミステリー編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "新しい友達",
+      "file": "chapters/第三百五十四章　新しい友達.html",
+      "status": "existing"
     },
     {
       "chapter": 355,
       "chapter_kanji": "第三百五十五章",
       "arc": "ミステリー編",
       "group": "ミステリー編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "次の謎",
+      "file": "chapters/第三百五十五章　次の謎.html",
+      "status": "existing"
     },
     {
       "chapter": 356,
       "chapter_kanji": "第三百五十六章",
       "arc": "ミステリー編",
       "group": "ミステリー編",
+      "title": "日常の中の冒険",
+      "file": "chapters/第三百五十六章　日常の中の冒険.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 357,
+      "chapter_kanji": "第三百五十七章",
+      "arc": "秋の祭り編",
+      "group": "秋の祭り編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 358,
+      "chapter_kanji": "第三百五十八章",
+      "arc": "秋の祭り編",
+      "group": "秋の祭り編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 359,
+      "chapter_kanji": "第三百五十九章",
+      "arc": "秋の祭り編",
+      "group": "秋の祭り編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 360,
+      "chapter_kanji": "第三百六十章",
+      "arc": "秋の祭り編",
+      "group": "秋の祭り編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 361,
+      "chapter_kanji": "第三百六十一章",
+      "arc": "秋の祭り編",
+      "group": "秋の祭り編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 362,
+      "chapter_kanji": "第三百六十二章",
+      "arc": "秋の祭り編",
+      "group": "秋の祭り編",
       "title": null,
       "file": null,
       "status": "planned"

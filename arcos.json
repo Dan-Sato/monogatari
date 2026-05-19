@@ -83,6 +83,12 @@
     "arc": "ミステリー編",
     "start": 350,
     "end": 356,
+    "status": "ok"
+  },
+  {
+    "arc": "秋の祭り編",
+    "start": 357,
+    "end": 362,
     "status": "planned"
   }
 ]
