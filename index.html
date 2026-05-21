@@ -368,6 +368,16 @@
       const MAX_ZOOM = 1.4;
       const STEP = 0.1;
 
+      const STORAGE_KEY = "monogatari:lastChapter";
+
+      function saveLastChapter(chapter) {
+        try { localStorage.setItem(STORAGE_KEY, String(chapter)); } catch (_) {}
+      }
+
+      function loadLastChapter() {
+        try { return localStorage.getItem(STORAGE_KEY); } catch (_) { return null; }
+      }
+
       function statusText(ch) {
         if (ch.status === "existing") return "Existente";
         if (ch.status === "planned") return "Planejado";
@@ -398,9 +408,14 @@
         document.getElementById("sidebar").classList.add("open");
         document.getElementById("overlay").classList.add("show");
       }
+      function toggleSidebar() {
+        const sidebar = document.getElementById("sidebar");
+        if (sidebar.classList.contains("open")) closeSidebar(); else openSidebar();
+      }
 
       function setActive(ch) {
         state.activeChapter = ch.chapter;
+        saveLastChapter(ch.chapter);
         document.getElementById("viewerTitle").textContent = chapterLabel(ch);
         document.getElementById("viewerMeta").textContent = ch.arc
           ? `${ch.arc} · ${ch.file || "sem arquivo"}`

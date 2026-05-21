@@ -89,6 +89,12 @@
     "arc": "秋の祭り編",
     "start": 357,
     "end": 362,
+    "status": "ok"
+  },
+  {
+    "arc": "トレーニング編",
+    "start": 363,
+    "end": 368,
     "status": "planned"
   }
 ]

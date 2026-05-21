@@ -3213,51 +3213,105 @@
       "chapter_kanji": "第三百五十七章",
       "arc": "秋の祭り編",
       "group": "秋の祭り編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "秋の準備",
+      "file": "chapters/第三百五十七章　秋の準備.html",
+      "status": "existing"
     },
     {
       "chapter": 358,
       "chapter_kanji": "第三百五十八章",
       "arc": "秋の祭り編",
       "group": "秋の祭り編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "秋祭りの夜",
+      "file": "chapters/第三百五十八章　秋祭りの夜.html",
+      "status": "existing"
     },
     {
       "chapter": 359,
       "chapter_kanji": "第三百五十九章",
       "arc": "秋の祭り編",
       "group": "秋の祭り編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "謎の視線",
+      "file": "chapters/第三百五十九章　謎の視線.html",
+      "status": "existing"
     },
     {
       "chapter": 360,
       "chapter_kanji": "第三百六十章",
       "arc": "秋の祭り編",
       "group": "秋の祭り編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "キャミィの任務",
+      "file": "chapters/第三百六十章　キャミィの任務.html",
+      "status": "existing"
     },
     {
       "chapter": 361,
       "chapter_kanji": "第三百六十一章",
       "arc": "秋の祭り編",
       "group": "秋の祭り編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "さくらの告白",
+      "file": "chapters/第三百六十一章　さくらの告白.html",
+      "status": "existing"
     },
     {
       "chapter": 362,
       "chapter_kanji": "第三百六十二章",
       "arc": "秋の祭り編",
       "group": "秋の祭り編",
+      "title": "秋の空の下で",
+      "file": "chapters/第三百六十二章　秋の空の下で.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 363,
+      "chapter_kanji": "第三百六十三章",
+      "arc": "トレーニング編",
+      "group": "トレーニング編",
+      "title": "合同特訓",
+      "file": "chapters/第三百六十三章　合同特訓.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 364,
+      "chapter_kanji": "第三百六十四章",
+      "arc": "トレーニング編",
+      "group": "トレーニング編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 365,
+      "chapter_kanji": "第三百六十五章",
+      "arc": "トレーニング編",
+      "group": "トレーニング編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 366,
+      "chapter_kanji": "第三百六十六章",
+      "arc": "トレーニング編",
+      "group": "トレーニング編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 367,
+      "chapter_kanji": "第三百六十七章",
+      "arc": "トレーニング編",
+      "group": "トレーニング編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 368,
+      "chapter_kanji": "第三百六十八章",
+      "arc": "トレーニング編",
+      "group": "トレーニング編",
       "title": null,
       "file": null,
       "status": "planned"
