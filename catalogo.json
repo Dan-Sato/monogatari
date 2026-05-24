@@ -3276,45 +3276,45 @@
       "chapter_kanji": "第三百六十四章",
       "arc": "トレーニング編",
       "group": "トレーニング編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "先生キャミィ",
+      "file": "chapters/第三百六十四章　先生キャミィ.html",
+      "status": "existing"
     },
     {
       "chapter": 365,
       "chapter_kanji": "第三百六十五章",
       "arc": "トレーニング編",
       "group": "トレーニング編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "先生舞",
+      "file": "chapters/第三百六十五章　先生舞.html",
+      "status": "existing"
     },
     {
       "chapter": 366,
       "chapter_kanji": "第三百六十六章",
       "arc": "トレーニング編",
       "group": "トレーニング編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "先生ティファ",
+      "file": "chapters/第三百六十六章　先生ティファ.html",
+      "status": "existing"
     },
     {
       "chapter": 367,
       "chapter_kanji": "第三百六十七章",
       "arc": "トレーニング編",
       "group": "トレーニング編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "模擬戦",
+      "file": "chapters/第三百六十七章　模擬戦.html",
+      "status": "existing"
     },
     {
       "chapter": 368,
       "chapter_kanji": "第三百六十八章",
       "arc": "トレーニング編",
       "group": "トレーニング編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "汗と笑い",
+      "file": "chapters/第三百六十八章　汗と笑い.html",
+      "status": "existing"
     }
   ]
 }
