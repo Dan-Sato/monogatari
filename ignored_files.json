@@ -20,6 +20,10 @@
     "reason": "filename_does_not_match_expected_pattern"
   },
   {
+    "file": "chapters/第三百七十一+章　風を切って.html",
+    "reason": "invalid_chapter_number: Unsupported numeral: 三百七十一+"
+  },
+  {
     "file": "chapters/第二十三章・番外　日差しの下で.html",
     "reason": "filename_does_not_match_expected_pattern"
   },

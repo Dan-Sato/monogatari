@@ -95,6 +95,30 @@
     "arc": "トレーニング編",
     "start": 363,
     "end": 368,
+    "status": "ok"
+  },
+  {
+    "arc": "バイク旅行編",
+    "start": 369,
+    "end": 376,
+    "status": "ok"
+  },
+  {
+    "arc": "バレンタイン編",
+    "start": 377,
+    "end": 382,
+    "status": "planned"
+  },
+  {
+    "arc": "過去の影編",
+    "start": 383,
+    "end": 389,
+    "status": "planned"
+  },
+  {
+    "arc": "桜の季節編",
+    "start": 390,
+    "end": 395,
     "status": "planned"
   }
 ]

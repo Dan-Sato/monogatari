@@ -48,8 +48,18 @@
         display: grid;
         grid-template-columns: 340px minmax(0, 1fr);
         min-height: 100vh;
+        transition: grid-template-columns 0.22s ease;
+      }
+      .app.collapsed {
+        grid-template-columns: 0 minmax(0, 1fr);
+      }
+      .app.collapsed .sidebar {
+        width: 0;
+        min-width: 0;
+        overflow: hidden;
       }
       .sidebar {
+        width: 340px;
         border-right: 1px solid var(--border);
         background: var(--surface);
         display: flex;
@@ -103,19 +113,54 @@
         cursor: pointer;
         list-style: none;
         padding: 12px 14px;
-        font-weight: 700;
         background: #d9c9ad;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 8px;
       }
       .group summary::-webkit-details-marker {
         display: none;
       }
-      .group summary span {
-        display: block;
+      .group-info {
+        display: flex;
+        flex-direction: column;
+      }
+      .group-title {
+        font-weight: 700;
+      }
+      .group-sub {
         color: var(--muted);
         font-size: 12px;
         font-weight: 500;
         margin-top: 2px;
       }
+
+      .group-fav {
+        background: transparent;
+        border: none;
+        cursor: pointer;
+        font-size: 16px;
+        margin-left: 8px;
+        color: #9b9790;
+        display: inline-flex;
+        align-items: center;
+        padding: 2px 6px;
+        border-radius: 8px;
+      }
+      .group-fav:hover { background: rgba(0,0,0,0.03); }
+      .group-fav.on { color: #f5c542; background: rgba(245,197,66,0.12); }
+
+      .filter-fav-btn {
+        border: 1px solid var(--border);
+        background: #fff;
+        border-radius: 10px;
+        padding: 8px 10px;
+        margin-left: 8px;
+        cursor: pointer;
+        color: #9b9790;
+      }
+      .filter-fav-btn.active { color: #f5c542; background: rgba(245,197,66,0.12); border-color: #f1d89a; }
       .chapter-list {
         display: flex;
         flex-direction: column;
@@ -240,7 +285,7 @@
         font-size: 18px;
       }
       .mobile-toggle {
-        display: none;
+        display: inline-flex;
         border: 1px solid var(--border);
         background: #fff;
         border-radius: 10px;
@@ -305,6 +350,7 @@
             type="search"
             placeholder="Buscar capítulo, número, título ou arco"
           />
+          <button id="filterFavsBtn" class="filter-fav-btn" title="Mostrar apenas arcos favoritados">☆</button>
         </div>
         <nav class="nav" id="nav"></nav>
       </aside>
@@ -378,6 +424,50 @@
         try { return localStorage.getItem(STORAGE_KEY); } catch (_) { return null; }
       }
 
+      const FAVORITES_KEY = "monogatari:favGroups";
+
+      function loadFavorites() {
+        try {
+          const raw = localStorage.getItem(FAVORITES_KEY);
+          if (!raw) return new Set();
+          const arr = JSON.parse(raw);
+          return new Set(arr);
+        } catch (_) { return new Set(); }
+      }
+
+      function saveFavorites(set) {
+        try { localStorage.setItem(FAVORITES_KEY, JSON.stringify(Array.from(set))); } catch (_) {}
+      }
+
+      let favorites = loadFavorites();
+      let showOnlyFavorites = false;
+
+      function isGroupFavorited(name) {
+        return favorites.has(name);
+      }
+
+      function toggleFavorite(groupName) {
+        if (favorites.has(groupName)) {
+          favorites.delete(groupName);
+        } else {
+          favorites.add(groupName);
+        }
+        saveFavorites(favorites);
+        renderNav();
+      }
+
+      function setFilterButtonState() {
+        const btn = document.getElementById("filterFavsBtn");
+        if (!btn) return;
+        if (showOnlyFavorites) {
+          btn.classList.add("active");
+          btn.textContent = "★";
+        } else {
+          btn.classList.remove("active");
+          btn.textContent = "☆";
+        }
+      }
+
       function statusText(ch) {
         if (ch.status === "existing") return "Existente";
         if (ch.status === "planned") return "Planejado";
@@ -399,18 +489,37 @@
         frame.style.height = `${(window.innerHeight - (window.innerWidth <= 960 ? 108 : 70)) / z}px`;
       }
 
-      function closeSidebar() {
-        document.getElementById("sidebar").classList.remove("open");
-        document.getElementById("overlay").classList.remove("show");
+      const appElement = document.querySelector(".app");
+      const sidebarElement = document.getElementById("sidebar");
+      const overlayElement = document.getElementById("overlay");
+
+      function closeSidebarMobile() {
+        sidebarElement.classList.remove("open");
+        overlayElement.classList.remove("show");
       }
 
-      function openSidebar() {
-        document.getElementById("sidebar").classList.add("open");
-        document.getElementById("overlay").classList.add("show");
+      function openSidebarMobile() {
+        sidebarElement.classList.add("open");
+        overlayElement.classList.add("show");
       }
+
+      function collapseSidebar() {
+        appElement.classList.add("collapsed");
+        closeSidebarMobile();
+      }
+
+      function expandSidebar() {
+        appElement.classList.remove("collapsed");
+      }
+
       function toggleSidebar() {
-        const sidebar = document.getElementById("sidebar");
-        if (sidebar.classList.contains("open")) closeSidebar(); else openSidebar();
+        if (window.innerWidth <= 960) {
+          if (sidebarElement.classList.contains("open")) closeSidebarMobile();
+          else openSidebarMobile();
+        } else {
+          if (appElement.classList.contains("collapsed")) expandSidebar();
+          else collapseSidebar();
+        }
       }
 
       function setActive(ch) {
@@ -474,17 +583,37 @@
         }
 
         for (const [groupName, items] of grouped.entries()) {
+          if (showOnlyFavorites && !isGroupFavorited(groupName)) continue;
           const details = el("details", { class: "group" });
-          details.open = true;
+          details.open = items.some((ch) => Number(ch.chapter) === state.activeChapter);
           const existing = items.filter((i) => i.status === "existing").length;
           const summary = el("summary");
-          summary.textContent = groupName;
+
+          const titleSpan = el("div", { class: "group-title" }, groupName);
           const sub = el(
             "span",
-            {},
+            { class: "group-sub" },
             `${items.length} capítulos · ${existing} existentes`,
           );
-          summary.appendChild(sub);
+
+          const left = el("div", { class: "group-info" });
+          left.appendChild(titleSpan);
+          left.appendChild(sub);
+
+          const favBtn = el("button", { class: "group-fav", type: "button", "data-group": groupName });
+          if (isGroupFavorited(groupName)) {
+            favBtn.classList.add("on");
+            favBtn.textContent = "★";
+          } else {
+            favBtn.textContent = "☆";
+          }
+          favBtn.addEventListener("click", (ev) => {
+            ev.stopPropagation();
+            toggleFavorite(groupName);
+          });
+
+          summary.appendChild(left);
+          summary.appendChild(favBtn);
           details.appendChild(summary);
 
           const list = el("div", { class: "chapter-list" });
@@ -498,7 +627,7 @@
             link.addEventListener("click", (ev) => {
               ev.preventDefault();
               setActive(ch);
-              if (window.innerWidth <= 960) closeSidebar();
+              if (window.innerWidth <= 960) closeSidebarMobile();
             });
             if (state.activeChapter === ch.chapter)
               link.classList.add("active");
@@ -507,6 +636,7 @@
           details.appendChild(list);
           nav.appendChild(details);
         }
+        setFilterButtonState();
       }
 
       async function main() {
@@ -514,11 +644,26 @@
         state.chapters = (catalog.chapters || []).sort(
           (a, b) => a.chapter - b.chapter,
         );
-        renderNav();
+
+        const lastChapter = loadLastChapter();
+        const savedChapter = lastChapter
+          ? state.chapters.find((ch) => String(ch.chapter) === lastChapter)
+          : null;
         const firstExisting = state.chapters.find(
           (ch) => ch.status === "existing",
         );
-        if (firstExisting) setActive(firstExisting);
+        const initialChapter = savedChapter || firstExisting;
+
+        if (initialChapter) {
+          state.activeChapter = initialChapter.chapter;
+        }
+
+        renderNav();
+
+        if (initialChapter) {
+          setActive(initialChapter);
+        }
+
         applyZoom();
       }
 
@@ -527,24 +672,25 @@
         renderNav();
       });
 
-      document.getElementById("mobileToggle").addEventListener("click", () => {
-        const sidebar = document.getElementById("sidebar");
-        if (sidebar.classList.contains("open")) closeSidebar();
-        else openSidebar();
-      });
+      const filterFavsBtn = document.getElementById("filterFavsBtn");
+      if (filterFavsBtn) {
+        filterFavsBtn.addEventListener("click", () => {
+          showOnlyFavorites = !showOnlyFavorites;
+          setFilterButtonState();
+          renderNav();
+        });
+      }
 
-      document
-        .getElementById("overlay")
-        .addEventListener("click", closeSidebar);
+      document.getElementById("mobileToggle").addEventListener("click", toggleSidebar);
+
+      document.getElementById("overlay").addEventListener("click", closeSidebarMobile);
 
       document.addEventListener("click", (event) => {
         if (window.innerWidth > 960) return;
-        const sidebar = document.getElementById("sidebar");
+        if (!sidebarElement.classList.contains("open")) return;
         const toggle = document.getElementById("mobileToggle");
-        if (!sidebar.classList.contains("open")) return;
-        if (sidebar.contains(event.target) || toggle.contains(event.target))
-          return;
-        closeSidebar();
+        if (sidebarElement.contains(event.target) || toggle.contains(event.target)) return;
+        closeSidebarMobile();
       });
 
       document.getElementById("zoomIn").addEventListener("click", () => {
@@ -567,7 +713,7 @@
       });
       window.addEventListener("resize", () => {
         applyZoom();
-        if (window.innerWidth > 960) closeSidebar();
+        if (window.innerWidth > 960) closeSidebarMobile();
       });
 
       main().catch((err) => {
