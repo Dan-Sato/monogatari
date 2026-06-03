@@ -12,8 +12,8 @@
         --text: #26231d;
         --muted: #746f68;
         --border: #b8ae9a;
-        --accent: #0f6a6f;
-        --accent-soft: #d7e8e6;
+        --accent: #c2a061;
+        --accent-soft: #d3c2a3;
         --missing: #a96913;
         --planned: #8b8580;
         --shadow: 0 8px 24px rgba(32, 24, 14, 0.08);
@@ -86,15 +86,19 @@
         font-size: 14px;
       }
       .search-wrap {
-        padding: 12px 18px;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 10px 12px;
         border-bottom: 1px solid var(--border);
         background: var(--surface);
       }
       .search {
-        width: 100%;
+        flex: 1 1 auto;
+        min-width: 0;
         border: 1px solid var(--border);
         border-radius: 10px;
-        padding: 10px 12px;
+        padding: 8px 10px;
         background: #e2d5bf;
         color: var(--text);
       }
@@ -148,19 +152,27 @@
         padding: 2px 6px;
         border-radius: 8px;
       }
-      .group-fav:hover { background: rgba(0,0,0,0.03); }
-      .group-fav.on { color: #f5c542; background: rgba(245,197,66,0.12); }
+      .group-fav:hover {
+        background: rgba(0, 0, 0, 0.03);
+      }
+      .group-fav.on {
+        color: #976e00;
+        background: rgba(245, 197, 66, 0.12);
+      }
 
       .filter-fav-btn {
         border: 1px solid var(--border);
-        background: #fff;
+        background: #e2d5bf;
         border-radius: 10px;
         padding: 8px 10px;
-        margin-left: 8px;
         cursor: pointer;
         color: #9b9790;
       }
-      .filter-fav-btn.active { color: #f5c542; background: rgba(245,197,66,0.12); border-color: #f1d89a; }
+      .filter-fav-btn.active {
+        color: #976e00;
+        background: #e2d5bf;
+        border-color: #f1d89a;
+      }
       .chapter-list {
         display: flex;
         flex-direction: column;
@@ -205,17 +217,33 @@
         position: relative;
       }
       .content-header {
-        padding: 14px 18px;
+        padding: 8px 12px;
         border-bottom: 1px solid var(--border);
-        background: rgba(247, 243, 233, 0.94);
+        background: #d9c9ad;
         backdrop-filter: blur(10px);
         position: sticky;
         top: 0;
         z-index: 10;
         display: flex;
         justify-content: space-between;
-        gap: 16px;
+        gap: 12px;
         align-items: center;
+        transition:
+          transform 0.22s ease,
+          padding 0.22s ease;
+      }
+      .content-header > div {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+      }
+      .content-header .title-block {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .content-header--hidden {
+        transform: translateY(-100%);
       }
       .content-header h2 {
         margin: 0 0 4px;
@@ -240,7 +268,7 @@
         padding: 6px 10px;
         font-size: 12px;
         border: 1px solid var(--border);
-        background: #fff;
+        background: #d3c2a3;
         white-space: nowrap;
       }
       .tool-btn {
@@ -248,7 +276,6 @@
       }
       .tool-btn:hover {
         border-color: #bdb5aa;
-        background: #faf8f4;
       }
       .viewer {
         flex: 1;
@@ -287,7 +314,7 @@
       .mobile-toggle {
         display: inline-flex;
         border: 1px solid var(--border);
-        background: #fff;
+        background: #d3c2a3;
         border-radius: 10px;
         padding: 8px 10px;
         margin-bottom: 8px;
@@ -350,7 +377,13 @@
             type="search"
             placeholder="Buscar capítulo, número, título ou arco"
           />
-          <button id="filterFavsBtn" class="filter-fav-btn" title="Mostrar apenas arcos favoritados">☆</button>
+          <button
+            id="filterFavsBtn"
+            class="filter-fav-btn"
+            title="Mostrar apenas arcos favoritados"
+          >
+            ☆
+          </button>
         </div>
         <nav class="nav" id="nav"></nav>
       </aside>
@@ -361,8 +394,10 @@
             <button class="mobile-toggle" id="mobileToggle" type="button">
               ☰ Capítulos
             </button>
-            <h2 id="viewerTitle">Selecione um capítulo</h2>
-            <p id="viewerMeta">A navegação fica na lateral esquerda.</p>
+            <div class="title-block">
+              <h2 id="viewerTitle">Selecione um capítulo</h2>
+              <p id="viewerMeta">A navegação fica na lateral esquerda.</p>
+            </div>
           </div>
           <div class="toolbar">
             <button class="tool-btn" id="zoomOut" type="button">A-</button>
@@ -417,11 +452,17 @@
       const STORAGE_KEY = "monogatari:lastChapter";
 
       function saveLastChapter(chapter) {
-        try { localStorage.setItem(STORAGE_KEY, String(chapter)); } catch (_) {}
+        try {
+          localStorage.setItem(STORAGE_KEY, String(chapter));
+        } catch (_) {}
       }
 
       function loadLastChapter() {
-        try { return localStorage.getItem(STORAGE_KEY); } catch (_) { return null; }
+        try {
+          return localStorage.getItem(STORAGE_KEY);
+        } catch (_) {
+          return null;
+        }
       }
 
       const FAVORITES_KEY = "monogatari:favGroups";
@@ -432,11 +473,15 @@
           if (!raw) return new Set();
           const arr = JSON.parse(raw);
           return new Set(arr);
-        } catch (_) { return new Set(); }
+        } catch (_) {
+          return new Set();
+        }
       }
 
       function saveFavorites(set) {
-        try { localStorage.setItem(FAVORITES_KEY, JSON.stringify(Array.from(set))); } catch (_) {}
+        try {
+          localStorage.setItem(FAVORITES_KEY, JSON.stringify(Array.from(set)));
+        } catch (_) {}
       }
 
       let favorites = loadFavorites();
@@ -486,8 +531,39 @@
         zoomLevel.textContent = `${Math.round(z * 100)}%`;
         shell.style.transform = `scale(${z})`;
         shell.style.width = `${100 / z}%`;
-        frame.style.height = `${(window.innerHeight - (window.innerWidth <= 960 ? 108 : 70)) / z}px`;
+        const headerEl = document.querySelector(".content-header");
+        let headerH = headerEl
+          ? Math.round(headerEl.getBoundingClientRect().height)
+          : window.innerWidth <= 960
+            ? 108
+            : 70;
+        if (headerEl && headerEl.classList.contains("content-header--hidden"))
+          headerH = 0;
+        const availH = (window.innerHeight - headerH) / z;
+        frame.style.height = `${availH}px`;
+        if (shell) shell.style.minHeight = `${availH}px`;
+        const placeholder = document.getElementById("placeholder");
+        if (placeholder) placeholder.style.height = `${availH}px`;
       }
+
+      // hide header on mobile while scrolling down; show on scroll up or at top
+      (function setupScrollHeader() {
+        let lastY = window.scrollY || 0;
+        const headerEl = document.querySelector(".content-header");
+        if (!headerEl) return;
+        function onScroll() {
+          if (window.innerWidth > 960) return;
+          const y = window.scrollY || 0;
+          if (y <= 0) headerEl.classList.remove("content-header--hidden");
+          else if (y > lastY) headerEl.classList.add("content-header--hidden");
+          else headerEl.classList.remove("content-header--hidden");
+          lastY = y;
+          // adjust iframe height when header toggles
+          applyZoom();
+        }
+        window.addEventListener("scroll", onScroll, { passive: true });
+        window.addEventListener("resize", applyZoom);
+      })();
 
       const appElement = document.querySelector(".app");
       const sidebarElement = document.getElementById("sidebar");
@@ -585,7 +661,9 @@
         for (const [groupName, items] of grouped.entries()) {
           if (showOnlyFavorites && !isGroupFavorited(groupName)) continue;
           const details = el("details", { class: "group" });
-          details.open = items.some((ch) => Number(ch.chapter) === state.activeChapter);
+          details.open = items.some(
+            (ch) => Number(ch.chapter) === state.activeChapter,
+          );
           const existing = items.filter((i) => i.status === "existing").length;
           const summary = el("summary");
 
@@ -600,7 +678,11 @@
           left.appendChild(titleSpan);
           left.appendChild(sub);
 
-          const favBtn = el("button", { class: "group-fav", type: "button", "data-group": groupName });
+          const favBtn = el("button", {
+            class: "group-fav",
+            type: "button",
+            "data-group": groupName,
+          });
           if (isGroupFavorited(groupName)) {
             favBtn.classList.add("on");
             favBtn.textContent = "★";
@@ -681,15 +763,23 @@
         });
       }
 
-      document.getElementById("mobileToggle").addEventListener("click", toggleSidebar);
+      document
+        .getElementById("mobileToggle")
+        .addEventListener("click", toggleSidebar);
 
-      document.getElementById("overlay").addEventListener("click", closeSidebarMobile);
+      document
+        .getElementById("overlay")
+        .addEventListener("click", closeSidebarMobile);
 
       document.addEventListener("click", (event) => {
         if (window.innerWidth > 960) return;
         if (!sidebarElement.classList.contains("open")) return;
         const toggle = document.getElementById("mobileToggle");
-        if (sidebarElement.contains(event.target) || toggle.contains(event.target)) return;
+        if (
+          sidebarElement.contains(event.target) ||
+          toggle.contains(event.target)
+        )
+          return;
         closeSidebarMobile();
       });
 
