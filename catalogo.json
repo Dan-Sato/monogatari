@@ -7,8 +7,8 @@
     {
       "chapter": 1,
       "chapter_kanji": "第一章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "出会い編",
+      "group": "出会い編",
       "title": "出会い",
       "file": "chapters/第一章　出会い.html",
       "status": "existing"
@@ -16,8 +16,8 @@
     {
       "chapter": 2,
       "chapter_kanji": "第二章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "出会い編",
+      "group": "出会い編",
       "title": "友達",
       "file": "chapters/第二章　友達.html",
       "status": "existing"
@@ -25,8 +25,8 @@
     {
       "chapter": 3,
       "chapter_kanji": "第三章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "出会い編",
+      "group": "出会い編",
       "title": "初めての食事",
       "file": "chapters/第三章　初めての食事.html",
       "status": "existing"
@@ -34,8 +34,8 @@
     {
       "chapter": 4,
       "chapter_kanji": "第四章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "出会い編",
+      "group": "出会い編",
       "title": "初めての練習",
       "file": "chapters/第四章　初めての練習.html",
       "status": "existing"
@@ -43,8 +43,8 @@
     {
       "chapter": 5,
       "chapter_kanji": "第五章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "出会い編",
+      "group": "出会い編",
       "title": "小さな約束",
       "file": "chapters/第五章　小さな約束.html",
       "status": "existing"
@@ -52,8 +52,8 @@
     {
       "chapter": 6,
       "chapter_kanji": "第六章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "出会い編",
+      "group": "出会い編",
       "title": "夜の冒険",
       "file": "chapters/第六章　夜の冒険.html",
       "status": "existing"
@@ -61,8 +61,8 @@
     {
       "chapter": 7,
       "chapter_kanji": "第七章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "出会い編",
+      "group": "出会い編",
       "title": "ハイキング.v2",
       "file": "chapters/第七章　ハイキング.v2.html",
       "status": "existing"
@@ -70,8 +70,8 @@
     {
       "chapter": 8,
       "chapter_kanji": "第八章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "出会い編",
+      "group": "出会い編",
       "title": "山を下りて",
       "file": "chapters/第八章　山を下りて.html",
       "status": "existing"
@@ -79,8 +79,8 @@
     {
       "chapter": 9,
       "chapter_kanji": "第九章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "出会い編",
+      "group": "出会い編",
       "title": "街と稽古と約束",
       "file": "chapters/第九章　街と稽古と約束.html",
       "status": "existing"
@@ -88,8 +88,8 @@
     {
       "chapter": 10,
       "chapter_kanji": "第十章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "出会い編",
+      "group": "出会い編",
       "title": "夜の稽古と心の距離",
       "file": "chapters/第十章　夜の稽古と心の距離.html",
       "status": "existing"
@@ -97,8 +97,8 @@
     {
       "chapter": 11,
       "chapter_kanji": "第十一章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "出会い編",
+      "group": "出会い編",
       "title": "街の日曜日",
       "file": "chapters/第十一章　街の日曜日.html",
       "status": "existing"
@@ -106,8 +106,8 @@
     {
       "chapter": 12,
       "chapter_kanji": "第十二章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "出会い編",
+      "group": "出会い編",
       "title": "土曜日の勉強と練習",
       "file": "chapters/第十二章　土曜日の勉強と練習.html",
       "status": "existing"
@@ -115,8 +115,8 @@
     {
       "chapter": 13,
       "chapter_kanji": "第十三章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "出会い編",
+      "group": "出会い編",
       "title": "昼の練習と昼食",
       "file": "chapters/第十三章　昼の練習と昼食.html",
       "status": "existing"
@@ -124,8 +124,8 @@
     {
       "chapter": 14,
       "chapter_kanji": "第十四章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "雨と電車編",
+      "group": "雨と電車編",
       "title": "電車での小ちいさな旅",
       "file": "chapters/第十四章　電車での小ちいさな旅.html",
       "status": "existing"
@@ -133,8 +133,8 @@
     {
       "chapter": 15,
       "chapter_kanji": "第十五章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "雨と電車編",
+      "group": "雨と電車編",
       "title": "雨の午後、二人の時間",
       "file": "chapters/第十五章　雨の午後、二人の時間.html",
       "status": "existing"
@@ -142,8 +142,8 @@
     {
       "chapter": 16,
       "chapter_kanji": "第十六章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "雨と電車編",
+      "group": "雨と電車編",
       "title": "雨の夜、静かな家で",
       "file": "chapters/第十六章　雨の夜、静かな家で.html",
       "status": "existing"
@@ -151,8 +151,8 @@
     {
       "chapter": 17,
       "chapter_kanji": "第十七章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "雨と電車編",
+      "group": "雨と電車編",
       "title": "雨の夜中",
       "file": "chapters/第十七章　雨の夜中.html",
       "status": "existing"
@@ -160,8 +160,8 @@
     {
       "chapter": 18,
       "chapter_kanji": "第十八章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "雨と電車編",
+      "group": "雨と電車編",
       "title": "雨の朝",
       "file": "chapters/第十八章　雨の朝.html",
       "status": "existing"
@@ -169,8 +169,8 @@
     {
       "chapter": 19,
       "chapter_kanji": "第十九章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "雨と電車編",
+      "group": "雨と電車編",
       "title": "雨の日と海の計画",
       "file": "chapters/第十九章　雨の日と海の計画.html",
       "status": "existing"
@@ -178,8 +178,8 @@
     {
       "chapter": 20,
       "chapter_kanji": "第二十章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夏の海編",
+      "group": "夏の海編",
       "title": "海への旅",
       "file": "chapters/第二十章　海への旅.html",
       "status": "existing"
@@ -187,8 +187,8 @@
     {
       "chapter": 21,
       "chapter_kanji": "第二十一章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夏の海編",
+      "group": "夏の海編",
       "title": "夏の海、始まり",
       "file": "chapters/第二十一章　夏の海、始まり.html",
       "status": "existing"
@@ -196,8 +196,8 @@
     {
       "chapter": 22,
       "chapter_kanji": "第二十二章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夏の海編",
+      "group": "夏の海編",
       "title": "夜の海と花火",
       "file": "chapters/第二十二章　夜の海と花火.html",
       "status": "existing"
@@ -205,8 +205,8 @@
     {
       "chapter": 23,
       "chapter_kanji": "第二十三章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夏の海編",
+      "group": "夏の海編",
       "title": "朝の海と散歩",
       "file": "chapters/第二十三章　朝の海と散歩.html",
       "status": "existing"
@@ -214,8 +214,8 @@
     {
       "chapter": 24,
       "chapter_kanji": "第二十四章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夏の海編",
+      "group": "夏の海編",
       "title": "帰り道",
       "file": "chapters/第二十四章　帰り道.html",
       "status": "existing"
@@ -223,8 +223,8 @@
     {
       "chapter": 25,
       "chapter_kanji": "第二十五章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夏の海編",
+      "group": "夏の海編",
       "title": null,
       "file": null,
       "status": "missing_or_skipped"
@@ -232,8 +232,8 @@
     {
       "chapter": 26,
       "chapter_kanji": "第二十六章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "大会と夏祭り編",
+      "group": "大会と夏祭り編",
       "title": "帰った翌日",
       "file": "chapters/第二十六章　帰った翌日.html",
       "status": "existing"
@@ -241,8 +241,8 @@
     {
       "chapter": 27,
       "chapter_kanji": "第二十七章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "大会と夏祭り編",
+      "group": "大会と夏祭り編",
       "title": "大会直前",
       "file": "chapters/第二十七章　大会直前.html",
       "status": "existing"
@@ -250,8 +250,8 @@
     {
       "chapter": 28,
       "chapter_kanji": "第二十八章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "大会と夏祭り編",
+      "group": "大会と夏祭り編",
       "title": "最初の戦い",
       "file": "chapters/第二十八章　最初の戦い.html",
       "status": "existing"
@@ -259,8 +259,8 @@
     {
       "chapter": 29,
       "chapter_kanji": "第二十九章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "大会と夏祭り編",
+      "group": "大会と夏祭り編",
       "title": "新しい敵と 　第二回戦の始まり",
       "file": "chapters/第二十九章 　新しい敵と 　第二回戦の始まり.html",
       "status": "existing"
@@ -268,8 +268,8 @@
     {
       "chapter": 30,
       "chapter_kanji": "第三十章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "大会と夏祭り編",
+      "group": "大会と夏祭り編",
       "title": "決勝戦",
       "file": "chapters/第三十章　 決勝戦.html",
       "status": "existing"
@@ -277,8 +277,8 @@
     {
       "chapter": 31,
       "chapter_kanji": "第三十一章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "大会と夏祭り編",
+      "group": "大会と夏祭り編",
       "title": "すき焼きの夜",
       "file": "chapters/第三十一章　 すき焼きの夜.html",
       "status": "existing"
@@ -286,8 +286,8 @@
     {
       "chapter": 32,
       "chapter_kanji": "第三十二章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "大会と夏祭り編",
+      "group": "大会と夏祭り編",
       "title": "夏への計画",
       "file": "chapters/第三十二章　夏への計画.html",
       "status": "existing"
@@ -295,8 +295,8 @@
     {
       "chapter": 33,
       "chapter_kanji": "第三十三章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "大会と夏祭り編",
+      "group": "大会と夏祭り編",
       "title": "新しい朝と約束",
       "file": "chapters/第33章　新しい朝と約束.html",
       "status": "existing"
@@ -304,8 +304,8 @@
     {
       "chapter": 34,
       "chapter_kanji": "第三十四章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "大会と夏祭り編",
+      "group": "大会と夏祭り編",
       "title": "日常の中で",
       "file": "chapters/第34章　日常の中で.html",
       "status": "existing"
@@ -313,8 +313,8 @@
     {
       "chapter": 35,
       "chapter_kanji": "第三十五章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "大会と夏祭り編",
+      "group": "大会と夏祭り編",
       "title": "夏祭りの日",
       "file": "chapters/第三十五章　夏祭りの日.html",
       "status": "existing"
@@ -322,8 +322,8 @@
     {
       "chapter": 36,
       "chapter_kanji": "第三十六章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夜の気持ち編",
+      "group": "夜の気持ち編",
       "title": "朝の練習",
       "file": "chapters/第三十六章　朝の練習.html",
       "status": "existing"
@@ -331,8 +331,8 @@
     {
       "chapter": 37,
       "chapter_kanji": "第三十七章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夜の気持ち編",
+      "group": "夜の気持ち編",
       "title": "夕暮れの約束",
       "file": "chapters/第三十七章　夕暮れの約束.html",
       "status": "existing"
@@ -340,8 +340,8 @@
     {
       "chapter": 38,
       "chapter_kanji": "第三十八章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夜の気持ち編",
+      "group": "夜の気持ち編",
       "title": "夜の帰り道",
       "file": "chapters/第三十八章　夜の帰り道.html",
       "status": "existing"
@@ -349,8 +349,8 @@
     {
       "chapter": 39,
       "chapter_kanji": "第三十九章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夜の気持ち編",
+      "group": "夜の気持ち編",
       "title": "月明かりの下で",
       "file": "chapters/第三十九章　月明かりの下で.html",
       "status": "existing"
@@ -358,8 +358,8 @@
     {
       "chapter": 40,
       "chapter_kanji": "第四十章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夜の気持ち編",
+      "group": "夜の気持ち編",
       "title": "お泊まりとホラー映画",
       "file": "chapters/第四十章　お泊まりとホラー映画.html",
       "status": "existing"
@@ -367,8 +367,8 @@
     {
       "chapter": 41,
       "chapter_kanji": "第四十一章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夜の気持ち編",
+      "group": "夜の気持ち編",
       "title": "夜のおしゃべり",
       "file": "chapters/第四十一章　夜のおしゃべり.html",
       "status": "existing"
@@ -376,8 +376,8 @@
     {
       "chapter": 42,
       "chapter_kanji": "第四十二章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夜の気持ち編",
+      "group": "夜の気持ち編",
       "title": "夜中のこそこそ話",
       "file": "chapters/第四十二章　夜中のこそこそ話.html",
       "status": "existing"
@@ -385,8 +385,8 @@
     {
       "chapter": 43,
       "chapter_kanji": "第四十三章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夜の気持ち編",
+      "group": "夜の気持ち編",
       "title": "朝のいたずら",
       "file": "chapters/第四十三章　朝のいたずら.html",
       "status": "existing"
@@ -394,8 +394,8 @@
     {
       "chapter": 44,
       "chapter_kanji": "第四十四章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夜の気持ち編",
+      "group": "夜の気持ち編",
       "title": "みんなで朝ごはんと夜の計画",
       "file": "chapters/第四十四章　みんなで朝ごはんと夜の計画.html",
       "status": "existing"
@@ -403,8 +403,8 @@
     {
       "chapter": 45,
       "chapter_kanji": "第四十五章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夜の気持ち編",
+      "group": "夜の気持ち編",
       "title": "猫の酒場へようこそ",
       "file": "chapters/第 四 十 五 章 　猫の酒場へようこそ.html",
       "status": "existing"
@@ -412,8 +412,8 @@
     {
       "chapter": 46,
       "chapter_kanji": "第四十六章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夜の気持ち編",
+      "group": "夜の気持ち編",
       "title": "帰り道の気持ち",
       "file": "chapters/第四十六章　帰り道の気持ち.html",
       "status": "existing"
@@ -421,8 +421,8 @@
     {
       "chapter": 47,
       "chapter_kanji": "第四十七章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夜の気持ち編",
+      "group": "夜の気持ち編",
       "title": "夜風とほのかな想い",
       "file": "chapters/第四十七章　夜風とほのかな想い.html",
       "status": "existing"
@@ -430,8 +430,8 @@
     {
       "chapter": 48,
       "chapter_kanji": "第四十八章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夜の気持ち編",
+      "group": "夜の気持ち編",
       "title": "静かな朝と小さな変化",
       "file": "chapters/第四十八章　静かな朝と小さな変化.html",
       "status": "existing"
@@ -439,8 +439,8 @@
     {
       "chapter": 49,
       "chapter_kanji": "第四十九章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夜の気持ち編",
+      "group": "夜の気持ち編",
       "title": "猫カフェの午後と小さなやきもち",
       "file": "chapters/第四十九章　猫カフェの午後と小さなやきもち.html",
       "status": "existing"
@@ -448,8 +448,8 @@
     {
       "chapter": 50,
       "chapter_kanji": "第五十章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夜の気持ち編",
+      "group": "夜の気持ち編",
       "title": "夕暮れの散歩と心のゆらぎ",
       "file": "chapters/第五十章　夕暮れの散歩と心のゆらぎ.html",
       "status": "existing"
@@ -457,8 +457,8 @@
     {
       "chapter": 51,
       "chapter_kanji": "第五十一章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夜の気持ち編",
+      "group": "夜の気持ち編",
       "title": "カラオケの夜と笑顔",
       "file": "chapters/第 五 十 一 章 　カラオケの夜と笑顔.html",
       "status": "existing"
@@ -466,8 +466,8 @@
     {
       "chapter": 52,
       "chapter_kanji": "第五十二章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夜の気持ち編",
+      "group": "夜の気持ち編",
       "title": "カラオケの夜（続） — 恋の一曲",
       "file": "chapters/第五十二章　カラオケの夜（続） — 恋の一曲.html",
       "status": "existing"
@@ -475,8 +475,8 @@
     {
       "chapter": 53,
       "chapter_kanji": "第五十三章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夜の気持ち編",
+      "group": "夜の気持ち編",
       "title": "夜道の会話と小さなぬくもり",
       "file": "chapters/第五十三章　夜道の会話と小さなぬくもり.html",
       "status": "existing"
@@ -484,8 +484,8 @@
     {
       "chapter": 54,
       "chapter_kanji": "第五十四章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "夜の気持ち編",
+      "group": "夜の気持ち編",
       "title": "近づく距離と揺れる気持ち",
       "file": "chapters/第五十四章　近づく距離と揺れる気持ち.html",
       "status": "existing"
@@ -493,8 +493,8 @@
     {
       "chapter": 55,
       "chapter_kanji": "第五十五章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "湖編",
+      "group": "湖編",
       "title": "湖への計画",
       "file": "chapters/第五十五章　湖への計画.html",
       "status": "existing"
@@ -502,8 +502,8 @@
     {
       "chapter": 56,
       "chapter_kanji": "第五十六章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "湖編",
+      "group": "湖編",
       "title": "湖の朝と始まりの時間",
       "file": "chapters/第五十六章　湖の朝と始まりの時間.html",
       "status": "existing"
@@ -511,8 +511,8 @@
     {
       "chapter": 57,
       "chapter_kanji": "第五十七章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "湖編",
+      "group": "湖編",
       "title": "ボートの上の距離",
       "file": "chapters/第五十七章　ボートの上の距離.html",
       "status": "existing"
@@ -520,8 +520,8 @@
     {
       "chapter": 58,
       "chapter_kanji": "第五十八章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "湖編",
+      "group": "湖編",
       "title": "釣りと小さな騒ぎ",
       "file": "chapters/第五十八章　釣りと小さな騒ぎ.html",
       "status": "existing"
@@ -529,8 +529,8 @@
     {
       "chapter": 59,
       "chapter_kanji": "第五十九章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "湖編",
+      "group": "湖編",
       "title": "湖畔の昼ごはん",
       "file": "chapters/第五十九章　湖畔の昼ごはん.html",
       "status": "existing"
@@ -538,8 +538,8 @@
     {
       "chapter": 60,
       "chapter_kanji": "第六十章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "湖編",
+      "group": "湖編",
       "title": "午後の静けさ",
       "file": "chapters/第六十章　午後の静けさ.html",
       "status": "existing"
@@ -547,8 +547,8 @@
     {
       "chapter": 61,
       "chapter_kanji": "第六十一章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "湖編",
+      "group": "湖編",
       "title": "湖の遊びと小さな挑戦",
       "file": "chapters/第六十一章　湖の遊びと小さな挑戦.html",
       "status": "existing"
@@ -556,8 +556,8 @@
     {
       "chapter": 62,
       "chapter_kanji": "第六十二章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "湖編",
+      "group": "湖編",
       "title": "夕暮れと帰り支度",
       "file": "chapters/第六十二章　夕暮れと帰り支度.html",
       "status": "existing"
@@ -565,8 +565,8 @@
     {
       "chapter": 63,
       "chapter_kanji": "第六十三章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "冬とクリスマス編",
+      "group": "冬とクリスマス編",
       "title": "冬の気配",
       "file": "chapters/第六十三章　冬の気配.html",
       "status": "existing"
@@ -574,8 +574,8 @@
     {
       "chapter": 64,
       "chapter_kanji": "第六十四章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "冬とクリスマス編",
+      "group": "冬とクリスマス編",
       "title": "冬の準備",
       "file": "chapters/第六十四章　冬の準備.html",
       "status": "existing"
@@ -583,8 +583,8 @@
     {
       "chapter": 65,
       "chapter_kanji": "第六十五章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "冬とクリスマス編",
+      "group": "冬とクリスマス編",
       "title": "クリスマスの話",
       "file": "chapters/第六十五章　クリスマスの話.html",
       "status": "existing"
@@ -592,8 +592,8 @@
     {
       "chapter": 66,
       "chapter_kanji": "第六十六章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "冬とクリスマス編",
+      "group": "冬とクリスマス編",
       "title": "約束の夜",
       "file": "chapters/第六十六章　約束の夜.html",
       "status": "existing"
@@ -601,8 +601,8 @@
     {
       "chapter": 67,
       "chapter_kanji": "第六十七章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "冬とクリスマス編",
+      "group": "冬とクリスマス編",
       "title": "冬の相談",
       "file": "chapters/第六十七章　冬の相談.html",
       "status": "existing"
@@ -610,8 +610,8 @@
     {
       "chapter": 68,
       "chapter_kanji": "第六十八章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "冬とクリスマス編",
+      "group": "冬とクリスマス編",
       "title": "行き先が決まる",
       "file": "chapters/第六十八章　行き先が決まる.html",
       "status": "existing"
@@ -619,8 +619,8 @@
     {
       "chapter": 69,
       "chapter_kanji": "第六十九章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "冬とクリスマス編",
+      "group": "冬とクリスマス編",
       "title": "夜の準備",
       "file": "chapters/第六十九章　夜の準備.html",
       "status": "existing"
@@ -628,8 +628,8 @@
     {
       "chapter": 70,
       "chapter_kanji": "第七十章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "冬とクリスマス編",
+      "group": "冬とクリスマス編",
       "title": "クリスマスの夜",
       "file": "chapters/第七十章　クリスマスの夜.html",
       "status": "existing"
@@ -637,8 +637,8 @@
     {
       "chapter": 71,
       "chapter_kanji": "第七十一章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "冬とクリスマス編",
+      "group": "冬とクリスマス編",
       "title": "近くなる距離",
       "file": "chapters/第七十一章　近くなる距離.html",
       "status": "existing"
@@ -646,8 +646,8 @@
     {
       "chapter": 72,
       "chapter_kanji": "第七十二章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "冬とクリスマス編",
+      "group": "冬とクリスマス編",
       "title": "温かい時間",
       "file": "chapters/第七十二章　温かい時間.html",
       "status": "existing"
@@ -655,8 +655,8 @@
     {
       "chapter": 73,
       "chapter_kanji": "第七十三章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "冬とクリスマス編",
+      "group": "冬とクリスマス編",
       "title": "触れないようで触れている",
       "file": "chapters/第七十三章　触れないようで触れている.html",
       "status": "existing"
@@ -664,8 +664,8 @@
     {
       "chapter": 74,
       "chapter_kanji": "第七十四章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "冬とクリスマス編",
+      "group": "冬とクリスマス編",
       "title": "言葉にする気持ち",
       "file": "chapters/第七十四章　言葉にする気持ち.html",
       "status": "existing"
@@ -673,8 +673,8 @@
     {
       "chapter": 75,
       "chapter_kanji": "第七十五章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "冬とクリスマス編",
+      "group": "冬とクリスマス編",
       "title": "唇に触れた約束",
       "file": "chapters/第七十五章　唇に触れた約束.html",
       "status": "existing"
@@ -682,8 +682,8 @@
     {
       "chapter": 76,
       "chapter_kanji": "第七十六章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "冬とクリスマス編",
+      "group": "冬とクリスマス編",
       "title": "並んで歩くということ",
       "file": "chapters/第七十六章　並んで歩くということ.html",
       "status": "existing"
@@ -691,8 +691,8 @@
     {
       "chapter": 77,
       "chapter_kanji": "第七十七章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "冬とクリスマス編",
+      "group": "冬とクリスマス編",
       "title": "プレゼントを選ぶ時間",
       "file": "chapters/第七十七章　プレゼントを選ぶ時間.html",
       "status": "existing"
@@ -700,8 +700,8 @@
     {
       "chapter": 78,
       "chapter_kanji": "第七十八章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "冬とクリスマス編",
+      "group": "冬とクリスマス編",
       "title": "遅いクリスマスケーキ",
       "file": "chapters/第七十八章　遅いクリスマスケーキ.html",
       "status": "existing"
@@ -709,8 +709,8 @@
     {
       "chapter": 79,
       "chapter_kanji": "第七十九章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "年越しと新年編",
+      "group": "年越しと新年編",
       "title": "年越しの準備",
       "file": "chapters/第七十九章　年越しの準備.html",
       "status": "existing"
@@ -718,8 +718,8 @@
     {
       "chapter": 80,
       "chapter_kanji": "第八十章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "年越しと新年編",
+      "group": "年越しと新年編",
       "title": "年越しの夜",
       "file": "chapters/第八十章　年越しの夜.html",
       "status": "existing"
@@ -727,8 +727,8 @@
     {
       "chapter": 81,
       "chapter_kanji": "第八十一章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "年越しと新年編",
+      "group": "年越しと新年編",
       "title": "元旦の朝",
       "file": "chapters/第八十一章　元旦の朝.html",
       "status": "existing"
@@ -736,8 +736,8 @@
     {
       "chapter": 82,
       "chapter_kanji": "第八十二章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "年越しと新年編",
+      "group": "年越しと新年編",
       "title": "箱の中の気持ち",
       "file": "chapters/第八十二章　箱の中の気持ち.html",
       "status": "existing"
@@ -745,8 +745,8 @@
     {
       "chapter": 83,
       "chapter_kanji": "第八十三章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "年越しと新年編",
+      "group": "年越しと新年編",
       "title": "静かな相談",
       "file": "chapters/第八十三章　静かな相談.html",
       "status": "existing"
@@ -754,8 +754,8 @@
     {
       "chapter": 84,
       "chapter_kanji": "第八十四章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "年越しと新年編",
+      "group": "年越しと新年編",
       "title": "それぞれの役割",
       "file": "chapters/第八十四章　それぞれの役割.html",
       "status": "existing"
@@ -763,8 +763,8 @@
     {
       "chapter": 85,
       "chapter_kanji": "第八十五章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "年越しと新年編",
+      "group": "年越しと新年編",
       "title": "小さなサプライズ",
       "file": "chapters/第八十五章　小さなサプライズ.html",
       "status": "existing"
@@ -772,8 +772,8 @@
     {
       "chapter": 86,
       "chapter_kanji": "第八十六章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "年越しと新年編",
+      "group": "年越しと新年編",
       "title": "静かな距離",
       "file": "chapters/第八十六章　静かな距離.html",
       "status": "existing"
@@ -781,8 +781,8 @@
     {
       "chapter": 87,
       "chapter_kanji": "第八十七章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "年越しと新年編",
+      "group": "年越しと新年編",
       "title": "残る温度",
       "file": "chapters/第八十七章　残る温度.html",
       "status": "existing"
@@ -790,8 +790,8 @@
     {
       "chapter": 88,
       "chapter_kanji": "第八十八章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "年越しと新年編",
+      "group": "年越しと新年編",
       "title": "少し近",
       "file": "chapters/第八十八章　少し近.html",
       "status": "existing"
@@ -799,8 +799,8 @@
     {
       "chapter": 89,
       "chapter_kanji": "第八十九章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "年越しと新年編",
+      "group": "年越しと新年編",
       "title": "言わないまま",
       "file": "chapters/第八十九章　言わないまま.html",
       "status": "existing"
@@ -808,8 +808,8 @@
     {
       "chapter": 90,
       "chapter_kanji": "第九十章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "年越しと新年編",
+      "group": "年越しと新年編",
       "title": "並んで歩く",
       "file": "chapters/第九十章　並んで歩く.html",
       "status": "existing"
@@ -817,8 +817,8 @@
     {
       "chapter": 91,
       "chapter_kanji": "第九十一章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "雨と誤解編",
+      "group": "雨と誤解編",
       "title": "足を止めた理由",
       "file": "chapters/第九十一章　足を止めた理由.html",
       "status": "existing"
@@ -826,8 +826,8 @@
     {
       "chapter": 92,
       "chapter_kanji": "第九十二章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "雨と誤解編",
+      "group": "雨と誤解編",
       "title": "少しの誤解",
       "file": "chapters/第九十二章　少しの誤解.html",
       "status": "existing"
@@ -835,8 +835,8 @@
     {
       "chapter": 93,
       "chapter_kanji": "第九十三章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "雨と誤解編",
+      "group": "雨と誤解編",
       "title": "立ち止まる理由",
       "file": "chapters/第九十三章　立ち止まる理由.html",
       "status": "existing"
@@ -844,8 +844,8 @@
     {
       "chapter": 94,
       "chapter_kanji": "第九十四章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "雨と誤解編",
+      "group": "雨と誤解編",
       "title": "雨の中で",
       "file": "chapters/第九十四章　雨の中で.html",
       "status": "existing"
@@ -853,8 +853,8 @@
     {
       "chapter": 95,
       "chapter_kanji": "第九十五章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "雨と誤解編",
+      "group": "雨と誤解編",
       "title": "雨に急ぐ",
       "file": "chapters/第九十五章　雨に急ぐ.html",
       "status": "existing"
@@ -862,8 +862,8 @@
     {
       "chapter": 96,
       "chapter_kanji": "第九十六章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "雨と誤解編",
+      "group": "雨と誤解編",
       "title": "雨が近づけた距離",
       "file": "chapters/第九十六章　雨が近づけた距離.html",
       "status": "existing"
@@ -871,8 +871,8 @@
     {
       "chapter": 97,
       "chapter_kanji": "第九十七章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "雨と誤解編",
+      "group": "雨と誤解編",
       "title": "雨の中の距離",
       "file": "chapters/第九十七章　雨の中の距離.html",
       "status": "existing"
@@ -880,8 +880,8 @@
     {
       "chapter": 98,
       "chapter_kanji": "第九十八章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "雨と誤解編",
+      "group": "雨と誤解編",
       "title": "濡れたまま帰る",
       "file": "chapters/第九十八章　濡れたまま帰る.html",
       "status": "existing"
@@ -889,8 +889,8 @@
     {
       "chapter": 99,
       "chapter_kanji": "第九十九章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "雨と誤解編",
+      "group": "雨と誤解編",
       "title": "湯気の中で",
       "file": "chapters/第九十九章　湯気の中で.html",
       "status": "existing"
@@ -898,8 +898,8 @@
     {
       "chapter": 100,
       "chapter_kanji": "第百章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "雨と誤解編",
+      "group": "雨と誤解編",
       "title": "触れたまま",
       "file": "chapters/第百章　触れたまま.html",
       "status": "existing"
@@ -907,8 +907,8 @@
     {
       "chapter": 101,
       "chapter_kanji": "第百一章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "離れられない",
       "file": "chapters/第百一章　離れられない.html",
       "status": "existing"
@@ -916,8 +916,8 @@
     {
       "chapter": 102,
       "chapter_kanji": "第百二章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "気づいている人たち",
       "file": "chapters/第百二章　気づいている人たち.html",
       "status": "existing"
@@ -925,8 +925,8 @@
     {
       "chapter": 103,
       "chapter_kanji": "第百三章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "祝福の言葉",
       "file": "chapters/第百三章　祝福の言葉.html",
       "status": "existing"
@@ -934,8 +934,8 @@
     {
       "chapter": 104,
       "chapter_kanji": "第百四章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "もう隠さなくていい",
       "file": "chapters/第百四章　もう隠さなくていい.html",
       "status": "existing"
@@ -943,8 +943,8 @@
     {
       "chapter": 105,
       "chapter_kanji": "第百五章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "夜の中で",
       "file": "chapters/第百五章　夜の中で.html",
       "status": "existing"
@@ -952,8 +952,8 @@
     {
       "chapter": 106,
       "chapter_kanji": "第百六章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "近すぎる静けさ",
       "file": "chapters/第百六章　近すぎる静けさ.html",
       "status": "existing"
@@ -961,8 +961,8 @@
     {
       "chapter": 107,
       "chapter_kanji": "第百七章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "触れない選択",
       "file": "chapters/第百七章　触れない選択.html",
       "status": "existing"
@@ -970,8 +970,8 @@
     {
       "chapter": 108,
       "chapter_kanji": "第百八章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "確かな温度",
       "file": "chapters/第百八章　確かな温度.html",
       "status": "existing"
@@ -979,8 +979,8 @@
     {
       "chapter": 109,
       "chapter_kanji": "第百九章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "朝の空気",
       "file": "chapters/第百九章　朝の空気.html",
       "status": "existing"
@@ -988,8 +988,8 @@
     {
       "chapter": 110,
       "chapter_kanji": "第百十章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "同じテーブル",
       "file": "chapters/第百十章　同じテーブル.html",
       "status": "existing"
@@ -997,8 +997,8 @@
     {
       "chapter": 111,
       "chapter_kanji": "第百十一章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "川辺の特訓",
       "file": "chapters/第百十一章　川辺の特訓.html",
       "status": "existing"
@@ -1006,8 +1006,8 @@
     {
       "chapter": 112,
       "chapter_kanji": "第百十二章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "勝ったらお願い",
       "file": "chapters/第百十二章　勝ったらお願い.html",
       "status": "existing"
@@ -1015,8 +1015,8 @@
     {
       "chapter": 113,
       "chapter_kanji": "第百十三章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "新しい組み合わせ",
       "file": "chapters/第百十三章　新しい組み合わせ.html",
       "status": "existing"
@@ -1024,8 +1024,8 @@
     {
       "chapter": 114,
       "chapter_kanji": "第百十四章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "勝者とお願い",
       "file": "chapters/第百十四章　勝者とお願い.html",
       "status": "existing"
@@ -1033,8 +1033,8 @@
     {
       "chapter": 115,
       "chapter_kanji": "第百十五章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "夜の散歩（続）",
       "file": "chapters/第百十五章　夜の散歩（続）.html",
       "status": "existing"
@@ -1042,8 +1042,8 @@
     {
       "chapter": 116,
       "chapter_kanji": "第百十六章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "待つ時間",
       "file": "chapters/第百十六章　待つ時間.html",
       "status": "existing"
@@ -1051,8 +1051,8 @@
     {
       "chapter": 117,
       "chapter_kanji": "第百十七章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "月の下で",
       "file": "chapters/第百十七章　月の下で.html",
       "status": "existing"
@@ -1060,8 +1060,8 @@
     {
       "chapter": 118,
       "chapter_kanji": "第百十八章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "戻った二人",
       "file": "chapters/第百十八章　戻った二人.html",
       "status": "existing"
@@ -1069,8 +1069,8 @@
     {
       "chapter": 119,
       "chapter_kanji": "第百十九章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "変わった空気",
       "file": "chapters/第百十九章　変わった空気.html",
       "status": "existing"
@@ -1078,8 +1078,8 @@
     {
       "chapter": 120,
       "chapter_kanji": "第百二十章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "夜はまだ長い",
       "file": "chapters/第百二十章　夜はまだ長い.html",
       "status": "existing"
@@ -1087,8 +1087,8 @@
     {
       "chapter": 121,
       "chapter_kanji": "第百二十一章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "交差する視線",
       "file": "chapters/第百二十一章　交差する視線.html",
       "status": "existing"
@@ -1096,8 +1096,8 @@
     {
       "chapter": 122,
       "chapter_kanji": "第百二十二章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "止めない",
       "file": "chapters/第百二十二章　止めない.html",
       "status": "existing"
@@ -1105,8 +1105,8 @@
     {
       "chapter": 123,
       "chapter_kanji": "第百二十三章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "熱の行方",
       "file": "chapters/第百二十三章　熱の行方.html",
       "status": "existing"
@@ -1114,8 +1114,8 @@
     {
       "chapter": 124,
       "chapter_kanji": "第百二十四章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "闇の中で",
       "file": "chapters/第百二十四章　闇の中で.html",
       "status": "existing"
@@ -1123,8 +1123,8 @@
     {
       "chapter": 125,
       "chapter_kanji": "第百二十五章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "朝まで",
       "file": "chapters/第百二十五章　朝まで.html",
       "status": "existing"
@@ -1132,8 +1132,8 @@
     {
       "chapter": 126,
       "chapter_kanji": "第百二十六章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "朝の光",
       "file": "chapters/第百二十六章　朝の光.html",
       "status": "existing"
@@ -1141,8 +1141,8 @@
     {
       "chapter": 127,
       "chapter_kanji": "第百二十七章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "新しい関係",
       "file": "chapters/第百二十七章　新しい関係.html",
       "status": "existing"
@@ -1150,8 +1150,8 @@
     {
       "chapter": 128,
       "chapter_kanji": "第百二十八章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "人前で",
       "file": "chapters/第百二十八章　人前で.html",
       "status": "existing"
@@ -1159,8 +1159,8 @@
     {
       "chapter": 129,
       "chapter_kanji": "第百二十九章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "逆襲と余韻",
       "file": "chapters/第百二十九章　逆襲と余韻.html",
       "status": "existing"
@@ -1168,8 +1168,8 @@
     {
       "chapter": 130,
       "chapter_kanji": "第百三十章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "本当の気持ち B",
       "file": "chapters/第百三十章　本当の気持ち B.html",
       "status": "existing"
@@ -1177,8 +1177,8 @@
     {
       "chapter": 131,
       "chapter_kanji": "第百三十一章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "告白とカップル編",
+      "group": "告白とカップル編",
       "title": "二人だけの確認",
       "file": "chapters/第百三十一章　二人だけの確認.html",
       "status": "existing"
@@ -1186,8 +1186,8 @@
     {
       "chapter": 132,
       "chapter_kanji": "第百三十二章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "均衡と居酒屋編",
+      "group": "均衡と居酒屋編",
       "title": "静かな対話",
       "file": "chapters/第百三十二章　静かな対話.html",
       "status": "existing"
@@ -1195,8 +1195,8 @@
     {
       "chapter": 133,
       "chapter_kanji": "第百三十三章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "均衡と居酒屋編",
+      "group": "均衡と居酒屋編",
       "title": "均衡",
       "file": "chapters/第百三十三章　均衡.html",
       "status": "existing"
@@ -1204,8 +1204,8 @@
     {
       "chapter": 134,
       "chapter_kanji": "第百三十四章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "均衡と居酒屋編",
+      "group": "均衡と居酒屋編",
       "title": "均衡の熱",
       "file": "chapters/第百三十四章　均衡の熱.html",
       "status": "existing"
@@ -1213,8 +1213,8 @@
     {
       "chapter": 135,
       "chapter_kanji": "第百三十五章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "均衡と居酒屋編",
+      "group": "均衡と居酒屋編",
       "title": "揺れる均衡",
       "file": "chapters/第百三十五章　揺れる均衡.html",
       "status": "existing"
@@ -1222,8 +1222,8 @@
     {
       "chapter": 136,
       "chapter_kanji": "第百三十六章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "均衡と居酒屋編",
+      "group": "均衡と居酒屋編",
       "title": "外の夜",
       "file": "chapters/第百三十六章　外の夜.html",
       "status": "existing"
@@ -1231,8 +1231,8 @@
     {
       "chapter": 137,
       "chapter_kanji": "第百三十七章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "均衡と居酒屋編",
+      "group": "均衡と居酒屋編",
       "title": "同じ席",
       "file": "chapters/第百三十七章　同じ席.html",
       "status": "existing"
@@ -1240,8 +1240,8 @@
     {
       "chapter": 138,
       "chapter_kanji": "第百三十八章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "均衡と居酒屋編",
+      "group": "均衡と居酒屋編",
       "title": "乾杯の温度",
       "file": "chapters/第百三十八章　乾杯の温度.html",
       "status": "existing"
@@ -1249,8 +1249,8 @@
     {
       "chapter": 139,
       "chapter_kanji": "第百三十九章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "均衡と居酒屋編",
+      "group": "均衡と居酒屋編",
       "title": "熱い串",
       "file": "chapters/第百三十九章　熱い串.html",
       "status": "existing"
@@ -1258,8 +1258,8 @@
     {
       "chapter": 140,
       "chapter_kanji": "第百四十章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "均衡と居酒屋編",
+      "group": "均衡と居酒屋編",
       "title": "夜風の道",
       "file": "chapters/第百四十章　夜風の道.html",
       "status": "existing"
@@ -1267,8 +1267,8 @@
     {
       "chapter": 141,
       "chapter_kanji": "第百四十一章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "均衡と居酒屋編",
+      "group": "均衡と居酒屋編",
       "title": "正直な言葉",
       "file": "chapters/第百四十一章　正直な言葉.html",
       "status": "existing"
@@ -1276,8 +1276,8 @@
     {
       "chapter": 142,
       "chapter_kanji": "第百四十二章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "均衡と居酒屋編",
+      "group": "均衡と居酒屋編",
       "title": "静かな終わり",
       "file": "chapters/第百四十二章　静かな終わり.html",
       "status": "existing"
@@ -1285,8 +1285,8 @@
     {
       "chapter": 143,
       "chapter_kanji": "第百四十三章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "バレンタイン編",
+      "group": "バレンタイン編",
       "title": "秘密の準備",
       "file": "chapters/第百四十三章　秘密の準備.html",
       "status": "existing"
@@ -1294,8 +1294,8 @@
     {
       "chapter": 144,
       "chapter_kanji": "第百四十四章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "バレンタイン編",
+      "group": "バレンタイン編",
       "title": "本命と義理",
       "file": "chapters/第百四十四章　本命と義理.html",
       "status": "existing"
@@ -1303,8 +1303,8 @@
     {
       "chapter": 145,
       "chapter_kanji": "第百四十五章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "バレンタイン編",
+      "group": "バレンタイン編",
       "title": "最後の選択",
       "file": "chapters/第百四十五章　最後の選択.html",
       "status": "existing"
@@ -1312,8 +1312,8 @@
     {
       "chapter": 146,
       "chapter_kanji": "第百四十六章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "バレンタイン編",
+      "group": "バレンタイン編",
       "title": "最初の手渡し",
       "file": "chapters/第百四十六章　最初の手渡し.html",
       "status": "existing"
@@ -1321,8 +1321,8 @@
     {
       "chapter": 147,
       "chapter_kanji": "第百四十七章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "バレンタイン編",
+      "group": "バレンタイン編",
       "title": "真っ直ぐな本命",
       "file": "chapters/第百四十七章　真っ直ぐな本命.html",
       "status": "existing"
@@ -1330,8 +1330,8 @@
     {
       "chapter": 148,
       "chapter_kanji": "第百四十八章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "バレンタイン編",
+      "group": "バレンタイン編",
       "title": "静かな本命",
       "file": "chapters/第百四十八章　静かな本命.html",
       "status": "existing"
@@ -1339,8 +1339,8 @@
     {
       "chapter": 149,
       "chapter_kanji": "第百四十九章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "バレンタイン編",
+      "group": "バレンタイン編",
       "title": "三つの本命",
       "file": "chapters/第百四十九章　三つの本命.html",
       "status": "existing"
@@ -1348,8 +1348,8 @@
     {
       "chapter": 150,
       "chapter_kanji": "第百五十章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "バレンタイン編",
+      "group": "バレンタイン編",
       "title": "三人の夜",
       "file": "chapters/第百五十章　三人の夜.html",
       "status": "existing"
@@ -1357,8 +1357,8 @@
     {
       "chapter": 151,
       "chapter_kanji": "第百五十一章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "バレンタイン編",
+      "group": "バレンタイン編",
       "title": "遅い初詣",
       "file": "chapters/第百五十一章　遅い初詣.html",
       "status": "existing"
@@ -1366,8 +1366,8 @@
     {
       "chapter": 152,
       "chapter_kanji": "第百五十二章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "バレンタイン編",
+      "group": "バレンタイン編",
       "title": "夜の屋台",
       "file": "chapters/第百五十二章　夜の屋台.html",
       "status": "existing"
@@ -1375,8 +1375,8 @@
     {
       "chapter": 153,
       "chapter_kanji": "第百五十三章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "バレンタイン編",
+      "group": "バレンタイン編",
       "title": "静かな距離",
       "file": "chapters/第百五十三章　静かな距離.html",
       "status": "existing"
@@ -1384,8 +1384,8 @@
     {
       "chapter": 154,
       "chapter_kanji": "第百五十四章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "バレンタイン編",
+      "group": "バレンタイン編",
       "title": "火花のように",
       "file": "chapters/第百五十四章　火花のように.html",
       "status": "existing"
@@ -1393,8 +1393,8 @@
     {
       "chapter": 155,
       "chapter_kanji": "第百五十五章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "バレンタイン編",
+      "group": "バレンタイン編",
       "title": "近すぎる距離",
       "file": "chapters/第百五十五章　近すぎる距離.html",
       "status": "existing"
@@ -1402,8 +1402,8 @@
     {
       "chapter": 156,
       "chapter_kanji": "第百五十六章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "バレンタイン編",
+      "group": "バレンタイン編",
       "title": "酒の熱",
       "file": "chapters/第百五十六章　酒の熱.html",
       "status": "existing"
@@ -1411,8 +1411,8 @@
     {
       "chapter": 157,
       "chapter_kanji": "第百五十七章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "バレンタイン編",
+      "group": "バレンタイン編",
       "title": "揺れる膝",
       "file": "chapters/第百五十七章　揺れる膝.html",
       "status": "existing"
@@ -1420,8 +1420,8 @@
     {
       "chapter": 158,
       "chapter_kanji": "第百五十八章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "バレンタイン編",
+      "group": "バレンタイン編",
       "title": "触れたまま",
       "file": "chapters/第百五十八章　触れたまま.html",
       "status": "existing"
@@ -1429,8 +1429,8 @@
     {
       "chapter": 159,
       "chapter_kanji": "第百五十九章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "バレンタイン編",
+      "group": "バレンタイン編",
       "title": "気づいた視線",
       "file": "chapters/第百五十九章　気づいた視線.html",
       "status": "existing"
@@ -1438,8 +1438,8 @@
     {
       "chapter": 160,
       "chapter_kanji": "第百六十章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "バレンタイン編",
+      "group": "バレンタイン編",
       "title": "火が移る瞬間",
       "file": "chapters/第百六十章　火が移る瞬間.html",
       "status": "existing"
@@ -1447,8 +1447,8 @@
     {
       "chapter": 161,
       "chapter_kanji": "第百六十一章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "バレンタイン編",
+      "group": "バレンタイン編",
       "title": "夜風の中へ",
       "file": "chapters/第百六十一章　夜風の中へ.html",
       "status": "existing"
@@ -1456,8 +1456,8 @@
     {
       "chapter": 162,
       "chapter_kanji": "第百六十二章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "バレンタイン編",
+      "group": "バレンタイン編",
       "title": "街灯の下で",
       "file": "chapters/第百六十二章　街灯の下で.html",
       "status": "existing"
@@ -1465,8 +1465,8 @@
     {
       "chapter": 163,
       "chapter_kanji": "第百六十三章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "バレンタイン編",
+      "group": "バレンタイン編",
       "title": "触れた瞬間",
       "file": "chapters/第百六十三章　触れた瞬間.html",
       "status": "existing"
@@ -1474,8 +1474,8 @@
     {
       "chapter": 164,
       "chapter_kanji": "第百六十四章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "バレンタイン編",
+      "group": "バレンタイン編",
       "title": "火の余韻",
       "file": "chapters/第百六十四章　火の余韻.html",
       "status": "existing"
@@ -1483,8 +1483,8 @@
     {
       "chapter": 165,
       "chapter_kanji": "第百六十五章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "バレンタイン編",
+      "group": "バレンタイン編",
       "title": "静かな逆火",
       "file": "chapters/第百六十五章　静かな逆火.html",
       "status": "existing"
@@ -1492,8 +1492,8 @@
     {
       "chapter": 166,
       "chapter_kanji": "第百六十六章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "部屋の夜編",
+      "group": "部屋の夜編",
       "title": "静かな部屋",
       "file": "chapters/第百六十六章　静かな部屋.html",
       "status": "existing"
@@ -1501,8 +1501,8 @@
     {
       "chapter": 167,
       "chapter_kanji": "第百六十七章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "部屋の夜編",
+      "group": "部屋の夜編",
       "title": "最初の接触",
       "file": "chapters/第百六十七章　最初の接触.html",
       "status": "existing"
@@ -1510,8 +1510,8 @@
     {
       "chapter": 168,
       "chapter_kanji": "第百六十八章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "部屋の夜編",
+      "group": "部屋の夜編",
       "title": "熱の広がり",
       "file": "chapters/第百六十八章　熱の広がり.html",
       "status": "existing"
@@ -1519,8 +1519,8 @@
     {
       "chapter": 169,
       "chapter_kanji": "第百六十九章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "部屋の夜編",
+      "group": "部屋の夜編",
       "title": "深まる熱",
       "file": "chapters/第百六十九章　深まる熱.html",
       "status": "existing"
@@ -1528,8 +1528,8 @@
     {
       "chapter": 170,
       "chapter_kanji": "第百七十章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "部屋の夜編",
+      "group": "部屋の夜編",
       "title": "抑えきれない熱",
       "file": "chapters/第百七十章　抑えきれない熱.html",
       "status": "existing"
@@ -1537,8 +1537,8 @@
     {
       "chapter": 171,
       "chapter_kanji": "第百七十一章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "部屋の夜編",
+      "group": "部屋の夜編",
       "title": "余熱の中で",
       "file": "chapters/第百七十一章　余熱の中で.html",
       "status": "existing"
@@ -1546,8 +1546,8 @@
     {
       "chapter": 172,
       "chapter_kanji": "第百七十二章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "部屋の夜編",
+      "group": "部屋の夜編",
       "title": "崩れる境界線",
       "file": "chapters/第百七十二章　崩れる境界線.html",
       "status": "existing"
@@ -1555,8 +1555,8 @@
     {
       "chapter": 173,
       "chapter_kanji": "第百七十三章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "部屋の夜編",
+      "group": "部屋の夜編",
       "title": "溶け合う瞬間",
       "file": "chapters/第百七十三章　溶け合う瞬間.html",
       "status": "existing"
@@ -1564,8 +1564,8 @@
     {
       "chapter": 174,
       "chapter_kanji": "第百七十四章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "部屋の夜編",
+      "group": "部屋の夜編",
       "title": "静かな余韻",
       "file": "chapters/第百七十四章　静かな余韻.html",
       "status": "existing"
@@ -1573,8 +1573,8 @@
     {
       "chapter": 175,
       "chapter_kanji": "第百七十五章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "部屋の夜編",
+      "group": "部屋の夜編",
       "title": null,
       "file": null,
       "status": "missing_or_skipped"
@@ -1582,8 +1582,8 @@
     {
       "chapter": 176,
       "chapter_kanji": "第百七十六章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "四人の朝編",
+      "group": "四人の朝編",
       "title": "朝の光",
       "file": "chapters/第百七十六章　朝の光.html",
       "status": "existing"
@@ -1591,8 +1591,8 @@
     {
       "chapter": 177,
       "chapter_kanji": "第百七十七章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "四人の朝編",
+      "group": "四人の朝編",
       "title": "いつもの声で",
       "file": "chapters/第百七十七章　いつもの声で.html",
       "status": "existing"
@@ -1600,8 +1600,8 @@
     {
       "chapter": 178,
       "chapter_kanji": "第百七十八章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "四人の朝編",
+      "group": "四人の朝編",
       "title": "四人の約束",
       "file": "chapters/第百七十八章　四人の約束.html",
       "status": "existing"
@@ -1609,8 +1609,8 @@
     {
       "chapter": 179,
       "chapter_kanji": "第百七十九章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "四人の朝編",
+      "group": "四人の朝編",
       "title": "四人で出かける",
       "file": "chapters/第百七十九章　四人で出かける.html",
       "status": "existing"
@@ -1618,8 +1618,8 @@
     {
       "chapter": 180,
       "chapter_kanji": "第百八十章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "四人の朝編",
+      "group": "四人の朝編",
       "title": "公園での小さな事件",
       "file": "chapters/第百八十章　公園での小さな事件.html",
       "status": "existing"
@@ -1627,8 +1627,8 @@
     {
       "chapter": 181,
       "chapter_kanji": "第百八十一章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "四人の朝編",
+      "group": "四人の朝編",
       "title": "帰り道",
       "file": "chapters/第百八十一章　帰り道.html",
       "status": "existing"
@@ -1636,8 +1636,8 @@
     {
       "chapter": 182,
       "chapter_kanji": "第百八十二章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "四人の朝編",
+      "group": "四人の朝編",
       "title": "夜のひと言",
       "file": "chapters/第百八十二章　夜のひと言.html",
       "status": "existing"
@@ -1645,8 +1645,8 @@
     {
       "chapter": 183,
       "chapter_kanji": "第百八十三章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "四人の朝編",
+      "group": "四人の朝編",
       "title": null,
       "file": null,
       "status": "missing_or_skipped"
@@ -1654,8 +1654,8 @@
     {
       "chapter": 184,
       "chapter_kanji": "第百八十四章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "小さな計画",
       "file": "chapters/第百八十四章　小さな計画.html",
       "status": "existing"
@@ -1663,8 +1663,8 @@
     {
       "chapter": 185,
       "chapter_kanji": "第百八十五章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "準備の夜",
       "file": "chapters/第百八十五章　準備の夜.html",
       "status": "existing"
@@ -1672,8 +1672,8 @@
     {
       "chapter": 186,
       "chapter_kanji": "第百八十六章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "キャンプの準備",
       "file": "chapters/第百八十六章　キャンプの準備.html",
       "status": "existing"
@@ -1681,8 +1681,8 @@
     {
       "chapter": 187,
       "chapter_kanji": "第百八十七章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "買い物の時間",
       "file": "chapters/第百八十七章　買い物の時間.html",
       "status": "existing"
@@ -1690,8 +1690,8 @@
     {
       "chapter": 188,
       "chapter_kanji": "第百八十八章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "山への道",
       "file": "chapters/第百八十八章　山への道.html",
       "status": "existing"
@@ -1699,8 +1699,8 @@
     {
       "chapter": 189,
       "chapter_kanji": "第百八十九章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "テント作り",
       "file": "chapters/第百八十九章　テント作り.html",
       "status": "existing"
@@ -1708,8 +1708,8 @@
     {
       "chapter": 190,
       "chapter_kanji": "第百九十章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "焚き火の夜",
       "file": "chapters/第百九十章　焚き火の夜.html",
       "status": "existing"
@@ -1717,8 +1717,8 @@
     {
       "chapter": 191,
       "chapter_kanji": "第百九十一章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "静かな会話",
       "file": "chapters/第百九十一章　静かな会話.html",
       "status": "existing"
@@ -1726,8 +1726,8 @@
     {
       "chapter": 192,
       "chapter_kanji": "第百九十二章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "焚き火の晩ご飯",
       "file": "chapters/第百九十二章　焚き火の晩ご飯.html",
       "status": "existing"
@@ -1735,8 +1735,8 @@
     {
       "chapter": 193,
       "chapter_kanji": "第百九十三章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "山の晩ご飯",
       "file": "chapters/第百九十三章　山の晩ご飯.html",
       "status": "existing"
@@ -1744,8 +1744,8 @@
     {
       "chapter": 194,
       "chapter_kanji": "第百九十四章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "山の夜",
       "file": "chapters/第百九十四章　山の夜.html",
       "status": "existing"
@@ -1753,8 +1753,8 @@
     {
       "chapter": 195,
       "chapter_kanji": "第百九十五章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "テントの中",
       "file": "chapters/第百九十五章　テントの中.html",
       "status": "existing"
@@ -1762,8 +1762,8 @@
     {
       "chapter": 196,
       "chapter_kanji": "第百九十六章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "静かな距離",
       "file": "chapters/第百九十六章　静かな距離.html",
       "status": "existing"
@@ -1771,8 +1771,8 @@
     {
       "chapter": 197,
       "chapter_kanji": "第百九十七章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "夜の近さ",
       "file": "chapters/第百九十七章　夜の近さ.html",
       "status": "existing"
@@ -1780,8 +1780,8 @@
     {
       "chapter": 198,
       "chapter_kanji": "第百九十八章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "山の朝",
       "file": "chapters/第百九十八章　山の朝.html",
       "status": "existing"
@@ -1789,8 +1789,8 @@
     {
       "chapter": 199,
       "chapter_kanji": "第百九十九章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "朝ご飯の準備",
       "file": "chapters/第百九十九章　朝ご飯の準備.html",
       "status": "existing"
@@ -1798,8 +1798,8 @@
     {
       "chapter": 200,
       "chapter_kanji": "第二百章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "山の道",
       "file": "chapters/第二百章　山の道.html",
       "status": "existing"
@@ -1807,8 +1807,8 @@
     {
       "chapter": 201,
       "chapter_kanji": "第二百一章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "森の奥",
       "file": "chapters/第二百一章　森の奥.html",
       "status": "existing"
@@ -1816,8 +1816,8 @@
     {
       "chapter": 202,
       "chapter_kanji": "第二百二章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "隠れた温泉",
       "file": "chapters/第二百二章　隠れた温泉.html",
       "status": "existing"
@@ -1825,8 +1825,8 @@
     {
       "chapter": 203,
       "chapter_kanji": "第二百三章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "温泉の時間",
       "file": "chapters/第二百三章　温泉の時間.html",
       "status": "existing"
@@ -1834,8 +1834,8 @@
     {
       "chapter": 204,
       "chapter_kanji": "第二百四章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "温泉の静かな時間",
       "file": "chapters/第二百四章　温泉の静かな時間.html",
       "status": "existing"
@@ -1843,8 +1843,8 @@
     {
       "chapter": 205,
       "chapter_kanji": "第二百五章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "温泉のあと",
       "file": "chapters/第二百五章　温泉のあと.html",
       "status": "existing"
@@ -1852,8 +1852,8 @@
     {
       "chapter": 206,
       "chapter_kanji": "第二百六章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "晩ご飯の準備",
       "file": "chapters/第二百六章　晩ご飯の準備.html",
       "status": "existing"
@@ -1861,8 +1861,8 @@
     {
       "chapter": 207,
       "chapter_kanji": "第二百七章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "焚き火の晩ご飯",
       "file": "chapters/第二百七章　焚き火の晩ご飯.html",
       "status": "existing"
@@ -1870,8 +1870,8 @@
     {
       "chapter": 208,
       "chapter_kanji": "第二百八章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "星の下で",
       "file": "chapters/第二百八章　星の下で.html",
       "status": "existing"
@@ -1879,8 +1879,8 @@
     {
       "chapter": 209,
       "chapter_kanji": "第二百九章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "近すぎる距離",
       "file": "chapters/第二百九章　近すぎる距離.html",
       "status": "existing"
@@ -1888,8 +1888,8 @@
     {
       "chapter": 210,
       "chapter_kanji": "第二百十章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "同じテント",
       "file": "chapters/第二百十章　同じテント.html",
       "status": "existing"
@@ -1897,8 +1897,8 @@
     {
       "chapter": 211,
       "chapter_kanji": "第二百十一章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "静かな熱",
       "file": "chapters/第二百十一章　静かな熱.html",
       "status": "existing"
@@ -1906,8 +1906,8 @@
     {
       "chapter": 212,
       "chapter_kanji": "第二百十二章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "触れたまま",
       "file": "chapters/第二百十二章　触れたまま.html",
       "status": "existing"
@@ -1915,8 +1915,8 @@
     {
       "chapter": 213,
       "chapter_kanji": "第二百十三章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "まだ近いまま",
       "file": "chapters/第二百十三章　まだ近いまま.html",
       "status": "existing"
@@ -1924,8 +1924,8 @@
     {
       "chapter": 214,
       "chapter_kanji": "第二百十四章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "キャンプ編",
+      "group": "キャンプ編",
       "title": "朝の距離",
       "file": "chapters/第二百十四章　朝の距離.html",
       "status": "existing"
@@ -1933,8 +1933,8 @@
     {
       "chapter": 215,
       "chapter_kanji": "第二百十五章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "帰還と日常編",
+      "group": "帰還と日常編",
       "title": "帰り道のはじまり",
       "file": "chapters/第二百十五章　帰り道のはじまり.html",
       "status": "existing"
@@ -1942,8 +1942,8 @@
     {
       "chapter": 216,
       "chapter_kanji": "第二百十六章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "帰還と日常編",
+      "group": "帰還と日常編",
       "title": "帰る場所",
       "file": "chapters/第二百十六章　帰る場所.html",
       "status": "existing"
@@ -1951,8 +1951,8 @@
     {
       "chapter": 217,
       "chapter_kanji": "第二百十七章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "帰還と日常編",
+      "group": "帰還と日常編",
       "title": "続きの夜",
       "file": "chapters/第二百十七章　続きの夜.html",
       "status": "existing"
@@ -1960,8 +1960,8 @@
     {
       "chapter": 218,
       "chapter_kanji": "第二百十八章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "帰還と日常編",
+      "group": "帰還と日常編",
       "title": "静かな距離",
       "file": "chapters/第二百十八章　静かな距離.html",
       "status": "existing"
@@ -1969,8 +1969,8 @@
     {
       "chapter": 219,
       "chapter_kanji": "第二百十九章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "帰還と日常編",
+      "group": "帰還と日常編",
       "title": "近すぎる朝",
       "file": "chapters/第二百十九章　近すぎる朝.html",
       "status": "existing"
@@ -1978,8 +1978,8 @@
     {
       "chapter": 220,
       "chapter_kanji": "第二百二十章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "帰還と日常編",
+      "group": "帰還と日常編",
       "title": "ほどけない距離",
       "file": "chapters/第二百二十章　ほどけない距離.html",
       "status": "existing"
@@ -1987,8 +1987,8 @@
     {
       "chapter": 221,
       "chapter_kanji": "第二百二十一章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "帰還と日常編",
+      "group": "帰還と日常編",
       "title": "朝のリズム",
       "file": "chapters/第二百二十一章　朝のリズム.html",
       "status": "existing"
@@ -1996,8 +1996,8 @@
     {
       "chapter": 222,
       "chapter_kanji": "第二百二十二章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "帰還と日常編",
+      "group": "帰還と日常編",
       "title": "台所の距離",
       "file": "chapters/第二百二十二章　台所の距離.html",
       "status": "existing"
@@ -2005,8 +2005,8 @@
     {
       "chapter": 223,
       "chapter_kanji": "第二百二十三章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "帰還と日常編",
+      "group": "帰還と日常編",
       "title": "何でもない会話",
       "file": "chapters/第二百二十三章　何でもない会話.html",
       "status": "existing"
@@ -2014,8 +2014,8 @@
     {
       "chapter": 224,
       "chapter_kanji": "第二百二十四章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "帰還と日常編",
+      "group": "帰還と日常編",
       "title": "外出の予定",
       "file": "chapters/第二百二十四章　外出の予定.html",
       "status": "existing"
@@ -2023,8 +2023,8 @@
     {
       "chapter": 225,
       "chapter_kanji": "第二百二十五章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "帰還と日常編",
+      "group": "帰還と日常編",
       "title": "街の中で",
       "file": "chapters/第二百二十五章　街の中で.html",
       "status": "existing"
@@ -2032,8 +2032,8 @@
     {
       "chapter": 226,
       "chapter_kanji": "第二百二十六章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "帰還と日常編",
+      "group": "帰還と日常編",
       "title": "小さな嫉妬",
       "file": "chapters/第二百二十六章　小さな嫉妬.html",
       "status": "existing"
@@ -2041,8 +2041,8 @@
     {
       "chapter": 227,
       "chapter_kanji": "第二百二十七章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "帰還と日常編",
+      "group": "帰還と日常編",
       "title": "静かな帰り道",
       "file": "chapters/第二百二十七章　静かな帰り道.html",
       "status": "existing"
@@ -2050,8 +2050,8 @@
     {
       "chapter": 228,
       "chapter_kanji": "第二百二十八章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "帰還と日常編",
+      "group": "帰還と日常編",
       "title": "静かな距離",
       "file": "chapters/第二百二十八章　静かな距離.html",
       "status": "existing"
@@ -2059,8 +2059,8 @@
     {
       "chapter": 229,
       "chapter_kanji": "第二百二十九章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "帰還と日常編",
+      "group": "帰還と日常編",
       "title": "静かな歩幅",
       "file": "chapters/第二百二十九章　静かな歩幅.html",
       "status": "existing"
@@ -2068,8 +2068,8 @@
     {
       "chapter": 230,
       "chapter_kanji": "第二百三十章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "帰還と日常編",
+      "group": "帰還と日常編",
       "title": "夜の会話",
       "file": "chapters/第二百三十章　夜の会話.html",
       "status": "existing"
@@ -2077,8 +2077,8 @@
     {
       "chapter": 231,
       "chapter_kanji": "第二百三十一章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "帰還と日常編",
+      "group": "帰還と日常編",
       "title": "夜風",
       "file": "chapters/第二百三十一章　夜風.html",
       "status": "existing"
@@ -2086,8 +2086,8 @@
     {
       "chapter": 232,
       "chapter_kanji": "第二百三十二章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "帰還と日常編",
+      "group": "帰還と日常編",
       "title": "帰り道",
       "file": "chapters/第二百三十二章　帰り道.html",
       "status": "existing"
@@ -2095,8 +2095,8 @@
     {
       "chapter": 233,
       "chapter_kanji": "第二百三十三章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "帰還と日常編",
+      "group": "帰還と日常編",
       "title": "ただいまのあと",
       "file": "chapters/第二百三十三章　ただいまのあと.html",
       "status": "existing"
@@ -2104,8 +2104,8 @@
     {
       "chapter": 234,
       "chapter_kanji": "第二百三十四章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "帰還と日常編",
+      "group": "帰還と日常編",
       "title": "夜の続き",
       "file": "chapters/第二百三十四章　夜の続き.html",
       "status": "existing"
@@ -2113,8 +2113,8 @@
     {
       "chapter": 235,
       "chapter_kanji": "第二百三十五章",
-      "arc": null,
-      "group": "Capítulos 1–235",
+      "arc": "帰還と日常編",
+      "group": "帰還と日常編",
       "title": "朝の余韻",
       "file": "chapters/第二百三十五章　朝の余韻.html",
       "status": "existing"
@@ -3483,81 +3483,81 @@
       "chapter_kanji": "第三百八十七章",
       "arc": "過去の影編",
       "group": "過去の影編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "ユーニへの電話",
+      "file": "chapters/第三百八十七章　ユーニへの電話.html",
+      "status": "existing"
     },
     {
       "chapter": 388,
       "chapter_kanji": "第三百八十八章",
       "arc": "過去の影編",
       "group": "過去の影編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "再会",
+      "file": "chapters/第三百八十八章　再会.html",
+      "status": "existing"
     },
     {
       "chapter": 389,
       "chapter_kanji": "第三百八十九章",
       "arc": "過去の影編",
       "group": "過去の影編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "静かな夜、また",
+      "file": "chapters/第三百八十九章　静かな夜、また.html",
+      "status": "existing"
     },
     {
       "chapter": 390,
       "chapter_kanji": "第三百九十章",
       "arc": "桜の季節編",
       "group": "桜の季節編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "桜の下で",
+      "file": "chapters/第三百九十章　桜の下で.html",
+      "status": "existing"
     },
     {
       "chapter": 391,
       "chapter_kanji": "第三百九十一章",
       "arc": "桜の季節編",
       "group": "桜の季節編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "写真と記憶",
+      "file": "chapters/第三百九十一章　写真と記憶.html",
+      "status": "existing"
     },
     {
       "chapter": 392,
       "chapter_kanji": "第三百九十二章",
       "arc": "桜の季節編",
       "group": "桜の季節編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "お湯の中で（一）",
+      "file": "chapters/第三百九十二章　お湯の中で（一）.html",
+      "status": "existing"
     },
     {
       "chapter": 393,
       "chapter_kanji": "第三百九十三章",
       "arc": "桜の季節編",
       "group": "桜の季節編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "お湯の中で（二）",
+      "file": "chapters/第三百九十三章　お湯の中で（二）.html",
+      "status": "existing"
     },
     {
       "chapter": 394,
       "chapter_kanji": "第三百九十四章",
       "arc": "桜の季節編",
       "group": "桜の季節編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "新しい朝",
+      "file": "chapters/第三百九十四章　新しい朝.html",
+      "status": "existing"
     },
     {
       "chapter": 395,
       "chapter_kanji": "第三百九十五章",
       "arc": "桜の季節編",
       "group": "桜の季節編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "さよならと、また",
+      "file": "chapters/第三百九十五章　さよならと、また.html",
+      "status": "existing"
     }
   ]
 }
