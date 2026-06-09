@@ -3558,6 +3558,60 @@
       "title": "さよならと、また",
       "file": "chapters/第三百九十五章　さよならと、また.html",
       "status": "existing"
+    },
+    {
+      "chapter": 396,
+      "chapter_kanji": "第三百九十六章",
+      "arc": "家の中の勝負",
+      "group": "家の中の勝負",
+      "title": "競技開幕",
+      "file": "chapters/第三百九十六章　競技開幕.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 397,
+      "chapter_kanji": "第三百九十七章",
+      "arc": "家の中の勝負",
+      "group": "家の中の勝負",
+      "title": null,
+      "file": null,
+      "status": "missing_or_skipped"
+    },
+    {
+      "chapter": 398,
+      "chapter_kanji": "第三百九十八章",
+      "arc": "家の中の勝負",
+      "group": "家の中の勝負",
+      "title": null,
+      "file": null,
+      "status": "missing_or_skipped"
+    },
+    {
+      "chapter": 399,
+      "chapter_kanji": "第三百九十九章",
+      "arc": "家の中の勝負",
+      "group": "家の中の勝負",
+      "title": null,
+      "file": null,
+      "status": "missing_or_skipped"
+    },
+    {
+      "chapter": 400,
+      "chapter_kanji": "第四百章",
+      "arc": "家の中の勝負",
+      "group": "家の中の勝負",
+      "title": null,
+      "file": null,
+      "status": "missing_or_skipped"
+    },
+    {
+      "chapter": 401,
+      "chapter_kanji": "第四百一章",
+      "arc": "家の中の勝負",
+      "group": "家の中の勝負",
+      "title": null,
+      "file": null,
+      "status": "missing_or_skipped"
     }
   ]
 }
