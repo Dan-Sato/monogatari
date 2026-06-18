@@ -3573,45 +3573,162 @@
       "chapter_kanji": "第三百九十七章",
       "arc": "家の中の勝負",
       "group": "家の中の勝負",
-      "title": null,
-      "file": null,
-      "status": "missing_or_skipped"
+      "title": "第二種目",
+      "file": "chapters/第三百九十七章　第二種目.html",
+      "status": "existing"
     },
     {
       "chapter": 398,
       "chapter_kanji": "第三百九十八章",
       "arc": "家の中の勝負",
       "group": "家の中の勝負",
-      "title": null,
-      "file": null,
-      "status": "missing_or_skipped"
+      "title": "第三種目",
+      "file": "chapters/第三百九十八章　第三種目.html",
+      "status": "existing"
     },
     {
       "chapter": 399,
       "chapter_kanji": "第三百九十九章",
       "arc": "家の中の勝負",
       "group": "家の中の勝負",
-      "title": null,
-      "file": null,
-      "status": "missing_or_skipped"
+      "title": "第四種目",
+      "file": "chapters/第三百九十九章　第四種目.html",
+      "status": "existing"
     },
     {
       "chapter": 400,
       "chapter_kanji": "第四百章",
       "arc": "家の中の勝負",
       "group": "家の中の勝負",
-      "title": null,
-      "file": null,
-      "status": "missing_or_skipped"
+      "title": "第五種目",
+      "file": "chapters/第四百章　第五種目.html",
+      "status": "existing"
     },
     {
       "chapter": 401,
       "chapter_kanji": "第四百一章",
       "arc": "家の中の勝負",
       "group": "家の中の勝負",
-      "title": null,
-      "file": null,
-      "status": "missing_or_skipped"
+      "title": "最終種目：脱衣麻雀",
+      "file": "chapters/第四百一章　最終種目：脱衣麻雀.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 402,
+      "chapter_kanji": "第四百二章",
+      "arc": "さくらの逆襲編",
+      "group": "さくらの逆襲編",
+      "title": "屋根の上の影",
+      "file": "chapters/第四百二章　屋根の上の影.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 403,
+      "chapter_kanji": "第四百三章",
+      "arc": "さくらの逆襲編",
+      "group": "さくらの逆襲編",
+      "title": "怪しい贈り物",
+      "file": "chapters/第四百三章　怪しい贈り物.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 404,
+      "chapter_kanji": "第四百四章",
+      "arc": "さくらの逆襲編",
+      "group": "さくらの逆襲編",
+      "title": "謎の覆面女",
+      "file": "chapters/第四百四章　謎の覆面女.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 405,
+      "chapter_kanji": "第四百五章",
+      "arc": "さくらの逆襲編",
+      "group": "さくらの逆襲編",
+      "title": "作戦開始（失敗）",
+      "file": "chapters/第四百五章　作戦開始（失敗）.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 406,
+      "chapter_kanji": "第四百六章",
+      "arc": "さくらの逆襲編",
+      "group": "さくらの逆襲編",
+      "title": "ティファ誘拐作戦",
+      "file": "chapters/第四百六章　ティファ誘拐作戦.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 407,
+      "chapter_kanji": "第四百七章",
+      "arc": "さくらの逆襲編",
+      "group": "さくらの逆襲編",
+      "title": "私は正しかった",
+      "file": "chapters/第四百七章　私は正しかった.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 408,
+      "chapter_kanji": "第四百八章",
+      "arc": "さくらの逆襲編",
+      "group": "さくらの逆襲編",
+      "title": "さくらの城、陥落",
+      "file": "chapters/第四百八章　さくらの城、陥落.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 409,
+      "chapter_kanji": "第四百九章",
+      "arc": "都会の冒険編",
+      "group": "都会の冒険編",
+      "title": "美術館の午後",
+      "file": "chapters/第四百九章　美術館の午後.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 410,
+      "chapter_kanji": "第四百十章",
+      "arc": "都会の冒険編",
+      "group": "都会の冒険編",
+      "title": "食べ歩きの地図",
+      "file": "chapters/第四百十章　食べ歩きの地図.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 411,
+      "chapter_kanji": "第四百十一章",
+      "arc": "都会の冒険編",
+      "group": "都会の冒険編",
+      "title": "ライブの夜",
+      "file": "chapters/第四百十一章　ライブの夜.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 412,
+      "chapter_kanji": "第四百十二章",
+      "arc": "都会の冒険編",
+      "group": "都会の冒険編",
+      "title": "カラオケ戦争",
+      "file": "chapters/第四百十二章　カラオケ戦争.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 413,
+      "chapter_kanji": "第四百十三章",
+      "arc": "都会の冒険編",
+      "group": "都会の冒険編",
+      "title": "夜更けの展望台",
+      "file": "chapters/第四百十三章　夜更けの展望台.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 414,
+      "chapter_kanji": "第四百十四章",
+      "arc": "都会の冒険編",
+      "group": "都会の冒険編",
+      "title": "帰り道のメッセージ",
+      "file": "chapters/第四百十四章　帰り道のメッセージ.html",
+      "status": "existing"
     }
   ]
 }
