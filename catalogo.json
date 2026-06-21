@@ -3729,6 +3729,69 @@
       "title": "帰り道のメッセージ",
       "file": "chapters/第四百十四章　帰り道のメッセージ.html",
       "status": "existing"
+    },
+    {
+      "chapter": 415,
+      "chapter_kanji": "第四百十五章",
+      "arc": "餓狼伝説編",
+      "group": "餓狼伝説編",
+      "title": "帰宅と電話",
+      "file": "chapters/第四百十五章　帰宅と電話.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 416,
+      "chapter_kanji": "第四百十六章",
+      "arc": "餓狼伝説編",
+      "group": "餓狼伝説編",
+      "title": "餓狼の話",
+      "file": "chapters/第四百十六章　餓狼の話.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 417,
+      "chapter_kanji": "第四百十七章",
+      "arc": "餓狼伝説編",
+      "group": "餓狼伝説編",
+      "title": "行くよ",
+      "file": "chapters/第四百十七章　行くよ.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 418,
+      "chapter_kanji": "第四百十八章",
+      "arc": "餓狼伝説編",
+      "group": "餓狼伝説編",
+      "title": "訓練の週",
+      "file": "chapters/第四百十八章　訓練の週.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 419,
+      "chapter_kanji": "第四百十九章",
+      "arc": "餓狼伝説編",
+      "group": "餓狼伝説編",
+      "title": "重い夜",
+      "file": "chapters/第四百十九章　重い夜.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 420,
+      "chapter_kanji": "第四百二十章",
+      "arc": "餓狼伝説編",
+      "group": "餓狼伝説編",
+      "title": "出発前夜",
+      "file": "chapters/第四百二十章　出発前夜.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 421,
+      "chapter_kanji": "第四百二十一章",
+      "arc": "餓狼伝説編",
+      "group": "餓狼伝説編",
+      "title": "飛行機の中で",
+      "file": "chapters/第四百二十一章　飛行機の中で.html",
+      "status": "existing"
     }
   ]
 }
