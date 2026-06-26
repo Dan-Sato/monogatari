@@ -3864,6 +3864,69 @@
       "title": "帰り道",
       "file": "chapters/第四百二十九章　帰り道.html",
       "status": "existing"
+    },
+    {
+      "chapter": 430,
+      "chapter_kanji": "第四百三十章",
+      "arc": "温泉旅行編",
+      "group": "温泉旅行編",
+      "title": "南町の朝",
+      "file": "chapters/第四百三十章　南町の朝.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 431,
+      "chapter_kanji": "第四百三十一章",
+      "arc": "温泉旅行編",
+      "group": "温泉旅行編",
+      "title": "約束の湯",
+      "file": "chapters/第四百三十一章　約束の湯.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 432,
+      "chapter_kanji": "第四百三十二章",
+      "arc": "温泉旅行編",
+      "group": "温泉旅行編",
+      "title": null,
+      "file": null,
+      "status": "missing_or_skipped"
+    },
+    {
+      "chapter": 433,
+      "chapter_kanji": "第四百三十三章",
+      "arc": "温泉旅行編",
+      "group": "温泉旅行編",
+      "title": null,
+      "file": null,
+      "status": "missing_or_skipped"
+    },
+    {
+      "chapter": 434,
+      "chapter_kanji": "第四百三十四章",
+      "arc": "温泉旅行編",
+      "group": "温泉旅行編",
+      "title": null,
+      "file": null,
+      "status": "missing_or_skipped"
+    },
+    {
+      "chapter": 435,
+      "chapter_kanji": "第四百三十五章",
+      "arc": "温泉旅行編",
+      "group": "温泉旅行編",
+      "title": null,
+      "file": null,
+      "status": "missing_or_skipped"
+    },
+    {
+      "chapter": 436,
+      "chapter_kanji": "第四百三十六章",
+      "arc": "温泉旅行編",
+      "group": "温泉旅行編",
+      "title": null,
+      "file": null,
+      "status": "missing_or_skipped"
     }
   ]
 }
