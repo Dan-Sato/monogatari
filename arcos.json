@@ -220,15 +220,15 @@
     "status": "ok"
   },
   {
-    "arc": "餓狼伝説編",
+    "arc": "餓狼伝説編 (1)",
     "start": 415,
     "end": 421,
     "status": "ok"
   },
   {
-    "arc": "編",
+    "arc": "餓狼伝説編 (2)",
     "start": 422,
-    "end": null,
+    "end": 429,
     "status": "ok"
   }
 ]

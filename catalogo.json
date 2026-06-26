@@ -3733,8 +3733,8 @@
     {
       "chapter": 415,
       "chapter_kanji": "第四百十五章",
-      "arc": "餓狼伝説編",
-      "group": "餓狼伝説編",
+      "arc": "餓狼伝説編 (1)",
+      "group": "餓狼伝説編 (1)",
       "title": "帰宅と電話",
       "file": "chapters/第四百十五章　帰宅と電話.html",
       "status": "existing"
@@ -3742,8 +3742,8 @@
     {
       "chapter": 416,
       "chapter_kanji": "第四百十六章",
-      "arc": "餓狼伝説編",
-      "group": "餓狼伝説編",
+      "arc": "餓狼伝説編 (1)",
+      "group": "餓狼伝説編 (1)",
       "title": "餓狼の話",
       "file": "chapters/第四百十六章　餓狼の話.html",
       "status": "existing"
@@ -3751,8 +3751,8 @@
     {
       "chapter": 417,
       "chapter_kanji": "第四百十七章",
-      "arc": "餓狼伝説編",
-      "group": "餓狼伝説編",
+      "arc": "餓狼伝説編 (1)",
+      "group": "餓狼伝説編 (1)",
       "title": "行くよ",
       "file": "chapters/第四百十七章　行くよ.html",
       "status": "existing"
@@ -3760,8 +3760,8 @@
     {
       "chapter": 418,
       "chapter_kanji": "第四百十八章",
-      "arc": "餓狼伝説編",
-      "group": "餓狼伝説編",
+      "arc": "餓狼伝説編 (1)",
+      "group": "餓狼伝説編 (1)",
       "title": "訓練の週",
       "file": "chapters/第四百十八章　訓練の週.html",
       "status": "existing"
@@ -3769,8 +3769,8 @@
     {
       "chapter": 419,
       "chapter_kanji": "第四百十九章",
-      "arc": "餓狼伝説編",
-      "group": "餓狼伝説編",
+      "arc": "餓狼伝説編 (1)",
+      "group": "餓狼伝説編 (1)",
       "title": "重い夜",
       "file": "chapters/第四百十九章　重い夜.html",
       "status": "existing"
@@ -3778,8 +3778,8 @@
     {
       "chapter": 420,
       "chapter_kanji": "第四百二十章",
-      "arc": "餓狼伝説編",
-      "group": "餓狼伝説編",
+      "arc": "餓狼伝説編 (1)",
+      "group": "餓狼伝説編 (1)",
       "title": "出発前夜",
       "file": "chapters/第四百二十章　出発前夜.html",
       "status": "existing"
@@ -3787,10 +3787,82 @@
     {
       "chapter": 421,
       "chapter_kanji": "第四百二十一章",
-      "arc": "餓狼伝説編",
-      "group": "餓狼伝説編",
+      "arc": "餓狼伝説編 (1)",
+      "group": "餓狼伝説編 (1)",
       "title": "飛行機の中で",
       "file": "chapters/第四百二十一章　飛行機の中で.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 422,
+      "chapter_kanji": "第四百二十二章",
+      "arc": "餓狼伝説編 (2)",
+      "group": "餓狼伝説編 (2)",
+      "title": "到着",
+      "file": "chapters/第四百二十二章　到着.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 423,
+      "chapter_kanji": "第四百二十三章",
+      "arc": "餓狼伝説編 (2)",
+      "group": "餓狼伝説編 (2)",
+      "title": "調査の話",
+      "file": "chapters/第四百二十三章　調査の話.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 424,
+      "chapter_kanji": "第四百二十四章",
+      "arc": "餓狼伝説編 (2)",
+      "group": "餓狼伝説編 (2)",
+      "title": "最初の試合",
+      "file": "chapters/第四百二十四章　最初の試合.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 425,
+      "chapter_kanji": "第四百二十五章",
+      "arc": "餓狼伝説編 (2)",
+      "group": "餓狼伝説編 (2)",
+      "title": "古い名前",
+      "file": "chapters/第四百二十五章　古い名前.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 426,
+      "chapter_kanji": "第四百二十六章",
+      "arc": "餓狼伝説編 (2)",
+      "group": "餓狼伝説編 (2)",
+      "title": "飛翔拳",
+      "file": "chapters/第四百二十六章　飛翔拳.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 427,
+      "chapter_kanji": "第四百二十七章",
+      "arc": "餓狼伝説編 (2)",
+      "group": "餓狼伝説編 (2)",
+      "title": "ほぐれる",
+      "file": "chapters/第四百二十七章　ほぐれる.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 428,
+      "chapter_kanji": "第四百二十八章",
+      "arc": "餓狼伝説編 (2)",
+      "group": "餓狼伝説編 (2)",
+      "title": "最後の一戦",
+      "file": "chapters/第四百二十八章　最後の一戦.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 429,
+      "chapter_kanji": "第四百二十九章",
+      "arc": "餓狼伝説編 (2)",
+      "group": "餓狼伝説編 (2)",
+      "title": "帰り道",
+      "file": "chapters/第四百二十九章　帰り道.html",
       "status": "existing"
     }
   ]
