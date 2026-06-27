@@ -156,7 +156,8 @@ def build_catalog():
     catalog = {
         'chapters_source': 'chapters/*.html',
         'css_path': 'chapters/style.css',
-        'guide_path': 'guia-continuidade.html',
+        #'guide_path': 'guia-continuidade.html',
+        'guide_path': 'guia-continuidade.md',
         'generated_by': 'build_catalog.py',
         'chapters': chapters
     }

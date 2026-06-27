@@ -1,7 +1,7 @@
 {
   "chapters_source": "chapters/*.html",
   "css_path": "chapters/style.css",
-  "guide_path": "guia-continuidade.html",
+  "guide_path": "guia-continuidade.md",
   "generated_by": "build_catalog.py",
   "chapters": [
     {
@@ -3868,8 +3868,8 @@
     {
       "chapter": 430,
       "chapter_kanji": "第四百三十章",
-      "arc": "温泉旅行編",
-      "group": "温泉旅行編",
+      "arc": "温泉旅行再び編",
+      "group": "温泉旅行再び編",
       "title": "南町の朝",
       "file": "chapters/第四百三十章　南町の朝.html",
       "status": "existing"
@@ -3877,8 +3877,8 @@
     {
       "chapter": 431,
       "chapter_kanji": "第四百三十一章",
-      "arc": "温泉旅行編",
-      "group": "温泉旅行編",
+      "arc": "温泉旅行再び編",
+      "group": "温泉旅行再び編",
       "title": "約束の湯",
       "file": "chapters/第四百三十一章　約束の湯.html",
       "status": "existing"
@@ -3886,8 +3886,8 @@
     {
       "chapter": 432,
       "chapter_kanji": "第四百三十二章",
-      "arc": "温泉旅行編",
-      "group": "温泉旅行編",
+      "arc": "温泉旅行再び編",
+      "group": "温泉旅行再び編",
       "title": null,
       "file": null,
       "status": "missing_or_skipped"
@@ -3895,8 +3895,8 @@
     {
       "chapter": 433,
       "chapter_kanji": "第四百三十三章",
-      "arc": "温泉旅行編",
-      "group": "温泉旅行編",
+      "arc": "温泉旅行再び編",
+      "group": "温泉旅行再び編",
       "title": null,
       "file": null,
       "status": "missing_or_skipped"
@@ -3904,8 +3904,8 @@
     {
       "chapter": 434,
       "chapter_kanji": "第四百三十四章",
-      "arc": "温泉旅行編",
-      "group": "温泉旅行編",
+      "arc": "温泉旅行再び編",
+      "group": "温泉旅行再び編",
       "title": null,
       "file": null,
       "status": "missing_or_skipped"
@@ -3913,8 +3913,8 @@
     {
       "chapter": 435,
       "chapter_kanji": "第四百三十五章",
-      "arc": "温泉旅行編",
-      "group": "温泉旅行編",
+      "arc": "温泉旅行再び編",
+      "group": "温泉旅行再び編",
       "title": null,
       "file": null,
       "status": "missing_or_skipped"
@@ -3922,11 +3922,65 @@
     {
       "chapter": 436,
       "chapter_kanji": "第四百三十六章",
-      "arc": "温泉旅行編",
-      "group": "温泉旅行編",
+      "arc": "温泉旅行再び編",
+      "group": "温泉旅行再び編",
       "title": null,
       "file": null,
       "status": "missing_or_skipped"
+    },
+    {
+      "chapter": 437,
+      "chapter_kanji": "第四百三十七章",
+      "arc": "日常編",
+      "group": "日常編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 438,
+      "chapter_kanji": "第四百三十八章",
+      "arc": "日常編",
+      "group": "日常編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 439,
+      "chapter_kanji": "第四百三十九章",
+      "arc": "日常編",
+      "group": "日常編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 440,
+      "chapter_kanji": "第四百四十章",
+      "arc": "日常編",
+      "group": "日常編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 441,
+      "chapter_kanji": "第四百四十一章",
+      "arc": "日常編",
+      "group": "日常編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 442,
+      "chapter_kanji": "第四百四十二章",
+      "arc": "日常編",
+      "group": "日常編",
+      "title": null,
+      "file": null,
+      "status": "planned"
     }
   ]
 }

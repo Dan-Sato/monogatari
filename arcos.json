@@ -232,9 +232,15 @@
     "status": "ok"
   },
   {
-    "arc": "温泉旅行編",
+    "arc": "温泉旅行再び編",
     "start": 430,
     "end": 436,
     "status": "ok"
+  },
+  {
+    "arc": "日常編",
+    "start": 437,
+    "end": 442,
+    "status": "planned"
   }
 ]
