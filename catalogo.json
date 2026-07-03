@@ -3933,54 +3933,54 @@
       "chapter_kanji": "第四百三十七章",
       "arc": "凪の頃",
       "group": "凪の頃",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "荷物の整理",
+      "file": "chapters/第四百三十七章　荷物の整理.html",
+      "status": "existing"
     },
     {
       "chapter": 438,
       "chapter_kanji": "第四百三十八章",
       "arc": "凪の頃",
       "group": "凪の頃",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "猫と非常口",
+      "file": "chapters/第四百三十八章　猫と非常口.html",
+      "status": "existing"
     },
     {
       "chapter": 439,
       "chapter_kanji": "第四百三十九章",
       "arc": "凪の頃",
       "group": "凪の頃",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "ダンの買い物",
+      "file": "chapters/第四百三十九章　ダンの買い物.html",
+      "status": "existing"
     },
     {
       "chapter": 440,
       "chapter_kanji": "第四百四十章",
       "arc": "凪の頃",
       "group": "凪の頃",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "キャミィの休日",
+      "file": "chapters/第四百四十章　キャミィの休日.html",
+      "status": "existing"
     },
     {
       "chapter": 441,
       "chapter_kanji": "第四百四十一章",
       "arc": "凪の頃",
       "group": "凪の頃",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "扇子と写真",
+      "file": "chapters/第四百四十一章　扇子と写真.html",
+      "status": "existing"
     },
     {
       "chapter": 442,
       "chapter_kanji": "第四百四十二章",
       "arc": "凪の頃",
       "group": "凪の頃",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "四人分の夜",
+      "file": "chapters/第四百四十二章　四人分の夜.html",
+      "status": "existing"
     }
   ]
 }
