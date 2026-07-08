@@ -3981,6 +3981,96 @@
       "title": "四人分の夜",
       "file": "chapters/第四百四十二章　四人分の夜.html",
       "status": "existing"
+    },
+    {
+      "chapter": 443,
+      "chapter_kanji": "第四百四十三章",
+      "arc": "スコットランド作戦編",
+      "group": "スコットランド作戦編",
+      "title": "出発前の準備",
+      "file": "chapters/第四百四十三章　出発前の準備.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 444,
+      "chapter_kanji": "第四百四十四章",
+      "arc": "スコットランド作戦編",
+      "group": "スコットランド作戦編",
+      "title": "ロンドンの再会",
+      "file": "chapters/第四百四十四章　ロンドンの再会.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 445,
+      "chapter_kanji": "第四百四十五章",
+      "arc": "スコットランド作戦編",
+      "group": "スコットランド作戦編",
+      "title": "城への道",
+      "file": "chapters/第四百四十五章　城への道.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 446,
+      "chapter_kanji": "第四百四十六章",
+      "arc": "スコットランド作戦編",
+      "group": "スコットランド作戦編",
+      "title": "城主の歓待",
+      "file": "chapters/第四百四十六章　城主の歓待.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 447,
+      "chapter_kanji": "第四百四十七章",
+      "arc": "スコットランド作戦編",
+      "group": "スコットランド作戦編",
+      "title": "甘い城の調査",
+      "file": "chapters/第四百四十七章　甘い城の調査.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 448,
+      "chapter_kanji": "第四百四十八章",
+      "arc": "スコットランド作戦編",
+      "group": "スコットランド作戦編",
+      "title": "猫の正体（表面上）",
+      "file": "chapters/第四百四十八章　猫の正体（表面上）.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 449,
+      "chapter_kanji": "第四百四十九章",
+      "arc": "スコットランド作戦編",
+      "group": "スコットランド作戦編",
+      "title": "湯浴みと子猫",
+      "file": "chapters/第四百四十九章　湯浴みと子猫.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 450,
+      "chapter_kanji": "第四百五十章",
+      "arc": "スコットランド作戦編",
+      "group": "スコットランド作戦編",
+      "title": "正体発覚",
+      "file": "chapters/第四百五十章　正体発覚.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 451,
+      "chapter_kanji": "第四百五十一章",
+      "arc": "スコットランド作戦編",
+      "group": "スコットランド作戦編",
+      "title": "奇妙な夜",
+      "file": "chapters/第四百五十一章　奇妙な夜.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 452,
+      "chapter_kanji": "第四百五十二章",
+      "arc": "スコットランド作戦編",
+      "group": "スコットランド作戦編",
+      "title": "城の夜、そして結末",
+      "file": "chapters/第四百五十二章　城の夜、そして結末.html",
+      "status": "existing"
     }
   ]
 }
