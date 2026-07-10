@@ -246,7 +246,13 @@
   {
     "arc": "スコットランド作戦編",
     "start": 443,
-    "end": 452,
+    "end": 453,
+    "status": "planned"
+  },
+  {
+    "arc": "自転車の旅編",
+    "start": 454,
+    "end": 460,
     "status": "planned"
   }
 ]

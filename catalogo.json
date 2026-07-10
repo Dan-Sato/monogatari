@@ -4071,6 +4071,78 @@
       "title": "城の夜、そして結末",
       "file": "chapters/第四百五十二章　城の夜、そして結末.html",
       "status": "existing"
+    },
+    {
+      "chapter": 453,
+      "chapter_kanji": "第四百五十三章",
+      "arc": "スコットランド作戦編",
+      "group": "スコットランド作戦編",
+      "title": "帰還、報告、そしてそれぞれの別れ",
+      "file": "chapters/第四百五十三章　帰還、報告、そしてそれぞれの別れ.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 454,
+      "chapter_kanji": "第四百五十四章",
+      "arc": "自転車の旅編",
+      "group": "自転車の旅編",
+      "title": "自転車の旅の提案",
+      "file": "chapters/第四百五十四章　自転車の旅の提案.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 455,
+      "chapter_kanji": "第四百五十五章",
+      "arc": "自転車の旅編",
+      "group": "自転車の旅編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 456,
+      "chapter_kanji": "第四百五十六章",
+      "arc": "自転車の旅編",
+      "group": "自転車の旅編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 457,
+      "chapter_kanji": "第四百五十七章",
+      "arc": "自転車の旅編",
+      "group": "自転車の旅編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 458,
+      "chapter_kanji": "第四百五十八章",
+      "arc": "自転車の旅編",
+      "group": "自転車の旅編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 459,
+      "chapter_kanji": "第四百五十九章",
+      "arc": "自転車の旅編",
+      "group": "自転車の旅編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 460,
+      "chapter_kanji": "第四百六十章",
+      "arc": "自転車の旅編",
+      "group": "自転車の旅編",
+      "title": null,
+      "file": null,
+      "status": "planned"
     }
   ]
 }
