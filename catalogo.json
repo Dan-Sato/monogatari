@@ -4149,51 +4149,123 @@
       "chapter_kanji": "第四百六十一章",
       "arc": "日々の余白",
       "group": "日々の余白",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "朝の台所",
+      "file": "chapters/第四百六十一章　朝の台所.html",
+      "status": "existing"
     },
     {
       "chapter": 462,
       "chapter_kanji": "第四百六十二章",
       "arc": "日々の余白",
       "group": "日々の余白",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "買い出しの午後",
+      "file": "chapters/第四百六十二章　買い出しの午後.html",
+      "status": "existing"
     },
     {
       "chapter": 463,
       "chapter_kanji": "第四百六十三章",
       "arc": "日々の余白",
       "group": "日々の余白",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "雨の日の部屋",
+      "file": "chapters/第四百六十三章　雨の日の部屋.html",
+      "status": "existing"
     },
     {
       "chapter": 464,
       "chapter_kanji": "第四百六十四章",
       "arc": "日々の余白",
       "group": "日々の余白",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "近所の夕暮れ",
+      "file": "chapters/第四百六十四章　近所の夕暮れ.html",
+      "status": "existing"
     },
     {
       "chapter": 465,
       "chapter_kanji": "第四百六十五章",
       "arc": "日々の余白",
       "group": "日々の余白",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "それぞれの準備",
+      "file": "chapters/第四百六十五章　それぞれの準備.html",
+      "status": "existing"
     },
     {
       "chapter": 466,
       "chapter_kanji": "第四百六十六章",
       "arc": "日々の余白",
       "group": "日々の余白",
+      "title": "海からの連絡",
+      "file": "chapters/第四百六十六章　海からの連絡.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 467,
+      "chapter_kanji": "第四百六十七章",
+      "arc": "海賊作戦編",
+      "group": "海賊作戦編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 468,
+      "chapter_kanji": "第四百六十八章",
+      "arc": "海賊作戦編",
+      "group": "海賊作戦編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 469,
+      "chapter_kanji": "第四百六十九章",
+      "arc": "海賊作戦編",
+      "group": "海賊作戦編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 470,
+      "chapter_kanji": "第四百七十章",
+      "arc": "海賊作戦編",
+      "group": "海賊作戦編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 471,
+      "chapter_kanji": "第四百七十一章",
+      "arc": "海賊作戦編",
+      "group": "海賊作戦編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 472,
+      "chapter_kanji": "第四百七十二章",
+      "arc": "海賊作戦編",
+      "group": "海賊作戦編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 473,
+      "chapter_kanji": "第四百七十三章",
+      "arc": "海賊作戦編",
+      "group": "海賊作戦編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 474,
+      "chapter_kanji": "第四百七十四章",
+      "arc": "海賊作戦編",
+      "group": "海賊作戦編",
       "title": null,
       "file": null,
       "status": "planned"
