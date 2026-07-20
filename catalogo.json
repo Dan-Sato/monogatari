@@ -4203,69 +4203,114 @@
       "chapter_kanji": "第四百六十七章",
       "arc": "海賊作戦編",
       "group": "海賊作戦編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "海賊作戦の始動",
+      "file": "chapters/第四百六十七章　海賊作戦の始動.html",
+      "status": "existing"
     },
     {
       "chapter": 468,
       "chapter_kanji": "第四百六十八章",
       "arc": "海賊作戦編",
       "group": "海賊作戦編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "海賊衣装と出航前夜",
+      "file": "chapters/第四百六十八章　海賊衣装と出航前夜.html",
+      "status": "existing"
     },
     {
       "chapter": 469,
       "chapter_kanji": "第四百六十九章",
       "arc": "海賊作戦編",
       "group": "海賊作戦編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "海賊船と女船長",
+      "file": "chapters/第四百六十九章　海賊船と女船長.html",
+      "status": "existing"
     },
     {
       "chapter": 470,
       "chapter_kanji": "第四百七十章",
       "arc": "海賊作戦編",
       "group": "海賊作戦編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "船上の雑役",
+      "file": "chapters/第四百七十章　船上の雑役.html",
+      "status": "existing"
     },
     {
       "chapter": 471,
       "chapter_kanji": "第四百七十一章",
       "arc": "海賊作戦編",
       "group": "海賊作戦編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "海上戦",
+      "file": "chapters/第四百七十一章　海上戦.html",
+      "status": "existing"
     },
     {
       "chapter": 472,
       "chapter_kanji": "第四百七十二章",
       "arc": "海賊作戦編",
       "group": "海賊作戦編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "離島へ流れ着く",
+      "file": "chapters/第四百七十二章　離島へ流れ着く.html",
+      "status": "existing"
     },
     {
       "chapter": 473,
       "chapter_kanji": "第四百七十三章",
       "arc": "海賊作戦編",
       "group": "海賊作戦編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "無人島の日々",
+      "file": "chapters/第四百七十三章　無人島の日々.html",
+      "status": "existing"
     },
     {
       "chapter": 474,
       "chapter_kanji": "第四百七十四章",
       "arc": "海賊作戦編",
       "group": "海賊作戦編",
+      "title": "帰還",
+      "file": "chapters/第四百七十四章　帰還.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 475,
+      "chapter_kanji": "第四百七十五章",
+      "arc": "帰宅編",
+      "group": "帰宅編",
+      "title": "帰港",
+      "file": "chapters/第四百七十五章　帰港.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 476,
+      "chapter_kanji": "第四百七十六章",
+      "arc": "帰宅編",
+      "group": "帰宅編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 477,
+      "chapter_kanji": "第四百七十七章",
+      "arc": "帰宅編",
+      "group": "帰宅編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 478,
+      "chapter_kanji": "第四百七十八章",
+      "arc": "帰宅編",
+      "group": "帰宅編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 479,
+      "chapter_kanji": "第四百七十九章",
+      "arc": "帰宅編",
+      "group": "帰宅編",
       "title": null,
       "file": null,
       "status": "planned"

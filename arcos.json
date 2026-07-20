@@ -241,30 +241,36 @@
     "arc": "凪の頃",
     "start": 437,
     "end": 442,
-    "status": "planned"
+    "status": "ok"
   },
   {
     "arc": "スコットランド作戦編",
     "start": 443,
     "end": 453,
-    "status": "planned"
+    "status": "ok"
   },
   {
     "arc": "自転車の旅編",
     "start": 454,
     "end": 460,
-    "status": "planned"
+    "status": "ok"
   },
   {
     "arc": "日々の余白",
     "start": 461,
     "end": 466,
-    "status": "planned"
+    "status": "ok"
   },
   {
     "arc": "海賊作戦編",
     "start": 467,
     "end": 474,
+    "status": "ok"
+  },
+  {
+    "arc": "帰宅編",
+    "start": 475,
+    "end": 479,
     "status": "planned"
   }
 ]
