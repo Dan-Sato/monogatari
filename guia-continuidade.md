@@ -625,46 +625,30 @@ Ao redor da fogueira, ティファ e キャミィ relembram o pânico da explos�
 **474 — 帰還**
 O grupo vê o sinalizador e entende que os reparos do navio estão prontos. Eles desmontam o acampamento, trocam as roupas improvisadas de folhas pelas roupas rasgadas de antes e agradecem à ilha pelos recursos que os mantiveram vivos. B.ジェニー e as Lilien Knights retornam para buscá-los, fechando a parte de aventura com energia de alívio e missão cumprida o suficiente para sair dali. A ilha fica para trás como cenário de uma experiência absurda, mas marcante. O reencontro com a tripulação tem clima de fechamento prático, sem grande cerimônia, só a confirmação de que todos estão bem e podem voltar. キャミィ resume bem a situação ao tratar o ocorrido como concluído o bastante para seguir em frente. ダン percebe que não trouxe a câmera e lamenta não ter registrado nada, o que leva o grupo a refletir que aquela viagem vai viver mais como memória compartilhada do que como arquivo. 舞 responde que talvez nem tudo precise ser transformado em foto. O barco segue de volta para casa com o mar aberto ao redor, e os quatro sentem que a aventura reforçou ainda mais a convivência entre eles. No fim, o arco fecha como mais uma camada da vida compartilhada do grupo — intensa, estranha e, acima de tudo, íntima.
 
-## Arco atual: 帰宅編
+**475 — 到着**
 
-Depois da operação no mar e da sobrevivência na ilha, os quatro finalmente voltam para casa exaustos, sujos, machucados e mentalmente drenados. O arco acompanha a transição da aventura para a vida doméstica: a despedida de B.ジェニー no porto, o retorno ao lar, o banho longo e cuidadoso, os pequenos rituais de higiene e descanso, e a lenta recomposição do corpo e da cabeça.
-No centro do arco está a intimidade cotidiana: conversar sem pressa, comer juntos, dormir por horas, lavar o que foi usado, cuidar dos ferimentos leves, reorganizar a casa e reaprender a ficar em paz depois de tanto estresse. ダン mantém a barba rala porque 舞 gostou do visual, e esse tipo de detalhe vira parte do humor e da ternura do arco. Ao invés de grandes acontecimentos, a graça está nas microcenas de convivência, nos silêncios confortáveis e na forma como o vínculo dos quatro se fortalece no retorno à normalidade.
+O grupo finalmente chega ao porto, exausto mas em segurança, e se despede de B.ジェニー com clima de agradecimento e missão encerrada. A despedida é leve, mas deixa claro que ela foi importante para tirar os quatro daquela situação.
+De volta à cidade, eles pegam um táxi e seguem para casa quase sem forças, só pensando em banho e descanso. O capítulo fecha com os quatro entrando no apartamento e repetindo “ただいま”, marcando a volta ao cotidiano depois da aventura.
 
-### 475 — 到着
+### 476-479 - 帰宅編 ⭐
 
-O navio encosta no porto.
-Despedida da B.ジェニー e das Lilien Knights.
-Pequenos agradecimentos, clima de “missão encerrada”.
-Os quatro embarcam no retorno para casa já com a sensação de exaustão acumulada.
+**476 — ただいま**
 
-### 476 — ただいま
+O grupo chega em casa e vai direto para um banho extremamente demorado, deixando os trapos pelo caminho e finalmente relaxando depois da ilha. O momento é de alívio físico e emocional, com todos lavando a tensão acumulada sem pressa. No banho, ダン e 舞 cuidam de ティファ e キャミィ, limpando ferimentos, massageando ombros e o tornozelo torcido, num clima de carinho doméstico. Depois, vêm os cuidados corporais e a reorganização da aparência, incluindo a barba rala de ダン, que ele mantém por causa do gosto de 舞. O capítulo fecha com os quatro já limpos e exaustos, caindo juntos na cama em total rendição ao conforto. A sensação final é de casa, cuidado e intimidade tranquila.
 
-Chegada em casa.
-Banho extremamente demorado juntos, com alívio físico e emocional.
-Depilação/cuidado corporal, limpeza de ferimentos leves, reorganização da aparência.
-ダン corta a barba rala porque 舞 gostou do visual, mantendo o suficiente para continuar “ralinha”.
-Final com o grupo desabando na cama.
+**477 — ゆるむ時間**
 
-### 477 — ゆるむ時間
+O grupo acorda tarde depois do dia anterior de banho e sono, sem pressa nenhuma para levantar. Café da manhã simples (torrada e ovo), conversa boba sobre fome, sono e o corpo dolorido, tudo isso dividido no sofá sob um mesmo cobertor. 舞 solta o comentário de que todos ficaram sexys com o bronzeado da ilha, gerando risadas e implicância leve entre o grupo. A tarde passa lenta, com os quatro entrelaçados no sofá, sem grande conversa — só presença, carinho e o silêncio confortável de quem finalmente pode descansar de verdade.
 
-Dia seguinte mais lento.
-Eles acordam tarde, comem algo simples, conversam sem pressa.
-Comentários bobos sobre o estado do corpo, cabelo, pele, fome e sono.
-Romance doméstico em pequenas ações: servir comida, dividir cobertor, encostar sem falar muito.
+**478 — 家の音**
 
-### 478 — 家の音
+O grupo entra numa rotina doméstica leve: cozinham juntos, lavam roupa, arrumam a casa e alternam momentos de descanso. Pequenos sons do cotidiano — máquina de lavar, faca cortando legumes — se tornam simbolicamente reconfortantes depois do silêncio da ilha. Numa conversa mais séria durante o descanso, os quatro compartilham o que sentiram de medo durante a missão, revelando camadas emocionais diferentes entre eles. ティファ menciona que já viveu situações tensas antes de conhecer o grupo, ligadas a uma "organização" além de Nibelheim, mas evita detalhar, dizendo que quer contar quando estiver pronta — um gancho sutil para o próximo arco sobre seu passado. O capítulo fecha com o jantar preparado em conjunto e a sensação partilhada de que o cansaço doméstico é, paradoxalmente, um luxo depois de tudo que passaram.
 
-Rotina leve dentro de casa.
-Cozinhar juntos, arrumar o que estava bagunçado, lavar roupas, descanso alternado.
-Conversas mais íntimas sobre o que cada um sentiu na ilha.
-O foco é a recuperação mental e a sensação de “voltar ao normal” sem realmente perder o que foi vivido.
+**479 — 回復**
 
-### 479 — 回復
+O grupo lida com os efeitos colaterais bobos do bronzeado — pele descascando, barba crescendo de novo — e se ajuda mutuamente a passar hidratante, num momento cheio de comédia leve e carinho físico casual. A manhã e a tarde passam entre fome, preguiça e conversa despretensiosa. À tarde, assistem a um filme de romance: 舞 e ティファ se emocionam até as lágrimas, enquanto ダン e キャミィ, sem paciência para o gênero, acabam pegando no sono no meio da sessão — gerando piadas entre o casal "sensível" e o casal "prático". O jantar especial de pizza recheada marca a celebração informal do fim da missão, encerrando o dia com barulho de risada e comida em excesso. O capítulo — e o arco 帰宅編 como um todo — se fecha com os quatro em silêncio confortável no sofá, reconhecendo que, mesmo sem grandes acontecimentos, a experiência da ilha acrescentou algo ao vínculo entre eles. A cena final aponta suavemente para o próximo arco sobre o passado de ティファ, sem forçar um gancho dramático.
 
-Corpo já melhorando, mas ainda cansado.
-Mais comédia leve: fome, preguiça, sono, barba, marcas do sol, corpo dolorido.
-Um dia de silêncio confortável, leitura, descanso, talvez um jantar mais caprichado.
-Fecha como arco doméstico de transição, preparando o terreno para a próxima fase sem urgência.
+## ARCO ATUAL: ティファの過去編 2
 
 ## CRONOGRAMA DOS PRÓXIMOS ARCOS
 
@@ -676,9 +660,10 @@ Fecha como arco doméstico de transição, preparando o terreno para a próxima 
 | 4   | 自転車の旅編 ✅         | 454–460         | Aventura / Romântico / Sensual                            | Passeio de bicicleta de alguns dias pela montanha com acampamento e onsen. Ritmo lento, natureza, conversas noturnas ao redor da fogueira. Sequência mais íntima no onsen.                                                                                                                                                                                                                                                                                                        |
 | 5   | 日々の余白 ✅           | 461–466         | Slice of life cotidiano, comédia leve e romance doméstico | Um arco de respiração entre a viagem de bicicleta e a operação em alto-mar. O foco está no retorno ao ritmo do apartamento, em pequenas tarefas compartilhadas, saídas simples pelo bairro e no conforto silencioso da convivência. A superfície é calma, mas o arco aprofunda a sensação de família escolhida e prepara emocionalmente o contraste com a próxima missão. O encerramento deve quebrar essa paz de forma seca e eficaz, com a mensagem da Delta Red para キャミィ. |
 | 6   | 海賊作戦編 ✅           | 467–474         | Ação / Comédia / Aventura / Sensual                       | Operação contra remanescentes da Shadaloo em alto-mar. **B. Janet** e seu navio pirata. Tema de piratas, mar aberto, ilha deserta. キャミィ em modo missão total vs. clima de aventura descontraído do grupo.                                                                                                                                                                                                                                                                     |
-| 7   | 帰宅編                  | 5 caps.         | Slice of life cotidiano, comédia leve e romance doméstico |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 8   | 運動会編                | 7 caps.         | Comédia / Romance                                         | Arco semelhante ao 家の中の勝負, dessa vez 舞 inventa provas físicas outdoor. Perdedores paga castigo. Antes da prova final começa chover, voltam pra casa e a prova é 脱衣麻雀 ou twister.                                                                                                                                                                                                                                                                                       |
-| 9   | 八神と餓狼編            | 8 caps.         | Ação / Torneio / Drama                                    | Continuação da investigação dos Hidensho e Geese Howard. Participação de **ブルー・マリー**. Plot do Real Bout — torneio em trio. Resolução parcial ou escalada do conflito com Geese.                                                                                                                                                                                                                                                                                            |
+| 7   | 帰宅編 ✅               | 5 caps.         | Slice of life cotidiano, comédia leve e romance doméstico |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 8   | ティファの過去編 2      | 5 caps.         | Aventura / Drama                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 9   | 運動会編                | 7 caps.         | Comédia / Romance                                         | Arco semelhante ao 家の中の勝負, dessa vez 舞 inventa provas físicas outdoor. Perdedores paga castigo. Antes da prova final começa chover, voltam pra casa e a prova é 脱衣麻雀 ou twister.                                                                                                                                                                                                                                                                                       |
+| -   | 八神と餓狼編            | 8 caps.         | Ação / Torneio / Drama                                    | Continuação da investigação dos Hidensho e Geese Howard. Participação de **ブルー・マリー**. Plot do Real Bout — torneio em trio. Resolução parcial ou escalada do conflito com Geese.                                                                                                                                                                                                                                                                                            |
 
 ---
 
