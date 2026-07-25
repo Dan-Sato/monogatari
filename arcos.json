@@ -271,6 +271,18 @@
     "arc": "帰宅編",
     "start": 476,
     "end": 479,
+    "status": "ok"
+  },
+  {
+    "arc": "ティファの過去編 2",
+    "start": 480,
+    "end": 484,
+    "status": "planned"
+  },
+  {
+    "arc": "運動会編",
+    "start": 485,
+    "end": 491,
     "status": "planned"
   }
 ]

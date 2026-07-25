@@ -4284,33 +4284,141 @@
       "chapter_kanji": "第四百七十六章",
       "arc": "帰宅編",
       "group": "帰宅編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "ただいま",
+      "file": "chapters/第四百七十六章　ただいま.html",
+      "status": "existing"
     },
     {
       "chapter": 477,
       "chapter_kanji": "第四百七十七章",
       "arc": "帰宅編",
       "group": "帰宅編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "ゆるむ時間",
+      "file": "chapters/第四百七十七章　ゆるむ時間.html",
+      "status": "existing"
     },
     {
       "chapter": 478,
       "chapter_kanji": "第四百七十八章",
       "arc": "帰宅編",
       "group": "帰宅編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "家の音",
+      "file": "chapters/第四百七十八章　家の音.html",
+      "status": "existing"
     },
     {
       "chapter": 479,
       "chapter_kanji": "第四百七十九章",
       "arc": "帰宅編",
       "group": "帰宅編",
+      "title": "回復",
+      "file": "chapters/第四百七十九章　回復.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 480,
+      "chapter_kanji": "第四百八十章",
+      "arc": "ティファの過去編 2",
+      "group": "ティファの過去編 2",
+      "title": "爆破の夜",
+      "file": "chapters/第四百八十章　爆破の夜.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 481,
+      "chapter_kanji": "第四百八十一章",
+      "arc": "ティファの過去編 2",
+      "group": "ティファの過去編 2",
+      "title": "セブンスヘブンの日々",
+      "file": "chapters/第四百八十一章　セブンスヘブンの日々.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 482,
+      "chapter_kanji": "第四百八十二章",
+      "arc": "ティファの過去編 2",
+      "group": "ティファの過去編 2",
+      "title": "花売りの少女",
+      "file": "chapters/第四百八十二章　花売りの少女.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 483,
+      "chapter_kanji": "第四百八十三章",
+      "arc": "ティファの過去編 2",
+      "group": "ティファの過去編 2",
+      "title": "ウォールマーケットの罠",
+      "file": "chapters/第四百八十三章　ウォールマーケットの罠.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 484,
+      "chapter_kanji": "第四百八十四章",
+      "arc": "ティファの過去編 2",
+      "group": "ティファの過去編 2",
+      "title": "地下水道 へ",
+      "file": "chapters/第四百八十四章　地下水道 へ.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 485,
+      "chapter_kanji": "第四百八十五章",
+      "arc": "運動会編",
+      "group": "運動会編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 486,
+      "chapter_kanji": "第四百八十六章",
+      "arc": "運動会編",
+      "group": "運動会編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 487,
+      "chapter_kanji": "第四百八十七章",
+      "arc": "運動会編",
+      "group": "運動会編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 488,
+      "chapter_kanji": "第四百八十八章",
+      "arc": "運動会編",
+      "group": "運動会編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 489,
+      "chapter_kanji": "第四百八十九章",
+      "arc": "運動会編",
+      "group": "運動会編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 490,
+      "chapter_kanji": "第四百九十章",
+      "arc": "運動会編",
+      "group": "運動会編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 491,
+      "chapter_kanji": "第四百九十一章",
+      "arc": "運動会編",
+      "group": "運動会編",
       "title": null,
       "file": null,
       "status": "planned"
