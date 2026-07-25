@@ -648,30 +648,32 @@ O grupo entra numa rotina doméstica leve: cozinham juntos, lavam roupa, arrumam
 
 O grupo lida com os efeitos colaterais bobos do bronzeado — pele descascando, barba crescendo de novo — e se ajuda mutuamente a passar hidratante, num momento cheio de comédia leve e carinho físico casual. A manhã e a tarde passam entre fome, preguiça e conversa despretensiosa. À tarde, assistem a um filme de romance: 舞 e ティファ se emocionam até as lágrimas, enquanto ダン e キャミィ, sem paciência para o gênero, acabam pegando no sono no meio da sessão — gerando piadas entre o casal "sensível" e o casal "prático". O jantar especial de pizza recheada marca a celebração informal do fim da missão, encerrando o dia com barulho de risada e comida em excesso. O capítulo — e o arco 帰宅編 como um todo — se fecha com os quatro em silêncio confortável no sofá, reconhecendo que, mesmo sem grandes acontecimentos, a experiência da ilha acrescentou algo ao vínculo entre eles. A cena final aponta suavemente para o próximo arco sobre o passado de ティファ, sem forçar um gancho dramático.
 
-## ARCO ATUAL: ティファの過去編 2
+### 480-484 - ティファの過去編 2
 
-### 480 - 爆破の夜
+**480 - 爆破の夜**
 
 O capítulo abre com 舞 e ダン voltando da loja com os materiais para reparar o leque, e isso vira a moldura da conversa. Enquanto eles consertam a peça, ティファ se prepara para contar sua história com mais calma, dando início ao novo arco.
 Ela retoma a memória a partir de Nibelheim e da mudança para Midgar, explicando que acabou se tornando parte da Avalanche e passando a viver no Seventh Heaven, onde também cuidava de Marlene. A missão de explodir o reator é comentada de forma breve: Cloud vai com o grupo, enquanto ティファ fica no bar, preocupada, sustentando a rotina e esperando o retorno deles.
 Quando fala do retorno, ティファ menciona a flor comprada de uma vendedora de flores, lembrando em retrospecto que aquele detalhe aparentemente simples seria importante depois. O capítulo também deixa claro o tom do arco: a ティファ narradora já fala sabendo o destino de Aerith, então tudo é contado com uma camada de memória e perda antecipada.
 O ponto emocional do capítulo está em mostrar que, embora a história avance para conflitos grandes, ela sempre passa pela perspectiva íntima da ティファ. O leque sendo arrumado no fundo da cena reforça essa ideia de reparo, cuidado e preparação para reviver um passado que ainda dói.
 
-### 481 - セブンスヘブンの日々
+**481 - セブンスヘブンの日々**
 
 O capítulo mostra ティファ narrando a rotina tensa dos dias seguintes ao atentado no reator, dividindo o tempo entre cuidar de Marlene, administrar o Seventh Heaven e lidar com a culpa por possíveis vítimas civis causadas pela explosão. Ela detalha o desconforto entre Barret e Cloud, e como, apesar disso, confiava no amigo de infância mesmo sem saber exatamente seus motivos. O ponto central da narrativa é a missão do Reator nº 5: uso de identidades falsas, viagem de trem até o Setor 5, e a descoberta de que tudo era uma armadilha da Shinra. A batalha contra o robô gigante gera reações de descrença bem-humoradas do grupo atual ("tipo de filme? isso é sério?"), que ティファ recebe com graça, prometendo mais tarde contar tudo sobre seu mundo de origem. O capítulo termina no momento em que Cloud cai através do telhado da igreja, aterrissando no campo de flores — sem revelar ainda o encontro com Aerith, apenas indicando que esse reencontro está próximo na cronologia. O leque restaurado por 舞 e ダン serve de fio condutor silencioso, encerrando a cena com uma sensação de calma antes do próximo capítulo mais denso emocionalmente.
 
-### 482 - 花売りの少女
+**482 - 花売りの少女**
 
 ティファ retoma a narrativa a partir da queda de Cloud na igreja e revela, em tom emocional e retrospectivo, que já sabe o destino trágico de Aerith — o que dá um peso melancólico à forma como ela conta os acontecimentos. Ela conta com mais clareza que decidiu ir com os homens de Corneo de propósito, porque sabia que aquela situação podia lhe dar acesso a informações úteis sobre ele e seus vínculos com a Shinra. O incômodo dela não é perigo físico, mas o constrangimento de ser forçada a usar um vestido chamativo e ser exposta daquele jeito em público. O trecho também reforça o tom estratégico da cena: quando ela cruza com Cloud no portão, o olhar entre os dois não é pedido de socorro, e sim uma comunicação silenciosa de que ela está no controle e não quer uma intervenção impulsiva. Aerith percebe a situação e entende rapidamente que Corneo está envolvido em algo pior, o que motiva sua decisão de ajudar a resgatar ティファ. Em resumo, o capítulo funciona como a ponte entre a apresentação da Aerith e a infiltração na mansão, mas com a ティファ agindo como peça ativa da própria história, não como vítima passiva.
 
-### 483 - ウォールマーケットの罠
+**483 - ウォールマーケットの罠**
 
 Cloud e Aerith planejam se infiltrar na mansão disfarçados de "noivas" para Don Corneo (tom divertido); tudo isso é comentado pela perspectiva de ティファ, já sabendo depois o que aconteceu (Cloud dançando no cabaré, vestidos, crossdressing e tal). Enquanto o clima está mais descontraído, 舞 pergunta pro ダン se ele faria a mesma coisa pra resgata-la, ele diz que sim e até pelado iria, キャミィ explode em riso (nunca viram ela rindo assim), a turma fica em choque e dizem que vão continuar fazendo piadas bobas para ve-la rindo. No subsolo da mansão, ティファ e Aerith finalmente se encontram de verdade — conversa curta, mas com conexão imediata; contraste entre a educação recatada de ティファ e o jeito solar e direto de Aerith. ティファ comenta, em tom nostálgico e triste (sabendo o que viria), como aquele foi o começo de uma amizade que ela nunca esperou ter.
 
-### 484 地下水道へ
+**484 - 地下水道へ**
 
 Climax: Corneo escolhe Cloud como "esposa" e rejeitam ティファ e Aerith numa sala, capangas de Corneo avançam, Aerith usa uma cadeira para acertar um deles e ajuda no confronto junto com ティファ — momento de ação compartilhado entre as duas. Fuga apressada, tensão, adrenalina. As duas vão resgatar Cloud. Encerramento exatamente quando o grupo cai nos esgotos, junto com o alívio de ティファ por estar livre e a lembrança presente de que aquele dia selou algo importante entre ela e Aerith. ティファ comenta que estavam prestes a enfrentar um monstro gigante e vai deixar o resto pra depois. A turma curiosa, se espantam pelo monstro ("monstro? como assim monstro? antes foi um robô gigante a agora um monstro?"; "conto tudo depois") reclamam por deixar o gancho e continuar outra hora.
+
+## ARCO ATUAL: 運動会編
 
 ## CRONOGRAMA DOS PRÓXIMOS ARCOS
 
