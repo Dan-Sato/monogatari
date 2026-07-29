@@ -4365,60 +4365,105 @@
       "chapter_kanji": "第四百八十五章",
       "arc": "運動会編",
       "group": "運動会編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "舞、動きたがる",
+      "file": "chapters/第四百八十五章　舞、動きたがる.html",
+      "status": "existing"
     },
     {
       "chapter": 486,
       "chapter_kanji": "第四百八十六章",
       "arc": "運動会編",
       "group": "運動会編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "第一種目：障害物競走",
+      "file": "chapters/第四百八十六章　第一種目：障害物競走.html",
+      "status": "existing"
     },
     {
       "chapter": 487,
       "chapter_kanji": "第四百八十七章",
       "arc": "運動会編",
       "group": "運動会編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "第二種目：的当てと借り物競争",
+      "file": "chapters/第四百八十七章　第二種目：的当てと借り物競争.html",
+      "status": "existing"
     },
     {
       "chapter": 488,
       "chapter_kanji": "第四百八十八章",
       "arc": "運動会編",
       "group": "運動会編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "第三種目：二人三脚と背中合わせ",
+      "file": "chapters/第四百八十八章　第三種目：二人三脚と背中合わせ.html",
+      "status": "existing"
     },
     {
       "chapter": 489,
       "chapter_kanji": "第四百八十九章",
       "arc": "運動会編",
       "group": "運動会編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "第四種目：スポーツ鬼ごっこ",
+      "file": "chapters/第四百八十九章　第四種目：スポーツ鬼ごっこ.html",
+      "status": "existing"
     },
     {
       "chapter": 490,
       "chapter_kanji": "第四百九十章",
       "arc": "運動会編",
       "group": "運動会編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "第五種目：脱衣麻雀再び",
+      "file": "chapters/第四百九十章　第五種目：脱衣麻雀再び.html",
+      "status": "existing"
     },
     {
       "chapter": 491,
       "chapter_kanji": "第四百九十一章",
       "arc": "運動会編",
       "group": "運動会編",
+      "title": "運動会の終わり",
+      "file": "chapters/第四百九十一章　運動会の終わり.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 492,
+      "chapter_kanji": "第四百九十二章",
+      "arc": "罰ゲーム運動会：選んだ家族の支払い日",
+      "group": "罰ゲーム運動会：選んだ家族の支払い日",
+      "title": "キャミィ式・特別訓練メニュー",
+      "file": "chapters/第四百九十二章　キャミィ式・特別訓練メニュー.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 493,
+      "chapter_kanji": "第四百九十三章",
+      "arc": "罰ゲーム運動会：選んだ家族の支払い日",
+      "group": "罰ゲーム運動会：選んだ家族の支払い日",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 494,
+      "chapter_kanji": "第四百九十四章",
+      "arc": "罰ゲーム運動会：選んだ家族の支払い日",
+      "group": "罰ゲーム運動会：選んだ家族の支払い日",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 495,
+      "chapter_kanji": "第四百九十五章",
+      "arc": "罰ゲーム運動会：選んだ家族の支払い日",
+      "group": "罰ゲーム運動会：選んだ家族の支払い日",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 496,
+      "chapter_kanji": "第四百九十六章",
+      "arc": "罰ゲーム運動会：選んだ家族の支払い日",
+      "group": "罰ゲーム運動会：選んだ家族の支払い日",
       "title": null,
       "file": null,
       "status": "planned"

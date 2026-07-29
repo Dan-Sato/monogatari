@@ -673,7 +673,112 @@ Cloud e Aerith planejam se infiltrar na mansão disfarçados de "noivas" para Do
 
 Climax: Corneo escolhe Cloud como "esposa" e rejeitam ティファ e Aerith numa sala, capangas de Corneo avançam, Aerith usa uma cadeira para acertar um deles e ajuda no confronto junto com ティファ — momento de ação compartilhado entre as duas. Fuga apressada, tensão, adrenalina. As duas vão resgatar Cloud. Encerramento exatamente quando o grupo cai nos esgotos, junto com o alívio de ティファ por estar livre e a lembrança presente de que aquele dia selou algo importante entre ela e Aerith. ティファ comenta que estavam prestes a enfrentar um monstro gigante e vai deixar o resto pra depois. A turma curiosa, se espantam pelo monstro ("monstro? como assim monstro? antes foi um robô gigante a agora um monstro?"; "conto tudo depois") reclamam por deixar o gancho e continuar outra hora.
 
-## ARCO ATUAL: 運動会編
+### 485-491 - 運動会編 ⭐⭐⭐⭐
+
+Tom: Comédia / Romance / Sensual — extensão natural do 家の中の勝負, desta vez com o corpo em movimento e o céu aberto como palco.
+
+**485 - 舞、動きたがる**
+Abertura do arco. 舞 anuncia, enquanto estica as costas no sofá com a expressão de quem já tomou uma decisão irrevogável, que o corpo está pedindo movimento depois de tanto descanso acumulado — referência direta à 海賊作戦編, 帰宅編 e ティファの過去編 2. Ela inventa as regras no mesmo estilo do 家の中の勝負: provas físicas ao ar livre, vencedor escolhe o castigo do perdedor. キャミィ pergunta quantas provas. 舞 responde que ainda está decidindo. ダン pergunta se há possibilidade de veto. Leque fecha. キャミィ já está de agasalho.
+
+**486 - 第一種目：障害物競走**
+Primeira prova: corrida com obstáculos improviados no parque. 舞 monta o percurso com bambolês, cones de estacionamento emprestados do prédio, o banco do parque e uma fita de crepe como linha de chegada. キャミィ chega tão antes das outras que fica esperando com os braços cruzados enquanto as outras ainda estão no meio. ダン chega em segundo com uma estratégia imprevista que 舞 declara tecnicamente inválida (「抜け道は競技に入っていない」). ティファ chega em terceiro rindo demais para correr direito.
+
+**487 - 第二種目：的当てと借り物競争**
+Dupla de provas. Arremesso de argola num galho de árvore (キャミィ com precisão de lançamento de faca — 舞 reclama que é desvantagem injusta) e corrida de objetos emprestados, onde a carta diz 「一番大切なもの」 — "a coisa mais importante". キャミィ volta com ティファ no colo sem hesitar. ダン volta com a câmera. 舞 volta com o leque. ティファ volta com キャミィ nas costas. O árbitro (舞, que se exclui da segunda prova) decide que tanto キャミィ quanto ダン venceram — por motivos diferentes.
+
+**488 - 第三種目：二人三脚と背中合わせ**
+Provas em duplas. 舞 sorteia as duplas: 舞＋キャミィ contra ティファ＋ダン. Corrida de três pernas: キャミィ e 舞 têm estilos completamente incompatíveis — キャミィ quer cadência militar, 舞 quer fluir. Caem. Riem. Caem de novo. ティファ e ダン vencem por margem mínima. Segunda prova: de costas um com o outro, transportar uma bola sem usar as mãos entre as costas. ティファ＋ダン: eficientes. 舞＋キャミィ: キャミィ empurra com força demais, 舞 perde o leque, declara que o leque não é peça do jogo. キャミィ diz que ele estava no caminho. 舞: 「忍者にずるいという概念はない」, que キャミィ já conhecia desse argumento. ダン guarda a frase e sorri.
+
+**489 - 第四種目：スポーツ鬼ごっこ**
+Antes da prova 5, começa a chuver. Mas este capítulo ainda está no ensolarado. Pega-pega com fita na cintura: キャミィ no modo missão — fita de ティファ arrancada em 4 segundos. 舞 usa 龍炎舞 para se esquivar, o que ダン registra em vídeo. ティファ tenta proteger a fita de キャミィ sendo um escudo humano, o que キャミィ considera ilógico e adorável ao mesmo tempo. ダン dura mais do que qualquer previsão usando o ambiente (banco, árvore, tobogã do parque). Cena final: no meio da quinta prova planejada, o céu fecha rápido — primeiras gotas caem. 舞 olha para cima, depois para o grupo com o leque na mão, e anuncia: 「最後の種目は室内でやる」.
+
+**490 - 第五種目：脱衣麻雀再び**
+A prova final, dentro de casa. 舞 , ダン e ティファ chegam a casa encharcados, キャミィ chegou seca (「走れば雨は当たらない」 — lógica absoluta). Vão para o banho para evitar um resfriado. Depois, 舞 coloca as opções na mesa: 脱衣麻雀 ou Twister. Votação: 舞 vota em 脱衣麻雀, ティファ vota em Twister, キャミィ diz 「どちらでも戦略次第だ」 sem votar, ダン pergunta se tem opção C. Leque fecha. O grupo decide por 脱衣麻雀. キャミィ estabelece limite de peças mínimas, quem perde a rodada passa a roupa para o vencedor da rodada, vence a partida quem tiver mais peças, perde quem zerar. ダン começa a perder imediatamente. ティファ surpreende com habilidade razoável. キャミィ joga como se fosse interrogatório tático. 舞 vira de top após algumas rodadas — ダン congela; 舞 manda não olhar; ele diz 「一瞬だけ」. ティファ não esconde o riso e pergunta 「何が問題なの? 私たち、いつも一緒にお風呂に入ってるのに」. キャミィ: 「集中しろ」. Perto do fim ダン comenta que encerrar o jogo agora era mais interessante do que chegar ao fim (já que está a beira da derrota), 舞 não aceita e repete o comentário da ティファ. Continuam até alguém perder.
+
+**491 - 運動会の終わり**
+Fechamento do arco. No fim do jogo, como esperado ダン perde e 舞 vence por pouco e anota no caderno. 舞 contabiliza os vencedores e perdedores. キャミィ e ティファ preparam o chá. ダン pega a câmera e tira uma foto do grupo ainda com as peças de roupa espalhadas no sofá, cabelo úmido do banho, todos rindo de algo que ninguém explica direito. 舞 vê a foto. Não pede pra apagar. Apenas diz: 「今日は悪くなかった」. キャミィ vira o rosto na direção errada. ティファ encosta na キャミィ com um sorriso enorme. ダン guarda a câmera. Depois, fazem a janta e comem comentando, rindo e reclamando das provas e futuro castigo. Fio aberto do arco: vencedores de cada prova combinar os castigos dos perdedores.
+
+## PRÓXIMO ARCO: 罰ゲーム運動会：選んだ家族の支払い日
+
+**492 - キャミィ式・特別訓練メニュー**
+
+キャミィ → ダン
+Ideia: “treino especial” como castigo
+Premissa: Como vencedora da corrida de obstáculos e do pega-pega, キャミィ impõe a ダン um dia de “treino Delta Red versão doméstica”: alongamento, circuito dentro do apartamento/prédio, postura, respiração, tudo cronometrado.
+
+Momentos-chave:
+
+Aquecimento: ダン achando que será algo leve e se lascando com agachamentos, prancha etc.
+
+Situações de contato físico inevitável: キャミィ ajustando postura por trás, segurando o pulso para corrigir guarda, aproximando o rosto para checar respiração — tudo descrito na chave “técnica”, mas o clima trai isso.
+
+Quebra de personagem: em algum exercício mais bobo (tipo “escalar” o encosto do sofá), キャミィ solta um comentário seco sobre a falta de jeito dele e, quando ele ri de si mesmo, ela acaba rindo também, mas vira o rosto pra não mostrar.
+
+Fechamento: no fim, キャミィ “avalia” o desempenho: nota baixa em condicionamento, nota alta em “persistência sob condições adversas”, e dá permissão pra descansar encostado no colo dela por alguns minutos “pra recuperar o pulso cardíaco”.
+
+**493 - 舞プロデュース・女の子改造計画**
+
+舞 → キャミィ
+Ideia: castigo de feminilidade/controladora
+Premissa: 舞 ganhou a modalidade “mental” (alvo +借り物) e quer “compensar” o fato de Cammy ser tão militar: castigo é passar uma tarde inteira como modelo de yukata ou roupa super feminina escolhida por 舞, com direito a sessão de fotos.
+
+Momentos-chave:
+
+Escolha da roupa: 舞 abre guarda-roupa/caixa, mistura roupas tradicionais (yukata, kimono leve) com peças modernas que deixam キャミィ em tilt (“por que isso tem laço?”).
+
+Vestiário: cena de bastidores onde 舞 ajuda a ajustar faixa, encosta atrás para ajeitar a gola, solta frases tipo “ficou melhor do que imaginei” num tom que deixa a outra sem saber se é elogio operacional ou pessoal.
+
+Sessão de fotos: dançam entre poses exageradamente sensuais sugeridas por 舞 e poses rígidas impostas por Cammy; a comédia é justamente essa luta entre “ninja exibida” e “soldado tenso”.
+
+Fechamento: 舞 mostra as fotos, escolhe uma em que キャミィ está rindo sem perceber; não pede para apagar, só comenta algo tipo “essa é a verdadeira você”, plantando uma sementinha de intimidade.
+
+**494 - 二人三脚の逆襲：ご奉仕デー**
+
+ティファ＋ダン → 舞＋キャミィ
+Ideia: “dia de servidão” invertido / payback de dupla
+Premissa: Por terem ganho a prova de duplas, ティファ e ダン definem um castigo conjunto: 舞 e キャミィ passam um dia como “staff” dos dois — ajudando em tarefas domésticas e jogos escolhidos pelo par, mas com uma regra: não podem usar qualquer truque ninja/militar para trapacear.
+
+Momentos-chave:
+
+Manhã: 舞 e キャミィ fazendo tarefas normais (cozinhar, arrumar, carregar compras), mas toda hora tentando “otimizar” com técnicas de missão; ティファ aponta “isso é trapaça” e manda refazer do jeito normal.
+
+Mini-jogo: por insistência de ティファ, finalmente jogam Twister — agora com vantagens dadas aos vencedores (ex: 舞 e キャミィ entram depois, posições piores). A comédia física vem do emaranhado de quatro corpos, e o lado sensual aparece em toques inevitáveis, mechas de cabelo caindo, respirações próximas.
+
+Conversa cruzada: em algum momento de descanso, ティファ e ダン falam abertamente do quanto se divertiram vendo as duas (Mai/Cammy) perderem um pouco o controle — aí surgem microconfissões (ex.: “ver você rindo daquele jeito foi bom”).
+
+Fechamento: no fim do dia, ティファ declara “castigo cumprido” e ainda prepara uma sobremesa extra para 舞 e キャミィ, transformando o castigo em algo que mais parece um dia de família levemente caótico.
+
+**495 - ティファの朝活ブートキャンプ**
+
+キャミィ → ティファ
+Ideia: disciplina gentil / “boot camp” doméstico
+Premissa: キャミィ ganhou o sports-oni contra ティファ e decide que o castigo dela é fazer um “mini-boot-camp” matinal, mas adaptado para alguém que não é soldado. A ideia é “te deixar mais forte pro próximo arco”, mas a execução é cheia de carinho sem querer.
+
+Momentos-chave:
+
+Madrugada demais: キャミィ chamando ティファ cedo, ela aparece de pijama bagunçado e expressão de “não acredito”, mas ainda assim aceita.
+
+Exercícios adaptados: alongamentos em dupla, corrida leve pelo corredor, flexões com キャミィ ajustando posição por trás; cena de “ajudar a alongar a perna”, onde a proximidade gera aquele silêncio constrangedor porém confortável.
+
+Recompensa: キャミィ, metódica, prepara uma bebida (chá proteico, smoothie) e entrega como se fosse parte do protocolo; ティファ percebe que é cuidado e destaca isso (“você é mais gentil do que parece”).
+
+Fechamento: キャミィ registra o “progresso” em um caderninho próprio, espelhando o caderno de 舞, e diz algo como “assim você aguenta qualquer castigo futuro”.
+
+**496 - 舞とダンの監督付きデート**
+
+舞 → ダン
+Ideia: castigo-date sob direção da Mai
+Premissa: Como vencedora do 脱衣麻雀, 舞 declara que o castigo de ダン é “um encontro totalmente dirigido por ela” — ele deve seguir o script inteiro sem reclamar, desde roupa até atividades.
+
+Momentos-chave:
+
+Preparação: 舞 escolhe roupas para ダン (algo um pouco mais arrumado do que ele usaria), penteia o cabelo dele, talvez passa um pouco de gel dizendo “parte do castigo é você parecer apresentável ao meu lado”.
+
+“Encontro” indoor: como estão em casa/prédio, ela transforma isso em tour: sessão de fotos a dois (repetindo o motivo da câmera), cozinha em dupla com ele como assistente, jogo em que ele precisa adivinhar qual movimento ninja ela faria em certa situação, e paga “multas” fofas quando erra (tipo segurar a mão dela por 10 segundos).
+
+Momento de vulnerabilidade: em algum ponto, ela admite que o castigo é só desculpa para passar um tempo a dois sem interferência; ele reage com mistura de vergonha e sinceridade.
+
+Fechamento de arco: 舞 atualiza o caderno com “castigos cumpridos” e, talvez, acrescenta uma nova coluna para “recompensas futuras”, sugerindo que depois virá um arco de prêmios em vez de punições.
 
 ## CRONOGRAMA DOS PRÓXIMOS ARCOS
 
@@ -687,7 +792,7 @@ Climax: Corneo escolhe Cloud como "esposa" e rejeitam ティファ e Aerith numa
 | 6   | 海賊作戦編 ✅           | 467–474         | Ação / Comédia / Aventura / Sensual                       | Operação contra remanescentes da Shadaloo em alto-mar. **B. Janet** e seu navio pirata. Tema de piratas, mar aberto, ilha deserta. キャミィ em modo missão total vs. clima de aventura descontraído do grupo.                                                                                                                                                                                                                                                                     |
 | 7   | 帰宅編 ✅               | 5 caps.         | Slice of life cotidiano, comédia leve e romance doméstico |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | 8   | ティファの過去編 2 ✅   | 5 caps.         | Aventura / Drama                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 9   | 運動会編                | 7 caps.         | Comédia / Romance                                         | Arco semelhante ao 家の中の勝負, dessa vez 舞 inventa provas físicas outdoor. Perdedores paga castigo. Antes da prova final começa chover, voltam pra casa e a prova é 脱衣麻雀 ou twister.                                                                                                                                                                                                                                                                                       |
+| 9   | 運動会編 ✅             | 7 caps.         | Comédia / Romance                                         | Arco semelhante ao 家の中の勝負, dessa vez 舞 inventa provas físicas outdoor. Perdedores paga castigo. Antes da prova final começa chover, voltam pra casa e a prova é 脱衣麻雀 ou twister.                                                                                                                                                                                                                                                                                       |
 | -   | 八神と餓狼編            | 8 caps.         | Ação / Torneio / Drama                                    | Continuação da investigação dos Hidensho e Geese Howard. Participação de **ブルー・マリー**. Plot do Real Bout — torneio em trio. Resolução parcial ou escalada do conflito com Geese.                                                                                                                                                                                                                                                                                            |
 
 ---
