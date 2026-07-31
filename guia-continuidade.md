@@ -698,87 +698,43 @@ A prova final, dentro de casa. 舞 , ダン e ティファ chegam a casa encharc
 **491 - 運動会の終わり**
 Fechamento do arco. No fim do jogo, como esperado ダン perde e 舞 vence por pouco e anota no caderno. 舞 contabiliza os vencedores e perdedores. キャミィ e ティファ preparam o chá. ダン pega a câmera e tira uma foto do grupo ainda com as peças de roupa espalhadas no sofá, cabelo úmido do banho, todos rindo de algo que ninguém explica direito. 舞 vê a foto. Não pede pra apagar. Apenas diz: 「今日は悪くなかった」. キャミィ vira o rosto na direção errada. ティファ encosta na キャミィ com um sorriso enorme. ダン guarda a câmera. Depois, fazem a janta e comem comentando, rindo e reclamando das provas e futuro castigo. Fio aberto do arco: vencedores de cada prova combinar os castigos dos perdedores.
 
-## PRÓXIMO ARCO: 罰ゲーム運動会：選んだ家族の支払い日
+### 492-496 - 罰ゲーム運動会：選んだ家族の支払い日 ⭐⭐⭐⭐⭐
 
 **492 - キャミィ式・特別訓練メニュー**
 
 キャミィ → ダン
-Ideia: “treino especial” como castigo
-Premissa: Como vencedora da corrida de obstáculos e do pega-pega, キャミィ impõe a ダン um dia de “treino Delta Red versão doméstica”: alongamento, circuito dentro do apartamento/prédio, postura, respiração, tudo cronometrado.
-
-Momentos-chave:
-
-Aquecimento: ダン achando que será algo leve e se lascando com agachamentos, prancha etc.
-
-Situações de contato físico inevitável: キャミィ ajustando postura por trás, segurando o pulso para corrigir guarda, aproximando o rosto para checar respiração — tudo descrito na chave “técnica”, mas o clima trai isso.
-
-Quebra de personagem: em algum exercício mais bobo (tipo “escalar” o encosto do sofá), キャミィ solta um comentário seco sobre a falta de jeito dele e, quando ele ri de si mesmo, ela acaba rindo também, mas vira o rosto pra não mostrar.
-
-Fechamento: no fim, キャミィ “avalia” o desempenho: nota baixa em condicionamento, nota alta em “persistência sob condições adversas”, e dá permissão pra descansar encostado no colo dela por alguns minutos “pra recuperar o pulso cardíaco”.
+ダン paga o castigo de キャミィ num “treino especial Delta Red doméstico”: alongamento, agachamentos, prancha e circuito de obstáculos pela sala, tudo cronometrado e com correções de postura em contato bem próximo.
+Ele sofre nos exercícios, mas não desiste em nenhum momento, o que rende avaliação baixa em condicionamento e alta em persistência/adaptação.
+No “exercício final”, キャミィ manda ele descansar com a cabeça no colo dela por alguns minutos “para recuperar o pulso”, transformando o castigo em recompensa disfarçada de ordem militar.
 
 **493 - 舞プロデュース・女の子改造計画**
 
 舞 → キャミィ
-Ideia: castigo de feminilidade/controladora
-Premissa: 舞 ganhou a modalidade “mental” (alvo +借り物) e quer “compensar” o fato de Cammy ser tão militar: castigo é passar uma tarde inteira como modelo de yukata ou roupa super feminina escolhida por 舞, com direito a sessão de fotos.
-
-Momentos-chave:
-
-Escolha da roupa: 舞 abre guarda-roupa/caixa, mistura roupas tradicionais (yukata, kimono leve) com peças modernas que deixam キャミィ em tilt (“por que isso tem laço?”).
-
-Vestiário: cena de bastidores onde 舞 ajuda a ajustar faixa, encosta atrás para ajeitar a gola, solta frases tipo “ficou melhor do que imaginei” num tom que deixa a outra sem saber se é elogio operacional ou pessoal.
-
-Sessão de fotos: dançam entre poses exageradamente sensuais sugeridas por 舞 e poses rígidas impostas por Cammy; a comédia é justamente essa luta entre “ninja exibida” e “soldado tenso”.
-
-Fechamento: 舞 mostra as fotos, escolhe uma em que キャミィ está rindo sem perceber; não pede para apagar, só comenta algo tipo “essa é a verdadeira você”, plantando uma sementinha de intimidade.
+Com ダン ainda no colo de キャミィ, 舞 e ティファ espiam os dois atrás da porta do quarto, acham fofa a situação e registram em foto. キャミィ libera um beijo, no momento, 舞 e ティファ caem no corredor e provocam os dois.
+舞 cobra o castigo da prova “mental” transformando キャミィ em modelo por uma tarde inteira: yukata, vestido e blusa com laço, tudo escolhido e ajustado por ela, com direito a sessão de fotos dirigida como se fosse um mini fashion show doméstico.
+キャミィ passa o tempo inteiro tentando manter postura de soldado, enquanto 舞 e ティファ vão quebrando essa rigidez com poses mais suaves e comentários carinhosos, até surgir uma foto em que キャミィ ri sem perceber; 舞 diz que aquele é o “verdadeiro rosto” dela e キャミィ aceita guardar a imagem como registro da família escolhida, sem pedir para apagar.
 
 **494 - 二人三脚の逆襲：ご奉仕デー**
 
 ティファ＋ダン → 舞＋キャミィ
-Ideia: “dia de servidão” invertido / payback de dupla
-Premissa: Por terem ganho a prova de duplas, ティファ e ダン definem um castigo conjunto: 舞 e キャミィ passam um dia como “staff” dos dois — ajudando em tarefas domésticas e jogos escolhidos pelo par, mas com uma regra: não podem usar qualquer truque ninja/militar para trapacear.
-
-Momentos-chave:
-
-Manhã: 舞 e キャミィ fazendo tarefas normais (cozinhar, arrumar, carregar compras), mas toda hora tentando “otimizar” com técnicas de missão; ティファ aponta “isso é trapaça” e manda refazer do jeito normal.
-
-Mini-jogo: por insistência de ティファ, finalmente jogam Twister — agora com vantagens dadas aos vencedores (ex: 舞 e キャミィ entram depois, posições piores). A comédia física vem do emaranhado de quatro corpos, e o lado sensual aparece em toques inevitáveis, mechas de cabelo caindo, respirações próximas.
-
-Conversa cruzada: em algum momento de descanso, ティファ e ダン falam abertamente do quanto se divertiram vendo as duas (Mai/Cammy) perderem um pouco o controle — aí surgem microconfissões (ex.: “ver você rindo daquele jeito foi bom”).
-
-Fechamento: no fim do dia, ティファ declara “castigo cumprido” e ainda prepara uma sobremesa extra para 舞 e キャミィ, transformando o castigo em algo que mais parece um dia de família levemente caótico.
+ティファ e ダン cobram o “contra-ataque” da corrida de três pernas fazendo 舞 e キャミィ passarem um dia como staff, cuidando de tarefas domésticas e jogando Twister, mas sempre sob regras que proíbem qualquer truque ninja/militar.
+Ao longo do dia, as duas perdem um pouco o controle habitual e acabam rindo, se embolando no Twister e aceitando refazer tarefas “do jeito normal”, até o castigo terminar com ティファ servindo sobremesa para agradecer pelo esforço, deixando tudo com cara de dia de família caótico e manso em vez de punição.
 
 **495 - ティファの朝活ブートキャンプ**
 
 キャミィ → ティファ
-Ideia: disciplina gentil / “boot camp” doméstico
-Premissa: キャミィ ganhou o sports-oni contra ティファ e decide que o castigo dela é fazer um “mini-boot-camp” matinal, mas adaptado para alguém que não é soldado. A ideia é “te deixar mais forte pro próximo arco”, mas a execução é cheia de carinho sem querer.
-
-Momentos-chave:
-
-Madrugada demais: キャミィ chamando ティファ cedo, ela aparece de pijama bagunçado e expressão de “não acredito”, mas ainda assim aceita.
-
-Exercícios adaptados: alongamentos em dupla, corrida leve pelo corredor, flexões com キャミィ ajustando posição por trás; cena de “ajudar a alongar a perna”, onde a proximidade gera aquele silêncio constrangedor porém confortável.
-
-Recompensa: キャミィ, metódica, prepara uma bebida (chá proteico, smoothie) e entrega como se fosse parte do protocolo; ティファ percebe que é cuidado e destaca isso (“você é mais gentil do que parece”).
-
-Fechamento: キャミィ registra o “progresso” em um caderninho próprio, espelhando o caderno de 舞, e diz algo como “assim você aguenta qualquer castigo futuro”.
+O boot camp é quase inteiro carinho disfarçado de disciplina: キャミィ acorda ティファ antes do amanhecer para um “treino” leve de alongamentos, corrida pelo corredor e prancha/flexões, tudo calibrado para alguém muito menos militar — só que ティファ é atlética e acha tudo fácil, fingindo um pouco de esforço só pra acompanhar o clima.
+No final, キャミィ prepara uma bebida de recuperação (proteína com chá), registra o progresso da ティファ num caderninho próprio espelhando o da 舞 e, depois de ouvir o pedido de beijo, reconsidera: concede permissão “em categoria à parte” e as duas trocam um beijo suave à luz da manhã, enquanto 舞 e ダン, na porta, escolhem não fotografar esse momento específico.
 
 **496 - 舞とダンの監督付きデート**
 
 舞 → ダン
-Ideia: castigo-date sob direção da Mai
-Premissa: Como vencedora do 脱衣麻雀, 舞 declara que o castigo de ダン é “um encontro totalmente dirigido por ela” — ele deve seguir o script inteiro sem reclamar, desde roupa até atividades.
+舞 encerra o arco de castigos com um “encontro dirigido”: como vencedora do 脱衣麻雀, ela decreta que o castigo de ダン é seguir um date inteiro roteirizado por ela, da roupa às atividades, sem reclamar.
+Eles saem para comprar ingredientes mais refinados, 舞 escolhe roupas mais arrumadas, aparando cabelo e barba de ダン com a justificativa de que “parte do castigo é parecer apresentável ao meu lado”.
+Em casa, ティファ e キャミィ se recolhem para não atrapalhar e deixam câmera e tripé preparados; 舞 aparece com um vestido novo que deixa ダン sem palavras, puxa sessão de fotos a dois, jantar sofisticado em dupla (com ティファ surgindo só para fazer coquetéis) e um “quiz ninja” em que os “castigos” pelos erros são coisas fofas, como segurar a mão dela por dez segundos ou apoiar a cabeça no ombro.
+No sofá, com 舞 deitada no peito dele, ela admite que tudo foi mais desculpa para ter um tempo a dois sem interferência; ダン responde que esse foi o castigo de que mais gostou até agora, e ela marca o item como cumprido no caderno, abrindo ao lado uma nova coluna de ご褒美欄 (recompensas), sugerindo que o próximo bloco vai girar menos em punições e mais em prêmios compartilhados entre a “família escolhida”.
 
-Momentos-chave:
-
-Preparação: 舞 escolhe roupas para ダン (algo um pouco mais arrumado do que ele usaria), penteia o cabelo dele, talvez passa um pouco de gel dizendo “parte do castigo é você parecer apresentável ao meu lado”.
-
-“Encontro” indoor: como estão em casa/prédio, ela transforma isso em tour: sessão de fotos a dois (repetindo o motivo da câmera), cozinha em dupla com ele como assistente, jogo em que ele precisa adivinhar qual movimento ninja ela faria em certa situação, e paga “multas” fofas quando erra (tipo segurar a mão dela por 10 segundos).
-
-Momento de vulnerabilidade: em algum ponto, ela admite que o castigo é só desculpa para passar um tempo a dois sem interferência; ele reage com mistura de vergonha e sinceridade.
-
-Fechamento de arco: 舞 atualiza o caderno com “castigos cumpridos” e, talvez, acrescenta uma nova coluna para “recompensas futuras”, sugerindo que depois virá um arco de prêmios em vez de punições.
+## PRÓXIMO ARCO:
 
 ## CRONOGRAMA DOS PRÓXIMOS ARCOS
 
