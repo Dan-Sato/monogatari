@@ -734,7 +734,48 @@ Eles saem para comprar ingredientes mais refinados, 舞 escolhe roupas mais arru
 Em casa, ティファ e キャミィ se recolhem para não atrapalhar e deixam câmera e tripé preparados; 舞 aparece com um vestido novo que deixa ダン sem palavras, puxa sessão de fotos a dois, jantar sofisticado em dupla (com ティファ surgindo só para fazer coquetéis) e um “quiz ninja” em que os “castigos” pelos erros são coisas fofas, como segurar a mão dela por dez segundos ou apoiar a cabeça no ombro.
 No sofá, com 舞 deitada no peito dele, ela admite que tudo foi mais desculpa para ter um tempo a dois sem interferência; ダン responde que esse foi o castigo de que mais gostou até agora, e ela marca o item como cumprido no caderno, abrindo ao lado uma nova coluna de ご褒美欄 (recompensas), sugerindo que o próximo bloco vai girar menos em punições e mais em prêmios compartilhados entre a “família escolhida”.
 
-## PRÓXIMO ARCO:
+## PRÓXIMO ARCO: リアルバウト (1)
+
+Objetivo dramático do arco:
+
+Mostrar Mai e Tifa levando a sério o novo torneio de duplas, evoluindo fisicamente e taticamente.
+Dar espaço pra Cammy e Mary alinharem o plano investigativo (quem está financiando o torneio, que contatos do Geese reapareceram, qual é a ameaça real).
+Consolidar Dan como suporte não-lutador: coach, analista de dados, logística, e “coração” da equipe, mantendo a vibe de família aberta sem ciúmes.
+
+497 - ブルー・マリーの再連絡
+
+舞 e ダン estão saindo para compras quando o celular toca com “BLUE MARY”; ela pensa 「また来た…」 porque entende na hora que é a continuação da investigação em South Town e dos Hidensho.
+ブルー・マリー explica que os fios ligados a Geese voltaram a se mover, que haverá um novo King of Fighters com chave single e de duplas, e pede ajuda: キャミィ como parceira de campo, 舞 e ティファ como dupla, ダン como coach e analista. 舞 aceita, diz que se アンディ aparecer será só mais um adversário qualquer, e à noite os quatro combinam começar um ciclo sério de treino físico e técnico a partir de amanhã.
+
+498 - 新しい訓練の約束
+
+Os quatro transformam a ligação da マリー em plano concreto: ダン monta, num caderno, um cronograma de treino com manhã de força (pernas, core, ombros), tarde de cardio/corridas/escadas coordenadas pela キャミィ e noite de sparring, footwork e counters focados na dupla 舞+ティファ.
+舞 tenta dar um toque ninja nos drills, ティファ aceita tudo como desafio divertido, キャミィ define a linha “não é treino militar, mas também não é passeio”, e o capítulo termina com ダン escrevendo o objetivo geral (“vencer em South Town e voltar todos sorrindo”) e 舞 chamando isso de acordo que eles prometem cumprir.
+
+499 - 筋力トレーニングの日
+
+Comaçam pulando corda para aquecimentos, ダン e キャミィ ficam totalmente hipnotizados com o "balançar" dos corpos de 舞 e ティファ. Depois de uns puxões de orelha, Dan controla séries para 舞 e ティファ, com comentários tipo “isso é pra aguentar quedas e projeções” e “isso é pra manter guarda alta sem cansar”. ティファ revela que já tem base física boa; para ela, o boot é mais sobre consistência do que sobre aguentar esforço. 舞 descobre que algumas cadeias musculares que ela usa no estilo ninja não estão tão trabalhadas em exercícios tradicionais — oportunidade de crescimento.
+Espaço pra momentos “gostosos”: troca de elogios discretos (“seu alinhamento melhorou”, “o seu golpe com base firme ficou bonito”), toques físicos inevitáveis de apoio, sem erotizar demais, mas mantendo o tom do arco anterior. ダン babando e desconcentrando ao vê-las treinando.
+
+500 - 走る朝と息を整える午後
+
+Rotina de corrida em ambiente urbano/local (escadas do prédio, ruas próximas, parque), já servindo como “simulação” de circulação pela South Town.
+ダン mede tempos e frequência cardíaca, compara com os dados do arco 餓狼伝説編 pra mostrar progresso (tipo: “naquele treino você cansava em X, agora chegou em Y”).
+キャミィ aplica blocos de treino intervalado (sprints, trote, caminhada) e conversa com Mary por mensagem sobre como isso vai se traduzir em capacidade de reagir rápido a incidentes durante o torneio.
+ティファ vê o cardio como “brincadeira de perseguição” e internaliza que se algo der errado no torneio, ela vai ser a primeira a sair correndo pra proteger alguém — isso dá peso emocional ao treino, não é só fitness.
+
+501 - 二人組スパーリングと大会の知らせ
+
+Esse é o capítulo que fecha o arco 1 e já planta ganchos pro torneio.
+Sparring em dupla:
+Mai e Tifa treinam combos de dois contra um, entradas e saídas coordenadas, cobrindo o flanco uma da outra — espelhando ideias de Real Bout, onde posicionamento e leitura de campo contam tanto quanto golpes.
+Cammy alterna como adversária e como árbitra improvisada, impondo regras (sem golpes que quebrariam pescoço, foco em controle de distância, etc.).
+Sessões de visualização mental: Dan conduz uma espécie de “brifing” em que descreve cenários possíveis no torneio (adversário agressivo, público hostil, presença de contatos do Geese nas arquibancadas) e pede que cada uma diga como reagiria.
+Momento de intimidade em grupo:
+Mai admite, em voz baixa, que além de querer vencer, quer que todos voltem inteiros; ela se preocupa mais com a investigação de Mary/Cammy do que com o título.
+Tifa reforça que vai ser “escudo móvel”, pronta pra desviar riscos físicos.
+Dan deixa claro que, embora não lute, vai estar sempre com olhos no entorno, como no arco anterior, e que isso é a forma dele de “lutar junto”.
+Última cena: Mary envia mensagem com informações preliminares sobre o novo torneio (local, regras, formato single+duplas, possíveis nomes de participantes) e confirma datas; o arco 1 termina com a equipe olhando para o calendário, sabendo que o treino acabou e o “Real Bout” deles começa de verdade
 
 ## CRONOGRAMA DOS PRÓXIMOS ARCOS
 
