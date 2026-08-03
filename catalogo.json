@@ -207,8 +207,8 @@
       "chapter_kanji": "第二十三章",
       "arc": "夏の海編",
       "group": "夏の海編",
-      "title": "朝の海と散歩",
-      "file": "chapters/第23章　朝の海と散歩.html",
+      "title": "番外　日差しの下で",
+      "file": "chapters/第23章　番外　日差しの下で.html",
       "status": "existing"
     },
     {
@@ -225,9 +225,9 @@
       "chapter_kanji": "第二十五章",
       "arc": "夏の海編",
       "group": "夏の海編",
-      "title": null,
-      "file": null,
-      "status": "missing_or_skipped"
+      "title": "お風呂の夜",
+      "file": "chapters/第25章　お風呂の夜.html",
+      "status": "existing"
     },
     {
       "chapter": 26,

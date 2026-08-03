@@ -20,14 +20,6 @@
     "reason": "filename_does_not_match_expected_pattern"
   },
   {
-    "file": "chapters/第23章・番外　日差しの下で.html",
-    "reason": "filename_does_not_match_expected_pattern"
-  },
-  {
-    "file": "chapters/第25章・お風呂の夜.html",
-    "reason": "filename_does_not_match_expected_pattern"
-  },
-  {
     "file": "chapters/第371+章　風を切って.html",
     "reason": "invalid_chapter_number: Unsupported numeral: 371+"
   }
