@@ -4471,8 +4471,8 @@
     {
       "chapter": 497,
       "chapter_kanji": "第四百九十七章",
-      "arc": "リアルバウト (1)",
-      "group": "リアルバウト (1)",
+      "arc": "リアルバウト (訓練)",
+      "group": "リアルバウト (訓練)",
       "title": "ブルー・マリーの再連絡",
       "file": "chapters/第497章　ブルー・マリーの再連絡.html",
       "status": "existing"
@@ -4480,8 +4480,8 @@
     {
       "chapter": 498,
       "chapter_kanji": "第四百九十八章",
-      "arc": "リアルバウト (1)",
-      "group": "リアルバウト (1)",
+      "arc": "リアルバウト (訓練)",
+      "group": "リアルバウト (訓練)",
       "title": "新しい訓練の約束",
       "file": "chapters/第498章　新しい訓練の約束.html",
       "status": "existing"
@@ -4489,8 +4489,8 @@
     {
       "chapter": 499,
       "chapter_kanji": "第四百九十九章",
-      "arc": "リアルバウト (1)",
-      "group": "リアルバウト (1)",
+      "arc": "リアルバウト (訓練)",
+      "group": "リアルバウト (訓練)",
       "title": "筋力トレーニングの日",
       "file": "chapters/第499章　筋力トレーニングの日.html",
       "status": "existing"
@@ -4498,8 +4498,8 @@
     {
       "chapter": 500,
       "chapter_kanji": "第五百章",
-      "arc": "リアルバウト (1)",
-      "group": "リアルバウト (1)",
+      "arc": "リアルバウト (訓練)",
+      "group": "リアルバウト (訓練)",
       "title": "走る朝と息を整える午後",
       "file": "chapters/第500章　走る朝と息を整える午後.html",
       "status": "existing"
@@ -4507,80 +4507,80 @@
     {
       "chapter": 501,
       "chapter_kanji": "第五百一章",
-      "arc": "リアルバウト (1)",
-      "group": "リアルバウト (1)",
-      "title": null,
-      "file": null,
-      "status": "missing_or_skipped"
+      "arc": "リアルバウト (訓練)",
+      "group": "リアルバウト (訓練)",
+      "title": "二人組スパーリングと大会の知らせ",
+      "file": "chapters/第501章　二人組スパーリングと大会の知らせ.html",
+      "status": "existing"
     },
     {
       "chapter": 502,
       "chapter_kanji": "第五百二章",
-      "arc": "リアルバウト (2)",
-      "group": "リアルバウト (2)",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "arc": "リアルバウト (大会)",
+      "group": "リアルバウト (大会)",
+      "title": "出発前夜とサウスタウンの入口",
+      "file": "chapters/第502章　出発前夜とサウスタウンの入口.html",
+      "status": "existing"
     },
     {
       "chapter": 503,
       "chapter_kanji": "第五百三章",
-      "arc": "リアルバウト (2)",
-      "group": "リアルバウト (2)",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "arc": "リアルバウト (大会)",
+      "group": "リアルバウト (大会)",
+      "title": "パオパオカフェの二人",
+      "file": "chapters/第503章　パオパオカフェの二人.html",
+      "status": "existing"
     },
     {
       "chapter": 504,
       "chapter_kanji": "第五百四章",
-      "arc": "リアルバウト (2)",
-      "group": "リアルバウト (2)",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "arc": "リアルバウト (大会)",
+      "group": "リアルバウト (大会)",
+      "title": "ジン兄弟と黒い手",
+      "file": "chapters/第504章　ジン兄弟と黒い手.html",
+      "status": "existing"
     },
     {
       "chapter": 505,
       "chapter_kanji": "第五百五章",
-      "arc": "リアルバウト (2)",
-      "group": "リアルバウト (2)",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "arc": "リアルバウト (大会)",
+      "group": "リアルバウト (大会)",
+      "title": "鷹と龍と古い傷",
+      "file": "chapters/第505章　鷹と龍と古い傷.html",
+      "status": "existing"
     },
     {
       "chapter": 506,
       "chapter_kanji": "第五百六章",
-      "arc": "リアルバウト (2)",
-      "group": "リアルバウト (2)",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "arc": "リアルバウト (大会)",
+      "group": "リアルバウト (大会)",
+      "title": "静かな夜の前に",
+      "file": "chapters/第506章　静かな夜の前に.html",
+      "status": "existing"
     },
     {
       "chapter": 507,
       "chapter_kanji": "第五百七章",
-      "arc": "リアルバウト (2)",
-      "group": "リアルバウト (2)",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "arc": "リアルバウト (大会)",
+      "group": "リアルバウト (大会)",
+      "title": "最後の塔と落ちる王",
+      "file": "chapters/第507章　最後の塔と落ちる王.html",
+      "status": "existing"
     },
     {
       "chapter": 508,
       "chapter_kanji": "第五百八章",
-      "arc": "リアルバウト (3)",
-      "group": "リアルバウト (3)",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "arc": "リアルバウト (観光)",
+      "group": "リアルバウト (観光)",
+      "title": "勝利の夜とパオパオカフェ",
+      "file": "chapters/第508章　勝利の夜とパオパオカフェ.html",
+      "status": "existing"
     },
     {
       "chapter": 509,
       "chapter_kanji": "第五百九章",
-      "arc": "リアルバウト (3)",
-      "group": "リアルバウト (3)",
+      "arc": "リアルバウト (観光)",
+      "group": "リアルバウト (観光)",
       "title": null,
       "file": null,
       "status": "planned"
@@ -4588,8 +4588,8 @@
     {
       "chapter": 510,
       "chapter_kanji": "第五百十章",
-      "arc": "リアルバウト (3)",
-      "group": "リアルバウト (3)",
+      "arc": "リアルバウト (観光)",
+      "group": "リアルバウト (観光)",
       "title": null,
       "file": null,
       "status": "planned"
@@ -4597,8 +4597,8 @@
     {
       "chapter": 511,
       "chapter_kanji": "第五百十一章",
-      "arc": "リアルバウト (3)",
-      "group": "リアルバウト (3)",
+      "arc": "リアルバウト (観光)",
+      "group": "リアルバウト (観光)",
       "title": null,
       "file": null,
       "status": "planned"
@@ -4606,8 +4606,8 @@
     {
       "chapter": 512,
       "chapter_kanji": "第五百十二章",
-      "arc": "リアルバウト (3)",
-      "group": "リアルバウト (3)",
+      "arc": "リアルバウト (観光)",
+      "group": "リアルバウト (観光)",
       "title": null,
       "file": null,
       "status": "planned"

@@ -734,48 +734,218 @@ Eles saem para comprar ingredientes mais refinados, 舞 escolhe roupas mais arru
 Em casa, ティファ e キャミィ se recolhem para não atrapalhar e deixam câmera e tripé preparados; 舞 aparece com um vestido novo que deixa ダン sem palavras, puxa sessão de fotos a dois, jantar sofisticado em dupla (com ティファ surgindo só para fazer coquetéis) e um “quiz ninja” em que os “castigos” pelos erros são coisas fofas, como segurar a mão dela por dez segundos ou apoiar a cabeça no ombro.
 No sofá, com 舞 deitada no peito dele, ela admite que tudo foi mais desculpa para ter um tempo a dois sem interferência; ダン responde que esse foi o castigo de que mais gostou até agora, e ela marca o item como cumprido no caderno, abrindo ao lado uma nova coluna de ご褒美欄 (recompensas), sugerindo que o próximo bloco vai girar menos em punições e mais em prêmios compartilhados entre a “família escolhida”.
 
-## PRÓXIMO ARCO: リアルバウト (1)
+### 497-501 - リアルバウト (訓練)
 
-Objetivo dramático do arco:
-
-Mostrar Mai e Tifa levando a sério o novo torneio de duplas, evoluindo fisicamente e taticamente.
-Dar espaço pra Cammy e Mary alinharem o plano investigativo (quem está financiando o torneio, que contatos do Geese reapareceram, qual é a ameaça real).
-Consolidar Dan como suporte não-lutador: coach, analista de dados, logística, e “coração” da equipe, mantendo a vibe de família aberta sem ciúmes.
-
-497 - ブルー・マリーの再連絡
+**497 - ブルー・マリーの再連絡**
 
 舞 e ダン estão saindo para compras quando o celular toca com “BLUE MARY”; ela pensa 「また来た…」 porque entende na hora que é a continuação da investigação em South Town e dos Hidensho.
 ブルー・マリー explica que os fios ligados a Geese voltaram a se mover, que haverá um novo King of Fighters com chave single e de duplas, e pede ajuda: キャミィ como parceira de campo, 舞 e ティファ como dupla, ダン como coach e analista. 舞 aceita, diz que se アンディ aparecer será só mais um adversário qualquer, e à noite os quatro combinam começar um ciclo sério de treino físico e técnico a partir de amanhã.
 
-498 - 新しい訓練の約束
+**498 - 新しい訓練の約束**
 
 Os quatro transformam a ligação da マリー em plano concreto: ダン monta, num caderno, um cronograma de treino com manhã de força (pernas, core, ombros), tarde de cardio/corridas/escadas coordenadas pela キャミィ e noite de sparring, footwork e counters focados na dupla 舞+ティファ.
 舞 tenta dar um toque ninja nos drills, ティファ aceita tudo como desafio divertido, キャミィ define a linha “não é treino militar, mas também não é passeio”, e o capítulo termina com ダン escrevendo o objetivo geral (“vencer em South Town e voltar todos sorrindo”) e 舞 chamando isso de acordo que eles prometem cumprir.
 
-499 - 筋力トレーニングの日
+**499 - 筋力トレーニングの日**
 
 Comaçam pulando corda para aquecimentos, ダン e キャミィ ficam totalmente hipnotizados com o "balançar" dos corpos de 舞 e ティファ. Depois de uns puxões de orelha, Dan controla séries para 舞 e ティファ, com comentários tipo “isso é pra aguentar quedas e projeções” e “isso é pra manter guarda alta sem cansar”. ティファ revela que já tem base física boa; para ela, o boot é mais sobre consistência do que sobre aguentar esforço. 舞 descobre que algumas cadeias musculares que ela usa no estilo ninja não estão tão trabalhadas em exercícios tradicionais — oportunidade de crescimento.
 Espaço pra momentos “gostosos”: troca de elogios discretos (“seu alinhamento melhorou”, “o seu golpe com base firme ficou bonito”), toques físicos inevitáveis de apoio, sem erotizar demais, mas mantendo o tom do arco anterior. ダン babando e desconcentrando ao vê-las treinando.
 
-500 - 走る朝と息を整える午後
+**500 - 走る朝と息を整える午後**
 
-Rotina de corrida em ambiente urbano/local (escadas do prédio, ruas próximas, parque), já servindo como “simulação” de circulação pela South Town.
-ダン mede tempos e frequência cardíaca, compara com os dados do arco 餓狼伝説編 pra mostrar progresso (tipo: “naquele treino você cansava em X, agora chegou em Y”).
-キャミィ aplica blocos de treino intervalado (sprints, trote, caminhada) e conversa com Mary por mensagem sobre como isso vai se traduzir em capacidade de reagir rápido a incidentes durante o torneio.
-ティファ vê o cardio como “brincadeira de perseguição” e internaliza que se algo der errado no torneio, ela vai ser a primeira a sair correndo pra proteger alguém — isso dá peso emocional ao treino, não é só fitness.
+舞 e ティファ acordam com o corpo dolorido, ダン e キャミィ fazem massagem antes do treino. Rotina de corrida em ambiente urbano/local (escadas do prédio, ruas próximas, parque), já servindo como “simulação” de circulação pela South Town.
+ダン mede tempos e frequência cardíaca, compara com os dados do arco 餓狼伝説編 pra mostrar progresso. キャミィ aplica blocos de treino intervalado (sprints, trote, caminhada) e conversa com Mary por mensagem sobre como isso vai se traduzir em capacidade de reagir rápido a incidentes durante o torneio. ティファ vê o cardio como “brincadeira de perseguição” e internaliza que se algo der errado no torneio, ela vai ser a primeira a sair correndo pra proteger alguém — isso dá peso emocional ao treino, não é só fitness.
 
-501 - 二人組スパーリングと大会の知らせ
+**501 - 二人組スパーリングと大会の知らせ**
 
-Esse é o capítulo que fecha o arco 1 e já planta ganchos pro torneio.
-Sparring em dupla:
-Mai e Tifa treinam combos de dois contra um, entradas e saídas coordenadas, cobrindo o flanco uma da outra — espelhando ideias de Real Bout, onde posicionamento e leitura de campo contam tanto quanto golpes.
-Cammy alterna como adversária e como árbitra improvisada, impondo regras (sem golpes que quebrariam pescoço, foco em controle de distância, etc.).
-Sessões de visualização mental: Dan conduz uma espécie de “brifing” em que descreve cenários possíveis no torneio (adversário agressivo, público hostil, presença de contatos do Geese nas arquibancadas) e pede que cada uma diga como reagiria.
-Momento de intimidade em grupo:
-Mai admite, em voz baixa, que além de querer vencer, quer que todos voltem inteiros; ela se preocupa mais com a investigação de Mary/Cammy do que com o título.
-Tifa reforça que vai ser “escudo móvel”, pronta pra desviar riscos físicos.
-Dan deixa claro que, embora não lute, vai estar sempre com olhos no entorno, como no arco anterior, e que isso é a forma dele de “lutar junto”.
-Última cena: Mary envia mensagem com informações preliminares sobre o novo torneio (local, regras, formato single+duplas, possíveis nomes de participantes) e confirma datas; o arco 1 termina com a equipe olhando para o calendário, sabendo que o treino acabou e o “Real Bout” deles começa de verdade
+O arco fecha com um “ensaio geral”: 舞 e ティファ fazem sparring em dupla contra キャミィ, treinando entradas/trocas de frente e flanco e controle de distância, enquanto ダン observa e registra.
+Depois, em casa, ダン conduz um briefing de cenários de torneio, o jantar traz confissões (舞 quer todos inteiros, ティファ se assume como escudo móvel, ダン como olhos do entorno) e chega a mensagem da Mary com regras e datas do King of Fighters em サウスタウン; o capítulo termina com os quatro olhando o calendário, conscientes de que o treino acabou e o Real Bout começa.
+
+(regra de duplas: melhor de 3 rounds, 1x1, avança a dupla que vencer 2 vezes, se necessitar do 3º round, os vencedores se enfrentam; ringue demarcado, se sair é ring-out e está automaticamente derrotado)
+
+### 502-507 - リアルバウト (大会)
+
+**502 — 到着前夜とサウスタウンの入口**
+
+Os quatro ainda em casa fazendo a revisão final das malas, com ダン conferindo tudo em modo logístico e 舞/ティファ/キャミィ ajustando o clima da partida para South Town.
+Ainda em casa, os quatro organizam malas e ajustam o último checklist de viagem.
+
+**503 — パオパオカフェの二人**
+
+舞, ティファ, ダン e キャミィ chegam a South Town, com ダン fazendo a checagem prática, Mary recebendo o grupo e Anton quebrando o gelo no aeroporto.
+No Pao Pao Café, 舞 e ティファ vencem Bob Wilson e Richard Meyer num duelo de ritmo, espaço e posicionamento, enquanto Mary, ダン e キャミィ percebem que os homens de terno estão vigiando os resultados com atenção demais — sinal de que o torneio é só a superfície de algo maior.
+
+**504 — ジン兄弟と黒い手**
+
+舞 e ティファ enfrentam os irmãos Jin em uma luta de duplas no formato melhor de três, com combates 1x1. A disputa enfatiza leitura de ringue, controle de distância, entradas, recuos e ring-out. 舞 perde a primeira luta por ring-out após um instante de hesitação e desgaste acumulado. ティファ vence a segunda luta, também usando o posicionamento para empurrar o adversário para fora. No terceiro combate, ティファ derrota o irmão mais velho por ring-out, garantindo duas vitórias para a dupla. Depois da luta, Yamazaki aparece com capangas, derrota os irmãos Jin já exaustos e toma os dois pergaminhos. A investigação de Mary, ダン e キャミィ confirma que os pergaminhos são o eixo central do conflito, enquanto Billy e Yamazaki parecem agir como intermediários de uma força maior. O capítulo termina com a presença de Geese se tornando muito mais concreta em South Town.
+
+**505 — 鷹と龍と古い傷**
+
+舞 vence Joe com leitura técnica pura, ティファ cai diante de Andy por um lapso de equilíbrio, e 舞 encerra a revanche contra Andy de forma fria e definitiva — fechando aquele capítulo do passado sem drama, seguido do beijo entre ela e ダン observado por ティファ. Em paralelo, Mary, Anton e キャミィ notam a segurança se concentrando no prédio da final, reforçando o gancho de que o torneio virou engrenagem para o confronto com Geese.
+
+**506 — 静かな夜の前に**
+
+Os quatro voltam ao hotel, tomam banho, キャミィ trata o ombro de ティファ; ダン massageia 舞 sentada entre suas pernas, com ティファ provocando o casal. Depois ao jantar, conversam sobre o que já aconteceu sem transformar tudo em relatório.
+舞 admite que está preocupada com Mary e a investigação mais do que com o título; ティファ reforça que está pronta para virar “escudo móvel”.
+ダン deixa claro que o papel dele é vigiar o entorno e segurar a retaguarda — a forma dele de lutar junto.
+キャミィ compara tudo com operação, mas suaviza o tom: a equipe está inteira, e isso importa mais do que o troféu.
+Gancho final: Mary envia uma mensagem com a confirmação de que o último dia vai coincidir com o confronto decisivo.
+
+**507 — 最後の塔と落ちる王**
+
+舞 e ティファ vencem a final de duplas contra Billy Kane e Ryuji Yamazaki.
+Billy luta como braço leal de Geese; Yamazaki entra como o caos total, mudando o ritmo da luta o tempo todo.
+A luta usa bem o cenário: recuos, bordas, ring-out e a sensação de espaço encolhendo até o clímax.
+舞 vence Billy, ティファ perde para Yamazaki por ring-out. 舞 vence Yamazaki, tambmém por ring-out e fecha a dupla como campeã do torneio.
+Depois da luta, Billy comenta que Geese mandou queimar os pergaminhos.
+Isso confirma que os pergaminhos são parte central do conflito e que Billy/Yamazaki estavam trabalhando para algo maior.
+Em seguida, Terry enfrenta Geese no topo da torre.
+Geese cai voluntariamente, repetindo a morte canônica e encerrando sua era.
+O arco fecha com South Town mudada de fase, o império de Geese destruído e o grupo sentindo que algo histórico foi concluído.
+
+### 508-512 - リアルバウト (観光)
+
+Tom: slice of life, romance, comédia leve e sensualidade adulta.
+Participantes: Mai, Dan, Tifa, Cammy, Blue Mary e Anton.
+Situação: o grupo ainda não volta para casa; Mary aproveita os dias restantes para mostrar uma South Town que existe além de Geese.
+
+Os lugares podem combinar cenários conhecidos da franquia: Pao Pao Café, East Side Park, o aquário, Dream Amusement Park, South Town Village, Port Town e áreas próximas à Geese Tower. East Side Park é associado a um grande parque com aquário e outras atrações, enquanto Dream Amusement Park aparece como o parque de diversões mais visitado da cidade. Os cenários de Fatal Fury 3 também incluem Pao Pao Cafe 2, East Side Park, Dream Amusement Park, Port Town, Pioneer Plaza e South Town Airport.
+
+Capítulo 508 — 勝利の夜とパオパオカフェ
+
+Mary leva o grupo ao Pao Pao Café, apresentado como um dos pontos tradicionais de South Town.
+Richard recebe Mai e Tifa como campeãs e brinca que a casa oferece uma comemoração especial para quem sobreviveu ao torneio, comenta que ele e Bob foram derrotados por elas e que talvez nunca tiveram chance de vencer o torneio.
+Dan tenta registrar a vitória, mas Mai impede algumas fotos e permite outras.
+Tifa fica orgulhosa demais e começa a contar a luta para qualquer pessoa que pergunta.
+Cammy observa as saídas e os antigos contatos do local, mas relaxa gradualmente.
+Anton recebe comida escondido de Richard e passa a circular entre as mesas.
+Mary comenta que Terry confirmou: Geese realmente ordenou que os pergaminhos fossem queimados.
+O grupo discute o significado disso: Geese não queria que as técnicas fossem reproduzidas, mas ninguém sabe se todos os pergaminhos foram destruídos.
+Mary esclarece que o relatório ainda precisa separar fatos comprovados de hipóteses.
+De volta ao hotel, os quatro estão alegres demais, cansados e emocionalmente abertos depois da vitória.
+Mary deixa os quatro no quarto. E vai para casa preparar o relatório com Anton.
+A comemoração continua em tom privado: abraços, beijos, provocações, mãos entrelaçadas, carinho e contato físico entre os dois casais.
+Mai fica mais espontânea do que costuma ser e provoca Dan por ele ter registrado tantas fotos.
+Dan responde que a melhor imagem da noite é aquela em que ela não está posando.
+Tifa e Cammy dividem um momento mais quieto, com Tifa encostada no peito de Cammy enquanto ela afaga seus cabelos.
+A proximidade entre os quatro aumenta gradualmente, com beijos e carícias entre os quatro, com direito a beijos, abraços, mordidas, agarrões, apertões em partes do corpo.
+A manhã seguinte começa com todos exaustos, desarrumados e sem a menor vontade de levantar.
+Mary bate à porta na hora do café e avisa que o primeiro passeio começa em uma hora.
+
+Capítulo 509 — 東側公園と水の記憶
+
+Local principal: East Side Park e o aquário.
+
+Mary guia o grupo pelo East Side Park, explicando que a região sempre foi mais ampla do que a imagem de cidade dominada por criminosos.
+O parque tem áreas verdes, caminhos largos, um pequeno rio e espaços de lazer.
+Dan tenta manter uma rota organizada, mas Tifa transforma o passeio em uma caminhada sem destino fixo.
+Cammy e Tifa andam de mãos dadas durante quase todo o percurso.
+Mai e Dan ficam para trás em alguns momentos; ela segura o braço dele e encosta a cabeça no ombro dele.
+No aquário, Tifa se encanta com os peixes e arrasta Cammy para cada tanque.
+Cammy finge estar apenas observando a segurança do lugar, mas acaba parando diante de um enorme tanque de tubarões.
+Mai comenta que Cammy parece estar analisando uma operação militar contra os peixes.
+Dan fotografa o reflexo dos quatro no vidro do aquário.
+Mai percebe, mas não pede para apagar.
+Mary conta que South Town tem várias camadas: a cidade turística, a cidade portuária, a cidade dos lutadores e a cidade que ainda está tentando descobrir o que fazer sem Geese.
+No final, os casais dividem um lanche em um banco do parque.
+Anton deita entre Mary e Dan, mas acaba escolhendo Dan como apoio para a cabeça.
+Momento afetivo: Mai tira o leque da mão de Dan, fecha-o e coloca a mão dele sobre a sua. Cammy beija Tifa na testa quando ela adormece durante a viagem de volta.
+
+Capítulo 510 — 公園の午後とアントンの友達
+
+Local principal: área aberta de East Side Park, bosque e margem do rio.
+
+Este será o capítulo com Dan e Anton.
+Mary precisa resolver uma pendência do relatório e deixa o grupo passar a tarde em uma área mais tranquila do parque.
+Anton encontra uma bola ou um graveto e decide que Dan é o parceiro ideal para brincar.
+Dan começa tratando a brincadeira como uma missão: calcula distância, direção e tempo de retorno.
+Anton ignora completamente a estratégia e corre para qualquer lado.
+Dan passa a correr atrás dele, escorrega na grama e perde toda a dignidade.
+Mai fotografa a cena sem que Dan perceba.
+Cammy observa em silêncio e comenta que Dan está sendo treinado por um animal.
+Tifa torce por Anton como se fosse uma competição oficial.
+Dan acaba deitado na grama, com Anton sobre o peito, enquanto o cachorro lambe seu rosto.
+Mai se aproxima, limpa o rosto dele com um lenço e beija sua bochecha.
+Dan tenta dizer que estava no controle, mas Anton late e desmente a afirmação.
+Mary retorna e encontra Anton dormindo no colo de Dan.
+Ela comenta que o cachorro normalmente não confia tão rápido em pessoas novas.
+Dan responde que talvez Anton tenha bom senso.
+Mary observa a proximidade entre Dan e Mai e entende que o grupo já funciona como uma família, mesmo quando ninguém tenta definir isso.
+Momento afetivo: à margem do rio, os dois casais ficam separados por alguns minutos. Mai senta atrás de Dan, passa os braços ao redor dele e apoia o queixo no ombro dele. Cammy segura a mão de Tifa dentro do bolso do casaco enquanto caminham.
+
+Capítulo 511 — 港町の風と四人の休日
+
+Locais principais: Port Town, South Town Village e região próxima ao antigo complexo de Geese.
+
+Mary leva o grupo ao Port Town para mostrar a parte mais trabalhadora da cidade.
+O clima muda: menos turistas, mais armazéns, barcos, restaurantes simples e trabalhadores encerrando o expediente.
+Dan se interessa pela organização das docas e começa a comparar o porto com os mapas da investigação.
+Mary pede que ele não transforme o passeio em relatório.
+Tifa encontra uma barraca de comida e decide experimentar tudo.
+Cammy prova algo apimentado para não parecer impressionada, mas Tifa percebe que ela ficou vermelha.
+Mai e Dan dividem uma porção, com Mai alimentando Dan de propósito só para provocar.
+Depois, Mary leva o grupo a South Town Village, uma área preservada com construções antigas e referências culturais da cidade.
+A visita permite falar de identidade: South Town não é apenas Geese, nem apenas o torneio.
+Mary comenta que a queda de Geese abriu espaço para pessoas comuns decidirem que tipo de cidade querem reconstruir.
+O antigo poder ainda aparece em detalhes: placas retiradas, escritórios vazios, seguranças sem uniforme e prédios que perderam sua função.
+O grupo vê a distância a Geese Tower, agora interditada.
+Ninguém transforma o momento em uma nova missão.
+Eles apenas observam e seguem andando.
+Momento afetivo: Mai fica ao lado de Dan diante do porto, apoiando a cabeça no peito dele enquanto o vento movimenta os cabelos. Tifa abraça Cammy por trás durante uma fotografia, e Cammy, depois de alguns segundos, segura os braços dela em vez de se afastar.
+O capítulo termina com Mary dizendo que deixou o lugar mais alegre para o final.
+
+Capítulo 512 — 夢の遊園地と帰る空
+
+Local principal: Dream Amusement Park.
+
+Dream Amusement Park é apresentado como o grande parque de diversões de South Town, com roda-gigante e uma área temática de Velho Oeste, elementos associados aos cenários da cidade na franquia.
+
+Passeio final
+
+Mary compra os ingressos e avisa que não aceitará nenhuma reclamação sobre filas.
+Tifa imediatamente quer ir à montanha-russa.
+Cammy prefere observar o mapa do parque e identificar todos os pontos de saída.
+Dan tenta planejar uma rota eficiente, mas Mai rasga o mapa e escolhe o primeiro brinquedo que vê.
+Anton não pode entrar em vários brinquedos, então Mary fica com ele em alguns momentos.
+Dan e Anton disputam um jogo de argolas ou tiro ao alvo.
+Dan perde para uma criança e tenta afirmar que o jogo estava desbalanceado.
+Mai ganha um prêmio e entrega a Dan, sem admitir que escolheu algo que combinava com ele.
+Tifa e Cammy entram em uma atração de terror; Tifa sai rindo, enquanto Cammy afirma que apenas estava verificando os efeitos especiais.
+O grupo come algodão-doce, cachorro-quente e comida de parque.
+Mary observa a cidade iluminada e comenta que talvez South Town finalmente esteja pronta para ser lembrada por outras coisas.
+
+Clímax romântico
+
+No fim da tarde, os quatro entram na roda-gigante.
+Mary fica em uma cabine com Anton, deixando Mai e Dan em outra e Tifa e Cammy em uma terceira.
+A cidade aparece inteira abaixo deles: o porto, o parque, o aquário, as luzes da avenida e a torre interditada ao longe.
+Mai segura a mão de Dan e diz que, pela primeira vez, consegue olhar para South Town sem sentir que precisa enfrentar alguém.
+Dan responde que agora ela pode simplesmente estar ali.
+Tifa encosta a testa na de Cammy e agradece por ter ficado ao lado dela durante toda a viagem.
+Cammy responde que não havia outro lugar onde preferisse estar.
+Os beijos acontecem em paralelo nas cabines, sem transformar o momento em espetáculo.
+Mary observa os quatro depois que descem e percebe que eles não estão apenas comemorando uma vitória: estão deixando a cidade com uma memória nova.
+
+Despedida
+
+No aeroporto, Mary diz que a investigação ainda não terminou completamente, Billy e Yamazaki fugiram e a maioria dos capangas foram presos, mas a parte de Geese foi encerrada.
+Mai abraça Mary com força, sem a formalidade habitual.
+Tifa abraça Anton e promete voltar para vê-lo.
+Dan se ajoelha para se despedir do cachorro, que coloca as patas sobre os ombros dele.
+Cammy aperta a mão de Mary e agradece pela proteção durante o torneio.
+Mary responde que South Town foi mais segura porque eles estavam juntos.
+Antes do embarque, Mai pergunta se Mary vai continuar investigando os pergaminhos.
+Mary confirma, mas diz que agora o grupo pode descansar.
+No avião, Tifa adormece apoiada em Cammy.
+Dan fica acordado ao lado de Mai, que dorme com a cabeça no ombro dele.
+O leque permanece aberto no colo de Mai.
+Pela janela, South Town diminui até virar um conjunto de luzes.
+O arco termina com Dan perguntando qual será o próximo destino turístico.
+Mai responde que primeiro eles precisam voltar para casa.
+Tifa, ainda dormindo, murmura que quer praia.
+Cammy abre um olho e diz que vai preparar uma rota.
+Dan fecha o tablet antes que ela comece.
+Mai sorri sem abrir os olhos.
 
 ## CRONOGRAMA DOS PRÓXIMOS ARCOS
 
@@ -790,7 +960,9 @@ Dan deixa claro que, embora não lute, vai estar sempre com olhos no entorno, co
 | 7   | 帰宅編 ✅               | 5 caps.         | Slice of life cotidiano, comédia leve e romance doméstico |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | 8   | ティファの過去編 2 ✅   | 5 caps.         | Aventura / Drama                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | 9   | 運動会編 ✅             | 7 caps.         | Comédia / Romance                                         | Arco semelhante ao 家の中の勝負, dessa vez 舞 inventa provas físicas outdoor. Perdedores paga castigo. Antes da prova final começa chover, voltam pra casa e a prova é 脱衣麻雀 ou twister.                                                                                                                                                                                                                                                                                       |
-| -   | 八神と餓狼編            | 8 caps.         | Ação / Torneio / Drama                                    | Continuação da investigação dos Hidensho e Geese Howard. Participação de **ブルー・マリー**. Plot do Real Bout — torneio em trio. Resolução parcial ou escalada do conflito com Geese.                                                                                                                                                                                                                                                                                            |
+| -   | リアルバウト (1) ✅     | 5 caps.         | Ação                                                      | Treinos                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| -   | リアルバウト (2)        | 6 caps.         | Ação / Torneio / Drama                                    | Continuação da investigação dos Hidensho e Geese Howard. Participação de **ブルー・マリー**. Plot do Real Bout — torneio em trio. Resolução do conflito com Geese.                                                                                                                                                                                                                                                                                                                |
+| -   | リアルバウト (観光)     | 5 caps.         | Slice of life / Romance                                   | Comemoração e turismo em South Town                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 ---
 
