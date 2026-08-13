@@ -12,7 +12,7 @@ _Projeto de leitura em japonês._
 >
 > **FURIGANA SEMPRE EM HIRAGANA/KATAKANA — NUNCA ROMAJI**
 >
-> Verificar toda tag `<ruby>` tem `<rt>` antes de fechar
+> Dupla verificação de toda tag `<ruby>` tem `<rt>` antes de fechar
 >
 > Em torno de 25k a 30k caracteres no HTML
 >
@@ -85,7 +85,7 @@ _Projeto de leitura em japonês._
 
 - Relação aberta entre os quatro — interações cruzadas naturais
 - 舞❤️ダン = casal principal; ティファ❤️キャミィ = casal secundário
-- Casais dormem juntos
+- Cada casal dorme junto
 - **Conceito estabelecido:** "選んだ家族" (família escolhida) — não sangue, mas coração
 - **Filosofia:** "普通じゃなくていい" — relacionamento especial não precisa seguir padrões
 - **Promessa:** honestidade, cuidado mútuo, ficarem juntos
@@ -803,166 +803,84 @@ Em seguida, Terry enfrenta Geese no topo da torre.
 Geese cai voluntariamente, repetindo a morte canônica e encerrando sua era.
 O arco fecha com South Town mudada de fase, o império de Geese destruído e o grupo sentindo que algo histórico foi concluído.
 
-### 508-512 - リアルバウト (観光)
+### 508-512 - リアルバウト (観光) ⭐
 
-Tom: slice of life, romance, comédia leve e sensualidade adulta.
-Participantes: Mai, Dan, Tifa, Cammy, Blue Mary e Anton.
-Situação: o grupo ainda não volta para casa; Mary aproveita os dias restantes para mostrar uma South Town que existe além de Geese.
+**508 — 勝利の夜とパオパオカフェ**
 
-Os lugares podem combinar cenários conhecidos da franquia: Pao Pao Café, East Side Park, o aquário, Dream Amusement Park, South Town Village, Port Town e áreas próximas à Geese Tower. East Side Park é associado a um grande parque com aquário e outras atrações, enquanto Dream Amusement Park aparece como o parque de diversões mais visitado da cidade. Os cenários de Fatal Fury 3 também incluem Pao Pao Cafe 2, East Side Park, Dream Amusement Park, Port Town, Pioneer Plaza e South Town Airport.
-
-Capítulo 508 — 勝利の夜とパオパオカフェ
-
-Mary leva o grupo ao Pao Pao Café, apresentado como um dos pontos tradicionais de South Town.
-Richard recebe Mai e Tifa como campeãs e brinca que a casa oferece uma comemoração especial para quem sobreviveu ao torneio, comenta que ele e Bob foram derrotados por elas e que talvez nunca tiveram chance de vencer o torneio.
-Dan tenta registrar a vitória, mas Mai impede algumas fotos e permite outras.
-Tifa fica orgulhosa demais e começa a contar a luta para qualquer pessoa que pergunta.
-Cammy observa as saídas e os antigos contatos do local, mas relaxa gradualmente.
-Anton recebe comida escondido de Richard e passa a circular entre as mesas.
-Mary comenta que Terry confirmou: Geese realmente ordenou que os pergaminhos fossem queimados.
-O grupo discute o significado disso: Geese não queria que as técnicas fossem reproduzidas, mas ninguém sabe se todos os pergaminhos foram destruídos.
-Mary esclarece que o relatório ainda precisa separar fatos comprovados de hipóteses.
-De volta ao hotel, os quatro estão alegres demais, cansados e emocionalmente abertos depois da vitória.
-Mary deixa os quatro no quarto. E vai para casa preparar o relatório com Anton.
-A comemoração continua em tom privado: abraços, beijos, provocações, mãos entrelaçadas, carinho e contato físico entre os dois casais.
-Mai fica mais espontânea do que costuma ser e provoca Dan por ele ter registrado tantas fotos.
-Dan responde que a melhor imagem da noite é aquela em que ela não está posando.
-Tifa e Cammy dividem um momento mais quieto, com Tifa encostada no peito de Cammy enquanto ela afaga seus cabelos.
-A proximidade entre os quatro aumenta gradualmente, com beijos e carícias entre os quatro, com direito a beijos, abraços, mordidas, agarrões, apertões em partes do corpo.
-A manhã seguinte começa com todos exaustos, desarrumados e sem a menor vontade de levantar.
+Comemoração da vitória do torneio no Pao Pao Café, com Richard e Bob brincando sobre a própria derrota. Mary confirma que Terry verificou: Geese realmente mandou queimar os pergaminhos, embora não se saiba se todos foram destruídos. Anton rouba comida escondido de Richard. Na segunda metade, no hotel, Mary vai para casa cuidar do relatório e os quatro têm um momento íntimo mais intenso entre os dois casais. A manhã seguinte começa com todos exaustos, desarrumados e sem a menor vontade de levantar.
 Mary bate à porta na hora do café e avisa que o primeiro passeio começa em uma hora.
 
-Capítulo 509 — 東側公園と水の記憶
+**509 — 東側公園と水の記憶**
 
-Local principal: East Side Park e o aquário.
+LManhã de caminhada pelo イーストサイドパーク (East Side Park): ティファ e キャミィ de mãos dadas na ponte, 舞 apoiada no ombro de ダン. No aquário (ainda de manhã), ティファ se encanta com os peixes enquanto キャミィ "analisa operação militar" no tanque de tubarões; ダン fotografa o reflexo dos quatro no vidro, e 舞 deixa a foto guardada. No almoço no parque, Mary fala sobre as camadas de South Town e revela um gancho investigativo no porto. No fim, no banco, o grupo percebe as marcas de mordida e vergões um no outro — 舞 reclama que ninguém avisou nada — e Mary deixa todos com Anton numa área tranquila do parque enquanto resolve uma pendência do relatório.
 
-Mary guia o grupo pelo East Side Park, explicando que a região sempre foi mais ampla do que a imagem de cidade dominada por criminosos.
-O parque tem áreas verdes, caminhos largos, um pequeno rio e espaços de lazer.
-Dan tenta manter uma rota organizada, mas Tifa transforma o passeio em uma caminhada sem destino fixo.
-Cammy e Tifa andam de mãos dadas durante quase todo o percurso.
-Mai e Dan ficam para trás em alguns momentos; ela segura o braço dele e encosta a cabeça no ombro dele.
-No aquário, Tifa se encanta com os peixes e arrasta Cammy para cada tanque.
-Cammy finge estar apenas observando a segurança do lugar, mas acaba parando diante de um enorme tanque de tubarões.
-Mai comenta que Cammy parece estar analisando uma operação militar contra os peixes.
-Dan fotografa o reflexo dos quatro no vidro do aquário.
-Mai percebe, mas não pede para apagar.
-Mary conta que South Town tem várias camadas: a cidade turística, a cidade portuária, a cidade dos lutadores e a cidade que ainda está tentando descobrir o que fazer sem Geese.
-No final, os casais dividem um lanche em um banco do parque.
-Anton deita entre Mary e Dan, mas acaba escolhendo Dan como apoio para a cabeça.
-Momento afetivo: Mai tira o leque da mão de Dan, fecha-o e coloca a mão dele sobre a sua. Cammy beija Tifa na testa quando ela adormece durante a viagem de volta.
+**510 — 公園の午後とアントンの友達**
 
-Capítulo 510 — 公園の午後とアントンの友達
+Capítulo focado em ダン e Anton. Anton escolhe ダン como parceiro de brincadeira com uma bola; ダン tenta calcular distância e direção como se fosse uma missão, mas Anton ignora tudo e corre livre. ダン escorrega na grama e perde a dignidade; 舞 fotografa escondido, キャミィ comenta que ele está "sendo treinado" pelo cachorro, e ティファ torce abertamente por Anton. ダン cai deitado, Anton sobe no peito dele e lambe seu rosto; 舞 limpa seu rosto com um lenço e o beija na bochecha, enquanto Anton "desmente" a versão dele com um latido. Mary volta, encontra Anton dormindo no colo de ダン e reflete, em silêncio, que o grupo já funciona como uma família. O capítulo termina à beira do rio, com 舞 abraçando ダン por trás e キャミィ segurando a mão de ティファ dentro do bolso do casaco.
 
-Local principal: área aberta de East Side Park, bosque e margem do rio.
+**511 — ポートタウンの風と四人の休日**
 
-Este será o capítulo com Dan e Anton.
-Mary precisa resolver uma pendência do relatório e deixa o grupo passar a tarde em uma área mais tranquila do parque.
-Anton encontra uma bola ou um graveto e decide que Dan é o parceiro ideal para brincar.
-Dan começa tratando a brincadeira como uma missão: calcula distância, direção e tempo de retorno.
-Anton ignora completamente a estratégia e corre para qualquer lado.
-Dan passa a correr atrás dele, escorrega na grama e perde toda a dignidade.
-Mai fotografa a cena sem que Dan perceba.
-Cammy observa em silêncio e comenta que Dan está sendo treinado por um animal.
-Tifa torce por Anton como se fosse uma competição oficial.
-Dan acaba deitado na grama, com Anton sobre o peito, enquanto o cachorro lambe seu rosto.
-Mai se aproxima, limpa o rosto dele com um lenço e beija sua bochecha.
-Dan tenta dizer que estava no controle, mas Anton late e desmente a afirmação.
-Mary retorna e encontra Anton dormindo no colo de Dan.
-Ela comenta que o cachorro normalmente não confia tão rápido em pessoas novas.
-Dan responde que talvez Anton tenha bom senso.
-Mary observa a proximidade entre Dan e Mai e entende que o grupo já funciona como uma família, mesmo quando ninguém tenta definir isso.
-Momento afetivo: à margem do rio, os dois casais ficam separados por alguns minutos. Mai senta atrás de Dan, passa os braços ao redor dele e apoia o queixo no ombro dele. Cammy segura a mão de Tifa dentro do bolso do casaco enquanto caminham.
+Mary leva o grupo à parte trabalhadora da cidade, em Port Town — armazéns, docas, poucos turistas. ダン tenta comparar o layout do porto com os mapas da investigação, e Mary pede que ele não transforme o passeio em relatório. ティファ quer experimentar tudo nas barracas; キャミィ prova algo apimentado, fica vermelha tentando disfarçar. 舞 alimenta ダン de propósito só para provocá-lo. South Town Village: área preservada com construções antigas. Mary reflete que South Town não é apenas Geese nem o torneio — é também as pessoas comuns que vão decidir o futuro da cidade. Placas retiradas, escritórios vazios, seguranças sem uniforme, e a Geese Tower vista de longe, agora interditada. Ninguém transforma o momento em nova missão — apenas observam e seguem andando. 舞 apoia a cabeça no peito de ダン com o vento batendo nos cabelos; ティファ abraça キャミィ por trás numa foto, e キャミィ, após hesitar, segura os braços dela em vez de se afastar. Mary revela que guardou o lugar mais alegre do passeio para o encerramento do dia.
 
-Capítulo 511 — 港町の風と四人の休日
+**512 — ドリームアミューズメントパークと帰る空**
 
-Locais principais: Port Town, South Town Village e região próxima ao antigo complexo de Geese.
+No fim de tarde, Mary leva o grupo ao Dream Amusement Park, o parque de diversões de South Town, encerrando o arco de turismo. 舞 rasga o mapa de ダン e escolhe brinquedos por impulso, キャミィ mapeia saídas de emergência com cautela militar, e ティファ arrasta todo mundo para brincadeiras. No jogo de argolas, 舞 usa a técnica do leque (花蝶扇) para vencer e entrega o prêmio a ダン, fingindo que foi por acaso. Na casa assombrada, ティファ sai correndo e rindo, enquanto キャミィ insiste que só estava "analisando os efeitos especiais". Depois de comida de parque, o momento alto do capítulo acontece na roda-gigante: nas cabines separadas, 舞 e ダン se declaram e se beijam olhando South Town iluminada, enquanto ティファ e キャミィ trocam um momento mais silencioso e igualmente afetuoso. Mary percebe que o grupo não está apenas comemorando uma vitória, mas levando uma memória nova da cidade. No dia seguinte, no aeroporto, Mary revela que Billy e Yamazaki fugiram, mas a maioria dos capangas foi presa — a era de Geese está oficialmente encerrada. Despedidas emocionadas de 舞, ティファ, ダン e キャミィ com Mary e Anton fecham o arco, e o grupo embarca de volta para casa, já cogitando o próximo destino de viagem.
 
-Mary leva o grupo ao Port Town para mostrar a parte mais trabalhadora da cidade.
-O clima muda: menos turistas, mais armazéns, barcos, restaurantes simples e trabalhadores encerrando o expediente.
-Dan se interessa pela organização das docas e começa a comparar o porto com os mapas da investigação.
-Mary pede que ele não transforme o passeio em relatório.
-Tifa encontra uma barraca de comida e decide experimentar tudo.
-Cammy prova algo apimentado para não parecer impressionada, mas Tifa percebe que ela ficou vermelha.
-Mai e Dan dividem uma porção, com Mai alimentando Dan de propósito só para provocar.
-Depois, Mary leva o grupo a South Town Village, uma área preservada com construções antigas e referências culturais da cidade.
-A visita permite falar de identidade: South Town não é apenas Geese, nem apenas o torneio.
-Mary comenta que a queda de Geese abriu espaço para pessoas comuns decidirem que tipo de cidade querem reconstruir.
-O antigo poder ainda aparece em detalhes: placas retiradas, escritórios vazios, seguranças sem uniforme e prédios que perderam sua função.
-O grupo vê a distância a Geese Tower, agora interditada.
-Ninguém transforma o momento em uma nova missão.
-Eles apenas observam e seguem andando.
-Momento afetivo: Mai fica ao lado de Dan diante do porto, apoiando a cabeça no peito dele enquanto o vento movimenta os cabelos. Tifa abraça Cammy por trás durante uma fotografia, e Cammy, depois de alguns segundos, segura os braços dela em vez de se afastar.
-O capítulo termina com Mary dizendo que deixou o lugar mais alegre para o final.
+## ARCO ATUAL: 帰宅と日常
 
-Capítulo 512 — 夢の遊園地と帰る空
+513 — 荷物とただいま
 
-Local principal: Dream Amusement Park.
+Os quatro chegam ao aeroporto do Japão, ainda sonolentos do voo; Dan já checando se algo ficou esquecido em South Town.
+Táxi até o apartamento; comentam a diferença de clima e cheiro da cidade.
+Ao entrar, o silêncio do apartamento parece estranho depois de tanta agitação — Tifa liga logo as luzes e abre as janelas.
+Cada um desfaz a mala no próprio ritmo: Cammy organiza por categoria militar, Mai empurra tudo pro fundo do closet, Dan confere o inventário, Tifa acha a yukata do arco anterior dobrada e sorri sozinha.
+Fecham o dia pedindo comida de entrega porque ninguém tem paciência de cozinhar; gancho leve: alguém menciona o gato do corredor e todos ficam curiosos se ele ainda está lá.
 
-Dream Amusement Park é apresentado como o grande parque de diversões de South Town, com roda-gigante e uma área temática de Velho Oeste, elementos associados aos cenários da cidade na franquia.
+514 — コンビニと猫の帰還
 
-Passeio final
+Manhã seguinte: decidem ir à conveniência perto do prédio comprar o básico (leite, arroz, lanches, pilha etc.), pequena saidinha que vira desculpa pra andar pela vizinhança.
+Cammy nota que tudo está exatamente como deixaram, e isso a deixa estranhamente satisfeita.
+No corredor do prédio, encontram o gato — ele reconhece o grupo e vai direto esfregar-se nas pernas da Cammy, que finge não gostar.
+Vizinhos comentam que sentiram falta do "grupo animado"; pequenas trocas afetuosas cotidianas (Tifa cumprimentando todo mundo, Dan sendo cordialmente desconfiado).
+Fecham com uma compra exagerada de petiscos "só pra garantir" que o gato não passe fome — decisão que ninguém discute, só aceita.
 
-Mary compra os ingressos e avisa que não aceitará nenhuma reclamação sobre filas.
-Tifa imediatamente quer ir à montanha-russa.
-Cammy prefere observar o mapa do parque e identificar todos os pontos de saída.
-Dan tenta planejar uma rota eficiente, mas Mai rasga o mapa e escolhe o primeiro brinquedo que vê.
-Anton não pode entrar em vários brinquedos, então Mary fica com ele em alguns momentos.
-Dan e Anton disputam um jogo de argolas ou tiro ao alvo.
-Dan perde para uma criança e tenta afirmar que o jogo estava desbalanceado.
-Mai ganha um prêmio e entrega a Dan, sem admitir que escolheu algo que combinava com ele.
-Tifa e Cammy entram em uma atração de terror; Tifa sai rindo, enquanto Cammy afirma que apenas estava verificando os efeitos especiais.
-O grupo come algodão-doce, cachorro-quente e comida de parque.
-Mary observa a cidade iluminada e comenta que talvez South Town finalmente esteja pronta para ser lembrada por outras coisas.
+515 — 写真整理の午後
 
-Clímax romântico
+Tarde chuvosa e tranquila; Dan conecta a câmera no notebook para organizar as fotos da viagem toda.
+Revisam junto: a final do torneio, o Pao Pao Café, o aquário, Dan caindo na grama com o Anton, a roda-gigante.
+Mai insiste em ver a foto que ela permitiu não apagar; ao ver, fica quieta por um segundo e depois sorri sem comentar.
+Tifa quer imprimir algumas para colar num mural de memórias no apartamento; Cammy concorda “só essa vez” com o exagero decorativo.
+Pequeno momento de casal em paralelo: Cammy escolhe secretamente a foto do beijo na roda-gigante pra guardar separada, sem avisar a Tifa.
 
-No fim da tarde, os quatro entram na roda-gigante.
-Mary fica em uma cabine com Anton, deixando Mai e Dan em outra e Tifa e Cammy em uma terceira.
-A cidade aparece inteira abaixo deles: o porto, o parque, o aquário, as luzes da avenida e a torre interditada ao longe.
-Mai segura a mão de Dan e diz que, pela primeira vez, consegue olhar para South Town sem sentir que precisa enfrentar alguém.
-Dan responde que agora ela pode simplesmente estar ali.
-Tifa encosta a testa na de Cammy e agradece por ter ficado ao lado dela durante toda a viagem.
-Cammy responde que não havia outro lugar onde preferisse estar.
-Os beijos acontecem em paralelo nas cabines, sem transformar o momento em espetáculo.
-Mary observa os quatro depois que descem e percebe que eles não estão apenas comemorando uma vitória: estão deixando a cidade com uma memória nova.
+516 — 近所の散歩と買い物リスト
 
-Despedida
+Rotina volta ao normal: descobrem que a geladeira está vazia de verdade e decidem fazer compras "de gente adulta" no mercado do bairro.
+Cena cômica: Dan faz lista organizada por corredor do supermercado, Mai ignora completamente e enche o carrinho de coisas aleatórias "porque parecia bom".
+No caminho de volta, passam por uma livraria pequena e uma loja de doces; Tifa arrasta todo mundo pra dentro só para "ver rapidinho" e saem 40 minutos depois.
+Momento afetivo: Cammy carrega as sacolas mais pesadas sem reclamar, e Tifa nota e beija sua bochecha em agradecimento no meio da rua.
+Fecham o dia cozinhando juntos com o que compraram, numa cena caseira e morna.
 
-No aeroporto, Mary diz que a investigação ainda não terminou completamente, Billy e Yamazaki fugiram e a maioria dos capangas foram presos, mas a parte de Geese foi encerrada.
-Mai abraça Mary com força, sem a formalidade habitual.
-Tifa abraça Anton e promete voltar para vê-lo.
-Dan se ajoelha para se despedir do cachorro, que coloca as patas sobre os ombros dele.
-Cammy aperta a mão de Mary e agradece pela proteção durante o torneio.
-Mary responde que South Town foi mais segura porque eles estavam juntos.
-Antes do embarque, Mai pergunta se Mary vai continuar investigando os pergaminhos.
-Mary confirma, mas diz que agora o grupo pode descansar.
-No avião, Tifa adormece apoiada em Cammy.
-Dan fica acordado ao lado de Mai, que dorme com a cabeça no ombro dele.
-O leque permanece aberto no colo de Mai.
-Pela janela, South Town diminui até virar um conjunto de luzes.
-O arco termina com Dan perguntando qual será o próximo destino turístico.
-Mai responde que primeiro eles precisam voltar para casa.
-Tifa, ainda dormindo, murmura que quer praia.
-Cammy abre um olho e diz que vai preparar uma rota.
-Dan fecha o tablet antes que ela comece.
-Mai sorri sem abrir os olhos.
+517 — 日常に戻る夜
+
+Jantar em casa, todos mais relaxados; conversa espontânea sobre o que mudou depois de South Town — não em tom pesado, mas reflexivo e leve.
+Cada um comenta uma coisa que vai levar da viagem: Dan fala sobre aceitar que nem tudo pode ser planejado; Cammy admite (a contragosto) que gostou do parque de diversões; Tifa diz que quer voltar pra ver o Anton; Mai só sorri e diz que South Town valeu a pena "por um motivo específico", olhando pro Dan.
+Momento de casal duplo no sofá: Mai encostada no Dan, Tifa deitada no colo da Cammy, todos vendo TV sem prestar atenção real na tela.
+Gancho final: chuva começa a bater forte na janela e o noticiário menciona previsão de chuva para a semana toda — abrindo a porta pro próximo arco (semana de chuva + RPG).
 
 ## CRONOGRAMA DOS PRÓXIMOS ARCOS
 
-| #   | Título                  | Caps (estimado) | Tema                                                      | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| --- | ----------------------- | --------------- | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | 温泉旅行再び編 ✅       | 430–436         | Romântico / Sensual / Pós-arco                            | Viagem ao onsen prometida após South Town. Yukata, banhos, proximidade. Ecos do arco 餓狼伝説編 ainda presentes — costela de ダン, o leque aberto de 舞, a foto que ela ainda não sabe. Primeiro arco da nova fase emocional.                                                                                                                                                                                                                                                     |
-| 2   | 凪の頃 ✅               | 437–442         | Cotidiano / Comédia / Slice of life                       | Arco leve entre as operações. Rotina do apartamento, pequenas saídas, running gags consolidados (ミケ, 「悪くなかった」, ダン com a câmera). Espaço para aprofundar dinâmicas internas.                                                                                                                                                                                                                                                                                           |
-| 3   | スコットランド作戦編 ✅ | 443–453         | Ação / Comédia / Sensual                                  | Operação contra remanescentes da Shadaloo na Escócia. Parada no QG da Delta Red em Londres — visita a ユーニ e ディカープリ (em recuperação, condição mental melhorando). As duas participam da operação. Novos personagens: **モリガン・アーンスランド** (súcubo) e **フェリシア** (gata). キャミィ completamente perdida por フェリシア na forma de gata — running gag inesperado.                                                                                              |
-| 4   | 自転車の旅編 ✅         | 454–460         | Aventura / Romântico / Sensual                            | Passeio de bicicleta de alguns dias pela montanha com acampamento e onsen. Ritmo lento, natureza, conversas noturnas ao redor da fogueira. Sequência mais íntima no onsen.                                                                                                                                                                                                                                                                                                        |
-| 5   | 日々の余白 ✅           | 461–466         | Slice of life cotidiano, comédia leve e romance doméstico | Um arco de respiração entre a viagem de bicicleta e a operação em alto-mar. O foco está no retorno ao ritmo do apartamento, em pequenas tarefas compartilhadas, saídas simples pelo bairro e no conforto silencioso da convivência. A superfície é calma, mas o arco aprofunda a sensação de família escolhida e prepara emocionalmente o contraste com a próxima missão. O encerramento deve quebrar essa paz de forma seca e eficaz, com a mensagem da Delta Red para キャミィ. |
-| 6   | 海賊作戦編 ✅           | 467–474         | Ação / Comédia / Aventura / Sensual                       | Operação contra remanescentes da Shadaloo em alto-mar. **B. Janet** e seu navio pirata. Tema de piratas, mar aberto, ilha deserta. キャミィ em modo missão total vs. clima de aventura descontraído do grupo.                                                                                                                                                                                                                                                                     |
-| 7   | 帰宅編 ✅               | 5 caps.         | Slice of life cotidiano, comédia leve e romance doméstico |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 8   | ティファの過去編 2 ✅   | 5 caps.         | Aventura / Drama                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 9   | 運動会編 ✅             | 7 caps.         | Comédia / Romance                                         | Arco semelhante ao 家の中の勝負, dessa vez 舞 inventa provas físicas outdoor. Perdedores paga castigo. Antes da prova final começa chover, voltam pra casa e a prova é 脱衣麻雀 ou twister.                                                                                                                                                                                                                                                                                       |
-| -   | リアルバウト (1) ✅     | 5 caps.         | Ação                                                      | Treinos                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| -   | リアルバウト (2)        | 6 caps.         | Ação / Torneio / Drama                                    | Continuação da investigação dos Hidensho e Geese Howard. Participação de **ブルー・マリー**. Plot do Real Bout — torneio em trio. Resolução do conflito com Geese.                                                                                                                                                                                                                                                                                                                |
-| -   | リアルバウト (観光)     | 5 caps.         | Slice of life / Romance                                   | Comemoração e turismo em South Town                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|     | Arco                                                       | Caps | Tema                                   | Sinopse                                                                                                                                                                                                                                                                 |
+| --- | ---------------------------------------------------------- | ---- | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     | 帰宅と日常 (Volta pra casa)                                | 5    | Cotidiano / Comédia leve               | Os quatro voltam ao Japão, desfazem as malas, reencontram o gato do corredor, reorganizam a rotina e comentam as fotos da viagem. Fecha o arco de South Town com leveza antes de abrir o próximo gancho.                                                                |
+|     | 雨の週とダンジョンの夜 (Semana de chuva e RPG)             | 6    | Cotidiano / Comédia                    | Chuva prende os quatro em casa por dias. Dan propõe uma campanha de RPG de mesa; cada um cria um personagem que reflete (ou contradiz) sua personalidade real. Sessões caóticas, dados guardados, personagens ficando emocionalmente investidos além do esperado.       |
+|     | 波音の日々 (Dias de praia)                                 | 5    | Romance / Sensual                      | Viagem de praia que Tifa queria desde o início. Protetor solar, vôlei, poucos sustos, muita proximidade física entre os casais, uma noite de conversa profunda à beira-mar.                                                                                             |
+|     | 上海の影 (Sombras em Xangai)                               | 7    | Aventura / Drama / Ação                | Chun-Li contata o grupo: remanescentes da Shadaloo reagrupando-se na China. Investigação em conjunto, reencontro tenso de Cammy com o próprio passado via Chun-Li, confronto físico e emocional com a organização que a criou. Mai também tem Chun-Li como amiga antiga |
+|     | 決着の刻 (Hora do acerto de contas — continuação Shadaloo) | 7    | Drama / Ação / Suspense                | Resolução direta do arco chinês: confronto final com a célula da Shadaloo, revelações sobre o passado de Cammy, resgate ou libertação de alguém ligado a ela. Tom mais pesado, com pagamento emocional.                                                                 |
+|     | 猫と本屋の季節 (Gato e a livraria)                         | 5    | Comédia / Slice of life                | Retomada de um running gag antigo (o gato do corredor), estação de outono, passeios por livrarias e cafés, pequenos ciúmes bobos e reconciliações leves.                                                                                                                |
+|     | 仮面の祭 (Festival das máscaras)                           | 6    | Mistério / Comédia / Leve sobrenatural | Um festival local com lendas estranhas; o grupo investiga um "fantasma" que acaba sendo algo mundano e engraçado, no estilo do arco do castelo escocês.                                                                                                                 |
+|     | 冬の温泉 (Onsen de inverno)                                | 5    | Romance / Sensual / Cotidiano          | Viagem de fim de ano a um onsen na neve, callback ao primeiro arco de casal. Reflexão sobre o quanto o grupo cresceu desde então.                                                                                                                                       |
+|     | 過去からの手紙 (Carta do passado)                          | 8    | Drama / Ação / Aventura                | Um antigo aliado ou inimigo de Mai/Dan reaparece, trazendo um mistério ligado ao clã Shiranui ou à Delta Red. Viagem internacional, reviravoltas, tensão crescente.                                                                                                     |
+|     | 家族の一年 (Um ano em família)                             | 5    | Slice of life / Comédia / Emocional    | Fechamento de ciclo — aniversário do grupo morando junto, recapitulação afetuosa, celebração simples que amarra os fios abertos dos arcos anteriores.                                                                                                                   |
 
 ---
 
@@ -980,7 +898,7 @@ Mai sorri sem abrir os olhos.
 - **佐藤さくら:** Universitária do clube de leitura. Aparência: gentil, tímida, admiradora de ティファ. Verdade: vilã cômica em potencial — leotard, capa e máscara. Percebeu a desconfiança de キャミィ e fingiu "não é amor" para escapar. Sorriso malicioso confirmado no cap 362. Retornou no cap 402-408. さくら falhou em tudo que planejou e ganhou o que precisava, não uma resposta ao sentimento, mas uma porta aberta para uma amizade normal.
 - **リタ・ルワンダ:** Soldado de elite da Delta Red, conhecida pela disciplina rígida, pragmatismo e eficiência em combate. Costuma analisar situações de forma fria e objetiva, mas possui forte senso de dever e lealdade aos companheiros. _Arcos: 過去の影編_
 - **ディカープリ:** Ex-Doll Shadaloo, "irmã" キャミィ, em Londres sob cuidados da Delta Red. _Arcos: 過去の影編 ; 桜の季節編_
-- **ブルー・マリー & アントン:** — Os Hidensho e Geese — a investigação de マリー documentou, não resolveu. Disse algo a 舞, será revelado no futuro. Fio solto para arco futuro se quiser expandir o lado investigativo. O cão アントン sempre fiel a マリー, na espera da próxima aventura, ficará feliz quando ver ダン no futuro. _Arcos: 餓狼伝説編_
+- **ブルー・マリー & アントン:** — Os Hidensho e Geese — a investigação de マリー documentou, não resolveu. Disse algo a 舞, será revelado no futuro. Fio solto para arco futuro se quiser expandir o lado investigativo. O cão アントン sempre fiel a マリー, na espera da próxima aventura, ficará feliz quando ver ダン no futuro. _Arcos: 餓狼伝説編 ; リアルバウト_
 - **アンディ:** —encerrado não é mais questão emocional aberta. Próximo encontro, se houver, é entre competidores. _Arcos: スコットランド作戦編_
 - **フェリシア:** cat-girl, ajuda a suavizar o clima do castelo, interage muito com キャミィ e usa sua forma felina para criar cenas cômicas e afetivas.
 - **モリガン・アーンスランド:** Súcubo dona do castelo, conduz a revelação sobre as garotas da vila, explica a influência dos sonhos e encerra o conflito sem luta, deixando tudo em tom leve e bem-humorado. _Arcos: スコットランド作戦編_

@@ -4581,33 +4581,78 @@
       "chapter_kanji": "第五百九章",
       "arc": "リアルバウト (観光)",
       "group": "リアルバウト (観光)",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "イーストサイドパークと水の記憶",
+      "file": "chapters/第509章　イーストサイドパークと水の記憶.html",
+      "status": "existing"
     },
     {
       "chapter": 510,
       "chapter_kanji": "第五百十章",
       "arc": "リアルバウト (観光)",
       "group": "リアルバウト (観光)",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "公園の午後とアントンの友達",
+      "file": "chapters/第510章　公園の午後とアントンの友達.html",
+      "status": "existing"
     },
     {
       "chapter": 511,
       "chapter_kanji": "第五百十一章",
       "arc": "リアルバウト (観光)",
       "group": "リアルバウト (観光)",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "ポートタウンの風と四人の休日",
+      "file": "chapters/第511章　ポートタウンの風と四人の休日.html",
+      "status": "existing"
     },
     {
       "chapter": 512,
       "chapter_kanji": "第五百十二章",
       "arc": "リアルバウト (観光)",
       "group": "リアルバウト (観光)",
+      "title": "ドリームアミューズメントパークと帰る空",
+      "file": "chapters/第512章　ドリームアミューズメントパークと帰る空.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 513,
+      "chapter_kanji": "第五百十三章",
+      "arc": "帰宅と日常",
+      "group": "帰宅と日常",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 514,
+      "chapter_kanji": "第五百十四章",
+      "arc": "帰宅と日常",
+      "group": "帰宅と日常",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 515,
+      "chapter_kanji": "第五百十五章",
+      "arc": "帰宅と日常",
+      "group": "帰宅と日常",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 516,
+      "chapter_kanji": "第五百十六章",
+      "arc": "帰宅と日常",
+      "group": "帰宅と日常",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 517,
+      "chapter_kanji": "第五百十七章",
+      "arc": "帰宅と日常",
+      "group": "帰宅と日常",
       "title": null,
       "file": null,
       "status": "planned"

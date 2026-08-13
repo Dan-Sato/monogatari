@@ -295,18 +295,24 @@
     "arc": "リアルバウト (訓練)",
     "start": 497,
     "end": 501,
-    "status": "on going"
+    "status": "ok"
   },
   {
     "arc": "リアルバウト (大会)",
     "start": 502,
     "end": 507,
-    "status": "planned"
+    "status": "ok"
   },
   {
     "arc": "リアルバウト (観光)",
     "start": 508,
     "end": 512,
+    "status": "ok"
+  },
+  {
+    "arc": "帰宅と日常",
+    "start": 513,
+    "end": 517,
     "status": "planned"
   }
 ]
