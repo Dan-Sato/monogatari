@@ -4617,42 +4617,96 @@
       "chapter_kanji": "第五百十三章",
       "arc": "帰宅と日常",
       "group": "帰宅と日常",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "荷物とただいま",
+      "file": "chapters/第513章　荷物とただいま.html",
+      "status": "existing"
     },
     {
       "chapter": 514,
       "chapter_kanji": "第五百十四章",
       "arc": "帰宅と日常",
       "group": "帰宅と日常",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "コンビニと猫の帰還",
+      "file": "chapters/第514章　コンビニと猫の帰還.html",
+      "status": "existing"
     },
     {
       "chapter": 515,
       "chapter_kanji": "第五百十五章",
       "arc": "帰宅と日常",
       "group": "帰宅と日常",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "写真整理の午後",
+      "file": "chapters/第515章　写真整理の午後.html",
+      "status": "existing"
     },
     {
       "chapter": 516,
       "chapter_kanji": "第五百十六章",
       "arc": "帰宅と日常",
       "group": "帰宅と日常",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "近所の散歩と買い物リスト",
+      "file": "chapters/第516章　近所の散歩と買い物リスト.html",
+      "status": "existing"
     },
     {
       "chapter": 517,
       "chapter_kanji": "第五百十七章",
       "arc": "帰宅と日常",
       "group": "帰宅と日常",
+      "title": "日常に戻る夜",
+      "file": "chapters/第517章　日常に戻る夜.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 518,
+      "chapter_kanji": "第五百十八章",
+      "arc": "雨の週とダンジョンの夜",
+      "group": "雨の週とダンジョンの夜",
+      "title": "雨とキャラクターシート",
+      "file": "chapters/第518章　雨とキャラクターシート.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 519,
+      "chapter_kanji": "第五百十九章",
+      "arc": "雨の週とダンジョンの夜",
+      "group": "雨の週とダンジョンの夜",
+      "title": "女王の依頼",
+      "file": "chapters/第519章　女王の依頼.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 520,
+      "chapter_kanji": "第五百二十章",
+      "arc": "雨の週とダンジョンの夜",
+      "group": "雨の週とダンジョンの夜",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 521,
+      "chapter_kanji": "第五百二十一章",
+      "arc": "雨の週とダンジョンの夜",
+      "group": "雨の週とダンジョンの夜",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 522,
+      "chapter_kanji": "第五百二十二章",
+      "arc": "雨の週とダンジョンの夜",
+      "group": "雨の週とダンジョンの夜",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 523,
+      "chapter_kanji": "第五百二十三章",
+      "arc": "雨の週とダンジョンの夜",
+      "group": "雨の週とダンジョンの夜",
       "title": null,
       "file": null,
       "status": "planned"

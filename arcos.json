@@ -313,6 +313,12 @@
     "arc": "帰宅と日常",
     "start": 513,
     "end": 517,
+    "status": "ok"
+  },
+  {
+    "arc": "雨の週とダンジョンの夜",
+    "start": 518,
+    "end": 523,
     "status": "planned"
   }
 ]
