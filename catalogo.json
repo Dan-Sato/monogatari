@@ -4689,24 +4689,78 @@
       "chapter_kanji": "第五百二十一章",
       "arc": "雨の週とダンジョンの夜",
       "group": "雨の週とダンジョンの夜",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "竜の巣への道",
+      "file": "chapters/第521章　竜の巣への道.html",
+      "status": "existing"
     },
     {
       "chapter": 522,
       "chapter_kanji": "第五百二十二章",
       "arc": "雨の週とダンジョンの夜",
       "group": "雨の週とダンジョンの夜",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "竜との対決",
+      "file": "chapters/第522章　竜との対決.html",
+      "status": "existing"
     },
     {
       "chapter": 523,
       "chapter_kanji": "第五百二十三章",
       "arc": "雨の週とダンジョンの夜",
       "group": "雨の週とダンジョンの夜",
+      "title": "エンディングとサイコロの余韻",
+      "file": "chapters/第523章　エンディングとサイコロの余韻.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 524,
+      "chapter_kanji": "第五百二十四章",
+      "arc": "波音の日々",
+      "group": "波音の日々",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 525,
+      "chapter_kanji": "第五百二十五章",
+      "arc": "波音の日々",
+      "group": "波音の日々",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 526,
+      "chapter_kanji": "第五百二十六章",
+      "arc": "波音の日々",
+      "group": "波音の日々",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 527,
+      "chapter_kanji": "第五百二十七章",
+      "arc": "波音の日々",
+      "group": "波音の日々",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 528,
+      "chapter_kanji": "第五百二十八章",
+      "arc": "波音の日々",
+      "group": "波音の日々",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 529,
+      "chapter_kanji": "第五百二十九章",
+      "arc": "波音の日々",
+      "group": "波音の日々",
       "title": null,
       "file": null,
       "status": "planned"

@@ -319,6 +319,12 @@
     "arc": "雨の週とダンジョンの夜",
     "start": 518,
     "end": 523,
+    "status": "ok"
+  },
+  {
+    "arc": "波音の日々",
+    "start": 524,
+    "end": 529,
     "status": "planned"
   }
 ]
