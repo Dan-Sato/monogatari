@@ -880,6 +880,26 @@ No primeiro dia de céu azul depois de uma semana de chuva, ダン sugere um pas
 
 ## ARCO ATUAL: 524-529 波音の日々
 
+524 — 水着選びの午後
+
+Abre com ティファ perguntando se ダン já achou o resort; ele diz que ainda está pesquisando e toca no assunto sensível — se está tudo bem voltar à praia depois do 海賊作戦編 (ilha, naufrágio, キャミィ e ティファ feridas). Ela tranquiliza: daquela vez só estavam tentando sobreviver, agora é diferente. 舞 então chama as três para um mini-date de compras, decidem por 2 ou 3 biquínis cada, e deixam ダン em casa de propósito ("vai ser surpresa"), enquanto ele fica pesquisando o resort e cuidando da casa.
+
+525 — 到着と最初の一歩
+
+Chegada ao resort (3-4 dias). Check-in, primeira vista da praia, e o grande momento cômico/romântico: elas aparecem de biquíni novo e ダン fica completamente pasmo, sem conseguir формular frase. Protetor solar nas pernas, coxas, bumbum, costas, nuca — cena de intimidade e comédia leve entre os pares. Primeira nadada e brincadeiras na água.
+
+526 — 砂浜の勝負
+
+Dia cheio: vôlei de praia em duplas (provavelmente os mesmos pares dos arcos anteriores), corrida na areia, brincadeiras físicas, pequenos sustos controlados (onda forte, susto com água-viva sem gravidade real, etc.), muita proximidade física natural entre os casais. ダン fotografa disfarçadamente.
+
+527 — 焚き火と夜の会話
+
+Noite na praia com fogueira — conversa mais profunda entre os quatro, tom mais íntimo e reflexivo (o que mudou desde que se conheceram, medos, o que a "família escolhida" significa pra cada um). Carinho físico crescente, talvez um início de aproximação cruzada mais intensa entre os pares, mantendo a linha sensual sem perder emoção.
+
+528 — 波音の余韻
+
+Último dia e volta: mais um pouco de praia pela manhã, despedida do resort, todos exaustos e levemente bronzeados (ou alguém "queimado" de forma cômica). Reflexão leve sobre a viagem, consolidação do vínculo, e gancho para o próximo arco.
+
 ## CRONOGRAMA DOS PRÓXIMOS ARCOS
 
 |     | Arco                                                       | Caps | Tema                                   | Sinopse                                                                                                                                                                                                                                                                         |
