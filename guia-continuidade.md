@@ -902,6 +902,21 @@ No último dia, os quatro acordam espremidos na mesma cama, nus sob os lençóis
 
 ## PRÓXIMO ARCO: 波音の日々
 
+529 — 帰宅とお茶
+Os quatro chegam em casa depois da viagem, ainda cansados; fazem um chá para relaxar. ダン cuida com carinho das pequenas queimaduras de sol da 舞 (callback consciente ao 海賊作戦編, mas agora num contexto tranquilo e doméstico, sem trauma). Menção ao friozinho que está chegando. No fim, reencontro rápido com o gato do corredor, reabrindo o gancho antigo.
+
+530 — 猫の帰還と朝の散歩
+Retomada mais completa do running gag do gato — ele voltou a rondar o prédio, e a キャミィ finge não se importar enquanto claramente cuida dele. Pequena saída ao petshop/mercado para comprar petiscos "só por precaução". Tom de comédia cotidiana.
+
+531 — 本屋と喫茶店の午後
+Passeio por uma livraria pequena e um café aconchegante num dia mais frio — clima de conforto, compras de livros, bebidas quentes. Momentos de casal tranquilos, quebra-gelo para o arco.
+
+532 — ちょっとした焼き餅
+Um funcionário/cliente da livraria ou café demonstra atenção exagerada a um dos quatro (talvez à ティファ de novo, ou ao ダン desta vez, pra variar), gerando ciúme bobo em um dos parceiros — tom cômico, não dramático.
+
+533 — 仲直りと猫のいる午後
+Reconciliação leve e afetuosa, resolvendo o ciúme com humor e carinho; ティファ comenta que em Nibelhein tinha uma gata chamara Maru, o gato aparece de novo trazendo um clima caseiro e fofo para fechar o arco, com gancho leve para o próximo destino.
+
 ## CRONOGRAMA DOS PRÓXIMOS ARCOS
 
 |     | Arco                                                       | Caps | Tema                                   | Sinopse                                                                                                                                                                                                                                                                         |
