@@ -9,8 +9,8 @@
       "chapter_kanji": "第一章",
       "arc": "出会い編",
       "group": "出会い編",
-      "title": "出会い",
-      "file": "chapters/第1章　出会い.html",
+      "title": "公園での出会い",
+      "file": "chapters/第1章　公園での出会い.html",
       "status": "existing"
     },
     {
@@ -4716,54 +4716,45 @@
       "chapter_kanji": "第五百二十四章",
       "arc": "波音の日々",
       "group": "波音の日々",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "水着選びの午後",
+      "file": "chapters/第524章　水着選びの午後.html",
+      "status": "existing"
     },
     {
       "chapter": 525,
       "chapter_kanji": "第五百二十五章",
       "arc": "波音の日々",
       "group": "波音の日々",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "到着と最初の一歩",
+      "file": "chapters/第525章　到着と最初の一歩.html",
+      "status": "existing"
     },
     {
       "chapter": 526,
       "chapter_kanji": "第五百二十六章",
       "arc": "波音の日々",
       "group": "波音の日々",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "砂浜の勝負",
+      "file": "chapters/第526章　砂浜の勝負.html",
+      "status": "existing"
     },
     {
       "chapter": 527,
       "chapter_kanji": "第五百二十七章",
       "arc": "波音の日々",
       "group": "波音の日々",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "焚き火と夜の会話",
+      "file": "chapters/第527章　焚き火と夜の会話.html",
+      "status": "existing"
     },
     {
       "chapter": 528,
       "chapter_kanji": "第五百二十八章",
       "arc": "波音の日々",
       "group": "波音の日々",
-      "title": null,
-      "file": null,
-      "status": "planned"
-    },
-    {
-      "chapter": 529,
-      "chapter_kanji": "第五百二十九章",
-      "arc": "波音の日々",
-      "group": "波音の日々",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "波音の余韻",
+      "file": "chapters/第528章　波音の余韻.html",
+      "status": "existing"
     }
   ]
 }

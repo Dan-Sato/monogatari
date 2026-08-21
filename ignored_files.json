@@ -20,6 +20,10 @@
     "reason": "filename_does_not_match_expected_pattern"
   },
   {
+    "file": "chapters/第1x章　出会い.html",
+    "reason": "invalid_chapter_number: Unsupported numeral: 1x"
+  },
+  {
     "file": "chapters/第371+章　風を切って.html",
     "reason": "invalid_chapter_number: Unsupported numeral: 371+"
   }

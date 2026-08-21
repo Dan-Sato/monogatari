@@ -324,7 +324,13 @@
   {
     "arc": "波音の日々",
     "start": 524,
-    "end": 529,
+    "end": 528,
+    "status": "ok"
+  },
+  {
+    "arc": "猫と本屋の季節",
+    "start": 539,
+    "end": 533,
     "status": "planned"
   }
 ]
