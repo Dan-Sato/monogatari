@@ -878,27 +878,29 @@ No primeiro dia de céu azul depois de uma semana de chuva, ダン sugere um pas
 
 - **キャミィ** forma oficialmente um grupo de mercenários, **ティファ** passa a ensinar artes marciais num orfanato, **舞** vira exploradora de iguarias pelo mundo, e **ダン** segue pesquisando o feitiço que deu errado na batalha.
 
-## ARCO ATUAL: 524-529 波音の日々
+### 524-529 波音の日々 ⭐
 
-524 — 水着選びの午後
+**524 — 水着選びの午後**
 
 ティファ pergunta se ダン já decidiu o resort, e ele aproveita para tocar num assunto mais sensível: se está tudo bem voltar à praia depois do trauma do 海賊作戦編 (naufrágio, ilha deserta, ela e キャミィ feridas). Ela tranquiliza dizendo que daquela vez só estavam sobrevivendo, e que agora é diferente — quase como reescrever aquela memória com algo bom. Animada, 舞 chama as três para um mini-date de compras de biquínis (2 a 3 cada), recusando terminantemente levar o ダン junto ("é surpresa"), deixando-o em casa pesquisando o resort e cuidando da limpeza e da roupa. Na loja, cada uma escolhe conforme sua personalidade: 舞 vai de ousado, ティファ prioriza praticidade pro vôlei, e キャミィ surpreende ao pegar uma biquíni branca além da peça funcional de sempre, justificando com um seco "mudança de humor". Elas ainda escolhem bermuda e sunga para o ダン, brincando que se dependesse dele seria só uma peça discreta e funcional. Na véspera da viagem, arrumam as malas em meio a provocações sobre a lista de precauções dele e o "esforço" para não espiar os biquínis antes da hora. No dia da partida, acordam animados, tomam café sob céu limpo e seguem para o táxi rumo ao resort.
 
-525 — 到着と最初の一歩
+**525 — 到着と最初の一歩**
 
 Na chegada ao resort, o grupo faz check-in num quarto com vista para o mar e fica maravilhado com a paisagem da varanda. Antes de descerem à praia, elas insistem que ダン espere sentado enquanto se trocam — e quando saem de biquíni novo, ele fica completamente sem palavras diante de cada uma. No meio da preparação, 舞 entrega a ele a sacola com a bermuda que escolheu; ele troca de roupa no quarto, volta, e recebe elogios sinceros de ティファ e キャミィ — agradece com um selinho surpresa na bochecha da 舞, que fica sem graça tentando disfarçar atrás do leque enquanto as orelhas denunciam o constrangimento. Segue a cena de protetor solar: costas e nuca da ティファ, coxas (e o pedido descarado de bumbum) da 舞, e por fim キャミィ cedendo "por eficiência" e pedindo para ele passar nas próprias costas. Na praia, brincam na arrebentação, fazem guerra de água, nadam até uma boia com vitória folgada da キャミィ (efeito do treinamento) e tiram uma foto em grupo com timer. O capítulo fecha no fim de tarde, com os quatro já planejando o dia seguinte — キャミィ cravando vôlei de praia como prioridade.
 
-526 — 砂浜の勝負
+**526 — 砂浜の勝負**
 
 No segundo dia, o grupo estreia biquínis diferentes e parte para um dia cheio na praia. 舞 sorteia as duplas com cordões — e, "coincidentemente", saem os pares de sempre (ダン+舞, ティファ+キャミィ), levantando suspeita geral. No vôlei de praia, キャミィ domina com reflexos treinados no combate, enquanto ダン e 舞 formam a dupla desastrada que não se entende em quadra e perde sem marcar ponto sequer. Na corrida na areia, キャミィ lidera mas escorrega perto da chegada, dando a vitória para ティファ, que a ajuda a levantar e recebe um selinho natural em retribuição, sem se importar com quem estava vendo. Depois vêm os sustos controlados: uma onda forte engole ティファ, que engasga com água e é amparada rapidamente por キャミィ; em seguida 舞 grita pensando ter encostado numa água-viva, mas era só uma alga — ダン a abraça pela cintura e acalma com um beijo na testa. À tarde, debaixo do guarda-sol, ティファ e キャミィ ficam de mãos dadas em silêncio confortável, enquanto ダン entrega uma bebida gelada para 舞 e recebe um selinho casual de agradecimento. Ele aproveita para fotografar discretamente esses momentos de afeto, sendo pego no flagra por 舞. O dia termina com todos exaustos, um pouco vermelhos de sol, e animados com os dois dias de praia que ainda restam.
 
-527 — 焚き火と夜の会話
+**527 — 焚き火と夜の会話**
 
 No terceiro dia, o grupo almoça frutos do mar no resort (com ティファ dando pitacos de bartender sobre harmonização) e passeia de mãos dadas pela trilha do local. À noite, decidem fazer uma fogueira na praia como despedida especial: ティファ e 舞 vão ao bar escolher drinks personalizados para cada um, enquanto ダン e キャミィ ficam encarregados de acender o fogo — e travam uma batalha frustrante contra o vento do mar, sem sucesso algum. 舞 chega, reclama da demora, e resolve tudo instantaneamente com um 龍炎舞 controlado, deixando ダン constrangido com a "trapaça eficiente" dela. Ao redor da fogueira, a conversa vai ficando mais profunda: cada um reflete sobre o que mudou desde que se conheceram — キャミィ fala sobre finalmente ter um lugar para voltar; ティファ sobre aprender a se deixar proteger também; 舞 sobre valorizar mais que só força; e ダン sobre ainda sentir medo de perder alguém, mas preferir esse risco a ficar sozinho. Quando キャミィ verbaliza que agora entende de verdade o que significa "família escolhida", ela e ティファ trocam um beijo natural, seguidas por 舞 e ダン sob as estrelas. O capítulo fecha com os quatro se aproximando fisicamente sem distinção clara de pares — cabeças e mãos se misturando ao redor do fogo que se apaga aos poucos —, celebrando o vínculo dos quatro de um jeito mais fluido e íntimo do que em qualquer momento anterior da viagem.
 
-528 — 波音の余韻
+**528 — 波音の余韻**
 
 No último dia, os quatro acordam espremidos na mesma cama, nus sob os lençóis, com os biquínis da noite anterior espalhados pelo quarto. 舞 acorda com os ombros vermelhos por não ter passado protetor solar direito, e キャミィ oferece uma toalha gelada com uma cutucada sutil sobre a responsabilidade dela. Depois do café, fazem uma última caminhada tranquila na beira da praia, sem brincadeiras intensas, só absorvendo a sensação antes de partir, enquanto ダン tira as últimas fotos. Antes de arrumar as malas, passam pela lojinha de lembranças do resort: ダン escolhe com cuidado presentes personalizados — leque floral especial para 舞 (que ele já tinha guardado), chapéu de palha e uma bolsinha com bordado de gato para キャミィ, e um laço com concha para ティファ. Depois de uma arrumação cômica em equipe para fechar a mala lotada de 舞, fazem o checkout e seguem de ônibus e trem de volta para casa — todos exaustos, dormindo apoiados um no outro. No caminho, refletem sobre a viagem: ティファ define como sua nova coisa favorita "o tempo ouvindo o som das ondas com todo mundo", e ダン já cogita o próximo destino, provocando uma キャミィ que se vê usando as próprias palavras contra ela mesma. O arco se encerra com os quatro voltando para casa de mãos dadas, com a pele ainda quente do sol e o vínculo entre eles mais consolidado do que nunca.
+
+## PRÓXIMO ARCO: 波音の日々
 
 ## CRONOGRAMA DOS PRÓXIMOS ARCOS
 
