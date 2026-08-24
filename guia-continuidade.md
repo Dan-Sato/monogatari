@@ -923,7 +923,45 @@ Um novo panfleto aparece perto do gato do prédio, anunciando um neko café, e o
 
 Na volta do neko café, ダン pede desculpas pelo ciúme, mas 舞 revela que não se importou — ela sabe o quanto ele a ama, só quis mostrar um pouco do próprio sentimento, resolvendo tudo com humor e carinho. Em casa, comentam sobre os gatos e ティファ conta que voltou a Nibelheim depois de 5 anos, encontrou a cidade estranhamente reconstruída igual a antes e reencontrou Maru (sua gata de infância) nos arredores, deixando-a aos cuidados de uma senhora que não parava de cantar. O gato do prédio aparece trazendo um clima caseiro e fofo para fechar o arco, enquanto ダン organiza as fotos da praia e ティファ escolhe mais algumas para o painel na parede, incluindo uma rara foto de キャミィ sorrindo abertamente.
 
-## PRÓXIMO ARCO 534-540 上海の影
+## ARCO ATUAL 534-540 上海の影
+
+534 — 契約と別れ (Contrato e despedida)
+Chun-Li contata o grupo sobre remanescentes da Shadaloo reagrupando-se em Xangai. Decisão de ir. Antes da viagem, deixam o gato do prédio com 山田さん, dona do ミケ — ela reconhece o bichano como ミク, gata que sumiu do bairro anos atrás. Momento emotivo fechando esse fio solto do arco anterior. Preparativos, passagens, briefing inicial.
+
+535 — 再会 (Reencontro)
+Chegada a Xangai, reencontro com Chun-Li. Tensão sutil entre Cammy e Chun-Li (amizade "com benefícios" do passado, não-dita mas presente no clima). Mai e Chun-Li trocam provocações amistosas — cosplay antigo de Mai como Chun-Li, momento clássico de provocação peito a peito. Tom leve antes do peso da missão.
+
+536 — 手がかり (Pistas)
+Investigação conjunta pela cidade; primeiros sinais da célula remanescente. Cammy começa a reconhecer padrões, símbolos e locais ligados ao próprio condicionamento como Doll — desconforto crescente. Chun-Li compartilha inteligência: há uma instalação secundária e possivelmente uma prisioneira de alto valor.
+
+537 — 過去との衝突 (Colisão com o passado)
+Confronto físico inicial com agentes da célula. Cammy reage de forma mais visceral que o normal, revelando fragmentos do próprio trauma. O grupo entende que essa missão é pessoal para ela. Primeiro indício de que a prisioneira pode ser Juli.
+
+538 — 檻の中の声 (Voz dentro da jaula)
+Descoberta da instalação secundária da Shadaloo. Cammy ouve vozes/fragmentos de memória que a desestabilizam. Confronto emocional mais denso; Dan, Mai e Tifa dão suporte enquanto Cammy encara diretamente sua origem. Confirmação: Juli está viva, presa e em processo de recondicionamento.
+
+539 — 最後の戦い (Última batalha)
+Confronto final com a célula. Resgate/libertação de Juli. Ação intensa com revelações completas sobre o projeto que criou Cammy e as Dolls. Juli é estabilizada, mas ainda frágil. Chun-Li assume a custódia temporária para transferência segura.
+
+540 — 影が晴れる日 (O dia em que as sombras se dissipam)
+Processamento emocional pós-missão. O grupo ainda está em Xangai, sem voltar para casa. Chun-Li sugere que fiquem alguns dias para decomprimir — ela será a guia turística. Cammy e Juli têm um momento de despedida silencioso, prometendo reencontrar-se quando Juli estiver recuperada.
+
+## PRÓXIMO ARCO 541-545 上海の休日
+
+541 — 上海の休日 (Férias em Xangai)
+Início do arco de turismo. Chun-Li como guia. Visita ao Bund, Nanjing Road, Yu Garden. Comidas de rua, chás, fotos, clima de descompressão total. Mai e Chun-Li continuam as provocações amistosas. Cammy começa a relaxar genuinamente.
+
+542 — 味と香り (Sabor e aroma)
+Dia dedicado à comida: xiaolongbao, sopa de caranguejo, chá de jasmin, doces tradicionais. Tifa e Chun-Li debatem técnicas culinárias. Dan fotografa tudo. Cammy ri pela primeira vez desde o resgate de Juli.
+
+543 — 街の記憶 (Memória da cidade)
+Visita a museus e bairros históricos. Chun-Li conta sobre sua própria história com a Interpol e casos passados em Xangai. Cammy se identifica com a narrativa de reconstrução pós-trauma. Momento de reflexão compartilhada.
+
+544 — 夜の光 (Luz da noite)
+Noite no mercado noturno, luzes, multidão, energia. O grupo se separa em pares naturalmente: Chun-Li e Mai na frente provocando uma à outra, Dan e Cammy atrás de mãos dadas observando. Compra de lembranças, fotos, risadas.
+
+545 — 帰路の約束 (Promessa do retorno)
+Último dia em Xangai. Chun-Li leva o grupo a um ponto alto da cidade para ver o skyline. Promessa de que voltarão quando Juli estiver recuperada. Despedida calorosa. O grupo embarca de volta para o Japão com um novo tipo de paz — não esquecimento, mas integração do passado.
 
 ## CRONOGRAMA DOS PRÓXIMOS ARCOS
 
