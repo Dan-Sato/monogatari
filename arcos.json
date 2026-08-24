@@ -331,6 +331,12 @@
     "arc": "猫と本屋の季節",
     "start": 539,
     "end": 533,
+    "status": "ok"
+  },
+  {
+    "arc": "上海の影",
+    "start": 534,
+    "end": 540,
     "status": "planned"
   }
 ]

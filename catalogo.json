@@ -4755,6 +4755,114 @@
       "title": "波音の余韻",
       "file": "chapters/第528章　波音の余韻.html",
       "status": "existing"
+    },
+    {
+      "chapter": 529,
+      "chapter_kanji": "第五百二十九章",
+      "arc": null,
+      "group": "猫と本屋の季節",
+      "title": "帰宅とお茶",
+      "file": "chapters/第529章　帰宅とお茶.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 530,
+      "chapter_kanji": "第五百三十章",
+      "arc": null,
+      "group": "猫と本屋の季節",
+      "title": "猫の帰還と朝の散歩",
+      "file": "chapters/第530章　猫の帰還と朝の散歩.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 531,
+      "chapter_kanji": "第五百三十一章",
+      "arc": null,
+      "group": "猫と本屋の季節",
+      "title": "メイドカフェの午後",
+      "file": "chapters/第531章　メイドカフェの午後.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 532,
+      "chapter_kanji": "第五百三十二章",
+      "arc": null,
+      "group": "猫と本屋の季節",
+      "title": "ちょっとした焼き餅",
+      "file": "chapters/第532章　ちょっとした焼き餅.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 533,
+      "chapter_kanji": "第五百三十三章",
+      "arc": null,
+      "group": "猫と本屋の季節",
+      "title": "仲直りと猫のいる午後",
+      "file": "chapters/第533章　仲直りと猫のいる午後.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 534,
+      "chapter_kanji": "第五百三十四章",
+      "arc": "上海の影",
+      "group": "上海の影",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 535,
+      "chapter_kanji": "第五百三十五章",
+      "arc": "上海の影",
+      "group": "上海の影",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 536,
+      "chapter_kanji": "第五百三十六章",
+      "arc": "上海の影",
+      "group": "上海の影",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 537,
+      "chapter_kanji": "第五百三十七章",
+      "arc": "上海の影",
+      "group": "上海の影",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 538,
+      "chapter_kanji": "第五百三十八章",
+      "arc": "上海の影",
+      "group": "上海の影",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 539,
+      "chapter_kanji": "第五百三十九章",
+      "arc": "上海の影",
+      "group": "上海の影",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 540,
+      "chapter_kanji": "第五百四十章",
+      "arc": "上海の影",
+      "group": "上海の影",
+      "title": null,
+      "file": null,
+      "status": "planned"
     }
   ]
 }

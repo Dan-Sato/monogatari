@@ -18,7 +18,7 @@ _Projeto de leitura em japonês._
 >
 > Nome dos arquivos: 第〇〇章　タイトル.html
 >
-> Nível N4
+> Nível N4, com conversas geralmente na forma casual
 >
 > 3 notas de rodapé por capítulo
 >
@@ -85,10 +85,11 @@ _Projeto de leitura em japonês._
 
 - Relação aberta entre os quatro — interações cruzadas naturais
 - 舞❤️ダン = casal principal; ティファ❤️キャミィ = casal secundário
-- Cada casal dorme junto
 - **Conceito estabelecido:** "選んだ家族" (família escolhida) — não sangue, mas coração
 - **Filosofia:** "普通じゃなくていい" — relacionamento especial não precisa seguir padrões
 - **Promessa:** honestidade, cuidado mútuo, ficarem juntos
+- Moram num apartamento
+- Cada casal dorme junto
 
 ## Golpes e Técnicas
 
@@ -900,22 +901,24 @@ No terceiro dia, o grupo almoça frutos do mar no resort (com ティファ dando
 
 No último dia, os quatro acordam espremidos na mesma cama, nus sob os lençóis, com os biquínis da noite anterior espalhados pelo quarto. 舞 acorda com os ombros vermelhos por não ter passado protetor solar direito, e キャミィ oferece uma toalha gelada com uma cutucada sutil sobre a responsabilidade dela. Depois do café, fazem uma última caminhada tranquila na beira da praia, sem brincadeiras intensas, só absorvendo a sensação antes de partir, enquanto ダン tira as últimas fotos. Antes de arrumar as malas, passam pela lojinha de lembranças do resort: ダン escolhe com cuidado presentes personalizados — leque floral especial para 舞 (que ele já tinha guardado), chapéu de palha e uma bolsinha com bordado de gato para キャミィ, e um laço com concha para ティファ. Depois de uma arrumação cômica em equipe para fechar a mala lotada de 舞, fazem o checkout e seguem de ônibus e trem de volta para casa — todos exaustos, dormindo apoiados um no outro. No caminho, refletem sobre a viagem: ティファ define como sua nova coisa favorita "o tempo ouvindo o som das ondas com todo mundo", e ダン já cogita o próximo destino, provocando uma キャミィ que se vê usando as próprias palavras contra ela mesma. O arco se encerra com os quatro voltando para casa de mãos dadas, com a pele ainda quente do sol e o vínculo entre eles mais consolidado do que nunca.
 
-## PRÓXIMO ARCO: 波音の日々
+### 529-533 猫と本屋の季節
 
 529 — 帰宅とお茶
-Os quatro chegam em casa depois da viagem, ainda cansados; fazem um chá para relaxar. ダン cuida com carinho das pequenas queimaduras de sol da 舞 (callback consciente ao 海賊作戦編, mas agora num contexto tranquilo e doméstico, sem trauma). Menção ao friozinho que está chegando. No fim, reencontro rápido com o gato do corredor, reabrindo o gancho antigo.
+Os quatro voltam para casa (apartamento) depois da viagem, sentindo o contraste do clima mais frio. ダン cuida com carinho das queimaduras de sol de 舞, aplicando pomada com atenção — callback afetuoso ao arco dos piratas, mas em tom doméstico e tranquilo. キャミィ prepara chá para todos relaxarem, e durante a conversa surge a ideia de visitar uma livraria nova perto da estação. À noite, avistam o gato do corredor pela janela, reacendendo o running gag. No dia seguinte, com o tempo mais frio e nublado, tomam café da manhã juntos e saem para comprar roupas de inverno, encontrando o gato na rua, depois e vão à livraria e compram livros que refletem suas personalidades.
 
 530 — 猫の帰還と朝の散歩
-Retomada mais completa do running gag do gato — ele voltou a rondar o prédio, e a キャミィ finge não se importar enquanto claramente cuida dele. Pequena saída ao petshop/mercado para comprar petiscos "só por precaução". Tom de comédia cotidiana.
+A caminho da estação, passam no petshop e mercado para comprar comida, petiscos e uma manta para o gato "só por precaução" — キャミィ finge que é praticidade, mas claramente está mimando o bichano. Encontram o gato na rua, ele os segue até em casa, e eles fazem a primeira refeição oficial com ele, tentando (sem sucesso) escolher um nome. No dia seguinte, ensolarado, saem para uma caminhada matinal com o gato até um parque, reforçando o vínculo. Ao voltarem, encontram um panfleto de maid café na caixa de correio; ティファ fica curiosa e sugere ao grupo conhecer o lugar.
 
-531 — 本屋と喫茶店の午後
-Passeio por uma livraria pequena e um café aconchegante num dia mais frio — clima de conforto, compras de livros, bebidas quentes. Momentos de casal tranquilos, quebra-gelo para o arco.
+531 — メイドカフェの午後
+Num dia frio, ティファ convence o grupo a visitar o maid café do panfleto que achou. Lá dentro, o ambiente é aconchegante, com bebidas quentes e decoração fofa de gato — ティファ fica encantada, キャミィ finge indiferença mas aproveita, e os dois casais compartilham momentos tranquilos de carinho (dedos entrelaçados debaixo da mesa, mãos sobre a mesa). Na volta, 舞 para diante da vitrine de uma loja de "brinquedos" adultos e fica divagando; キャミィ a chama de volta, e ダン comenta baixinho com ティファ que pressente um "momento de perigo" se aproximando. O capítulo fecha com o gato do corredor os recebendo na entrada do prédio, trazendo um toque caseiro após a tarde quente do café.
 
 532 — ちょっとした焼き餅
-Um funcionário/cliente da livraria ou café demonstra atenção exagerada a um dos quatro (talvez à ティファ de novo, ou ao ダン desta vez, pra variar), gerando ciúme bobo em um dos parceiros — tom cômico, não dramático.
+Um novo panfleto aparece perto do gato do prédio, anunciando um neko café, e o grupo decide visitar. Lá, a recepcionista — cabelo verde, traços europeus e charme sedutor idênticos à Morrigan do arco da Escócia — se apresenta como "Morgan", disfarçando a identidade. Ela flerta abertamente com ダン (elogia o corpo dele, sugere que ele volte "sozinho"), provocando o primeiro ciúme visível de 舞, que bate o leque na mesa e declara posse dele — cena cômica, reconhecida até pelas amigas como inédita. Enquanto isso, uma gatinha branca (Felicia) gruda em キャミィ o tempo todo, ronronando e recusando se afastar, amolecendo até a fria キャミィ. Ao saírem, ninguém percebe que a gatinha se transforma de volta em Felicia, que se junta a Morrigan sorrindo travessamente — confirmando que ambas reconheceram o grupo desde o início.
 
 533 — 仲直りと猫のいる午後
-Reconciliação leve e afetuosa, resolvendo o ciúme com humor e carinho; ティファ comenta que em Nibelhein tinha uma gata chamara Maru, o gato aparece de novo trazendo um clima caseiro e fofo para fechar o arco, com gancho leve para o próximo destino.
+Na volta do neko café, ダン pede desculpas pelo ciúme, mas 舞 revela que não se importou — ela sabe o quanto ele a ama, só quis mostrar um pouco do próprio sentimento, resolvendo tudo com humor e carinho. Em casa, comentam sobre os gatos e ティファ conta que voltou a Nibelheim depois de 5 anos, encontrou a cidade estranhamente reconstruída igual a antes e reencontrou Maru (sua gata de infância) nos arredores, deixando-a aos cuidados de uma senhora que não parava de cantar. O gato do prédio aparece trazendo um clima caseiro e fofo para fechar o arco, enquanto ダン organiza as fotos da praia e ティファ escolhe mais algumas para o painel na parede, incluindo uma rara foto de キャミィ sorrindo abertamente.
+
+## PRÓXIMO ARCO 534-540 上海の影
 
 ## CRONOGRAMA DOS PRÓXIMOS ARCOS
 
@@ -952,7 +955,7 @@ Reconciliação leve e afetuosa, resolvendo o ciúme com humor e carinho; ティ
 - **リタ・ルワンダ:** Soldado de elite da Delta Red, conhecida pela disciplina rígida, pragmatismo e eficiência em combate. Costuma analisar situações de forma fria e objetiva, mas possui forte senso de dever e lealdade aos companheiros. _Arcos: 過去の影編_
 - **ディカープリ:** Ex-Doll Shadaloo, "irmã" キャミィ, em Londres sob cuidados da Delta Red. _Arcos: 過去の影編 ; 桜の季節編_
 - **ブルー・マリー & アントン:** — Os Hidensho e Geese — a investigação de マリー documentou, não resolveu. Disse algo a 舞, será revelado no futuro. Fio solto para arco futuro se quiser expandir o lado investigativo. O cão アントン sempre fiel a マリー, na espera da próxima aventura, ficará feliz quando ver ダン no futuro. _Arcos: 餓狼伝説編 ; リアルバウト_
-- **アンディ:** —encerrado não é mais questão emocional aberta. Próximo encontro, se houver, é entre competidores. _Arcos: スコットランド作戦編_
-- **フェリシア:** cat-girl, ajuda a suavizar o clima do castelo, interage muito com キャミィ e usa sua forma felina para criar cenas cômicas e afetivas.
-- **モリガン・アーンスランド:** Súcubo dona do castelo, conduz a revelação sobre as garotas da vila, explica a influência dos sonhos e encerra o conflito sem luta, deixando tudo em tom leve e bem-humorado. _Arcos: スコットランド作戦編_
+- **アンディ:** —encerrado não é mais questão emocional aberta. Próximo encontro, se houver, é entre competidores.
+- **フェリシア:** cat-girl, ajuda a suavizar o clima do castelo, interage muito com キャミィ e usa sua forma felina para criar cenas cômicas e afetivas. _Arcos: スコットランド作戦編 ; 猫と本屋の季節 (ちょっとした焼き餅)_
+- **モリガン・アーンスランド:** Súcubo dona do castelo, conduz a revelação sobre as garotas da vila, explica a influência dos sonhos e encerra o conflito sem luta, deixando tudo em tom leve e bem-humorado. _Arcos: スコットランド作戦編 ; 猫と本屋の季節 (ちょっとした焼き餅)_
 - **B.ジェニー:** É a capitã do navio pirata usado na operação — figura descontraída, confiável nos momentos de combate e cúmplice bem-humorada do grupo. Aliada externa recorrente que oferece apoio logístico e transporte. _Arcos: 海賊作戦編_
