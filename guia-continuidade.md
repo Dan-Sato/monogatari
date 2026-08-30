@@ -20,9 +20,13 @@ _Projeto de leitura em japonês._
 >
 > Nível em torno de N4, com conversas geralmente na forma casual
 >
+> Não deve ser utilizado grafias raramente usadas (ateji), como 有難う, 素敵, por exemplo
+>
 > 3 notas de rodapé por capítulo
 >
 > Narrativa: 3ª pessoa, parágrafos contínuos, diálogo em 「」
+>
+> Os capítulos seguem o roteiro planejado, sem antecipar elementos dos capítulos seguintes
 >
 > Tom sugestivo/sensual/explícito permitido
 
@@ -923,61 +927,105 @@ Um novo panfleto aparece perto do gato do prédio, anunciando um neko café, e o
 
 Na volta do neko café, ダン pede desculpas pelo ciúme, mas 舞 revela que não se importou — ela sabe o quanto ele a ama, só quis mostrar um pouco do próprio sentimento, resolvendo tudo com humor e carinho. Em casa, comentam sobre os gatos e ティファ conta que voltou a Nibelheim depois de 5 anos, encontrou a cidade estranhamente reconstruída igual a antes e reencontrou Maru (sua gata de infância) nos arredores, deixando-a aos cuidados de uma senhora que não parava de cantar. O gato do prédio aparece trazendo um clima caseiro e fofo para fechar o arco, enquanto ダン organiza as fotos da praia e ティファ escolhe mais algumas para o painel na parede, incluindo uma rara foto de キャミィ sorrindo abertamente.
 
-## ARCO ATUAL 534-540 上海の影
+### 534-540 上海の影 ⭐⭐⭐⭐
 
-534 — 契約と別れ (Contrato e despedida)
-Chun-Li contata o grupo sobre remanescentes da Shadaloo reagrupando-se em Xangai. Decisão de ir. Antes da viagem, deixam o gato do prédio com 山田さん, dona do ミケ — ela reconhece o bichano como ミク, gata que sumiu do bairro anos atrás. Momento emotivo fechando esse fio solto do arco anterior. Preparativos, passagens, briefing inicial.
+**534 — 契約と別れ**
 
-535 — 再会 (Reencontro)
-Chegada a Xangai, reencontro com Chun-Li. Tensão sutil entre Cammy e Chun-Li (amizade "com benefícios" do passado, não-dita mas presente no clima). Mai e Chun-Li trocam provocações amistosas — cosplay antigo de Mai como Chun-Li, momento clássico de provocação peito a peito. Tom leve antes do peso da missão.
+Chun-Li contata キャミィ sobre remanescentes da Shadaloo em Xangai; ダン vê o comunicador vibrar e pede para ティファ chamar キャミィ, e Chun-Li fica surpresa ao ver 舞 junto dela e do grupo. Quem conduz a conversa sobre a operação é キャミィ, que aceita ir imediatamente. Antes da viagem, deixam o gato do prédio com 山田さん, que reconhece o bichano como ミク, gata que sumiu anos atrás — reencontro emocionante com ミケ e fechamento desse fio solto. Preparativos rápidos, ダン organiza passagens e lista de itens, e o grupo parte para o aeroporto. Embarcam e decolam rumo a Xangai, com キャミィ focada, ティファ ao lado dela, e 舞 e ダン no banco de trás.
 
-536 — 手がかり (Pistas)
-Investigação conjunta pela cidade; primeiros sinais da célula remanescente. Cammy começa a reconhecer padrões, símbolos e locais ligados ao próprio condicionamento como Doll — desconforto crescente. Chun-Li compartilha inteligência: há uma instalação secundária e possivelmente uma prisioneira de alto valor.
+**535 — 再会**
 
-537 — 過去との衝突 (Colisão com o passado)
-Confronto físico inicial com agentes da célula. Cammy reage de forma mais visceral que o normal, revelando fragmentos do próprio trauma. O grupo entende que essa missão é pessoal para ela. Primeiro indício de que a prisioneira pode ser Juli.
+O grupo chega a Xangai no fim da tarde. No aeroporto, キャミィ demonstra uma tensão discreta ao observar o lugar e ao se preparar para encontrar Chun-Li, enquanto ティファ percebe sem pressioná-la e fica ao seu lado. Chun-Li os espera na saída; o reencontro com キャミィ é contido, mas carregado de intimidade e de um passado que não precisa ser explicado em voz alta. Ela conhece ダン e ティファ como a família que キャミィ encontrou, o que a surpreende positivamente. 舞 e Chun-Li retomam de imediato sua dinâmica antiga de amigas e rivais: 舞 relembra, com o leque escondendo o sorriso, a época em que fez cosplay de Chun-Li e quase a fez pensar que tinha visto uma cópia de si mesma. Há provocações leves entre elas, sem quebrar o tom mais tenso da chegada. Chun-Li leva os quatro de carro até o hotel e confirma que a Shadaloo ainda precisa ser enfrentada — キャミィ responde que pretende acabar com aquilo. O capítulo termina com todos entrando no hotel, onde o briefing e as informações da operação os aguardam no próximo capítulo.
 
-538 — 檻の中の声 (Voz dentro da jaula)
-Descoberta da instalação secundária da Shadaloo. Cammy ouve vozes/fragmentos de memória que a desestabilizam. Confronto emocional mais denso; Dan, Mai e Tifa dão suporte enquanto Cammy encara diretamente sua origem. Confirmação: Juli está viva, presa e em processo de recondicionamento.
+**536 — 手がかり**
 
-539 — 最後の戦い (Última batalha)
-Confronto final com a célula. Resgate/libertação de Juli. Ação intensa com revelações completas sobre o projeto que criou Cammy e as Dolls. Juli é estabilizada, mas ainda frágil. Chun-Li assume a custódia temporária para transferência segura.
+No hotel, Chun-Li apresenta fotos de um armazém suspeito, veículos noturnos e uma marca de três círculos sobrepostos gravada na parede — キャミィ reconhece a marca na hora, ligada ao "terceiro setor" do seu antigo condicionamento, com as mãos tremendo levemente. Chun-Li explica que o armazém provavelmente é apenas um ponto intermediário, já que os carros que saem de lá vão para uma área fora da jurisdição dela, impedindo investigação oficial — por isso pediu ajuda ao grupo. À noite, todos observam o armazém e confirmam uniformes com o símbolo da Shadaloo, além de um veículo saindo com alguém de jaleco branco (possível pesquisador). Decidem não perseguir ainda. No carro, キャミィ revela que aquele setor era usado para experimentos ligados a criar ou apagar memórias, sem dar mais detalhes. De volta ao hotel, Chun-Li revela a pista mais pesada do capítulo: há outra instalação, mais protegida, dentro da cidade, e fontes indicam que ela guarda uma prisioneira de alto valor para a Shadaloo — sem nome ou identidade confirmados ainda. O capítulo fecha em suspense, com キャミィ carregando um pressentimento incômodo, sem nenhum confronto físico.
 
-540 — 影が晴れる日 (O dia em que as sombras se dissipam)
-Processamento emocional pós-missão. O grupo ainda está em Xangai, sem voltar para casa. Chun-Li sugere que fiquem alguns dias para decomprimir — ela será a guia turística. Cammy e Juli têm um momento de despedida silencioso, prometendo reencontrar-se quando Juli estiver recuperada.
+**537 — 過去との衝突**
 
-## PRÓXIMO ARCO 541-545 上海の休日
+No dia seguinte, o grupo segue uma pista até uma casa residencial que esconde uma instalação subterrânea da Shadaloo. Ao serem descobertos, há um confronto físico inicial: um dos agentes puxa uma arma e atira, e キャミィ reage de forma muito mais visceral e implacável que o normal, derrubando dois homens com golpes brutais e precisos, a ponto de Chun-Li precisar segurá-la à força. O grupo percebe que essa missão é profundamente pessoal para ela — os uniformes e o símbolo dos agentes ativaram memórias do seu condicionamento como Doll. No fundo da instalação, encontram documentos e fotos de várias mulheres com uniformes idênticos ao que キャミィ usava, com expressões vazias. キャミィ reconhece nelas outras como ela, e fica abalada. Chun-Li conecta isso à "prisioneira de alto valor" mencionada antes, sugerindo que uma dessas mulheres pode ser a prisioneira — primeiro indício forte de que pode ser Juli, sem nomeá-la ainda. O capítulo termina com キャミィ declarando que quer ajudá-las, e o grupo comprometido a investigar mais a fundo no dia seguinte.
 
-541 — 上海の休日 (Férias em Xangai)
-Início do arco de turismo. Chun-Li como guia. Visita ao Bund, Nanjing Road, Yu Garden. Comidas de rua, chás, fotos, clima de descompressão total. Mai e Chun-Li continuam as provocações amistosas. Cammy começa a relaxar genuinamente.
+**538 — 檻の中の声**
 
-542 — 味と香り (Sabor e aroma)
-Dia dedicado à comida: xiaolongbao, sopa de caranguejo, chá de jasmin, doces tradicionais. Tifa e Chun-Li debatem técnicas culinárias. Dan fotografa tudo. Cammy ri pela primeira vez desde o resgate de Juli.
+Revisando os documentos no hotel, o grupo descobre uma instalação secundária da Shadaloo escondida numa região montanhosa fora de Xangai — o mesmo tipo de estrutura onde キャミィ foi treinada. À noite, invadem o local: ダン corta a energia e dá suporte tático via rádio, enquanto Chun-Li, 舞 e ティファ avançam fisicamente com キャミィ, usando golpes como o Hyakuretsukyaku de Chun-Li e o leque em chamas de 舞 para neutralizar os guardas. Dentro, o ambiente desestabiliza キャミィ: o cheiro do local dispara vozes mecânicas na cabeça dela, ecos do próprio condicionamento como Doll, e ela quase desaba diante de uma cela vazia com dispositivos de contenção. O momento mais denso vem quando encontram uma mulher sedada, ligada a soro, num quarto isolado — é Juli. Ela está viva, mas confusa e em pleno processo de "reprogramação", conforme revela um monitor médico que Chun-Li examina. キャミィ se ajoelha ao lado dela, e Juli, ainda que desorientada, reconhece seu nome no fim da cena. O capítulo fecha com reforços da Shadaloo se aproximando e o grupo se posicionando para proteger Juli, preparando o confronto final do próximo capítulo.
 
-543 — 街の記憶 (Memória da cidade)
-Visita a museus e bairros históricos. Chun-Li conta sobre sua própria história com a Interpol e casos passados em Xangai. Cammy se identifica com a narrativa de reconstrução pós-trauma. Momento de reflexão compartilhada.
+**539 — 最後の戦い**
 
-544 — 夜の光 (Luz da noite)
-Noite no mercado noturno, luzes, multidão, energia. O grupo se separa em pares naturalmente: Chun-Li e Mai na frente provocando uma à outra, Dan e Cammy atrás de mãos dadas observando. Compra de lembranças, fotos, risadas.
+O vilão F.A.N.G., ex-responsável pela divisão de pesquisa da Shadaloo e um dos criadores do Projeto Dolls, confronta o grupo e libera uma névoa tóxica que causa alucinações individualizadas — 舞 vê uma mulher-aranha ligada a ダン, ティファ vê fantasmas, e キャミィ enfrenta visões do próprio passado como sujeito de experimento, mas consegue se libertar mentalmente delas. O grupo derrota F.A.N.G. (que é capturado pela Interpol) e resgata Juli, que é estabilizada e levada sob custódia temporária de Chun-Li para tratamento e transferência à Delta Red.
 
-545 — 帰路の約束 (Promessa do retorno)
-Último dia em Xangai. Chun-Li leva o grupo a um ponto alto da cidade para ver o skyline. Promessa de que voltarão quando Juli estiver recuperada. Despedida calorosa. O grupo embarca de volta para o Japão com um novo tipo de paz — não esquecimento, mas integração do passado.
+**540 — 影が晴れる日**
+
+No dia seguinte, o grupo toma um café da manhã tardio no hotel, ainda cansados mas aliviados. Chun-Li confirma que F.A.N.G. foi preso e será levado a um tribunal internacional, e que a instalação da montanha foi totalmente neutralizada — mas alerta que restos da Shadaloo ainda podem existir em células ocultas. Eles concordam em ficar alguns dias em Xangai para descansar, e Chun-Li se oferece como guia turística.
+舞 e ダン têm um momento íntimo: ela admite que ficou apavorada quando soube que ele entrou no prédio atrás dos inimigos, e pede que ele nunca a deixe por outra mulher; ダン promete ficar sempre ao lado dela. Chun-Li recebe uma mensagem: Juni (outra ex-Doll, loira de olhos azuis, vinda de Londres) está a caminho para buscar Juli.
+No hospital, Juni reencontra Juli, que está consciente mas frágil. Juni confirma que a Delta Red assumirá a custódia oficial de Juli e a levará para uma base em Londres, com equipe médica e psicológico especializado. キャミィ pede que Juni inclua na missão da Delta Red a busca e proteção de outras ex-Dolls desaparecidas; Juni concorda em levar o pedido diretamente à alta cúpula. キャミィ e Juli têm uma despedida emocionada, prometendo se reencontrar quando Juli estiver recuperada.
+À noite, o grupo passeia pelo calçadão de Bund, admirando a vista noturna de Pudong. Nos dias seguintes, fazem turismo em Yuyuan, mercados locais e provam xiaolongbao — com ダン quase se sujando todo ao comer. No fim, no balcão do quarto do hotel, キャミィ recebe uma mensagem de Juni confirmando que a missão de busca das ex-Dolls foi aprovada. Ela sente que o peso do passado está aos poucos se dissipando, e agradece aos amigos por estarem com ela até ali.
+
+### 541-546 上海の休日 ⭐
+
+**541 — 上海の休日**
+
+No dia seguinte à batalha, o grupo faz um café da manhã tardio no hotel, ainda cansados mas aliviados. Chun-Li propõe dedicar os próximos dias ao turismo e se oferece como guia, começando por Nanjing Road, a rua comercial mais famosa de Xangai. Eles visitam uma loja de chás tradicionais (provando chá de jasmim) e depois percorrem barracas de comida de rua, experimentando xiaolongbao e outras iguarias — com ティファ se surpreendendo com o caldo quente escondido dentro do bolinho.
+À tarde, visitam o Jardim Yuyuan, um jardim histórico de mais de 400 anos, tirando fotos entre pontes de pedra e pavilhões tradicionais. 舞 e Chun-Li trocam provocações amistosas o tempo todo, com 舞 insistindo que Chun-Li é "séria demais" e precisa relaxar. Depois de uma parada numa casa de chá, o grupo passa por uma loja de leques, onde ダン compra um leque vermelho de presente para 舞, dizendo que combina com as roupas dela — um gesto que a deixa visivelmente emocionada.
+À noite, caminham pelo calçadão do Bund, admirando o skyline iluminado de Pudong e tirando fotos em grupo. キャミィ, pela primeira vez em muito tempo, sorri genuinamente e sente a tensão acumulada se dissipando. O capítulo termina com o grupo voltando ao hotel, already ansiosos pelo passeio do dia seguinte ao Templo do Deus da Cidade.
+
+**542 — 味と香り**
+
+No dia seguinte ao passeio por Xangai, o grupo dedica o dia inteiro à comida da cidade. Começam num restaurante tradicional, onde Chun-Li pede xiaolongbao de caranguejo — ダン fica obcecado fotografando o vapor subindo dos bolinhos, enquanto ティファ e Chun-Li trocam observações técnicas sobre a massa, a quantidade de água e a temperatura das mãos ao sovar, criando uma conexão genuína entre as duas como cozinheiras. Também provam sopa de caranguejo, com ティファ servindo cuidadosamente pelo calor do caldo.
+À tarde, visitam uma casa de chá especializada, onde Chun-Li apresenta o chá de osmanthus (doce e floral) e o chá Longjing (verde, com sabor herbáceo), explicando as diferenças em relação ao chá japonês. キャミィ experimenta e comenta sobre a sensação de "não precisar se apressar", um momento silenciosamente emocional para o grupo, que percebe o quanto ela mudou.
+No fim do dia, passam por uma doceria tradicional, provando doces de feijão azuki, gergelim e ovo doce. É nesse momento que 舞 faz um comentário exagerado sobre o sabor e キャミィ solta uma risada espontânea genuína — a primeira desde o resgate de Juli — um pequeno marco em sua recuperação emocional. À noite, caminham de volta ao hotel, com ダン e 舞 trocando gestos carinhosos (braços entrelaçados, mãos dadas, beijos), enquanto Chun-Li e ティファ conversam animadamente atrás. Chun-Li encerra o capítulo com um convite misterioso: o programa do dia seguinte será "segredo".
+
+**543 — 街の記憶**
+
+No dia seguinte, guiados por Chun‑Li, o grupo troca a gastronomia por história: visitam o museu e a cidade antiga de Xangai, onde bronzes e cerâmicas evocam séculos passados. Enquanto percorrem ruas de pedra e lojas tradicionais, Chun‑Li revela que veio a Xangai pela Interpol e recorda os perigos e a solidão de então — resolver casos não apagou as feridas internas. キャミィ, que também carrega traumas, se identifica; entre elas nasce uma compreensão mútua que fortalece o vínculo do grupo. Passeiam por lojas de leques, lanternas e vielas, e Chun‑Li os conduz a um pequeno restaurante de macarrão apreciado pelos locais. À tarde cada um explora à vontade: 舞 e ダン vasculham souvenires, ティファ e キャミィ procuram sebos, Chun‑Li revisita antigos locais de investigação. Reunidos ao entardecer, todos mostram satisfação; a partilha da memória da cidade e das histórias pessoais transforma o passeio num momento de cura e união, enquanto a noite reserva surpresas.
+
+**544 — 夜の光**
+
+O grupo vai ao mercado noturno perto do hotel, guiado por Chun-Li como "segredo" do dia. Luzes de lanternas vermelhas e douradas, multidão animada e cheiro de comida tomam o ambiente. Naturalmente se dividem em três grupos: Chun-Li e 舞 na frente, provocando-se (舞 descobre que Chun-Li ficou encantada por um acessório numa barraca), キャミィ ao lado contendo risadas da dupla, e ティファ com ダン observando tudo mais atrás, comentando sobre a importância desses momentos simples. Compram roupas tradicionais — 舞 e キャミィ experimentam qipao, e todos ficam impressionados com como combinou nelas. ダン fotografa tudo. 舞 insiste em pagar um pingente de jade para Chun-Li como agradecimento, emocionando-a. Há uma disputa de tiro ao alvo entre 舞 e Chun-Li (vitória esmagadora da policial), doces de açúcar artesanal e fotos em grupo perto de uma lanterna gigante. A noite ainda não termina — o grupo decide continuar explorando o mercado.
+
+**545 — 暑い夜**
+
+Continuando a noite no mercado noturno, durante o passeio ティファ começa a passar mal e ダン pergunta se quer voltar pro hotel. Ele diz pras três não se preocuparem e continuar o passeio. Ao colocar a mão na cintura da ティファ para ajuda-la, ela começa a sentir um calor estranho. De volta ao quarto ela vai para o banho e puxa ダン junto e ela o beija, ele pergunta o que está acontecendo e ela responde que não sabe só está extremamente ワクワク (efeito do gás do F.A.N.G.?). Durante o banho, intimidade. Enquanto isso 舞, キャミィ e Chun-Li continuam o passeio, durante uma provocação de 舞 e Chun (aquele famoso peito a peito), elas começam a sentir o mesmo calor e voltam para o quarto para se recuperar. Ao chegar as três também ficam ワクワク e também trocam intimidade. No fim, 舞, キャミィ e Chun-Li vestindo nada em uma cama e ティファ e ダン na outra.
+
+**546 — 帰路の約束**
+
+O grupo acorda nu, tonto e sem graça, aos poucos recuperando fragmentos da noite anterior. Depois do choque inicial, Chun-Li reflete que agora entende o que significa "família" — confiar o suficiente para se mostrarem vulneráveis umas às outras, mesmo em uma situação constrangedora. Todos confirmam que o calor estranho já passou e decidem investigar a causa somente após o retorno ao Japão. À tarde, Chun-Li leva o grupo a um mirante para contemplar o skyline de Xangai, onde fazem a promessa de voltar quando Juli se recuperar. Seguem para o aeroporto entre risadas sobre a quantidade absurda de xiaolongbao que comeram, e embarcam de volta ao Japão levando não o esquecimento do passado, mas sua integração
+
+#### 📌 NOTAS DE CONTINUIDADE
+
+- キャミィ: Reviveu seu trauma como ex-Doll ao investigar a Shadaloo, teve reação violenta ao ver vestígios do próprio condicionamento, resgatou Juli (outra ex-Doll) e conseguiu, ao final, começar a soltar o peso do passado — inclusive rindo genuinamente pela primeira vez em muito tempo.
+
+- Chun-Li: Conduziu a missão contra a Shadaloo em seu território de origem como Interpol, revelou parte de seu passado solitário na profissão a キャミィ, e serviu de guia turística generosa, criando um vínculo mais profundo com o grupo.
+
+- 舞: Viveu seus momentos mais leves e afetivos com ダン (presente do leque, carinhos, intimidade), além de manter sua rivalidade cômplice e brincalhona com Chun-Li ao longo de toda a viagem.
+
+- ティファ: Debateu técnicas culinárias com Chun-Li, aproveitou os passeios turísticos com entusiasmo, e foi a primeira a sentir o calor misterioso, vivendo um momento de intimidade com ダン no banho do hotel.
+
+- ダン: Atuou como suporte tático no combate final, fotografou obsessivamente cada momento da viagem, presenteou 舞 com um leque e cuidou de ティファ quando ela passou mal.
+
+- Juli: Foi resgatada em estado de reprogramação pela Shadaloo, estabilizada, e depois levada sob custódia da Delta Red para tratamento em Londres — sua recuperação é o gancho da promessa de retorno a Xangai.
+
+- F.A.N.G.: O vilão responsável pelos experimentos foi derrotado e capturado pela Interpol, encerrando a ameaça direta da Shadaloo naquela região.
 
 ## CRONOGRAMA DOS PRÓXIMOS ARCOS
 
-|     | Arco                                                       | Caps | Tema                                   | Sinopse                                                                                                                                                                                                                                                                         |
-| --- | ---------------------------------------------------------- | ---- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     | 帰宅と日常 (Volta pra casa)                                | 5    | Cotidiano / Comédia leve               | Os quatro voltam ao Japão, desfazem as malas, reencontram o gato do corredor, reorganizam a rotina e comentam as fotos da viagem. Fecha o arco de South Town com leveza antes de abrir o próximo gancho.                                                                        |
-|     | 雨の週とダンジョンの夜 (Semana de chuva e RPG)             | 6    | Aventura / Comédia                     | Chuva prende os quatro em casa por dias. Dan propõe uma campanha de RPG de mesa; cada um cria um personagem que reflete (ou contradiz) sua personalidade real. Sessões caóticas, dados guardados, personagens ficando emocionalmente investidos além do esperado.               |
-|     | 波音の日々 (Dias de praia)                                 | 5    | Romance / Sensual                      | Viagem de praia que Tifa queria desde o início. Protetor solar, vôlei, poucos sustos, muita proximidade física entre os casais, uma noite de conversa profunda à beira-mar.                                                                                                     |
-|     | 猫と本屋の季節 (Gato e a livraria)                         | 5    | Comédia / Slice of life                | Retomada de um running gag antigo (o gato do corredor), alguns dias frios, passeios por livrarias e cafés, pequenos ciúmes bobos e reconciliações leves.                                                                                                                        |
-|     | 上海の影 (Sombras em Xangai)                               | 5    | Aventura / Drama / Ação                | Chun-Li contata o grupo: remanescentes da Shadaloo reagrupando-se na China. Investigação em conjunto, reencontro tenso de Cammy com o próprio passado via Chun-Li, confronto físico e emocional com a organização que a criou. Mai também tem Chun-Li como amiga e rival antiga |
-|     | 決着の刻 (Hora do acerto de contas — continuação Shadaloo) | 5    | Drama / Ação / Suspense                | Resolução direta do arco chinês: confronto final com a célula da Shadaloo, revelações sobre o passado de Cammy, resgate ou libertação de alguém ligado a ela. Tom mais pesado, com pagamento emocional.                                                                         |
-|     | turismo                                                    | 5    | Slice of life / comédia                | Turismo em Xangai com Chun-Li mostrando lugares turísticos.                                                                                                                                                                                                                     |
-|     | 仮面の祭 (Festival das máscaras)                           | 6    | Mistério / Comédia / Leve sobrenatural | Um festival local com lendas estranhas; o grupo investiga um "fantasma" que acaba sendo algo mundano e engraçado, no estilo do arco do castelo escocês.                                                                                                                         |
-|     | 冬の温泉 (Onsen de inverno)                                | 5    | Romance / Sensual / Cotidiano          | Viagem de fim de ano a um onsen na neve, callback ao primeiro arco de casal. Reflexão sobre o quanto o grupo cresceu desde então.                                                                                                                                               |
-|     | 過去からの手紙 (Carta do passado)                          | 8    | Drama / Ação / Aventura                | Um antigo aliado ou inimigo de Mai/Dan reaparece, trazendo um mistério ligado ao clã Shiranui ou à Delta Red. Viagem internacional, reviravoltas, tensão crescente.                                                                                                             |
-|     | 家族の一年 (Um ano em família)                             | 5    | Slice of life / Comédia / Emocional    | Fechamento de ciclo — aniversário do grupo morando junto, recapitulação afetuosa, celebração simples que amarra os fios abertos dos arcos anteriores.                                                                                                                           |
+|     | Arco                             | Caps | Tema                                              | Sinopse                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| --- | -------------------------------- | ---- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|     |
+|     | "brincadeiras" gostosas          | 5    | Sensual                                           | 1º cap: o grupo volta pra casa, relaxam, conversam e veem as fotos da viagem. 2º cap: Mai e Tifa ficam a cargo de comprar alguns mantimentos pra casa, na volta Mai para na frente da loja de "brinquedos" adultos pela terceira vez. Tifa comenta que já olhou na vitrine por vários dias e pergunta se não que entrar pra dar uma olhada. Elas entram, na loja a imaginação de Mai flui, ela e Tifa olham os "produtos", comentam e acabam comprando coisas tipo algemas, chicotes, velas, e até roupa de dominatrix pra Mai e Tifa um cosplay de policial. Voltam pra casa com risadinhas. 3º cap: O dia anda normalmente, mas a noite Mai chama dan pro quarto e começa as "brincadeiras" gostosas. 4º cap: Enquanto Mai "brinca" com Dan, Tifa chama Cammy pra "brincar também". 5º cap: Cada um comenta como foi a noite de "brincadeiras" |
+|     | conto folclórico                 | 5    | slice of life / aventura                          | Os quatro no sofá, Dan e Cammy sentados nas pontas, Mai e Tifa deitadas com a cabeça no colo, assistem um filme com yokais. No fim do filme, Mai comenta que a avó costumava contar uma história folclórica com yokais. Mai brincando com os pés da Tifa começa a contar a história.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|     | RPG: campanha de japão feudal    | 7    | Mistério / Comédia / Leve sobrenatural / Aventura | Empolgados com a hisríria da Mai, o grupo combina de fazer uma nova campanha, dessa vez com tema de japão feudal. Um dark mage invade o reino de アルディア e envia os quatro para uma outra dimensão, o japão feudal. Dessa vez trocam o job pra um completamente diferente: Mai, miko; Dan, ronin; Tifa, arqueira; Cammy; ninja. Com yokai, yurei, oni, etc... Devem procurar e derrotar o dark mage em forma de yokai para voltar para casa.                                                                                                                                                                                                                                                                                                                                                                                                  |
+|     | 仮面の祭 (Festival das máscaras) | 6    | Mistério / Comédia / Leve sobrenatural            | Um festival local com lendas estranhas; o grupo investiga um "fantasma" que acaba sendo algo mundano e engraçado, no estilo do arco do castelo escocês.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+| | 冬の温泉 (Onsen de inverno) | 5 | Romance / Sensual / Cotidiano | Viagem de fim de ano a um onsen na neve, callback ao primeiro arco de casal. Reflexão sobre o quanto o grupo cresceu desde então.
+|
+
+| | 過去からの手紙 (Carta do passado) | 8 | Drama / Ação / Aventura | Um antigo aliado ou inimigo de Mai/Dan reaparece, trazendo um mistério ligado ao clã Shiranui ou à Delta Red. Viagem internacional, reviravoltas, tensão crescente. |
+
+| | continuação da histáhia da tifa | 5 | drama / aventura | Tifa continua a contar sua história. A partir do cap. 9 do FF7Remake história.
+|
+
+| | 家族の一年 (Um ano em família) | 5 | Slice of life / Comédia / Emocional | Fechamento de ciclo — aniversário do grupo morando junto, recapitulação afetuosa, celebração simples que amarra os fios abertos dos arcos anteriores.
+|
 
 ---
 
@@ -987,7 +1035,7 @@ Noite no mercado noturno, luzes, multidão, energia. O grupo se separa em pares 
 
 ### Personagens Secundários Estabelecidos
 
-- **ユーニ (Juni):** Ex-Doll Shadaloo, "irmã" キャミィ, loira olhos azuis, em Londres sob proteção Delta Red, aprendendo cozinhar, fala japonês (キャミィ ensinou). Transição 敬語→普通体 durante arco Inglaterra. _Arcos: 海外旅行編 ; 過去の影編 ; 桜の季節編_
+- **ユーニ (Juni):** Ex-Doll Shadaloo, "irmã" キャミィ, loira olhos azuis, em Londres sob proteção Delta Red, aprendendo cozinhar, fala japonês (キャミィ ensinou). Transição 敬語→普通体 durante arco Inglaterra. _Arcos: 海外旅行編 ; 過去の影編 ; 桜の季節編_ . A partir do _上海の影_ cuida de Juli com a Delta Red.
 - **ホクトマル:** Jovem ninja talentoso, 実務当主 do clã 不知火, responsável gestão diária da 里.
 - **トム:** Dono de pub em Londres, amigo キャミィ desde ela entrou Delta Red. Primeira vez キャミィ levou amigos ao pub.
 - **山田さん:** Idosa, 1º andar do prédio, dona do ミケ. Gentil e grata. Apareceu no arco ミステリー編 (350–356).
@@ -1003,3 +1051,5 @@ Noite no mercado noturno, luzes, multidão, energia. O grupo se separa em pares 
 - **モリガン・アーンスランド:** Súcubo dona do castelo, conduz a revelação sobre as garotas da vila, explica a influência dos sonhos e encerra o conflito sem luta, deixando tudo em tom leve e bem-humorado. _Arcos: スコットランド作戦編 ; 猫と本屋の季節 (ちょっとした焼き餅)_
 - **B.ジェニー:** É a capitã do navio pirata usado na operação — figura descontraída, confiável nos momentos de combate e cúmplice bem-humorada do grupo. Aliada externa recorrente que oferece apoio logístico e transporte. _Arcos: 海賊作戦編_
 - **ミク:** Gata marrom que apareceu na porta do apartamento. Depois ficou aos cuidados da 山田さん. _Arcos: 猫と本屋の季節_
+- **ジューリ:** Foi capturada pela Shadaloo e resgatada por Chun-Li e o grupo. Ficou aos cuidados de Juni e a Delta Red. _Arcos: 上海の影_
+- **春麗 (Chun-Li):** Agente da Interpol. Derrotou a célula da Shadaloo em Xangai com o grupo. Antiga amiga de キャミィ e 舞. _Arcos: 上海の影_
