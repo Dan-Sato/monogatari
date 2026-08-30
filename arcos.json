@@ -2,162 +2,194 @@
   {
     "arc": "出会い編",
     "start": 1,
-    "end": 13
+    "end": 13,
+    "status": "ok"
   },
   {
     "arc": "雨と電車編",
     "start": 14,
-    "end": 19
+    "end": 19,
+    "status": "ok"
   },
   {
     "arc": "夏の海編",
     "start": 20,
-    "end": 25
+    "end": 25,
+    "status": "ok"
   },
   {
     "arc": "大会と夏祭り編",
     "start": 26,
-    "end": 35
+    "end": 35,
+    "status": "ok"
   },
   {
     "arc": "夜の気持ち編",
     "start": 36,
-    "end": 54
+    "end": 54,
+    "status": "ok"
   },
   {
     "arc": "湖編",
     "start": 55,
-    "end": 62
+    "end": 62,
+    "status": "ok"
   },
   {
     "arc": "冬とクリスマス編",
     "start": 63,
-    "end": 78
+    "end": 78,
+    "status": "ok"
   },
   {
     "arc": "年越しと新年編",
     "start": 79,
-    "end": 90
+    "end": 90,
+    "status": "ok"
   },
   {
     "arc": "雨と誤解編",
     "start": 91,
-    "end": 100
+    "end": 100,
+    "status": "ok"
   },
   {
     "arc": "告白とカップル編",
     "start": 101,
-    "end": 131
+    "end": 131,
+    "status": "ok"
   },
   {
     "arc": "均衡と居酒屋編",
     "start": 132,
-    "end": 142
+    "end": 142,
+    "status": "ok"
   },
   {
     "arc": "バレンタイン編",
     "start": 143,
-    "end": 165
+    "end": 165,
+    "status": "ok"
   },
   {
     "arc": "部屋の夜編",
     "start": 166,
-    "end": 175
+    "end": 175,
+    "status": "ok"
   },
   {
     "arc": "四人の朝編",
     "start": 176,
-    "end": 183
+    "end": 183,
+    "status": "ok"
   },
   {
     "arc": "キャンプ編",
     "start": 184,
-    "end": 214
+    "end": 214,
+    "status": "ok"
   },
   {
     "arc": "帰還と日常編",
     "start": 215,
-    "end": 235
+    "end": 235,
+    "status": "ok"
   },
   {
     "arc": "お祭り編",
     "start": 236,
-    "end": 244
+    "end": 244,
+    "status": "ok"
   },
   {
     "arc": "海辺編",
     "start": 245,
-    "end": 252
+    "end": 252,
+    "status": "ok"
   },
   {
     "arc": "旅行編",
     "start": 253,
-    "end": 261
+    "end": 261,
+    "status": "ok"
   },
   {
     "arc": "雨の日編",
     "start": 262,
-    "end": 267
+    "end": 267,
+    "status": "ok"
   },
   {
     "arc": "日常編",
     "start": 268,
-    "end": 273
+    "end": 273,
+    "status": "ok"
   },
   {
     "arc": "文化祭編",
     "start": 274,
-    "end": 279
+    "end": 279,
+    "status": "ok"
   },
   {
     "arc": "温泉旅行編",
     "start": 280,
-    "end": 285
+    "end": 285,
+    "status": "ok"
   },
   {
     "arc": "アクション編",
     "start": 286,
-    "end": 294
+    "end": 294,
+    "status": "ok"
   },
   {
     "arc": "京都編",
     "start": 295,
-    "end": 302
+    "end": 302,
+    "status": "ok"
   },
   {
     "arc": "遊園地編",
     "start": 303,
-    "end": 308
+    "end": 308,
+    "status": "ok"
   },
   {
     "arc": "嵐の夜編",
     "start": 309,
-    "end": 314
+    "end": 314,
+    "status": "ok"
   },
   {
     "arc": "ティファの過去編",
     "start": 315,
-    "end": 321
+    "end": 321,
+    "status": "ok"
   },
   {
     "arc": "海外旅行編",
     "start": 322,
-    "end": 329
+    "end": 329,
+    "status": "ok"
   },
   {
     "arc": "舞の修行編",
     "start": 330,
-    "end": 336
+    "end": 336,
+    "status": "ok"
   },
   {
     "arc": "なんでもない夏編",
     "start": 337,
-    "end": 342
+    "end": 342,
+    "status": "ok"
   },
   {
     "arc": "海辺のリゾート編",
     "start": 343,
-    "end": 349
+    "end": 349,
+    "status": "ok"
   },
   {
     "arc": "ミステリー編",

@@ -4,6 +4,8 @@ _Projeto de leitura em japonês._
 
 ## ⚠️ FORMATO TÉCNICO OBRIGATÓRIO
 
+> Narrativa Light Novel
+>
 > HTML puro — SEM `<style>` blocks ou inline styles
 >
 > Apenas: `<link rel="stylesheet" href="style.css">`
