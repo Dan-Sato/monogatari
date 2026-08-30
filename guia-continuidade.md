@@ -1006,6 +1006,59 @@ O grupo acorda nu, tonto e sem graça, aos poucos recuperando fragmentos da noit
 
 - F.A.N.G.: O vilão responsável pelos experimentos foi derrotado e capturado pela Interpol, encerrando a ameaça direta da Shadaloo naquela região.
 
+### 547-551 大人の遊び編 — Brincadeiras adultas
+
+Um arco sensual, cômico e ecchi SFW, centrado na intimidade já consolidada dos quatro, na confiança mútua e na curiosidade de explorar novas formas de carinho sem transformar isso em conflito.
+
+Planejamento dos capítulos
+
+547 — 帰宅と小さな贈り物
+Volta para casa e pequenos presentes
+
+O grupo retorna ao apartamento depois de Xangai, desfaz as malas e retoma o ritmo doméstico. Antes de descansar completamente, passam na casa de 山田さん para visitar ミケ e ミク, entregando lembranças da viagem para 山田さん e presentes apropriados para as duas gatas.
+
+De volta ao apartamento, preparam chá e conversam sobre a viagem, comentando os momentos mais engraçados, as comidas e as fotos. Dan organiza as imagens enquanto todos escolhem quais irão para o painel da parede. O capítulo termina com o grupo relaxado, cercado pelas lembranças de Xangai, sem introduzir ainda as compras do capítulo seguinte.
+
+548 — 覗いてみよう
+Vamos dar uma olhada
+
+Mai e Tifa ficam responsáveis por comprar mantimentos no konbini próximo do apartamento. Na volta, Mai para pela terceira vez diante da vitrine da loja de “brinquedos” adultos. Tifa percebe que ela já observa o local há vários dias e pergunta, de maneira tranquila, se não seria melhor entrarem de uma vez para olhar.
+
+Dentro da loja, Mai fica cada vez mais imaginativa, enquanto Tifa tenta manter uma postura prática, mas também demonstra curiosidade. As duas examinam algemas, chicotes, velas, vendas, acessórios e outros produtos, comentando quais combinam com cada personalidade. Mai escolhe uma roupa de dominatrix; Tifa encontra uma roupa de policial para si. Compram alguns itens sem exagerar e voltam para casa trocando risadinhas, tentando esconder as sacolas das outras duas.
+
+O capítulo termina com Mai guardando a compra no quarto e Tifa dizendo que aquilo deveria ser tratado como “equipamento”, sem revelar ainda o que farão à noite.
+
+549 — 舞の夜
+A noite de Mai
+
+O dia transcorre normalmente, com os quatro retomando a rotina do apartamento. Dan organiza as fotos, Cammy cuida de alguns equipamentos e Tifa prepara algo simples para comer. Ao anoitecer, Mai chama Dan para o quarto e aparece usando a roupa nova, tentando manter confiança absoluta apesar de sua própria expectativa.
+
+Ela explica que quer experimentar algumas “brincadeiras” e deixa claro que pode parar a qualquer momento. Dan, inicialmente surpreso, entra no clima com sua seriedade habitual, o que torna a situação ainda mais engraçada. Mai conduz a cena com provocações, poses exageradas e ordens que Dan segue de maneira literal demais, fazendo-a rir. Dan se submete a tudo.
+
+As algemas, a venda, o chicote e as velas são usados de maneira leve e consensual, com foco em gestos, expressões, beijos, lambidas nos pés e axilas, carícias e humor. O capítulo termina com os dois relaxando juntos, Mai satisfeita por ter conseguido transformar sua curiosidade em uma experiência compartilhada.
+
+550 — ティファの夜
+A noite de Tifa
+
+Enquanto Mai está com Dan, Tifa chama Cammy para conversar no outro quarto. Tifa revela que também quer experimentar a roupa de policial e pergunta se Cammy gostaria de participar de uma brincadeira parecida. Cammy trata a proposta como uma missão, mas percebe rapidamente que não existe objetivo além de se divertirem juntas.
+
+A personalidade direta de Cammy cria situações cômicas: ela tenta estabelecer regras, avaliar riscos e manter uma postura profissional, enquanto Tifa entra no papel com mais naturalidade. As duas exploram vendas, algemas e carícias gentis, sempre confirmando se a outra está confortável.
+
+Em paralelo, Mai e Dan continuam sua própria brincadeira, mas as duas cenas permanecem separadas e sem competição. O capítulo reforça que cada dupla tem um ritmo diferente: Mai conduz Dan com confiança, enquanto Tifa ajuda Cammy a relaxar e experimentar algo fora da lógica militar. O encerramento mostra as duas duplas em quartos separados, tranquilas e satisfeitas, sem ainda reunir todos para comentar.
+
+551 — 朝の反省会
+Reunião de avaliação da manhã
+
+Na manhã seguinte, os quatro se reúnem para tomar café e comentar a noite anterior. O constrangimento inicial logo vira comédia: Mai tenta agir como se tudo tivesse sido planejado perfeitamente, Dan responde com observações literais demais, Tifa admite que se divertiu mais do que esperava e Cammy descreve a experiência como “uma operação sem objetivo claro, mas com resultado aceitável”.
+
+Eles conversam sobre limites, confiança e sobre como foi importante poder experimentar sem medo de julgamento. Mai confessa que estava curiosa havia algum tempo; Tifa admite que só entrou na loja porque Mai precisava de companhia; Cammy reconhece que não odiou a experiência; e Dan diz que ficou feliz por elas confiarem nele.
+
+O arco termina com os quatro guardando parte dos objetos numa caixa comum, sem decidir imediatamente quando irão usá-los novamente. Mai fecha o capítulo perguntando, com um sorriso, se aquilo conta como uma nova atividade de lazer. Cammy responde apenas:
+
+「悪くなかった」
+
+A conclusão mantém o tom sensual, afetuoso e cômico, sem avançar para uma nova missão ou para outro arco
+
 ## CRONOGRAMA DOS PRÓXIMOS ARCOS
 
 |     | Arco                             | Caps | Tema                                              | Sinopse                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
