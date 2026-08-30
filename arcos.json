@@ -329,7 +329,7 @@
   },
   {
     "arc": "猫と本屋の季節",
-    "start": 539,
+    "start": 529,
     "end": 533,
     "status": "ok"
   },
@@ -337,6 +337,18 @@
     "arc": "上海の影",
     "start": 534,
     "end": 540,
+    "status": "ok"
+  },
+  {
+    "arc": "上海の影",
+    "start": 541,
+    "end": 546,
+    "status": "ok"
+  },
+  {
+    "arc": "大人の遊び編",
+    "start": 547,
+    "end": 551,
     "status": "planned"
   }
 ]

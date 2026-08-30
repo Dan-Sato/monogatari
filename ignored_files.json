@@ -26,5 +26,9 @@
   {
     "file": "chapters/第371+章　風を切って.html",
     "reason": "invalid_chapter_number: Unsupported numeral: 371+"
+  },
+  {
+    "file": "chapters/第546章_帰路の約束.html",
+    "reason": "filename_does_not_match_expected_pattern"
   }
 ]
