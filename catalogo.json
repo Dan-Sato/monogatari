@@ -4962,6 +4962,51 @@
       "title": "朝の反省会",
       "file": "chapters/第551章　朝の反省会.html",
       "status": "existing"
+    },
+    {
+      "chapter": 552,
+      "chapter_kanji": "第五百五十二章",
+      "arc": "昔語り編",
+      "group": "昔語り編",
+      "title": "妖怪映画と祖母の記憶",
+      "file": "chapters/第552章　妖怪映画と祖母の記憶.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 553,
+      "chapter_kanji": "第五百五十三章",
+      "arc": "昔語り編",
+      "group": "昔語り編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 554,
+      "chapter_kanji": "第五百五十四章",
+      "arc": "昔語り編",
+      "group": "昔語り編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 555,
+      "chapter_kanji": "第五百五十五章",
+      "arc": "昔語り編",
+      "group": "昔語り編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 556,
+      "chapter_kanji": "第五百五十六章",
+      "arc": "昔語り編",
+      "group": "昔語り編",
+      "title": null,
+      "file": null,
+      "status": "planned"
     }
   ]
 }
