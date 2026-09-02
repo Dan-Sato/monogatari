@@ -39,6 +39,8 @@ _Projeto de leitura em japonês._
 - Aniversário: 1 de janeiro
 - Medidas: Altura: 165 cm; Peso: 48 kg; B87 / W55 / H91 cm
 - Tipo sanguíneo: B
+- Cor dos olhos: Castanho
+- Cor do cabelo: Marrom
 - Herdeira do clã ninja 不知火流, agora 名誉当主 (chefe honorário)
 - Confiante, provocadora, sensual, lidera emocionalmente
 - SEMPRE carrega o leque (扇子) — mesmo de 浴衣 ou em combate
@@ -67,6 +69,8 @@ _Projeto de leitura em japonês._
 - Aniversário: 3 de maio
 - Medidas: Altura: 167 cm; Peso: xx kg; B92 / W60 / H88 cm
 - Tipo sanguíneo: B
+- Cor dos olhos: Vermelho
+- Cor do cabelo: Marrom/Preto
 - Doce, expressiva, bartender do 7th Heaven
 - Zangan-ryu: sem hesitação, golpes que penetram para dentro, fluxo contínuo
 - Membro da AVALANCHE (anti-Shinra)
@@ -83,6 +87,8 @@ _Projeto de leitura em japonês._
 - Aniversário: 6 de janeiro
 - Medidas: Altura: 164 cm; Peso: 61 kg; B86 / W57 / H88 cm
 - Tipo sanguíneo: B
+- Cor dos olhos: Azul claro
+- Cor do cabelo: Loira
 - Delta Red / MI6 britânica, inglesa, de Londres
 - Ex-Shadaloo (Killer Bee) — sem memória dessa época
 - Extremamente direta, fala pouco, não gosta de barulho
@@ -1132,5 +1138,5 @@ Momotarō e seus três companheiros carregam o tesouro dos onis — ouro, seda, 
 - **モリガン・アーンスランド:** Súcubo dona do castelo, conduz a revelação sobre as garotas da vila, explica a influência dos sonhos e encerra o conflito sem luta, deixando tudo em tom leve e bem-humorado. _Arcos: スコットランド作戦編 ; 猫と本屋の季節 (ちょっとした焼き餅)_
 - **B.ジェニー:** É a capitã do navio pirata usado na operação — figura descontraída, confiável nos momentos de combate e cúmplice bem-humorada do grupo. Aliada externa recorrente que oferece apoio logístico e transporte. _Arcos: 海賊作戦編_
 - **ミク:** Gata marrom que apareceu na porta do apartamento. Depois ficou aos cuidados da 山田さん. _Arcos: 猫と本屋の季節_
-- **ジューリ:** Foi capturada pela Shadaloo e resgatada por Chun-Li e o grupo. Ficou aos cuidados de Juni e a Delta Red. _Arcos: 上海の影_
+- **ユーリ (Juli):** Foi capturada pela Shadaloo e resgatada por Chun-Li e o grupo. Ficou aos cuidados de Juni e a Delta Red. _Arcos: 上海の影_
 - **春麗 (Chun-Li):** Agente da Interpol. Derrotou a célula da Shadaloo em Xangai com o grupo. Antiga amiga de キャミィ e 舞. _Arcos: 上海の影_
