@@ -4923,45 +4923,45 @@
       "chapter_kanji": "第五百四十七章",
       "arc": "大人の遊び編",
       "group": "大人の遊び編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "帰宅と小さな贈り物",
+      "file": "chapters/第547章　帰宅と小さな贈り物.html",
+      "status": "existing"
     },
     {
       "chapter": 548,
       "chapter_kanji": "第五百四十八章",
       "arc": "大人の遊び編",
       "group": "大人の遊び編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "覗いてみよう",
+      "file": "chapters/第548章　覗いてみよう.html",
+      "status": "existing"
     },
     {
       "chapter": 549,
       "chapter_kanji": "第五百四十九章",
       "arc": "大人の遊び編",
       "group": "大人の遊び編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "舞の夜",
+      "file": "chapters/第549章　舞の夜.html",
+      "status": "existing"
     },
     {
       "chapter": 550,
       "chapter_kanji": "第五百五十章",
       "arc": "大人の遊び編",
       "group": "大人の遊び編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "ティファの夜",
+      "file": "chapters/第550章　ティファの夜.html",
+      "status": "existing"
     },
     {
       "chapter": 551,
       "chapter_kanji": "第五百五十一章",
       "arc": "大人の遊び編",
       "group": "大人の遊び編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "朝の反省会",
+      "file": "chapters/第551章　朝の反省会.html",
+      "status": "existing"
     }
   ]
 }

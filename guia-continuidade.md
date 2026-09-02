@@ -36,6 +36,9 @@ _Projeto de leitura em japonês._
 
 ### 舞 (Mai Shiranui — SNK)
 
+- Aniversário: 1 de janeiro
+- Medidas: Altura: 165 cm; Peso: 48 kg; B87 / W55 / H91 cm
+- Tipo sanguíneo: B
 - Herdeira do clã ninja 不知火流, agora 名誉当主 (chefe honorário)
 - Confiante, provocadora, sensual, lidera emocionalmente
 - SEMPRE carrega o leque (扇子) — mesmo de 浴衣 ou em combate
@@ -61,6 +64,9 @@ _Projeto de leitura em japonês._
 
 ### ティファ (Tifa Lockhart — FFVII)
 
+- Aniversário: 3 de maio
+- Medidas: Altura: 167 cm; Peso: xx kg; B92 / W60 / H88 cm
+- Tipo sanguíneo: B
 - Doce, expressiva, bartender do 7th Heaven
 - Zangan-ryu: sem hesitação, golpes que penetram para dentro, fluxo contínuo
 - Membro da AVALANCHE (anti-Shinra)
@@ -74,6 +80,9 @@ _Projeto de leitura em japonês._
 
 ### キャミィ (Cammy White — Street Fighter)
 
+- Aniversário: 6 de janeiro
+- Medidas: Altura: 164 cm; Peso: 61 kg; B86 / W57 / H88 cm
+- Tipo sanguíneo: B
 - Delta Red / MI6 britânica, inglesa, de Londres
 - Ex-Shadaloo (Killer Bee) — sem memória dessa época
 - Extremamente direta, fala pouco, não gosta de barulho
@@ -94,7 +103,7 @@ _Projeto de leitura em japonês._
 - **Conceito estabelecido:** "選んだ家族" (família escolhida) — não sangue, mas coração
 - **Filosofia:** "普通じゃなくていい" — relacionamento especial não precisa seguir padrões
 - **Promessa:** honestidade, cuidado mútuo, ficarem juntos
-- Moram num apartamento
+- Moram num apartamento, dois quartos, sala/cozinha, banho/lavanderia, sanitário
 - Cada casal dorme junto
 
 ## Golpes e Técnicas
@@ -1008,79 +1017,73 @@ O grupo acorda nu, tonto e sem graça, aos poucos recuperando fragmentos da noit
 
 - F.A.N.G.: O vilão responsável pelos experimentos foi derrotado e capturado pela Interpol, encerrando a ameaça direta da Shadaloo naquela região.
 
-## ARCO ATUAL: 547-551 大人の遊び編 — Brincadeiras adultas
+### 547-551 大人の遊び編 — Brincadeiras adultas ⭐⭐⭐⭐⭐
 
 Um arco sensual, cômico e ecchi SFW, centrado na intimidade já consolidada dos quatro, na confiança mútua e na curiosidade de explorar novas formas de carinho sem transformar isso em conflito.
 
-Planejamento dos capítulos
-
-547 — 帰宅と小さな贈り物
+**547 — 帰宅と小さな贈り物**
 Volta para casa e pequenos presentes
 
 O grupo retorna ao apartamento depois de Xangai, desfaz as malas e retoma o ritmo doméstico. Antes de descansar completamente, passam na casa de 山田さん para visitar ミケ e ミク, entregando lembranças da viagem para 山田さん e presentes apropriados para as duas gatas.
+De volta ao apartamento, preparam chá e conversam sobre a viagem, comentando os momentos mais engraçados, as comidas e as fotos. ダン organiza as imagens enquanto todos escolhem quais irão para o painel da parede. O capítulo termina com o grupo relaxado, cercado pelas lembranças de Xangai.
 
-De volta ao apartamento, preparam chá e conversam sobre a viagem, comentando os momentos mais engraçados, as comidas e as fotos. Dan organiza as imagens enquanto todos escolhem quais irão para o painel da parede. O capítulo termina com o grupo relaxado, cercado pelas lembranças de Xangai, sem introduzir ainda as compras do capítulo seguinte.
-
-548 — 覗いてみよう
+**548 — 覗いてみよう**
 Vamos dar uma olhada
 
-Mai e Tifa ficam responsáveis por comprar mantimentos no konbini próximo do apartamento. Na volta, Mai para pela terceira vez diante da vitrine da loja de “brinquedos” adultos. Tifa percebe que ela já observa o local há vários dias e pergunta, de maneira tranquila, se não seria melhor entrarem de uma vez para olhar.
+Alguns dias depois, 舞 e ティファ ficam responsáveis por comprar mantimentos no konbini próximo do apartamento. Na volta, 舞 para pela terceira vez diante da vitrine da loja de “brinquedos” adultos. ティファ percebe que ela já observa o local há vários dias e pergunta, de maneira tranquila, se não seria melhor entrarem de uma vez para olhar.
+Dentro da loja, 舞 fica cada vez mais imaginativa, enquanto ティファ tenta manter uma postura prática, mas também demonstra curiosidade. As duas examinam algemas, chicotes, velas, vendas, acessórios e outros produtos, comentando quais combinam com cada personalidade. 舞 escolhe uma roupa de dominatrix; ティファ encontra uma roupa de policial para si. Compram alguns itens sem exagerar e voltam para casa trocando risadinhas, tentando esconder as sacolas das outras duas.
+O capítulo termina com 舞 guardando a compra no quarto e ティファ dizendo que aquilo deveria ser tratado como “equipamento”, sem revelar ainda o que farão à noite.
 
-Dentro da loja, Mai fica cada vez mais imaginativa, enquanto Tifa tenta manter uma postura prática, mas também demonstra curiosidade. As duas examinam algemas, chicotes, velas, vendas, acessórios e outros produtos, comentando quais combinam com cada personalidade. Mai escolhe uma roupa de dominatrix; Tifa encontra uma roupa de policial para si. Compram alguns itens sem exagerar e voltam para casa trocando risadinhas, tentando esconder as sacolas das outras duas.
-
-O capítulo termina com Mai guardando a compra no quarto e Tifa dizendo que aquilo deveria ser tratado como “equipamento”, sem revelar ainda o que farão à noite.
-
-549 — 舞の夜
+**549 — 舞の夜**
 A noite de Mai
 
-O dia transcorre normalmente, com os quatro retomando a rotina do apartamento. Dan organiza as fotos, Cammy cuida de alguns equipamentos e Tifa prepara algo simples para comer. Ao anoitecer, Mai chama Dan para o quarto e aparece usando a roupa nova, tentando manter confiança absoluta apesar de sua própria expectativa.
+A tarde transcorre normalmente, com os quatro retomando a rotina do apartamento. ダン pesquisa lugares para a próxima viagem, キャミィ faz alguns alongamentos e ティファ ajeita a estatueta de gato de Xangai no armário do bar e prepara algo simples para comer. No fim da tarde, 舞 chama ティファ pro banho pra se prepararem pra mais tarde. Ao sairem, falam pro ダン e キャミィ não demorarem pro banho, dizem que ouviram que vai acabar a água mais tarde (mentirinha). Ao anoitecer, 舞 chama ダン para o quarto e aparece usando a roupa nova, tentando manter confiança absoluta apesar de sua própria expectativa.
+Ela explica que quer experimentar algumas “brincadeiras” e deixa claro que pode parar a qualquer momento. ダン, inicialmente surpreso, entra no clima com sua seriedade habitual (mas no fundo fica totalmente empolgado), o que torna a situação ainda mais engraçada. 舞 conduz a cena com provocações, poses exageradas, looking back maliciosos e ordens que ダン segue de maneira literal demais, fazendo-a rir. ダン se submete a tudo.
+As algemas, a venda, o chicote e as velas são usados de maneira leve e consensual, com foco em gestos, expressões, beijos, lambidas nos pés e axilas, carícias e humor (chicotadas e gemidos). O capítulo termina com os dois relaxando juntos na cama abraçados com 舞 no meio de ダン, 舞 satisfeita por ter conseguido transformar sua curiosidade em uma experiência compartilhada.
 
-Ela explica que quer experimentar algumas “brincadeiras” e deixa claro que pode parar a qualquer momento. Dan, inicialmente surpreso, entra no clima com sua seriedade habitual, o que torna a situação ainda mais engraçada. Mai conduz a cena com provocações, poses exageradas e ordens que Dan segue de maneira literal demais, fazendo-a rir. Dan se submete a tudo.
-
-As algemas, a venda, o chicote e as velas são usados de maneira leve e consensual, com foco em gestos, expressões, beijos, lambidas nos pés e axilas, carícias e humor. O capítulo termina com os dois relaxando juntos, Mai satisfeita por ter conseguido transformar sua curiosidade em uma experiência compartilhada.
-
-550 — ティファの夜
+**550 — ティファの夜**
 A noite de Tifa
 
-Enquanto Mai está com Dan, Tifa chama Cammy para conversar no outro quarto. Tifa revela que também quer experimentar a roupa de policial e pergunta se Cammy gostaria de participar de uma brincadeira parecida. Cammy trata a proposta como uma missão, mas percebe rapidamente que não existe objetivo além de se divertirem juntas.
+Enquanto 舞 está com ダン, ティファ chama キャミィ para conversar no outro quarto. ティファ já com a roupa de policial sexy e pergunta se キャミィ gostaria de participar de uma "brincadeira". キャミィ trata a proposta como uma missão, mas percebe rapidamente que não existe objetivo além de se divertirem juntas.
+A personalidade direta de キャミィ cria situações cômicas: ela tenta estabelecer regras, avaliar riscos e manter uma postura profissional, enquanto ティファ entra no papel com mais naturalidade. As duas exploram vendas, algemas e carícias gentis, sempre confirmando se a outra está confortável. ティファ algema キャミィ, faz revistas por trás, inclina o corpo, sussurra no ouvido. Trocam beijos, carícias e humor envergonhado.
+Em paralelo, 舞 e ダン continuam sua própria brincadeira, mas as duas cenas permanecem separadas e sem competição. O capítulo reforça que cada dupla tem um ritmo diferente: 舞 conduz ダン com confiança, enquanto ティファ ajuda キャミィ a relaxar e experimentar algo fora da lógica militar. O encerramento mostra as duas duplas em quartos separados, tranquilas e satisfeitas, sem ainda reunir todos para comentar.
 
-A personalidade direta de Cammy cria situações cômicas: ela tenta estabelecer regras, avaliar riscos e manter uma postura profissional, enquanto Tifa entra no papel com mais naturalidade. As duas exploram vendas, algemas e carícias gentis, sempre confirmando se a outra está confortável.
-
-Em paralelo, Mai e Dan continuam sua própria brincadeira, mas as duas cenas permanecem separadas e sem competição. O capítulo reforça que cada dupla tem um ritmo diferente: Mai conduz Dan com confiança, enquanto Tifa ajuda Cammy a relaxar e experimentar algo fora da lógica militar. O encerramento mostra as duas duplas em quartos separados, tranquilas e satisfeitas, sem ainda reunir todos para comentar.
-
-551 — 朝の反省会
+**551 — 朝の反省会**
 Reunião de avaliação da manhã
 
-Na manhã seguinte, os quatro se reúnem para tomar café e comentar a noite anterior. O constrangimento inicial logo vira comédia: Mai tenta agir como se tudo tivesse sido planejado perfeitamente, Dan responde com observações literais demais, Tifa admite que se divertiu mais do que esperava e Cammy descreve a experiência como “uma operação sem objetivo claro, mas com resultado aceitável”.
+Na manhã seguinte, os quatro se reúnem para tomar café e comentar a noite anterior. O constrangimento inicial logo vira comédia: 舞 tenta agir como se tudo tivesse sido planejado perfeitamente, ダン responde com observações literais demais, ティファ admite que se divertiu mais do que esperava e キャミィ descreve a experiência como “uma operação sem objetivo claro, mas com resultado aceitável”. ダン chama 舞, algumas vezes, de "舞様".
+Eles conversam sobre limites, confiança e sobre como foi importante poder experimentar sem medo de julgamento. 舞 confessa que estava curiosa havia algum tempo (todos comentam que já tinham percebido os olhares na vitrine da loja); ティファ admite que só entrou na loja porque 舞 precisava de companhia; キャミィ reconhece que não odiou a experiência; e ダン diz que ficou feliz por elas confiarem nele e pode brincar de novo quando quiser. 舞 diz pra ダン e キャミィ irem juntos visitar a loja algum dia para fazer uma surpresa para ela e ティファ. ダン fala que vai ver mascaras, laços, roupas, etc. Depois começa a falar de shibari, pregadores de mamilo e vibradores e 舞, com o rosto vermelho, já o corta...
+O arco termina com os quatro guardando parte dos objetos numa caixa comum, sem decidir imediatamente quando irão usá-los novamente. 舞 fecha o capítulo perguntando, com um sorriso, se aquilo conta como uma nova atividade de lazer. キャミィ responde apenas:「悪くなかった」
+A conclusão mantém o tom sensual, afetuoso (dizem que se amam) e cômico, sem avançar para uma nova missão ou para outro arco.
 
-Eles conversam sobre limites, confiança e sobre como foi importante poder experimentar sem medo de julgamento. Mai confessa que estava curiosa havia algum tempo; Tifa admite que só entrou na loja porque Mai precisava de companhia; Cammy reconhece que não odiou a experiência; e Dan diz que ficou feliz por elas confiarem nele.
+#### NOTAS DE CONTINUIDADE — 大人の遊び編
 
-O arco termina com os quatro guardando parte dos objetos numa caixa comum, sem decidir imediatamente quando irão usá-los novamente. Mai fecha o capítulo perguntando, com um sorriso, se aquilo conta como uma nova atividade de lazer. Cammy responde apenas:
+- 舞: Revelou que estava curiosa pela loja de "brinquedos" adultos havia tempo; conduziu a primeira noite com ダン usando algemas, venda, chicote e velas, criando o codinome "扇" como palavra de segurança; ganhou o apelido cômico recorrente "舞様" que ダン usa para provocá-la.
 
-「悪くなかった」
+- ダン: Foi o "submisso" da brincadeira com 舞, seguindo ordens de forma literal e cômica; revelou conhecimento surpreendentemente detalhado sobre itens do fetiche (shibari, pregador de mamilo, vibrador), o que rendeu risada geral e um corte abrupto da própria 舞.
 
-A conclusão mantém o tom sensual, afetuoso e cômico, sem avançar para uma nova missão ou para outro arco
+- ティファ: Assumiu a iniciativa com キャミィ, vestindo-se de policial e conduzindo a cena com mais naturalidade; admitiu que só entrou na loja para acompanhar 舞, mas se surpreendeu ao gostar mais do que esperava; criou o codinome "猫" como palavra de segurança do casal.
+
+- キャミィ: Tratou a experiência inteira como "operação"/"missão" até perceber que não havia objetivo além da diversão; description final oficial ficou registrada como "operação sem objetivo claro, mas resultado aceitável"; reconheceu publicamente que "não odiou" a experiência.
+
+- Grupo: Todos declararam amor uns pelos outros na manhã seguinte; concordaram em guardar os itens numa "caixa comum" no closet, sem pressa para o próximo uso.
+  - ダン e キャミィ prometeram ir juntos à loja de "brinquedos" adultos para fazer uma compra-surpresa para 舞 e ティファ (ainda não realizada).
+  - A "caixa comum de equipamento" fica estabelecida como recurso recorrente para futuros arcos leves/sensuais, sem data definida de reuso.
 
 ## CRONOGRAMA DOS PRÓXIMOS ARCOS
 
-|     | Arco                             | Caps | Tema                                              | Sinopse                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| --- | -------------------------------- | ---- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|     | Arco                              | Caps | Tema                                              | Sinopse                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| --- | --------------------------------- | ---- | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |     |
-|     | 大人の遊び編                     | 5    | Sensual                                           | 1º cap: o grupo volta pra casa, relaxam, conversam e veem as fotos da viagem. 2º cap: Mai e Tifa ficam a cargo de comprar alguns mantimentos pra casa, na volta Mai para na frente da loja de "brinquedos" adultos pela terceira vez. Tifa comenta que já olhou na vitrine por vários dias e pergunta se não que entrar pra dar uma olhada. Elas entram, na loja a imaginação de Mai flui, ela e Tifa olham os "produtos", comentam e acabam comprando coisas tipo algemas, chicotes, velas, e até roupa de dominatrix pra Mai e Tifa um cosplay de policial. Voltam pra casa com risadinhas. 3º cap: O dia anda normalmente, mas a noite Mai chama dan pro quarto e começa as "brincadeiras" gostosas. 4º cap: Enquanto Mai "brinca" com Dan, Tifa chama Cammy pra "brincar também". 5º cap: Cada um comenta como foi a noite de "brincadeiras" |
-|     | conto folclórico                 | 5    | slice of life / aventura                          | Os quatro no sofá, Dan e Cammy sentados nas pontas, Mai e Tifa deitadas com a cabeça no colo, assistem um filme com yokais. No fim do filme, Mai comenta que a avó costumava contar uma história folclórica com yokais. Mai brincando com os pés da Tifa começa a contar a história.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|     | RPG: campanha de japão feudal    | 7    | Mistério / Comédia / Leve sobrenatural / Aventura | Empolgados com a hisríria da Mai, o grupo combina de fazer uma nova campanha, dessa vez com tema de japão feudal. Um dark mage invade o reino de アルディア e envia os quatro para uma outra dimensão, o japão feudal. Dessa vez trocam o job pra um completamente diferente: Mai, miko; Dan, ronin; Tifa, arqueira; Cammy; ninja. Com yokai, yurei, oni, etc... Devem procurar e derrotar o dark mage em forma de yokai para voltar para casa.                                                                                                                                                                                                                                                                                                                                                                                                  |
-|     | 仮面の祭 (Festival das máscaras) | 6    | Mistério / Comédia / Leve sobrenatural            | Um festival local com lendas estranhas; o grupo investiga um "fantasma" que acaba sendo algo mundano e engraçado, no estilo do arco do castelo escocês.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-
-| | 冬の温泉 (Onsen de inverno) | 5 | Romance / Sensual / Cotidiano | Viagem de fim de ano a um onsen na neve, callback ao primeiro arco de casal. Reflexão sobre o quanto o grupo cresceu desde então.
-|
-
-| | 過去からの手紙 (Carta do passado) | 8 | Drama / Ação / Aventura | Um antigo aliado ou inimigo de Mai/Dan reaparece, trazendo um mistério ligado ao clã Shiranui ou à Delta Red. Viagem internacional, reviravoltas, tensão crescente. |
-
-| | continuação da histáhia da tifa | 5 | drama / aventura | Tifa continua a contar sua história. A partir do cap. 9 do FF7Remake história.
-|
-
-| | 家族の一年 (Um ano em família) | 5 | Slice of life / Comédia / Emocional | Fechamento de ciclo — aniversário do grupo morando junto, recapitulação afetuosa, celebração simples que amarra os fios abertos dos arcos anteriores.
-|
+|     | 大人の遊び編                      | 5    | Sensual                                           | 1º cap: o grupo volta pra casa, relaxam, conversam e veem as fotos da viagem. 2º cap: Mai e Tifa ficam a cargo de comprar alguns mantimentos pra casa, na volta Mai para na frente da loja de "brinquedos" adultos pela terceira vez. Tifa comenta que já olhou na vitrine por vários dias e pergunta se não que entrar pra dar uma olhada. Elas entram, na loja a imaginação de Mai flui, ela e Tifa olham os "produtos", comentam e acabam comprando coisas tipo algemas, chicotes, velas, e até roupa de dominatrix pra Mai e Tifa um cosplay de policial. Voltam pra casa com risadinhas. 3º cap: O dia anda normalmente, mas a noite Mai chama dan pro quarto e começa as "brincadeiras" gostosas. 4º cap: Enquanto Mai "brinca" com Dan, Tifa chama Cammy pra "brincar também". 5º cap: Cada um comenta como foi a noite de "brincadeiras"         |
+|     | conto folclórico                  | 5    | slice of life / aventura                          | Os quatro no sofá, Dan e Cammy sentados nas pontas, Mai e Tifa deitadas com a cabeça no colo, assistem um filme com yokais. No fim do filme, Mai comenta que a avó costumava contar uma história folclórica (talvez Momotaro? ou algum que longo o suficiente pra colocar em 5 capítulos) com yokais e onis. Mai brincando com os pés da Tifa começa a contar a história.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|     | RPG: campanha de japão feudal     | 7    | Mistério / Comédia / Leve sobrenatural / Aventura | Empolgados com a hisríria da Mai, o grupo combina de fazer uma nova campanha, dessa vez com tema de japão feudal. Um dark mage invade o reino de アルディア e envia os quatro para uma outra dimensão, o japão feudal. Dessa vez trocam o job pra um completamente diferente: Mai, miko; Dan, ronin; Tifa, arqueira; Cammy; ninja. Com yokai, yurei, oni, etc... Devem procurar e derrotar o dark mage em forma de yokai para voltar para casa.                                                                                                                                                                                                                                                                                                                                                                                                          |
+|     | ダンの誕生日                      | 5    | Comédia / slice of life                           | 1º aniversário do ダン, as garotas planejam um date presente com cada uma de acordo com a personalidade delas; 2º de manhã キャミィ acorda ダン logo cedo, 舞 reclama que é muito cedo e キャミィ fala pra ela ir dormir com a ティファ. O date é é manhã treinamento, vão pra academia, depois vão ao parque. tomam o café da manhã e segunda parte do treinamento, cardio no parque; 3º a tarde ティファ dela ダン pra almoçar e passeio na cidade, perto od fim da tarde, ela o leva para um bar experimentar alguns drinks; 4º 舞 leva ダン para um jantar romântico, no fim vão para um love hotel, 舞 tenta usar o pole dance mas a falha, lap dance e sensualidade. Dormem juntos. 5º Voltam pra casa. Todos conversam, riem, cantam parabéns e comem o bolo que elas fizeram. Ele diz que as amam, que são as melhores amigas ou mais que amigas |
+|     | 仮面の祭 (Festival das máscaras)  | 6    | Mistério / Comédia / Leve sobrenatural            | Um festival local com lendas estranhas; o grupo investiga um "fantasma" que acaba sendo algo mundano e engraçado, no estilo do arco do castelo escocês.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|     | 過去からの手紙 (Carta do passado) | 8    | Drama / Ação / Aventura                           | Um antigo aliado ou inimigo de Mai/Dan reaparece, trazendo um mistério ligado ao clã Shiranui ou à Delta Red. Viagem internacional, reviravoltas, tensão crescente.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|     | ティファの過去編 3                | 5    | drama / aventura                                  | Tifa continua a contar sua história. A partir do cap. 9 do FF7Remake.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|     | 家族の一年 (Um ano em família)    | 5    | Slice of life / Comédia / Emocional               | Fechamento de ciclo — aniversário do grupo morando junto, recapitulação afetuosa, celebração simples que amarra os fios abertos dos arcos anteriores.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|     | 冬の温泉 (Onsen de inverno)       | 5    | Romance / Sensual / Cotidiano                     | Viagem de fim de ano a um onsen na neve, callback ao primeiro arco de casal. Reflexão sobre o quanto o grupo cresceu desde então.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 ---
 
