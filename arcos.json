@@ -405,6 +405,12 @@
     "arc": "ダンの誕生日編",
     "start": 572,
     "end": 576,
+    "status": "ok"
+  },
+  {
+    "arc": "夏の残り火、プールの一日編",
+    "start": 577,
+    "end": 581,
     "status": "planned"
   }
 ]

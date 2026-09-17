@@ -5148,42 +5148,87 @@
       "chapter_kanji": "第五百七十二章",
       "arc": "ダンの誕生日編",
       "group": "ダンの誕生日編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "誕生日の計画",
+      "file": "chapters/第572章　誕生日の計画.html",
+      "status": "existing"
     },
     {
       "chapter": 573,
       "chapter_kanji": "第五百七十三章",
       "arc": "ダンの誕生日編",
       "group": "ダンの誕生日編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "キャミィとの朝",
+      "file": "chapters/第573章　キャミィとの朝.html",
+      "status": "existing"
     },
     {
       "chapter": 574,
       "chapter_kanji": "第五百七十四章",
       "arc": "ダンの誕生日編",
       "group": "ダンの誕生日編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "ティファと巡る街",
+      "file": "chapters/第574章　ティファと巡る街.html",
+      "status": "existing"
     },
     {
       "chapter": 575,
       "chapter_kanji": "第五百七十五章",
       "arc": "ダンの誕生日編",
       "group": "ダンの誕生日編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "舞との夜",
+      "file": "chapters/第575章　舞との夜.html",
+      "status": "existing"
     },
     {
       "chapter": 576,
       "chapter_kanji": "第五百七十六章",
       "arc": "ダンの誕生日編",
       "group": "ダンの誕生日編",
+      "title": "目覚めの朝、そして誕生日",
+      "file": "chapters/第576章　目覚めの朝、そして誕生日.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 577,
+      "chapter_kanji": "第五百七十七章",
+      "arc": "夏の残り火、プールの一日編",
+      "group": "夏の残り火、プールの一日編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 578,
+      "chapter_kanji": "第五百七十八章",
+      "arc": "夏の残り火、プールの一日編",
+      "group": "夏の残り火、プールの一日編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 579,
+      "chapter_kanji": "第五百七十九章",
+      "arc": "夏の残り火、プールの一日編",
+      "group": "夏の残り火、プールの一日編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 580,
+      "chapter_kanji": "第五百八十章",
+      "arc": "夏の残り火、プールの一日編",
+      "group": "夏の残り火、プールの一日編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 581,
+      "chapter_kanji": "第五百八十一章",
+      "arc": "夏の残り火、プールの一日編",
+      "group": "夏の残り火、プールの一日編",
       "title": null,
       "file": null,
       "status": "planned"
