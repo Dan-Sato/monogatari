@@ -1233,7 +1233,7 @@ Pela manhã, ainda no quarto do hotel, ダン acorda primeiro e fica contempland
 
 - キャミィ — Disciplinada e reservada, comandou o treino matinal com rigor mas surpreendeu com um beijo tímido, mostrando seu lado mais vulnerável e carinhoso.
 
-### 577-581 夏の残り火、プールの一日編
+### ARCO ATUAL: 577-581 夏の残り火、プールの一日編
 
 **577 — 夏の終わりの計画** (O Plano do Fim do Verão)
 
