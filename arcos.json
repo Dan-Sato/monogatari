@@ -1,414 +1,414 @@
 [
   {
-    "arc": "出会い編",
+    "arc": "1 - 出会い編",
     "start": 1,
     "end": 13,
     "status": "ok"
   },
   {
-    "arc": "雨と電車編",
+    "arc": "2 - 雨と電車編",
     "start": 14,
     "end": 19,
     "status": "ok"
   },
   {
-    "arc": "夏の海編",
+    "arc": "3 - 夏の海編",
     "start": 20,
     "end": 25,
     "status": "ok"
   },
   {
-    "arc": "大会と夏祭り編",
+    "arc": "4 - 大会と夏祭り編",
     "start": 26,
     "end": 35,
     "status": "ok"
   },
   {
-    "arc": "夜の気持ち編",
+    "arc": "5 - 夜の気持ち編",
     "start": 36,
     "end": 54,
     "status": "ok"
   },
   {
-    "arc": "湖編",
+    "arc": "6 - 湖編",
     "start": 55,
     "end": 62,
     "status": "ok"
   },
   {
-    "arc": "冬とクリスマス編",
+    "arc": "7 - 冬とクリスマス編",
     "start": 63,
     "end": 78,
     "status": "ok"
   },
   {
-    "arc": "年越しと新年編",
+    "arc": "8 - 年越しと新年編",
     "start": 79,
     "end": 90,
     "status": "ok"
   },
   {
-    "arc": "雨と誤解編",
+    "arc": "9 - 雨と誤解編",
     "start": 91,
     "end": 100,
     "status": "ok"
   },
   {
-    "arc": "告白とカップル編",
+    "arc": "10 - 告白とカップル編",
     "start": 101,
     "end": 131,
     "status": "ok"
   },
   {
-    "arc": "均衡と居酒屋編",
+    "arc": "11 - 均衡と居酒屋編",
     "start": 132,
     "end": 142,
     "status": "ok"
   },
   {
-    "arc": "バレンタイン編",
+    "arc": "12 - バレンタイン編",
     "start": 143,
     "end": 165,
     "status": "ok"
   },
   {
-    "arc": "部屋の夜編",
+    "arc": "13 - 部屋の夜編",
     "start": 166,
     "end": 175,
     "status": "ok"
   },
   {
-    "arc": "四人の朝編",
+    "arc": "14 - 四人の朝編",
     "start": 176,
     "end": 183,
     "status": "ok"
   },
   {
-    "arc": "キャンプ編",
+    "arc": "15 - キャンプ編",
     "start": 184,
     "end": 214,
     "status": "ok"
   },
   {
-    "arc": "帰還と日常編",
+    "arc": "16 - 帰還と日常編",
     "start": 215,
     "end": 235,
     "status": "ok"
   },
   {
-    "arc": "お祭り編",
+    "arc": "17 - お祭り編",
     "start": 236,
     "end": 244,
     "status": "ok"
   },
   {
-    "arc": "海辺編",
+    "arc": "18 - 海辺編",
     "start": 245,
     "end": 252,
     "status": "ok"
   },
   {
-    "arc": "旅行編",
+    "arc": "19 - 旅行編",
     "start": 253,
     "end": 261,
     "status": "ok"
   },
   {
-    "arc": "雨の日編",
+    "arc": "20 - 雨の日編",
     "start": 262,
     "end": 267,
     "status": "ok"
   },
   {
-    "arc": "日常編",
+    "arc": "21 - 日常編",
     "start": 268,
     "end": 273,
     "status": "ok"
   },
   {
-    "arc": "文化祭編",
+    "arc": "22 - 文化祭編",
     "start": 274,
     "end": 279,
     "status": "ok"
   },
   {
-    "arc": "温泉旅行編",
+    "arc": "23 - 温泉旅行編",
     "start": 280,
     "end": 285,
     "status": "ok"
   },
   {
-    "arc": "アクション編",
+    "arc": "24 - アクション編",
     "start": 286,
     "end": 294,
     "status": "ok"
   },
   {
-    "arc": "京都編",
+    "arc": "25 - 京都編",
     "start": 295,
     "end": 302,
     "status": "ok"
   },
   {
-    "arc": "遊園地編",
+    "arc": "26 - 遊園地編",
     "start": 303,
     "end": 308,
     "status": "ok"
   },
   {
-    "arc": "嵐の夜編",
+    "arc": "27 - 嵐の夜編",
     "start": 309,
     "end": 314,
     "status": "ok"
   },
   {
-    "arc": "ティファの過去編",
+    "arc": "28 - ティファの過去編",
     "start": 315,
     "end": 321,
     "status": "ok"
   },
   {
-    "arc": "海外旅行編",
+    "arc": "29 - 海外旅行編",
     "start": 322,
     "end": 329,
     "status": "ok"
   },
   {
-    "arc": "舞の修行編",
+    "arc": "30 - 舞の修行編",
     "start": 330,
     "end": 336,
     "status": "ok"
   },
   {
-    "arc": "なんでもない夏編",
+    "arc": "31 - なんでもない夏編",
     "start": 337,
     "end": 342,
     "status": "ok"
   },
   {
-    "arc": "海辺のリゾート編",
+    "arc": "32 - 海辺のリゾート編",
     "start": 343,
     "end": 349,
     "status": "ok"
   },
   {
-    "arc": "ミステリー編",
+    "arc": "33 - ミステリー編",
     "start": 350,
     "end": 356,
     "status": "ok"
   },
   {
-    "arc": "秋の祭り編",
+    "arc": "34 - 秋の祭り編",
     "start": 357,
     "end": 362,
     "status": "ok"
   },
   {
-    "arc": "トレーニング編",
+    "arc": "35 - トレーニング編",
     "start": 363,
     "end": 368,
     "status": "ok"
   },
   {
-    "arc": "バイク旅行編",
+    "arc": "36 - バイク旅行編",
     "start": 369,
     "end": 376,
     "status": "ok"
   },
   {
-    "arc": "バレンタイン編",
+    "arc": "37 - バレンタイン編",
     "start": 377,
     "end": 382,
     "status": "ok"
   },
   {
-    "arc": "過去の影編",
+    "arc": "38 - 過去の影編",
     "start": 383,
     "end": 389,
     "status": "ok"
   },
   {
-    "arc": "桜の季節編",
+    "arc": "39 - 桜の季節編",
     "start": 390,
     "end": 395,
     "status": "ok"
   },
   {
-    "arc": "家の中の勝負",
+    "arc": "40 - 家の中の勝負",
     "start": 396,
     "end": 401,
     "status": "ok"
   },
   {
-    "arc": "さくらの逆襲編",
+    "arc": "41 - さくらの逆襲編",
     "start": 402,
     "end": 408,
     "status": "ok"
   },
   {
-    "arc": "都会の冒険編",
+    "arc": "42 - 都会の冒険編",
     "start": 409,
     "end": 414,
     "status": "ok"
   },
   {
-    "arc": "餓狼伝説編 (1)",
+    "arc": "43 - 餓狼伝説編 (1)",
     "start": 415,
     "end": 421,
     "status": "ok"
   },
   {
-    "arc": "餓狼伝説編 (2)",
+    "arc": "44 - 餓狼伝説編 (2)",
     "start": 422,
     "end": 429,
     "status": "ok"
   },
   {
-    "arc": "温泉旅行再び編",
+    "arc": "45 - 温泉旅行再び編",
     "start": 430,
     "end": 436,
     "status": "ok"
   },
   {
-    "arc": "凪の頃",
+    "arc": "46 - 凪の頃",
     "start": 437,
     "end": 442,
     "status": "ok"
   },
   {
-    "arc": "スコットランド作戦編",
+    "arc": "47 - スコットランド作戦編",
     "start": 443,
     "end": 453,
     "status": "ok"
   },
   {
-    "arc": "自転車の旅編",
+    "arc": "48 - 自転車の旅編",
     "start": 454,
     "end": 460,
     "status": "ok"
   },
   {
-    "arc": "日々の余白",
+    "arc": "49 - 日々の余白",
     "start": 461,
     "end": 466,
     "status": "ok"
   },
   {
-    "arc": "海賊作戦編",
+    "arc": "50 - 海賊作戦編",
     "start": 467,
     "end": 475,
     "status": "ok"
   },
   {
-    "arc": "帰宅編",
+    "arc": "51 - 帰宅編",
     "start": 476,
     "end": 479,
     "status": "ok"
   },
   {
-    "arc": "ティファの過去編 2",
+    "arc": "52 - ティファの過去編 2",
     "start": 480,
     "end": 484,
     "status": "ok"
   },
   {
-    "arc": "運動会編",
+    "arc": "53 - 運動会編",
     "start": 485,
     "end": 491,
     "status": "ok"
   },
   {
-    "arc": "罰ゲーム運動会：選んだ家族の支払い日",
+    "arc": "54 - 罰ゲーム運動会：選んだ家族の支払い日",
     "start": 492,
     "end": 496,
     "status": "ok"
   },
   {
-    "arc": "リアルバウト (訓練)",
+    "arc": "55 - リアルバウト (訓練)",
     "start": 497,
     "end": 501,
     "status": "ok"
   },
   {
-    "arc": "リアルバウト (大会)",
+    "arc": "56 - リアルバウト (大会)",
     "start": 502,
     "end": 507,
     "status": "ok"
   },
   {
-    "arc": "リアルバウト (観光)",
+    "arc": "57 - リアルバウト (観光)",
     "start": 508,
     "end": 512,
     "status": "ok"
   },
   {
-    "arc": "帰宅と日常",
+    "arc": "58 - 帰宅と日常",
     "start": 513,
     "end": 517,
     "status": "ok"
   },
   {
-    "arc": "雨の週とダンジョンの夜",
+    "arc": "59 - 雨の週とダンジョンの夜",
     "start": 518,
     "end": 523,
     "status": "ok"
   },
   {
-    "arc": "波音の日々",
+    "arc": "60 - 波音の日々",
     "start": 524,
     "end": 528,
     "status": "ok"
   },
   {
-    "arc": "猫と本屋の季節",
+    "arc": "61 - 猫と本屋の季節",
     "start": 529,
     "end": 533,
     "status": "ok"
   },
   {
-    "arc": "上海の影",
+    "arc": "62 - 上海の影",
     "start": 534,
     "end": 540,
     "status": "ok"
   },
   {
-    "arc": "上海の休日",
+    "arc": "63 - 上海の休日",
     "start": 541,
     "end": 546,
     "status": "ok"
   },
   {
-    "arc": "大人の遊び編",
+    "arc": "64 - 大人の遊び編",
     "start": 547,
     "end": 551,
     "status": "ok"
   },
   {
-    "arc": "昔語り編 — 桃太郎",
+    "arc": "65 - 昔語り編 — 桃太郎",
     "start": 552,
     "end": 556,
     "status": "ok"
   },
   {
-    "arc": "戦国異聞録編",
+    "arc": "66 - 戦国異聞録編",
     "start": 557,
     "end": 563,
     "status": "ok"
   },
   {
-    "arc": "虹色の挑戦者編",
+    "arc": "67 - 虹色の挑戦者編",
     "start": 564,
     "end": 571,
     "status": "ok"
   },
   {
-    "arc": "ダンの誕生日編",
+    "arc": "68 - ダンの誕生日編",
     "start": 572,
     "end": 576,
     "status": "ok"
   },
   {
-    "arc": "夏の残り火、プールの一日編",
+    "arc": "69 - 夏の残り火、プールの一日編",
     "start": 577,
     "end": 581,
     "status": "planned"
