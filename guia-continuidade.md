@@ -206,119 +206,119 @@ Focada em:
 
 ## 📚 RESUMO DOS ARCOS CONCLUÍDOS
 
-### 出会い編 (1–13)
+### 1 - 出会い編 (1–13)
 
 Apresentação dos personagens, o encontro inicial (出会い), a formação da amizade e as primeiras refeições, treinos e pequenas promessas juntos. Ritmo lento e cotidiano, estabelecendo a dinâmica central da história.
 
-### 雨と電車編 (14–19)
+### 2 - 雨と電車編 (14–19)
 
 Pequenas saídas juntos — a viagem de trem, a tarde de chuva, a noite de chuva e o planejamento de uma ida ao mar. Arco de proximidade crescente através de situações domésticas e climáticas.
 
-### 夏の海編 (20–24)
+### 3 - 夏の海編 (20–24)
 
 A viagem ao mar, a noite com fogos de artifício (夜の海と花火), o passeio matinal e o caminho de volta. Primeiro grande evento compartilhado, marcado pela leveza do verão.
 
-### 大会と夏祭り編 (26–35)
+### 4 - 大会と夏祭り編 (26–35)
 
 Retorno, preparação e participação num torneio com batalhas progressivas — primeira luta, segunda rodada, final (決勝戦). Celebração pós-torneio com sukiyaki e planejamento do verão, culminando no festival.
 
-### 夜の気持ち編 (36–54)
+### 5 - 夜の気持ち編 (36–54)
 
 Série de capítulos curtos e densos sobre treinos matinais, caminhadas noturnas, olhar de ciúme, karaokê (恋の一曲), conversas na noite e a tensão emocional que vai crescendo. O coração começa a se trair.
 
-### 湖編 (55–62)
+### 6 - 湖編 (55–62)
 
 Viagem ao lago — manhã, passeio de barco (ボートの上の距離), pesca, almoço à beira-lago, tarde tranquila e brincadeiras na água até o entardecer e a despedida do lugar.
 
-### 冬とクリスマス編 (63–78)
+### 7 - 冬とクリスマス編 (63–78)
 
 A chegada do frio, preparativos para o inverno, conversas sobre o Natal, a noite prometida, a escolha do destino, a véspera, a noite de Natal com o beijo na promessa (唇に触れた約束) e o bolo atrasado.
 
-### 年越しと新年編 (79–90)
+### 8 - 年越しと新年編 (79–90)
 
 Preparativos para a virada, a noite da passagem de ano, a manhã do primeiro dia (元旦の朝), presentes trocados, planejamentos silenciosos e o caminhar juntos que agora tem outro peso.
 
-### 雨と誤解編 (91–100)
+### 9 - 雨と誤解編 (91–100)
 
 Pequenos mal-entendidos, razões para parar, a chuva que aproxima e distancia ao mesmo tempo, volta para casa encharcados, o vapor do banho (湯気の中で) e o toque que permanece.
 
-### 告白とカップル編 (101–131)
+### 10 - 告白とカップル編 (101–131)
 
 O arco mais longo e central. Os outros percebem, vêm as bênçãos (祝福の言葉), a confirmação entre os dois. A relação nova se instala — em público, com ciúme e provocação, com conversas íntimas e uma descida gradual das barreiras físicas e emocionais até a noite que muda tudo (caps. 120–125).
 
-### 均衡と居酒屋編 (132–142)
+### 11 - 均衡と居酒屋編 (132–142)
 
 A relação entra numa fase de equilíbrio tenso — diálogos silenciosos, 均衡 repetido em três capítulos seguidos, saída para o bar japonês com calor da cerveja e dos espetinhos (熱い串), e um encerramento quieto.
 
-### バレンタイン編 (143–165)
+### 12 - バレンタイン編 (143–165)
 
 Preparativos secretos, 本命 e 義理, a entrega, três declarações paralelas, a noite dos três, a visita tardia ao santuário e a sequência de capítulos com fogo (火) — a combustão emocional culminando na 静かな逆火.
 
-### 部屋の夜編 (166–174)
+### 13 - 部屋の夜編 (166–174)
 
 Quarto silencioso (静かな部屋), primeiro contato direto, calor que se expande, fronteiras que se dissolvem (崩れる境界線), o momento de fusão (溶け合う瞬間) e a ressonância quieta. Arco mais íntimo e contido.
 
-### 四人の朝編 (176–182)
+### 14 - 四人の朝編 (176–182)
 
 A manhã que vem depois, a voz de sempre (いつもの声で), uma promessa entre os quatro (四人の約束), a saída em grupo e um pequeno incidente no parque.
 
-### キャンプ編 (184–214)
+### 15 - キャンプ編 (184–214)
 
 O arco mais longo do bloco final: planejamento, compras, estrada para a montanha, armação de barraca (テント作り), fogueira (焚き火の夜), jantar coletivo, trilha pela floresta, a fonte escondida (隠れた温泉), o banho quente, noite sob as estrelas e madrugada dentro da barraca — tudo culminando na manhã da montanha e no lento retorno.
 
-### 帰還と日常編 (215–235)
+### 16 - 帰還と日常編 (215–235)
 
 Os capítulos cobrem a descida da montanha, o retorno à vida normal e os ecos emocionais de tudo que aconteceu no acampamento — uma respiração final antes de um possível próximo bloco da história.
 
 ---
 
-### お祭り編 (236–244)
+### 17 - お祭り編 (236–244)
 
 Festival de verão. 浴衣, fogos. Primeiros momentos dos quatro juntos. 舞 sempre com leque mesmo de 浴衣.
 
-### 海辺編 (245–252)
+### 18 - 海辺編 (245–252)
 
 Praia. Trem, pôr do sol, primeiros momentos íntimos.
 
-### 旅行編 (253–261)
+### 19 - 旅行編 (253–261)
 
 Cidade histórica. Cadeado numa ponte, onsen, キャバクラ.
 
-### 雨の日編 (262–267)
+### 20 - 雨の日編 (262–267)
 
 Dia de chuva em casa. Filme, conversa longa, primeira noite íntima dos quatro.
 
-### 日常編 (268–273)
+### 21 - 日常編 (268–273)
 
 Cotidiano. Parque, スーパー, キャミィ faz カレー com garam masala da Índia.
 
-### 文化祭編 (274–279)
+### 22 - 文化祭編 (274–279)
 
 Festival universitário. キャミィ em modo missão total, faz 攻略 com lista de eficiência.
 射的: キャミィ erra tudo (pistola de cortiça ≠ arma real).
 仮装コンテスト: キャミィ vence dizendo 「勝ちに来た」, não entende por que riram.
 Agradece 舞 pelo figurino quietamente. Coloca troféu no quarto — única exceção à regra "nada desnecessário".
 
-### 温泉旅行編 (280–285) ⭐
+### 23 - 温泉旅行編 (280–285) ⭐
 
 Ryokan com onsen. Cap 282: onsen 昼 (舞+ティファ+キャミィ, sensual).
 Cap 284: 混浴 noturno — quatro juntos, dois casais simultâneos.
 Cap 285: manhã → trilha → EMBOSCADA Shadaloo → início アクション編.
 
-### アクション編 (286–294) ⭐
+### 24 - アクション編 (286–294) ⭐
 
 Emboscada na trilha. 舞 combate de 浴衣 com leque na manga.
 キャミィ revela passado Shadaloo. ダン analisa dados na base infiltrada.
 Objetivo Shadaloo: recapturar キャミィ. Segunda equipe derrotada.
 キャミィ: 「私は戻らない。一人ではないから」
 
-### 京都編 (295–302) ⭐
+### 25 - 京都編 (295–302) ⭐
 
 Cap 297: 舞 dança no santuário — ダン havia pesquisado especialmente para ela.
 Cap 300 (ESPECIAL): festival, 山鉾, 着物. キャミィ sobre o que mudou em 300 dias:
 「料理がある。スパイスがある。温泉がある。…あとはみんながいる」
 
-### 遊園地編 (303–308)
+### 26 - 遊園地編 (303–308)
 
 キャミィ faz 攻略 com 2 páginas de lista. ダン responde tudo com 「遊園地だから」.
 お化け屋敷: ティファ grita 「反射！」; キャミィ na 2ª vez fala 「反射」 antes dela.
@@ -327,7 +327,7 @@ Cap 300 (ESPECIAL): festival, 山鉾, 着物. キャミィ sobre o que mudou em 
 Final: キャミィ diz avaliação é alta 「想定外があったから」. Três chamam de fofa.
 キャミィ: 「多数決で決める話ではない」
 
-### 嵐の夜編 (309–314) ⭐
+### 27 - 嵐の夜編 (309–314) ⭐
 
 キャミィ faz lista de emergência em 2 folhas. Velas perfumadas (cedeu ao argumento de 雰囲気).
 Cap 312: 舞+ダン. 「酔っていなくても知ってる」. 「ずっと秘密にしておく」 (frase padrão de 舞).
@@ -336,7 +336,7 @@ Cap 313: ティファ+キャミィ. 「受け取り方が分からないかも�
 「本当のことしか言わない」.
 Cap 314: 「昨夜の感情を説明する言葉がない」. GANCHO: ティファ quer contar o passado.
 
-### ティファの過去編 (315–321) - Tifa's Past ⭐
+### 28 - ティファの過去編 (315–321) - Tifa's Past ⭐
 
 **Nibelheim:** cidade natal pequena, 魔晄炉 da Shinra.
 **Zangan:** mestre de artes marciais — ensinou ティファ na infância, salvou-a das chamas.
@@ -350,7 +350,7 @@ Enlouqueceu, queimou Nibelheim, matou o pai de ティファ, feriu ela no peito.
 キャミィ: 「ティファが聞くから、私は話せた」
 GANCHO cap 320: ダン já pesquisando → 「海外はどうだ」 → 「また今度」 → 三人に怒られる.
 
-### 海外旅行編 (322–329) — Inglaterra/Londres ⭐
+### 29 - 海外旅行編 (322–329) — Inglaterra/Londres ⭐
 
 **Cap 322:** Planejamento viagem Inglaterra, キャミィ oferece apartamento em Londres, menção ユーニ pela primeira vez.
 **Cap 323:** Chegada Londres, apartamento キャミィ (物が少ない), reencontro emocional com ユーニ (loira, olhos azuis, ex-Doll, "irmã" mais próxima). ユーニ fala japonês (キャミィ ensinou).
@@ -361,7 +361,7 @@ GANCHO cap 320: ダン já pesquisando → 「海外はどうだ」 → 「ま�
 **Cap 328:** Última caminhada Thames, pôr do sol dourado, Tower Bridge em silhueta. Despedida Londres.
 **Cap 329:** Volta Japão. キャミィ comprou modelo Tower Bridge sozinha ("忘れたくない" — não quero esquecer). Carta clã 不知火 aguardando em casa pedindo ajuda.
 
-### 舞の修行編 (330–336) — Vilarejo Shiranui ⭐
+### 30 - 舞の修行編 (330–336) — Vilarejo Shiranui ⭐
 
 **Cap 330:** Carta clã 不知火: 里 precisa dela, 闇組 (clã rival) quer roubar 火の巻物 (rolo fogo com técnicas secretas avô 半蔵). Os quatro vão juntos. 舞 tratada como "舞さま" (herdeira). Conhecem ホクトマル (jovem ninja talentoso).
 **Cap 331:** 舞 mostra técnica básica 不知火流. História 闇組: separaram-se há 100 anos buscando poder. Objetivo: roubar 火の巻物.
@@ -371,7 +371,7 @@ GANCHO cap 320: ダン já pesquisando → 「海外はどうだ」 → 「ま�
 **Cap 335:** Batalha final: 闇組 頭 + 12 ninjas atacam. 舞 domina 陽炎の舞 (círculo completo de fogo), derrota líder. Desmaia de exaustão, ダン segura nos braços (momento clássico). 闇組 se rende, promete não atacar mais.
 **Cap 336:** Cerimônia sucessão: 舞 se torna 名誉当主 (chefe honorário), ホクトマル assume 実務当主 (gestão diária). Volta pra casa, gancho verão.
 
-### なんでもない夏編 (337–342) — Cotidiano Verão ⭐
+### 31 - なんでもない夏編 (337–342) — Cotidiano Verão ⭐
 
 **Cap 337:** Calor extremo, AC quebra, quatro dormem juntos no living, decidem ir festival.
 **Cap 338:** Festival yukatas, キャミィ ganha tiro ao alvo e dá prêmio pra ティファ, fogos de artifício, verbalizam conceito "選んだ家族".
@@ -380,7 +380,7 @@ GANCHO cap 320: ダン já pesquisando → 「海外はどうだ」 → 「ま�
 **Cap 341:** Noite quente, madrugada acordados conversando, discussão sobre futuro/casamento/relacionamento. "普通じゃなくていい" — aceitação que relacionamento especial não precisa seguir padrões. Dormem juntos no chão, proximidade física aumentando.
 **Cap 342:** Planejam férias — escolhem resort beira-mar, descobrem só tem um quarto com UMA cama king size, decidem aceitar. Compras roupas de banho (舞 bikini vermelho, ティファ bikini branco, キャミィ maiô azul, ダン calção preto). Preparativos, expectativa.
 
-### 海辺のリゾート編 (343–349) — Resort Praia ⭐
+### 32 - 海辺のリゾート編 (343–349) — Resort Praia ⭐
 
 **Cap 343:** Viagem 2h carro, chegada resort, um quarto/uma cama king, exploram resort, jantar pôr do sol, primeira noite dormem separados extremidades cama.
 **Cap 344:** Primeira manhã praia, 舞 bikini vermelho chamando atenção. PROTETOR SOLAR momento clássico (ダン passando costas 舞, ティファ+キャミィ se ajudando, intimidade natural). Nadando juntos, momento romântico 舞+ダン água com beijo. ティファ+キャミィ observando felizes. Progressão: dormem mais perto que noite anterior.
@@ -390,7 +390,7 @@ GANCHO cap 320: ダン já pesquisando → 「海外はどうだ」 → 「ま�
 **Cap 348:** Manhã acordam entrelaçados, 舞 acorda primeiro cercada pelos três todos interligados, momento ternura e felicidade. Café manhã, última ida praia aproveitando momentos finais. Despedida resort olhando quarto/cama onde tudo aconteceu, saem com memórias especiais e relação transformada.
 **Cap 349:** Viagem volta, reflexões sobre trip, reconhecem algo mudou para melhor — laços mais profundos. Prometem mais viagens juntos (montanha/onsen). Chegam casa, decidem continuar dormindo juntos também em casa. O que começou resort continua no cotidiano. Fim arco mas início nova fase relacionamento, "選んだ家族" consolidada.
 
-### 350–356 — ミステリー編
+### 33 - 350–356 — ミステリー編
 
 **Cap 350:** Objetos somem no prédio (chaves, moedas, copos); barulhos noturnos; vizinhos preocupados. Os quatro decidem investigar.
 **Cap 351:** Dividem tarefas; キャミィ descobre buraco nos dutos de ventilação; 舞 faz amizade com vizinhos.
@@ -400,7 +400,7 @@ GANCHO cap 320: ダン já pesquisando → 「海外はどうだ」 → 「ま�
 **Cap 355:** Vizinha do 3º andar deixa ミモザ na porta como agradecimento. キャミィ investiga sozinha, descobre, e repete o gesto comprando flores para os três — 「論理的だ」. Running gag consolidado: 「悪くなかった」 = elogio máximo de キャミィ.
 **Cap 356:** Reflexão do grupo sobre o arco. キャミィ propõe saírem 「次は外に行った方がいいかもしれない」 (raro partir dela). ダン menciona 秋の祭り. キャミィ escolhe kimono azul sem hesitar. Gancho: 秋の祭り編.
 
-### 357–362 — 秋の祭り編 - 佐藤さくら ⭐
+### 34 - 357–362 — 秋の祭り編 - 佐藤さくら ⭐
 
 **Cap 357:** Os quatro escolhem kimono/yukata. キャミィ escolhe azul imediatamente 「目の色と合う」, sem hesitar. ダン fica de 紺色 a pedido dela. 舞 de vermelho e dourado. ティファ de rosa. Foto na loja — キャミィ insiste na extremidade, não no centro.
 **Cap 358:** Chegada ao festival. Iluminação, 焼き鳥, 綿菓子. さくら (universitária) aborda ティファ — admira sua força e gentileza. キャミィ observa e se interpõe, chamando o doce oferecido de "perigo" (キャミィ não deixou ティファ pegar o doce). さくら vai embora. キャミィ nega ciúme mas fica mais perto de ティファ o resto da noite.
@@ -409,7 +409,7 @@ GANCHO cap 320: ダン já pesquisando → 「海外はどうだ」 → 「ま�
 **Cap 361:** さくら encontra o grupo no parque. Confessa admiração genuína por ティファ: 「恋とかじゃなくて、本当に尊敬していて、好きで、一度ちゃんと言いたかった」. ティファ fica toda vermelha. キャミィ se posiciona silenciosamente ao lado de ティファ. さくら vai embora — mas ao dobrar a esquina, olha escondida com sorriso malicioso completamente diferente da expressão contida de antes.
 **Cap 362:** Caminhada à beira do rio sob folhas de outono. キャミィ concorda em jogar fora a ficha de vigilância. Foto: キャミィ vai para a "extremidade", mas mais perto do que antes 「進歩」. Final: ティファ pergunta se realmente não foi ciúme. キャミィ: 「……今日は、悪くなかった」. A boca relaxa um milímetro — só ティファ vê.
 
-### 363–368 — トレーニング編
+### 35 - 363–368 — トレーニング編
 
 **Cap 363:** ダン propõe treino conjunto. キャミィ faz cronograma em 3 folhas. 舞 chega de leque. Discussão sobre qual estilo é "mais eficiente".
 **Cap 364:** キャミィ tenta ensinar CQC com explicações militares precisas demais. ティファ aprende rápido, 舞 adapta tudo para dança, ダン anota tudo. Momentos cômicos: キャミィ frustra quando o resultado é "tecnicamente errado mas funciona".
@@ -418,7 +418,7 @@ GANCHO cap 320: ダン já pesquisando → 「海外はどうだ」 → 「ま�
 **Cap 367:** Sparring amistoso em duplas. 舞+キャミィ vs ティファ+ダン. Caos total — ダン escapa de tudo por dados e análise. キャミィ fica impressionada involuntariamente. Resultado: empate suspeito que ダン "calculou".
 **Cap 368:** Depois do treino — todos exaustos, deitados no chão. 舞: 「強くなったかな？」キャミィ: 「悪くなかった」. ティファ ri. ダン prepara chá. Gancho: ダン menciona バイク旅行.
 
-### 369–376 — バイク旅行編 - Viagem de moto ⭐
+### 36 - 369–376 — バイク旅行編 - Viagem de moto ⭐
 
 **Cap 369:** Preparativos. ダン apresenta o roteiro impresso com análise de clima, distância e paradas. 舞 descarta e propõe improvisar. キャミィ lê o roteiro de ダン em silêncio e devolve sem comentário — mas na manhã seguinte segue exatamente o percurso dele. Tensão leve sobre quem fica com quem.
 **Cap 370:** Saída. A distribuição das garupas acontece naturalmente: キャミィ pilota com ダン atrás segurando a cintura, enquanto 舞 leva ティファ. キャミィ só diz 「降りろ」 quando ティファ tenta ajustar a posição cedo demais. Estrada de montanha e primeiro trecho do percurso.
@@ -429,7 +429,7 @@ GANCHO cap 320: ダン já pesquisando → 「海外はどうだ」 → 「ま�
 **Cap 375:** Pousada com onsen. Dentro do onsen, intimidade 🔥🫦 entre 舞＋ダン e キャミィ＋ティファ, depois 舞 ainda insatisfeita: 舞＋ティファ e キャミィ＋ダン. O contraste de personalidades rende silêncio, calor, toques e carícias. ティファ e 舞 conversam sobre corpo, treino e confiança; キャミィ e ダン ficam no eixo da calma, com ele observando e ela cedendo sem dizer muito.
 **Cap 376:** Volta. As motos seguem com naturalidade, como se o caminho agora já fosse parte da casa deles. Última cena: as quatro de volta à cidade, motos parando lado a lado. キャミィ: 「悪くなかった」. Todos já sabem o que significa. Em casa, sentados no sofá, comentam as fotos da viagem.
 
-### 377–382 — バレンタイン編
+### 37 - 377–382 — バレンタイン編
 
 **Cap 377:** チョコレートの朝。Tom doce, levemente caótico. 舞 acorda cedo para fazer chocolate artesanal, espalhando utensílios e ingredientes pela cozinha. ダン a encontra no meio da bagunça e observa em silêncio, com aquele sorriso torto. 舞 imediatamente fica na defensiva, tentando justificar o caos. ダン não interrompe — apenas olha, com o pensamento surgindo quase involuntário: なんでこんなにかわいいんだ.
 **Cap 378:** それぞれのバレンタイン。Tom de contraste de estilos. キャミィ entrega chocolate para ティファ sem cerimônia — apenas deixa na mesa e sai. ティファ fica parada por um segundo, processando, e depois sorri sozinha. Em paralelo, 舞 transforma a entrega em um pequeno espetáculo dramático para ダン, que fica completamente sem reação, vermelho, pensamentos acelerando: 好きだ、本当に好きだ.
@@ -438,7 +438,7 @@ GANCHO cap 320: ダン já pesquisando → 「海外はどうだ」 → 「ま�
 **Cap 381:** 朝と残り香。Tom caloroso de pós-noite. Na manhã seguinte, 舞 ainda dorme enquanto ダン acorda e a observa em silêncio, tomado por pensamentos longos e sinceros: こんな人を好きになるとは思わなかった、ずっと守りたい. Quando ela acorda e percebe, ele tenta negar; ela não acredita. Pequeno momento de intimidade matinal, leve e ainda carregado da noite anterior.
 **Cap 382:** バレンタインの翌日。Tom leve, retorno ao cotidiano. Os quatro estão juntos novamente, mas a dinâmica mudou de forma sutil — todos percebem, ninguém comenta. キャミィ está ligeiramente diferente, ティファ visivelmente mais leve e radiante. 舞 provoca sobre a noite anterior, ダン desvia como pode. O arco se encerra com uma sensação silenciosa de que algo entre eles se firmou.
 
-### 383–389 — 過去の影編 - Lita e Decapre ⭐
+### 38 - 383–389 — 過去の影編 - Lita e Decapre ⭐
 
 **Cap 383:** キャミィ recebe mensagem da Delta Red sobre uma operação voluntária próxima da região. Sem avisar os outros ainda, sai cedo e retorna acompanhada de リタ・ルワンダ. Primeira aparição de Lita: direta, observadora, avaliando o grupo sem filtros. Briefing revela rastros de atividade de uma célula remanescente da Shadaloo nas proximidades. Nem キャミィ sabia que estava tão perto.
 **Cap 384:** Lita se instala temporariamente no apartamento, gerando desconforto cômico. Armas sobre a bancada, rotina militar, acorda cedo e come muito. 舞 e Lita se observam com respeito mútuo de guerreiras. ティファ é a única capaz de fazê-la relaxar um pouco. ダン analisa os dados trazidos por ela e apresenta padrões de movimentação inimiga, surpreendendo Lita.
@@ -448,7 +448,7 @@ GANCHO cap 320: ダン já pesquisando → 「海外はどうだ」 → 「ま�
 **Cap 388:** ユーニ chega de Londres. O reencontro com ディカープリ é silencioso e tenso: nenhuma das duas se move. ユーニ fala primeiro. ディカープリ não responde, mas para de tremer. Lita finalmente começa a entender as escolhas de キャミィ. Enquanto isso, rastros da célula remanescente da Shadaloo levam a um último confronto. キャミィ, 舞, ティファ e ダン lutam ao lado de Lita, enquanto ユーニ permanece com ディカープリ. A célula é derrotada.
 **Cap 389:** Todos retornam para casa. ディカープリ e ユーニ permanecem no apartamento, que agora abriga seis pessoas. Lita se despede e, antes de partir, oferece a キャミィ algo próximo de um elogio. ディカープリ fica sentada em silêncio enquanto ユーニ permanece ao seu lado. ティファ lhes traz chá sem fazer cerimônia. 舞 observa キャミィ e pensa: 「あの人は、全部背負って、それでも笑える人だ。」 Gancho para o próximo arco: 桜の季節編. ユーニ e ディカープリ permanecem alguns dias no Japão antes de retornarem.
 
-### 390–395 — 桜の季節編 - Juni e Decapre ⭐
+### 39 - 390–395 — 桜の季節編 - Juni e Decapre ⭐
 
 **Cap 390:** Primeiro dia com ユーニ e ディカープリ vivendo junto ao grupo ampliado. ダン sugere um hanami para aproveitar a estação das cerejeiras. Caminham até o parque. ディカープリ estranha a quantidade de pessoas, mas permanece. ユーニ observa tudo discretamente. Debaixo das flores de sakura, acontece o primeiro piquenique. ダン e 舞 caminham de mãos dadas, trocam um beijo na testa e demonstram naturalmente o relacionamento diante das outras.
 **Cap 391:** ダン fotografa o grupo durante o passeio. ユーニ pede para ver as fotos e permanece em silêncio ao observá-las. Em um momento tranquilo, ダン e 舞 trocam um beijo rápido. Mais tarde visitam um templo. Enquanto caminham pelo local, ユーニ e ディカープリ observam キャミィ e ティファ, cada uma refletindo sobre elas à sua própria maneira.
@@ -457,7 +457,7 @@ GANCHO cap 320: ダン já pesquisando → 「海外はどうだ」 → 「ま�
 **Cap 394:** Após o banho, 舞 comenta que a pessoa que sempre permanece ao seu lado está esperando do lado de fora. As quatro encontram ダン, que imediatamente pergunta o que aconteceu lá dentro. É o último dia completo antes da partida. Na manhã seguinte, 舞 acorda apoiada no ombro de ダン. O grupo compartilha um café da manhã tranquilo. ディカープリ come sem tensão pela primeira vez. ユーニ solta uma risada pequena, mas genuína. キャミィ desvia o olhar antes que alguém perceba sua reação.
 **Cap 395:** Chega o dia da despedida. O grupo acompanha ユーニ e ディカープリ ao aeroporto para o retorno a Londres, onde a Delta Red continuará ajudando no tratamento e adaptação das duas. Os abraços são discretos, mas sinceros. ティファ abraça ambas sem pedir permissão. キャミィ promete visitá-las em breve. リタ aparece brevemente para acompanhar o retorno à Delta Red. No último momento, ダン e 舞 observam o avião partir. 舞 apoia a cabeça no ombro dele enquanto ダン a abraça pela cintura e tira uma última fotografia para guardar aquela memória.
 
-### 396-401 — 家の中の勝負 ⭐⭐⭐⭐⭐
+### 40 - 396-401 — 家の中の勝負 ⭐⭐⭐⭐⭐
 
 **Tom geral:** Comédia / Romance — o arco mais leve da série até agora. Quatro pessoas num apartamento, seis provas inventadas pela 舞, e ダン perdendo com dignidade questionável.
 
@@ -481,7 +481,7 @@ GANCHO cap 320: ダン já pesquisando → 「海外はどうだ」 → 「ま�
 - キャミィ disse "次は自分で作れ" sobre os scones — implica próxima vez.
 - A dinâmica entre キャミィ e ティファ ficou mais próxima ao longo do arco.
 
-### 402–408 - さくらの逆襲編 ⭐
+### 41 - 402–408 - さくらの逆襲編 ⭐
 
 **Premissa:** さくら, apaixonada por ティファ desde o 秋祭り, decide agir — com um plano grandioso, figurino completo e tecnologia duvidosa.
 
@@ -494,7 +494,7 @@ GANCHO cap 320: ダン já pesquisando → 「海外はどうだ」 → 「ま�
 
 **Tom geral:** Comédia com coração. さくら falhou em tudo que planejou e ganhou o que precisava.
 
-### 409–414 - 都会の冒険編 ⭐⭐⭐⭐⭐
+### 42 - 409–414 - 都会の冒険編 ⭐⭐⭐⭐⭐
 
 **409:** Os quatro visitam um museu de arte moderna. ダン fotografa tudo — obras, pessoas, e principalmente 舞 sem ela perceber. 舞 usa o leque como apontador improvisado explicando os quadros com autoridade total. キャミィ e ティファ andam de mão dada sem falar nada.
 **410:** Sete paradas de comida pela cidade na ordem otimizada por 舞. ダン fotografa 舞 de perfil na fila do crepe — ela vê a foto e não pede pra apagar. Na barraca de yakitori 舞 segura o espeto de ダン para ele fotografar e depois lhe dá um a mais sem explicar. Wagashi para os quatro; ダン diz que não gosta de doces _depois_ de comer.
@@ -503,7 +503,7 @@ GANCHO cap 320: ダン já pesquisando → 「海外はどうだ」 → 「ま�
 **413:** 舞 leva ao mirante (pesquisado até as 4h). ティファ e キャミィ descem buscar café; ダン e 舞 ficam sozinhos. Foto das costas de 舞 com o leque aberto e a cidade embaixo — ela não pede pra apagar. Perdem o último trem. Único quarto disponível: ラブホテル. Banho coletivo — ティファ lava as costas de キャミィ em silêncio, vê as cicatrizes e não para. 舞 admite para ダン que o mirante foi o melhor momento do dia.
 **414:** Café da manhã, mini passeio na ponte do rio, trem de volta com risadas sobre o karaoke. No meio do caminho 舞 recebe uma mensagem. Lê. Relê. O leque fecha devagar. Mostra para ダン: é **Blue Mary** — pedindo ajuda em uma investigação em South Town, EUA. 舞 diz apenas "é alguém que conheci tempos atrás" e fica olhando pela janela. ダン não pergunta mais.
 
-### 415–421 - 餓狼伝説編 (1) ⭐⭐⭐⭐⭐
+### 43 - 415–421 - 餓狼伝説編 (1) ⭐⭐⭐⭐⭐
 
 **415:** Blue Mary entra em contato com Mai com um pedido: colaborar em uma investigação em South Town e, ao mesmo tempo, participar de um torneio local. Mai recebe o contato, mas não responde ainda na mesma noite — a resposta já está tomada por dentro, ela só precisava de um momento de silêncio antes de dizê-la em voz alta.
 **416:** Mai conta para o grupo a história de South Town: uma cidade nos EUA historicamente dominada por Geese Howard, um homem de presença enorme e métodos obscuros. O capítulo serve de contextualização — South Town não é terra neutra, e o torneio acontece nesse território carregado.
@@ -513,7 +513,7 @@ GANCHO cap 320: ダン já pesquisando → 「海外はどうだ」 → 「ま�
 **420:** Oitava e última semana de treino, último dia de sparring antes do avião. No dojo, um silêncio mais tenso que o de costume — todos sabem o que é. Mai treina contra Cammy por vinte minutos: Cammy ataca três vezes e as três são desviadas; na quarta, ao dar o passo, Mai já estava em movimento — atrai o centro de gravidade de Cammy e desequilibra sem usar rasteira, uma precisão que não existia oito semanas atrás. Cammy cai num joelho, fica parada um segundo e diz só: 「上がった」 — "subiu." O sparring com Tifa é mais longo ainda; no fim, Tifa suspira fundo e ri: 「もう準備できてる」 — "você já está pronta." Mai não nega. Dan registra o momento em foto: o perfil de Mai com o suor e a concentração ainda no rosto. Ela não percebe. Dan pensa que ela provavelmente vai pedir para apagar — e decide que não vai apagar de qualquer jeito. À noite, no apartamento, as malas já estão alinhadas na entrada. Tifa toca no teclado eletrônico com o volume no mínimo — sem música específica, só os dedos percorrendo as teclas. Cammy está encostada na parede, olhos fechados, braços cruzados — dormindo ou ouvindo, impossível saber. Mai e Dan estão na varanda. Dan pergunta se ela está bem. Mai responde "estou", pausa, e acrescenta: 「本当に」 — "de verdade." A firmeza na voz é real, Dan reconhece. Então Mai se vira para ele e diz a única coisa que precisava dizer: se アンディ aparecer do jeito errado, Dan não intervém — ela resolve. Dan fica quieto um instante e diz com toda a seriedade: 「分かった」 — "entendido." Mai olha para o rosto dele: não é mentira, mas ela sabe que se アンディ de fato agir do jeito errado, Dan vai aparecer de qualquer jeito — porque é quem ele é. Ela diz obrigada. Dan não pergunta por quê, só se aproxima. Mai se acomoda naturalmente nos braços dele. Os dois ficam olhando as luzes da cidade enquanto a melodia de Tifa lá dentro fica mais suave. Mai diz, sem tirar os olhos do horizonte: 「明日、ちゃんと勝つわよ」 — "amanhã você vai ganhar direitinho." Dan diz que não vai competir. Ela diz que sabe. Os dois riem. Depois de um tempo, entram. Tifa para de tocar. Cammy abre os olhos. Os quatro vão para seus quartos quase sem palavras — o avião é cedo.
 **421:** Na manhã da partida, Dan acorda primeiro e faz o café mais forte do que de costume — para os quatro. Antes de sair, todos olham para trás uma vez, sem dizer nada. Era suficiente. No táxi, Dan abre o tablet: a lista de inscritos do torneio está disponível. Cammy espia pelo lado. Tifa mantém os olhos na janela mas com os ouvidos voltados. Dan anuncia: Terry Bogard não está. Cammy responde: 「運がいい、と言うべきか」 — "eu diria que é sorte." E então: 「アンディ・ボガードはいる」 — "アンディ Bogard está." O interior do carro silencia por um instante. Mai continua olhando pela janela e diz só: 「そう」 — "é." Dan continua a lista — Joe Higashi, Billy Kane, Yamazaki Ryuji, Kim Kaphwan, Duck King, B. Jenet. Cammy o interrompe com 「もういい」 e Dan fecha o tablet. Tifa, sem tirar os olhos da janela, resolve: "todos os nomes a gente conhece. Quando chegar lá, a gente pensa nisso." No avião, Tifa adormece no ombro de Cammy; Cammy não se mexe, o ombro inclina levemente para sustentá-la. Dan também adormece sem perceber, tablet ainda nas mãos, a tela já apagada. Só Mai não consegue dormir. Pela janela, acima das nuvens, o céu está escuro e cheio de estrelas, o mar de nuvens branco se estendendo sem obstrução. Ela encosta a testa no vidro frio. O leque está no colo — nem aberto nem fechado, apenas ali. Ela não está pensando em アンディ — ou pelo menos era o que queria acreditar. Não está pensando na luta também. É só uma sensação vaga, sem nome, em algum lugar no peito. Ela olha para o rosto de Dan dormindo: ele parece um pouco mais jovem, sem a expressão de quem sempre está calculando algo. Ela volta os olhos para a janela. As estrelas ainda estão lá. O leque se move — as mãos de Mai o seguram naturalmente, sem abrir. O avião continua voando. South Town ainda está longe.
 
-### 422–429 - 餓狼伝説編 (2) ⭐⭐⭐
+### 44 - 422–429 - 餓狼伝説編 (2) ⭐⭐⭐
 
 **422:** O grupo chega ao aeroporto de South Town. Blue Mary os espera na calçada com Anton. Antes de qualquer apresentação, Anton vai direto para ダン — em trinta segundos está com as patas no peito dele. Blue Mary observa e registra. Apresentações: 舞 (amigas eficientes), ダン ("você é o que protege a turma"), キャミィ (reconhecimento mútuo silencioso), ティファ ("você não parece ser de luta"). No carro, Anton fica virado para ダン o trajeto todo. Blue Mary faz o briefing dos locais do torneio e acrescenta em tom diferente: "tem mais uma coisa — conto no hotel." O nome de Terry flutua uma vez no ar sem ser dito. 舞 percebe que Anton estava ao lado de ダン, não dela, e não diz nada.
 
@@ -536,7 +536,7 @@ GANCHO cap 320: ダン já pesquisando → 「海外はどうだ」 → 「ま�
 - **O leque aberto** — estado interno de Mai resolvido. Ponto de partida do próximo arco.
 - **キャミィ e os hábitos** — Dan notou, não comentou. Quando o passado dela aparecer, esse detalhe vai ter peso.
 
-### 430–436 - 温泉旅行再び編
+### 45 - 430–436 - 温泉旅行再び編
 
 **430:** Os quatro chegam ao ryokan e começam a desacelerar depois de South Town. Tem viagem, verificação de segurança da キャミィ, o ダン ainda com a costela incomodando e o clima vai ficando mais calmo e íntimo aos poucos. No onsen, rola aquele primeiro relaxamento real, com conversa leve, silêncio confortável e a sensação de que a promessa da viagem finalmente foi cumprida.
 
@@ -553,7 +553,7 @@ GANCHO cap 320: ダン já pesquisando → 「海外はどうだ」 → 「ま�
 **436**
 Viagem de volta de trem. 舞 adormece no ombro de ダン — invertendo a cena do avião de South Town, agora é ele que fica acordado com o leque dela aberto no colo, olhando a paisagem passar. キャミィ e ティファ à frente, mãos entrelaçadas sem fazer questão disso. ダン tira uma foto do reflexo no vidro — os quatro juntos, ninguém percebe. Chegam em casa, malas na entrada, e キャミィ diz sem ser perguntada: "悪くなかった". Ninguém responde. Não precisava.
 
-### 437-442 - 凪の頃
+### 46 - 437-442 - 凪の頃
 
 **437** Dia seguinte à volta. Os quatro desfazem as malas cada um ao próprio ritmo — キャミィ com precisão militar, separando equipamentos por categoria; ティファ acorda perto do meio-dia sem culpa nenhuma; 舞 encontra a yukata dobrada no fundo da mala, fica um segundo parada antes de guardar na gaveta sem jogar fora; ダン acha o tablet, encontra a foto do reflexo no trem e move para uma pasta separada junto com as outras — o perfil de 舞 no treino, as lanternas do jardim — sem título, sem comentário. Almoço leve com sopa que ティファ fez e キャミィ ajudou a cortar os legumes com precisão de cirurgião. ダン diz que prefere o almoço ao kaiseki; 舞 não acredita. キャミィ quase sorri. O apartamento vai voltando à temperatura do cotidiano — um pouco diferente do que era três dias antes.
 
@@ -567,7 +567,7 @@ Viagem de volta de trem. 舞 adormece no ombro de ダン — invertendo a cena d
 
 **442** Uma noite qualquer, sem missão nem viagem: ダン volta com sake barato e 舞 e キャミィ preparam um nabe usando os restos exagerados das compras de ダン, motivo de piadinha constante. Os quatro comem juntos em silêncio confortável, conversas soltas, o gato do corredor arranha a porta como sempre e キャミィ finge que não é dela quem cuida dele. No fim da noite, com ダン sonolento no colo de 舞 e o clima em paz total, o celular de キャミィ vibra: é ユーニ, avisando sobre uma movimentação suspeita em um castelo antigo na Escócia e pedindo ajuda na investigação. A calmaria acaba ali, com a promessa de detalhes no dia seguinte — fechando o arco doméstico e abrindo a porta para a próxima operação.
 
-### 443–451 - スコットランド作戦編 ⭐
+### 47 - 443–451 - スコットランド作戦編 ⭐
 
 **443 — 出発前の準備** Manhã da partida no apartamento: malas organizadas por ティファ com um cuidado quase absurdo (kit médico, ferramentas, até um bule extra "por precaução"), enquanto 舞 provoca ダン por exagerar nas próprias bagagens sob o pretexto de "reserva". キャミィ confere cada item com precisão militar, e o gato do corredor mia baixinho na porta, sendo ignorado de propósito por todos. O clima é de leveza cotidiana antes da seriedade da missão — termina com ティファ declarando "nenhum esquecido" e os quatro prontos para seguir rumo a Londres, fechando o capítulo de preparação e abrindo o arco escocês.
 
@@ -594,7 +594,7 @@ Na manhã seguinte, todos se preparam para ir embora, e a despedida entre キャ
 
 **453 - 帰還、報告、そしてそれぞれの別れ** O grupo encerra a missão, sai da Escócia, passa pela base em Londres e finalmente volta para casa no Japão. Juni e Decapre se despedem com calma, o relatório confirma que não houve vítimas nem combate, e o arco termina em tom de retorno à rotina, com o grupo unido e a sensação de missão concluída.
 
-### 454–460 自転車の旅編
+### 48 - 454–460 自転車の旅編
 
 **454 - 自転車の旅の提案** ティファ fica com a ideia de fazer uma viagem de bicicleta pela montanha, e a proposta acaba animando o grupo. Enquanto conversam sobre o passeio, eles começam a organizar os detalhes práticos, como o que levar, o estado das bicicletas, comida, água e a rota. O clima é leve e cotidiano, com pequenas trocas de provocação e cumplicidade entre todos. ダン também registra alguns momentos da turma com a câmera, guardando imagens simples do convívio antes da saída. Ao longo da conversa, a decisão da viagem vai tomando forma de maneira natural, até virar plano concreto, com a sensação de que será um raro momento de descanso, liberdade e convivência longe das missões.
 
@@ -610,7 +610,7 @@ Na manhã seguinte, todos se preparam para ir embora, e a despedida entre キャ
 
 **460 - 湯気の向こう側** O grupo termina a viagem com um último dia de deslocamento e a recompensa final em uma fonte termal natural. Depois de desmontarem o acampamento e seguirem estrada abaixo, eles chegam ao banho quente, onde o cansaço dos últimos dias finalmente começa a desaparecer. O capítulo fica mais calmo e íntimo: ティファ puxa a conversa sobre como a viagem fez bem, キャミィ responde mais com gestos do que com palavras, ダン observa tudo em silêncio e 舞 se entrega ao momento com mais abertura do que antes. No fim, eles voltam para casa mais quietos, mas com a sensação clara de que a viagem deixou uma camada nova entre os quatro.
 
-### 461-466 - 日々の余白
+### 49 - 461-466 - 日々の余白
 
 **461 — 朝の台所** O arco começa em ritmo calmo, com a manhã comum no apartamento depois do retorno da viagem. O foco está na cozinha: café passado cedo, barulho de panela, janela aberta, o cheiro de comida simples e a sensação de que a casa voltou ao seu eixo. 舞 e ダン ficam juntos na rotina da cozinha, com ela ainda meio sonolenta, mas já soltando comentários secos enquanto o observa preparar o café com a mesma seriedade de sempre. ティファ e キャミィ dividem o outro lado da manhã com naturalidade, organizando a mesa, conferindo o que falta na geladeira e entrando num clima de intimidade tranquila. O capítulo estabelece que ninguém está apressado; o valor está justamente no tempo gasto em coisas pequenas e no conforto de estarem todos ali. No fim, o grupo combina um dia sem compromissos, como se o cotidiano finalmente tivesse voltado a respirar.
 
@@ -624,7 +624,7 @@ Na manhã seguinte, todos se preparam para ir embora, e a despedida entre キャ
 
 **466 — 海からの連絡** O último capítulo mantém a calma até o fim, como se fosse apenas mais uma noite comum no apartamento. Os quatro jantam juntos, trocam comentários leves, talvez vejam fotos da viagem anterior ou falem de detalhes banais do dia, e o leitor tem a impressão de que o arco vai terminar em quietude doméstica. Só no fim, quando o clima já está completamente estabelecido, キャミィ recebe uma mensagem da Delta Red informando sobre uma operação contra remanescentes da Shadaloo em alto-mar. A mensagem deve entrar como uma quebra seca e discreta, sem alarde imediato, deixando o peso real para depois. キャミィ lê, fica séria, e o resto do grupo percebe na hora que alguma coisa importante chegou, mesmo antes de ela explicar. O capítulo fecha com essa interrupção estratégica da paz cotidiana, funcionando como ponte direta para o próximo arco de ação.
 
-### 467–474 - 海賊作戦編 ⭐⭐⭐⭐⭐
+### 50 - 467–474 - 海賊作戦編 ⭐⭐⭐⭐⭐
 
 **467 — 海賊作戦の始動**
 A Delta Red envia as informações iniciais: há remanescentes da Shadaloo operando em alto-mar, com possível embarcação de apoio e rota irregular. キャミィ entra imediatamente em modo missão total, enquanto o grupo absorve a gravidade da situação em ritmos diferentes. ティファ propõe comprar roupas de pirata para o grupo, o que já introduz o tom de aventura e comédia. ダン começa a organizar mapa, rota, suprimentos e possíveis pontos de interceptação. 舞 observa tudo com o leque e percebe que essa missão vai ficar muito menos formal do que キャミィ gostaria.
@@ -655,7 +655,7 @@ O grupo vê o sinalizador e entende que os reparos do navio estão prontos. Eles
 O grupo finalmente chega ao porto, exausto mas em segurança, e se despede de B.ジェニー com clima de agradecimento e missão encerrada. A despedida é leve, mas deixa claro que ela foi importante para tirar os quatro daquela situação.
 De volta à cidade, eles pegam um táxi e seguem para casa quase sem forças, só pensando em banho e descanso. O capítulo fecha com os quatro entrando no apartamento e repetindo “ただいま”, marcando a volta ao cotidiano depois da aventura.
 
-### 476-479 - 帰宅編 ⭐
+### 51 - 476-479 - 帰宅編 ⭐
 
 **476 — ただいま**
 
@@ -673,7 +673,7 @@ O grupo entra numa rotina doméstica leve: cozinham juntos, lavam roupa, arrumam
 
 O grupo lida com os efeitos colaterais bobos do bronzeado — pele descascando, barba crescendo de novo — e se ajuda mutuamente a passar hidratante, num momento cheio de comédia leve e carinho físico casual. A manhã e a tarde passam entre fome, preguiça e conversa despretensiosa. À tarde, assistem a um filme de romance: 舞 e ティファ se emocionam até as lágrimas, enquanto ダン e キャミィ, sem paciência para o gênero, acabam pegando no sono no meio da sessão — gerando piadas entre o casal "sensível" e o casal "prático". O jantar especial de pizza recheada marca a celebração informal do fim da missão, encerrando o dia com barulho de risada e comida em excesso. O capítulo — e o arco 帰宅編 como um todo — se fecha com os quatro em silêncio confortável no sofá, reconhecendo que, mesmo sem grandes acontecimentos, a experiência da ilha acrescentou algo ao vínculo entre eles. A cena final aponta suavemente para o próximo arco sobre o passado de ティファ, sem forçar um gancho dramático.
 
-### 480-484 - ティファの過去編 2
+### 52 - 480-484 - ティファの過去編 2
 
 **480 - 爆破の夜**
 
@@ -698,7 +698,7 @@ Cloud e Aerith planejam se infiltrar na mansão disfarçados de "noivas" para Do
 
 Climax: Corneo escolhe Cloud como "esposa" e rejeitam ティファ e Aerith numa sala, capangas de Corneo avançam, Aerith usa uma cadeira para acertar um deles e ajuda no confronto junto com ティファ — momento de ação compartilhado entre as duas. Fuga apressada, tensão, adrenalina. As duas vão resgatar Cloud. Encerramento exatamente quando o grupo cai nos esgotos, junto com o alívio de ティファ por estar livre e a lembrança presente de que aquele dia selou algo importante entre ela e Aerith. ティファ comenta que estavam prestes a enfrentar um monstro gigante e vai deixar o resto pra depois. A turma curiosa, se espantam pelo monstro ("monstro? como assim monstro? antes foi um robô gigante a agora um monstro?"; "conto tudo depois") reclamam por deixar o gancho e continuar outra hora.
 
-### 485-491 - 運動会編 ⭐⭐⭐⭐
+### 53 - 485-491 - 運動会編 ⭐⭐⭐⭐
 
 Tom: Comédia / Romance / Sensual — extensão natural do 家の中の勝負, desta vez com o corpo em movimento e o céu aberto como palco.
 
@@ -723,7 +723,7 @@ A prova final, dentro de casa. 舞 , ダン e ティファ chegam a casa encharc
 **491 - 運動会の終わり**
 Fechamento do arco. No fim do jogo, como esperado ダン perde e 舞 vence por pouco e anota no caderno. 舞 contabiliza os vencedores e perdedores. キャミィ e ティファ preparam o chá. ダン pega a câmera e tira uma foto do grupo ainda com as peças de roupa espalhadas no sofá, cabelo úmido do banho, todos rindo de algo que ninguém explica direito. 舞 vê a foto. Não pede pra apagar. Apenas diz: 「今日は悪くなかった」. キャミィ vira o rosto na direção errada. ティファ encosta na キャミィ com um sorriso enorme. ダン guarda a câmera. Depois, fazem a janta e comem comentando, rindo e reclamando das provas e futuro castigo. Fio aberto do arco: vencedores de cada prova combinar os castigos dos perdedores.
 
-### 492-496 - 罰ゲーム運動会：選んだ家族の支払い日 ⭐⭐⭐⭐⭐
+### 54 - 492-496 - 罰ゲーム運動会：選んだ家族の支払い日 ⭐⭐⭐⭐⭐
 
 **492 - キャミィ式・特別訓練メニュー**
 
@@ -759,7 +759,7 @@ Eles saem para comprar ingredientes mais refinados, 舞 escolhe roupas mais arru
 Em casa, ティファ e キャミィ se recolhem para não atrapalhar e deixam câmera e tripé preparados; 舞 aparece com um vestido novo que deixa ダン sem palavras, puxa sessão de fotos a dois, jantar sofisticado em dupla (com ティファ surgindo só para fazer coquetéis) e um “quiz ninja” em que os “castigos” pelos erros são coisas fofas, como segurar a mão dela por dez segundos ou apoiar a cabeça no ombro.
 No sofá, com 舞 deitada no peito dele, ela admite que tudo foi mais desculpa para ter um tempo a dois sem interferência; ダン responde que esse foi o castigo de que mais gostou até agora, e ela marca o item como cumprido no caderno, abrindo ao lado uma nova coluna de ご褒美欄 (recompensas), sugerindo que o próximo bloco vai girar menos em punições e mais em prêmios compartilhados entre a “família escolhida”.
 
-### 497-501 - リアルバウト (訓練)
+### 55 - 497-501 - リアルバウト (訓練)
 
 **497 - ブルー・マリーの再連絡**
 
@@ -788,7 +788,7 @@ Depois, em casa, ダン conduz um briefing de cenários de torneio, o jantar tra
 
 (regra de duplas: melhor de 3 rounds, 1x1, avança a dupla que vencer 2 vezes, se necessitar do 3º round, os vencedores se enfrentam; ringue demarcado, se sair é ring-out e está automaticamente derrotado)
 
-### 502-507 - リアルバウト (大会)
+### 56 - 502-507 - リアルバウト (大会)
 
 **502 — 到着前夜とサウスタウンの入口**
 
@@ -828,7 +828,7 @@ Em seguida, Terry enfrenta Geese no topo da torre.
 Geese cai voluntariamente, repetindo a morte canônica e encerrando sua era.
 O arco fecha com South Town mudada de fase, o império de Geese destruído e o grupo sentindo que algo histórico foi concluído.
 
-### 508-512 - リアルバウト (観光) ⭐
+### 57 - 508-512 - リアルバウト (観光) ⭐
 
 **508 — 勝利の夜とパオパオカフェ**
 
@@ -851,7 +851,7 @@ Mary leva o grupo à parte trabalhadora da cidade, em Port Town — armazéns, d
 
 No fim de tarde, Mary leva o grupo ao Dream Amusement Park, o parque de diversões de South Town, encerrando o arco de turismo. 舞 rasga o mapa de ダン e escolhe brinquedos por impulso, キャミィ mapeia saídas de emergência com cautela militar, e ティファ arrasta todo mundo para brincadeiras. No jogo de argolas, 舞 usa a técnica do leque (花蝶扇) para vencer e entrega o prêmio a ダン, fingindo que foi por acaso. Na casa assombrada, ティファ sai correndo e rindo, enquanto キャミィ insiste que só estava "analisando os efeitos especiais". Depois de comida de parque, o momento alto do capítulo acontece na roda-gigante: nas cabines separadas, 舞 e ダン se declaram e se beijam olhando South Town iluminada, enquanto ティファ e キャミィ trocam um momento mais silencioso e igualmente afetuoso. Mary percebe que o grupo não está apenas comemorando uma vitória, mas levando uma memória nova da cidade. No dia seguinte, no aeroporto, Mary revela que Billy e Yamazaki fugiram, mas a maioria dos capangas foi presa — a era de Geese está oficialmente encerrada. Despedidas emocionadas de 舞, ティファ, ダン e キャミィ com Mary e Anton fecham o arco, e o grupo embarca de volta para casa, já cogitando o próximo destino de viagem.
 
-### 513-517 - 帰宅と日常
+### 58 - 513-517 - 帰宅と日常
 
 **513 — 荷物とただいま**
 
@@ -873,7 +873,7 @@ Os quatro descobrem que a geladeira está praticamente vazia (só sobrou um ovo 
 
 No jantar caseiro (peixe cozido, sopa de missô e um extra com o queijo comprado no dia anterior), ティファ puxa uma conversa leve sobre o que mudou em cada um depois de サウスタウン. ダン admite que finalmente aprendeu a aceitar que nem tudo pode ser planejado; キャミィ confessa a contragosto que gostou do parque de diversões, avisando que só vai dizer isso uma vez; ティファ diz que quer rever o Anton (corrigindo-se ao chamá-lo de "bichinho" por engano); e 舞 só sorri, dizendo que a viagem valeu a pena "por um motivo específico" enquanto olha diretamente pro ダン, deixando-o vermelho até a orelha. Depois do jantar, os quatro se acomodam no sofá em duplas — 舞 encostada no ダン com o leque fechado no colo, ティファ deitada no colo da キャミィ, que acaba acariciando o cabelo dela quase sem perceber — enquanto a TV passa despercebida ao fundo. ダン tira uma foto discreta do momento. No fim da noite, a chuva começa a bater forte na janela e o noticiário confirma previsão de chuva contínua a semana toda, revelando que a "compra exagerada" do capítulo anterior foi bem cronometrada — fechando o arco com o gancho perfeito para a próxima fase, de chuva trancada em casa e a campanha de RPG que o ダン está prestes a propor.
 
-### 518-523 雨の週とダンジョンの夜 ⭐⭐⭐⭐⭐
+### 59 - 518-523 雨の週とダンジョンの夜 ⭐⭐⭐⭐⭐
 
 **518 — 雨とキャラクターシート**
 
@@ -903,7 +903,7 @@ No primeiro dia de céu azul depois de uma semana de chuva, ダン sugere um pas
 
 - **キャミィ** forma oficialmente um grupo de mercenários, **ティファ** passa a ensinar artes marciais num orfanato, **舞** vira exploradora de iguarias pelo mundo, e **ダン** segue pesquisando o feitiço que deu errado na batalha.
 
-### 524-529 波音の日々 ⭐
+### 60 - 524-529 波音の日々 ⭐
 
 **524 — 水着選びの午後**
 
@@ -925,7 +925,7 @@ No terceiro dia, o grupo almoça frutos do mar no resort (com ティファ dando
 
 No último dia, os quatro acordam espremidos na mesma cama, nus sob os lençóis, com os biquínis da noite anterior espalhados pelo quarto. 舞 acorda com os ombros vermelhos por não ter passado protetor solar direito, e キャミィ oferece uma toalha gelada com uma cutucada sutil sobre a responsabilidade dela. Depois do café, fazem uma última caminhada tranquila na beira da praia, sem brincadeiras intensas, só absorvendo a sensação antes de partir, enquanto ダン tira as últimas fotos. Antes de arrumar as malas, passam pela lojinha de lembranças do resort: ダン escolhe com cuidado presentes personalizados — leque floral especial para 舞 (que ele já tinha guardado), chapéu de palha e uma bolsinha com bordado de gato para キャミィ, e um laço com concha para ティファ. Depois de uma arrumação cômica em equipe para fechar a mala lotada de 舞, fazem o checkout e seguem de ônibus e trem de volta para casa — todos exaustos, dormindo apoiados um no outro. No caminho, refletem sobre a viagem: ティファ define como sua nova coisa favorita "o tempo ouvindo o som das ondas com todo mundo", e ダン já cogita o próximo destino, provocando uma キャミィ que se vê usando as próprias palavras contra ela mesma. O arco se encerra com os quatro voltando para casa de mãos dadas, com a pele ainda quente do sol e o vínculo entre eles mais consolidado do que nunca.
 
-### 529-533 猫と本屋の季節
+### 61 - 529-533 猫と本屋の季節
 
 **529 — 帰宅とお茶**
 
@@ -947,7 +947,7 @@ Um novo panfleto aparece perto do gato do prédio, anunciando um neko café, e o
 
 Na volta do neko café, ダン pede desculpas pelo ciúme, mas 舞 revela que não se importou — ela sabe o quanto ele a ama, só quis mostrar um pouco do próprio sentimento, resolvendo tudo com humor e carinho. Em casa, comentam sobre os gatos e ティファ conta que voltou a Nibelheim depois de 5 anos, encontrou a cidade estranhamente reconstruída igual a antes e reencontrou Maru (sua gata de infância) nos arredores, deixando-a aos cuidados de uma senhora que não parava de cantar. O gato do prédio aparece trazendo um clima caseiro e fofo para fechar o arco, enquanto ダン organiza as fotos da praia e ティファ escolhe mais algumas para o painel na parede, incluindo uma rara foto de キャミィ sorrindo abertamente.
 
-### 534-540 上海の影 ⭐⭐⭐⭐
+### 62 - 534-540 上海の影 ⭐⭐⭐⭐
 
 **534 — 契約と別れ**
 
@@ -980,7 +980,7 @@ No dia seguinte, o grupo toma um café da manhã tardio no hotel, ainda cansados
 No hospital, Juni reencontra Juli, que está consciente mas frágil. Juni confirma que a Delta Red assumirá a custódia oficial de Juli e a levará para uma base em Londres, com equipe médica e psicológico especializado. キャミィ pede que Juni inclua na missão da Delta Red a busca e proteção de outras ex-Dolls desaparecidas; Juni concorda em levar o pedido diretamente à alta cúpula. キャミィ e Juli têm uma despedida emocionada, prometendo se reencontrar quando Juli estiver recuperada.
 À noite, o grupo passeia pelo calçadão de Bund, admirando a vista noturna de Pudong. Nos dias seguintes, fazem turismo em Yuyuan, mercados locais e provam xiaolongbao — com ダン quase se sujando todo ao comer. No fim, no balcão do quarto do hotel, キャミィ recebe uma mensagem de Juni confirmando que a missão de busca das ex-Dolls foi aprovada. Ela sente que o peso do passado está aos poucos se dissipando, e agradece aos amigos por estarem com ela até ali.
 
-### 541-546 上海の休日 ⭐
+### 63 - 541-546 上海の休日 ⭐
 
 **541 — 上海の休日**
 
@@ -1026,7 +1026,7 @@ O grupo acorda nu, tonto e sem graça, aos poucos recuperando fragmentos da noit
 
 - F.A.N.G.: O vilão responsável pelos experimentos foi derrotado e capturado pela Interpol, encerrando a ameaça direta da Shadaloo naquela região.
 
-### 547-551 大人の遊び編 — Brincadeiras adultas ⭐⭐⭐⭐⭐
+### 64 - 547-551 大人の遊び編 — Brincadeiras adultas ⭐⭐⭐⭐⭐
 
 Um arco sensual, cômico e ecchi SFW, centrado na intimidade já consolidada dos quatro, na confiança mútua e na curiosidade de explorar novas formas de carinho sem transformar isso em conflito.
 
@@ -1079,7 +1079,7 @@ A conclusão mantém o tom sensual, afetuoso (dizem que se amam) e cômico, sem 
   - ダン e キャミィ prometeram ir juntos à loja de "brinquedos" adultos para fazer uma compra-surpresa para 舞 e ティファ (ainda não realizada).
   - A "caixa comum de equipamento" fica estabelecida como recurso recorrente para futuros arcos leves/sensuais, sem data definida de reuso.
 
-### 552–556 昔語り編 — 桃太郎 — Contos da Avó - Momotarō ⭐
+### 65 - 552–556 昔語り編 — 桃太郎 — Contos da Avó - Momotarō ⭐
 
 **552 — 妖怪映画と祖母の記憶**
 
@@ -1105,7 +1105,7 @@ Continuando o fim da história, no sofá 舞 puxa ティファ pra deitar no cor
 
 - 舞 contou a história de Momotarō, algum dia vai contar outras histórias folclóricas que a avó contava
 
-### 557–563 戦国異聞録編 - Crônicas Estranhas do Japão Feudal ⭐⭐⭐
+### 66 - 557–563 戦国異聞録編 - Crônicas Estranhas do Japão Feudal ⭐⭐⭐
 
 **557 — 新しい物語の準備**
 
@@ -1148,7 +1148,7 @@ Depois da batalha, o torii do santuário abre o portal para o caminho de volta, 
 - Diferente da aventura anterior (mago, monja, cavaleira, ladra), agora os jobs são trocados para refletir contrastes cômicos com a personalidade de cada um: **舞 = 巫女 (miko)**; **ダン = 浪人 (rōnin)**; **ティファ = 弓術使い (arqueira)**; **キャミィ = くノ一 (kunoichi)**. Foram transportados para o período Sengoku. derrotaram o Mago Sombrio e voltaram para Aldia, deixando os jobs para trás. A rainha ainda tem serviços para o grupo.
 - Fora da campanha, prometem ida a um onsen.
 
-### 564–571 虹色の挑戦者編 ⭐⭐⭐
+### 67 - 564–571 虹色の挑戦者編 ⭐⭐⭐
 
 Alguns dias depois do fim da campanha de RPG, o grupo topa com uma cultura completamente nova: o mundo colorido e caótico do wrestling feminino japonês. Uma antiga rival de キャミィ — a lendária Rainbow Mika (Mika Nanakawa, da Iwashigahama Japan Women's Pro-Wrestling) — reaparece, e o que começa como um passeio de casal vira uma aventura entre cordas, capacetes de plástico e cadeiradas.
 
@@ -1201,7 +1201,7 @@ Dias depois da conquista do título, os quatro voltam à rotina caseira: jantar 
 
 - A história "principal" da ティファ: ela mesma comenta que sua narrativa original está prestes a ter continuidade em outro momento — sugerindo que o universo de Final Fantasy VII dela ainda tem capítulos pendentes fora deste arco.
 
-### 572–576 ダンの誕生日編 ⭐⭐⭐⭐⭐
+### 68 - 572–576 ダンの誕生日編 ⭐⭐⭐⭐⭐
 
 **572 - 誕生日の計画**
 
@@ -1233,7 +1233,7 @@ Pela manhã, ainda no quarto do hotel, ダン acorda primeiro e fica contempland
 
 - キャミィ — Disciplinada e reservada, comandou o treino matinal com rigor mas surpreendeu com um beijo tímido, mostrando seu lado mais vulnerável e carinhoso.
 
-### ARCO ATUAL: 577-581 夏の残り火、プールの一日編
+### 69 - ARCO ATUAL: 577-581 夏の残り火、プールの一日編
 
 **577 — 夏の終わりの計画** (O Plano do Fim do Verão)
 
