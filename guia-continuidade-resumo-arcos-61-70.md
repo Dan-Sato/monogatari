@@ -334,7 +334,7 @@ Pela manhã, ainda no quarto do hotel, ダン acorda primeiro e fica contempland
 
 - キャミィ — Disciplinada e reservada, comandou o treino matinal com rigor mas surpreendeu com um beijo tímido, mostrando seu lado mais vulnerável e carinhoso.
 
-### 69 - ARCO ATUAL: 577-581 夏の残り火、プールの一日編
+### 69 - 577-581 夏の残り火、プールの一日編
 
 **577 — 夏の終わりの計画** (O Plano do Fim do Verão)
 
@@ -366,4 +366,58 @@ Entre um brinquedo e outro, param numa área de descanso com espreguiçadeiras, 
 
 Com o entardecer se aproximando, o grupo aproveita as últimas atrações antes do parque fechar — um último mergulho na piscina de ondas, mais uma descida nos toboáguas favoritos, e fotos no reflexo dourado do sol na água. O clima fica mais tranquilo e contemplativo, uma despedida gostosa do verão.
 Ao anoitecer, os casais se separam para jantares românticos individuais dentro do próprio complexo do parque (que tem restaurantes variados) — ダン e 舞 escolhem algo mais informal e divertido, talvez um espaço com vista para as luzes do parque se acendendo; ティファ e キャミィ optam por um canto mais aconchegante e silencioso, aproveitando para conversar sobre o dia. Cada casal troca beijos suaves e palavras carinhosas, celebrando o encerramento do verão daquele jeito especial.
-Depois do jantar, o grupo se reencontra para o caminho de volta para casa, exausto mas radiante de felicidade. No carro, tecem comentários engraçados sobre os melhores momentos do dia — o tropeço de 舞, a cara de bobo do ダン, a competição de boiar. Ao chegarem em casa, ダン diz que agora é hora de ver 舞 sem o shortinho, só de biquini. Depois tomam banho juntos, se ajudam a passar creme corporal, e se acomodam no sofá ainda envoltos na sensação boa do dia, comentando que aquele foi o fechamento perfeito do verão. O capítulo — e o arco — se encerram com os quatro adormecendo juntos na sala, cansados e satisfeitos, marcando a transição suave para a próxima estação.
+Depois do jantar, o grupo se reencontra perto dos vestiários, rumo a saída, estão exaustos mas radiante de felicidade. キャミィ percebe os dois caras por perto e lança o olhar assassino novamente, eles foguem de medo de novo. No carro, tecem comentários engraçados sobre os melhores momentos do dia, como — o tropeço de 舞, a cara de bobo do ダン, a competição de boiar, entre outros. Ao chegarem em casa, ダン diz que agora é hora de ver 舞 sem o shortinho, só de biquini. Depois tomam banho juntos, se ajudam a passar creme corporal, e se acomodam no sofá ainda envoltos na sensação boa do dia, comentando que aquele foi o fechamento perfeito do verão. O capítulo — e o arco — se encerram com os quatro adormecendo juntos na sala, cansados e satisfeitos, marcando a transição suave para a próxima estação.
+
+#### Resumo dos Personagens
+
+- 舞: puxou a ideia do passeio com seu impulso característico, escolheu o biquíni vermelho mais ousado do grupo e protagonizou os momentos mais afetuosos e cômicos (o "tropeço" encenado, a revelação final do biquíni sem shortinho).
+
+- ダン: manteve seu papel de suporte logístico (pesquisa do parque), foi alvo de brincadeiras do grupo por sua reação bobinha aos biquínis e fechou o arco reconhecendo, em silêncio, que foi "o melhor verão".
+
+- ティファ: equilibrou o papel de organizadora prática (shorts de segurança, cuidado com o sol) com um lado mais afetuoso e vocal, tanto com キャミィ quanto provocando ダン.
+
+- キャミィ: manteve a postura direta e disciplinada, mas mostrou crescimento emocional visível — aceitou selfies, verbalizou sentimentos com mais naturalidade e usou seu "olhar assassino" como arma cômica recorrente contra os dois rapazes insistentes.
+
+### 70 - 582–587 仮面の祭
+
+**582 — 秋の便りと奇妙な噂**
+_(As Notícias do Outono e os Rumores Estranhos)_
+
+Alguns dias após o retorno do parque aquático, o grupo retoma a rotina doméstica. Uma manhã de ar fresco confirma que o verão acabou de vez — ティファ comenta com satisfação, 舞 lamenta um pouco. ダン lê no celular uma matéria local sobre um festival de outono num santuário próximo, a 仮面祭 (Festival das Máscaras), realizado todo ano ao fim do verão. O que chama atenção não é o festival em si, mas a seção de comentários: moradores relatam que, nos últimos anos, um "espírito mascarado" aparece no santuário durante a noite do festival, aterrorizando os visitantes e fazendo lanternas apagarem sozinhas. Alguns dizem que é o 仮面翁 (O Ancião Mascarado) — um espírito da lenda local que protege o santuário e expulsa quem não o respeita. ダン mostra o celular para as três. 舞 fica curiosa na hora. キャミィ pergunta se há evidências além de relatos anônimos de internet. ティファ diz que parece interessante — mas que "pode ser assustador". ダン sorri e comenta que levará a câmera. 舞 declara que leques e fantasmas combinam perfeitamente. O capítulo fecha com o grupo decidindo ir ao festival na noite seguinte, キャミィ fazendo uma lista de possíveis explicações mundanas e ダン baixando um aplicativo de gravação de "fenômenos paranormais" — só para provocar ティファ.
+
+**583 — 仮面を被った夜へ**
+_(Em Direção à Noite das Máscaras)_
+
+No dia do festival, os quatro passam a tarde se preparando com leveza: roupas de yukata, máscaras de festival compradas num konbini próximo (キャミィ vai de gato, 舞 de borboleta, ティファ de golfinho e ダン de tengu (para entrar no clima do fantasma) (ダン também compra um leque de penas para o tengu, ele com o de pena e 舞 com o leque de sempre)). ダン carrega a câmera de forma cômica, fingindo que é uma câmera obscura de "caça a fantasmas" — ティファ já começa a se arrepender de ter topado. Chegando ao festival, o clima é vibrante: barracas de yakisoba, algodão doce, peixinhos dourados e jogos de pontaria. 舞 vai direto para o jogo de pesca de peixes, キャミィ domina o tiro ao alvo sem esforço e ganha um pelúcia de gato que abraça com subtlety. ダン tira fotos do grupo com a câmera, incluindo uma série cômica de "registros paranormais" de coisas mundanas (o vapor do yakisoba, uma lanterna tremendo no vento, o susto de ティファ com um balão). À noite, ao se aproximar do santuário no fundo do terreno do festival, o clima muda: o barulho das barracas some, as lanternas ficam mais esparsas e ティファ aperta o braço de キャミィ. Uma figura mascarada e encurvada atravessa o caminho de pedra à distância, desaparecendo entre as árvores do santuário. O grupo para, imóvel. ダン ergue a câmera com o sorriso de quem esperava exatamente isso.
+
+**584 — 仮面翁の影を追う**
+_(Seguindo a Sombra do Ancião Mascarado)_
+
+Com ティファ segurando forte o braço de キャミィ e 舞 apertando o leque, o grupo entra nos fundos do santuário seguindo a figura mascarada. ダン vai na frente com a câmera levantada como um escudo, o que é simultaneamente corajoso e ridículo. O santuário é bonito e silencioso: lanternas de pedra, uma fonte de água benta, torii vermelho ao fundo coberto de hera. A figura mascarada some num corredor lateral. キャミィ nota pegadas frescas na terra (sapatos velhos, solado desgastado, passada lenta) e declara em voz baixa que "o espírito usa sandálias ortopédicas". 舞 bufa tentando não rir. ティファ, ainda nervosa, pergunta em sussurro se fantasmas podem usar sapatos. ダン captura com a câmera um reflexo estranho num espelho do santuário — que logo se revela ser o próprio reflexo dele, distorcido pelo ângulo, fazendo-o levar um susto e receber risadas das três. Mais fundo no corredor, encontram marcas recentes nas paredes: selos de papel, círculos de sal e rabiscos de carvão — indicando que alguém usa o santuário regularmente, mas de forma humana, não sobrenatural. キャミィ fotografa mentalmente tudo e conclui que a "atividade paranormal" parece rotineira e localizada. O capítulo termina quando ouvem um barulho próximo, o aplicativo apitando e a figura mascarada reaparece mais perto, virando-se lentamente para o grupo.
+
+**585 — 仮面の下の真実**
+_(A Verdade por Trás da Máscara)_
+
+A figura se revela: O ancião era na verdade uma senhora idosa de aparência de mais de 75 anos, usando a máscara tradicional do 仮面翁 (uma máscara de madeira entalhada com nariz comprido), roupas do festival desgastadas e sandálias — exatamente as sandálias ortopédicas que キャミィ identificou. Ela se chama 源田のばあさん (Vovó Genda), é a guardiã voluntária do santuário há décadas e faz a encenação do "espírito mascarado" todo festival justamente para manter as pessoas longe do corredor lateral, onde a estrutura do santuário está deteriorando e oferece risco real de desabamento. Ela esperava que o medo afastasse os curiosos; em vez disso, nos últimos anos, o boato do espírito viralizou na internet e passou a atrair ainda mais visitantes. ダン e 舞 ficam com a expressão de decepção cômica total — queriam um fantasma de verdade. キャミィ reconhece a lógica preventiva da vovó e, com raríssima demonstração de respeito genuíno, faz uma pequena reverência. ティファ fica aliviada ao ponto de rir de si mesma, admitindo que gritaria se o "fantasma" chegasse mais perto. O grupo conversa com 源田のばあさん, que conta a história real do santuário: fundado há 200 anos, mantido por sua família por gerações, agora sem verbas para reforma. ダン pergunta se há alguma forma de ajudar a divulgar o problema — e 源田のばあさん comenta, surpresa, que nunca ninguém perguntou isso. O capítulo fecha com o grupo sentado com a velhinha nos degraus do santuário, ouvindo histórias do festival antigo enquanto as lanternas do festival ao fundo ainda brilham na noite.
+
+**586 — 祭りの残り火**
+_(As Brasas do Festival)_
+
+Saindo do santuário com 源田のばあさん, o grupo convence a velhinha a aproveitar o festival com eles — ela não ia às barracas há anos, sempre ocupada com a encenação. O capítulo é o mais leve do arco: barracas, comida, provocações e carinho. 舞 insiste em ganhar um peixinho dourado para a velha (e fracassa ridiculamente), enquanto キャミィ, em silêncio, ganha três e entrega um para ela e dois para ティファ. Caminhando de mãos dadas, ダン compra um espeto de dango para 舞 e ela começa a comer antes de agradecer, indignando-o suavemente. ティファ e キャミィ compartilham um algodão doce andando de mãos dadas. 源田のばあさん se diverte muito, conta histórias do festival de décadas atrás e comenta que o grupo lembra os jovens que frequentavam o festival quando ela era nova — "cheios de energia e amor". ダン aproveita para tirar fotos do grupo com a velhinha usando as máscaras do festival, registrando tudo. 舞 usa o leque com elegância diante das lanternas, gerando um momento fotogênico que ダン capta perfeitamente. No caminho de volta para as barracas principais, 源田のばあさん comenta que a máscaras do festival sempre foram símbolo de que as pessoas podem ser algo além do que são no cotidiano — e que os quatro parecem ser exatamente o que são, sem precisar de máscara. 舞 e ティファ trocam um olhar emocionado. Os quatro de reúnem e tem uma ideia, キャミィ diz que pedirá a Delta Red que se encarreguem de reformar o santuário. 源田のばあさん um pouco relutante acaba aceitando. Se despedem da velhinha que retorna ao santuário. O capítulo fecha com fogos de artifício abrindo sobre o santuário e a 源田のばあさん desaparecendo como um espírito.
+
+**587 — 祭りの後で、仮面を外して**
+_(Depois do Festival, Tirando as Máscaras)_
+
+Na manhã seguinte, os quatro tomam café em casa ainda com energia do festival na cabeça. ダン revela as fotos da noite anterior no notebook — há uma sequência de registros cômicos ("fenômenos paranormais") que fazem o grupo rir muito: o vapor do yakisoba como "ectoplasma", a cara de susto de ティファ com o balão, キャミィ abraçando a pelúcia de gato com a expressão mais séria possível. Mas as fotos de verdade, as do santuário e as da velhinha com o grupo sorrindo, emocionam. ダン imprime três e coloca no painel de fotos da sala — incluindo a de 舞 com o leque diante das lanternas, que ficou impressionante. 舞, ao ver a foto, fica visivelmente orgulhosa mas finge normalidade, virando o rosto com o leque. ティファ comenta que nunca imaginou que a investigação do "fantasma" viraria uma das noites mais bonitas do verão. キャミィ admite, no tom seco que é seu máximo de emoção pública, que "o desfecho foi mais satisfatório que o esperado". Se perguntam se 源田のばあさん era mesmo um espírito. Ela diz que depois do almoço fará a petição a Delta Red para a reforma do santuário. ダン, olhando o painel de fotos cheio, comenta que cada foto ali é um arco que nunca planejou viver — e que está feliz por ter vivido cada um. 舞 encosta a cabeça no ombro dele, que a abraça forte, ティファ aperta a mão de キャミィ. O capítulo fecha com os quatro olhando juntos o painel de fotos em silêncio. No jornal, em cima da mesa, há uma foto de 源田 com uma reportagem contando sobre os 10 anos de falecimento da velinha e sobre como ela cuidava do tempo. Marca o fim do arco 70 e a entrada tranquila no outono.
+
+#### Resumo dos Personagens
+
+- 舞: emotiva e brincalhona, fracassa comicamente na pesca de peixinhos, mas se emociona profundamente com a fala de Genda sobre "não precisar de máscara".
+
+- ダン: o fotógrafo-cronista do grupo, documentando cada momento com humor e carinho, e quem primeiro sugere ajudar a divulgar o problema do santuário.
+
+- ティファ: a mais assustada durante a investigação, mas também a mais aliviada e reflexiva depois, vendo poesia no que poderia ter sido só um susto.
+
+- キャミィ: extremamente prática e observadora, quem decifra as "pistas do fantasma" com lógica militar e demonstra respeito raro por Genda, além de oferecer a ajuda da Delta Red.
+
+- 源田のばあさん: uma senhora que encenava a lenda para proteger os visitantes de uma área do santuário em risco de desabamento; descobrem, por um jornal, que ela já havia falecido dez anos antes.

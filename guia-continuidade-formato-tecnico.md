@@ -28,7 +28,7 @@ _Projeto de leitura em japonês._
 >
 > 3 notas de rodapé por capítulo
 >
-> Narrativa: 3ª pessoa, parágrafos contínuos, diálogo em 「」
+> Narrativa: 3ª pessoa, Discurso Direto com Kagi Kakko e quebra de linhas
 >
 > Os capítulos seguem o roteiro planejado, sem antecipar elementos dos capítulos seguintes
 >

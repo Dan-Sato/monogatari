@@ -411,6 +411,18 @@
     "arc": "69 - 夏の残り火、プールの一日編",
     "start": 577,
     "end": 581,
+    "status": "ok"
+  },
+  {
+    "arc": "70 - 仮面の祭",
+    "start": 582,
+    "end": 587,
+    "status": "ok"
+  },
+  {
+    "arc": "71 - ",
+    "start": 588,
+    "end": 594,
     "status": "planned"
   }
 ]
