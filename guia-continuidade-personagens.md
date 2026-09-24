@@ -163,14 +163,15 @@ Focada em:
 
 ## 🏛️ ORGANIZAÇÕES
 
-| Nome          | Descrição                                                                                          |
-| ------------- | -------------------------------------------------------------------------------------------------- |
-| 不知火流      | Clã ninja da 舞 — une dança e ninjutsu. 舞 é 名誉当主, ホクトマル é 実務当主                       |
-| 闇組          | Clã ninja rival, separado do 不知火流 há 100 anos. Derrotado no arco 330-336                       |
-| Delta Red     | Força especial britânica (MI6), Londres — キャミィ é membro. トム tem pub frequentado por キャミィ |
-| AVALANCHE     | Resistência anti-Shinra; base no 7th Heaven de ティファ                                            |
-| Shadaloo      | Organização criminosa derrotada; キャミィ e ユーニ foram membros involuntárias (Dolls)             |
-| 神羅 (Shinra) | Megacorporação de FFVII; controla 魔晄炉 e exército                                                |
+| Nome                    | Descrição                                                                                          |
+| ----------------------- | -------------------------------------------------------------------------------------------------- |
+| 不知火流                | Clã ninja da 舞 — une dança e ninjutsu. 舞 é 名誉当主, ホクトマル é 実務当主                       |
+| 闇組                    | Clã ninja rival, separado do 不知火流 há 100 anos. Derrotado no arco 330-336                       |
+| Delta Red               | Força especial britânica (MI6), Londres — キャミィ é membro. トム tem pub frequentado por キャミィ |
+| AVALANCHE               | Resistência anti-Shinra; base no 7th Heaven de ティファ                                            |
+| Shadaloo                | Organização criminosa derrotada; キャミィ e ユーニ foram membros involuntárias (Dolls)             |
+| 神羅 (Shinra)           | Megacorporação de FFVII; controla 魔晄炉 e exército                                                |
+| Ikari Warriors (怒戦士) | MGrupo de mercenários independentes, sem afiliação com nenhum país.                                |
 
 ## 📌 NOTAS DE CONTINUIDADE
 
