@@ -305,3 +305,5 @@ Fechamento do verão num parque aquático: novos biquínis com shorts, toboágua
 O grupo vai a um festival tradicional e, seguindo um boato de "espírito mascarado". Uma senhora que encenava a lenda para proteger os visitantes de uma área do santuário em risco de desabamento; descobrem que ela já havia falecido dez anos antes — encerrando o verão com um mistério doce-amargo e a promessa cumprida de cuidar do santuário.
 
 ### 71. 過去からの手紙 (588-595) - Cartas do passado
+
+Cammy recebe uma missão da Delta Red para recuperar um dispositivo roubado numa mata na Tailândia que já foi base da Shadaloo. O grupo trabalha com as agentes Leona e Whip, da Ikari Warriors.

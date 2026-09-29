@@ -149,7 +149,7 @@ Técnicas principais
 **Supergolpes**
 
 - Level 1: Beat Rush (fast, multi-hit physical pummeling).
-- Level 2: Somersault (launches enemies with an acrobatic flip kick).
+- Level 2: (launches enemies with an acrobatic flip kick).
 - Level 3: Dolphin Blow / Dolphin Flurry (an ascending water-aspected uppercut).
 - Level 4: Final Heaven (her ultimate attack, delivering a massive, explosive punch). [[1](https://characterprofile.fandom.com/wiki/Tifa_Lockhart), [2](https://finalfantasy.fandom.com/wiki/Tifa_Lockhart), [3](<https://finalfantasy.fandom.com/wiki/Tifa_Lockhart_(Dissidia_PSP)>)]
 
@@ -200,3 +200,6 @@ Focada em:
 - **エルヴィラ:** Voluptuosa rainha de アルディア, costuma flertar com o grupo, principalmente com as garotas. Personagem das campanhas de RPG _Arcos: 雨の週とダンジョンの夜; 戦国異聞録編_
 - **レインボー・ミカ (R. Mika):** Veterana carismática e generosa; treinou Tifa do zero, tornou-se sua parceira de título e despediu-se sem rancor, prometendo revanche amistosa no futuro. _Arcos: 虹色の挑戦者編_
 - **ナデシコ (Nadeshiko)** — Parceira original da Mika; afastada por concussão durante o arco, retornou recuperada para retomar seu posto ao lado da campeã. _Arcos: 虹色の挑戦者編_
+- - 源田のばあさん: uma senhora que encenava a lenda para proteger os visitantes de uma área do santuário em risco de desabamento; descobrem, por um jornal, que ela já havia falecido dez anos antes. _Arcos: 仮面の祭_
+- **レオナ (Leona):** Soldado calada, marcada pelo sangue de Orochi e sem lembrança do que aconteceu. Reconhece o custo da contenção e agradece a Cammy com um aceno mínimo. _Arcos: 過去からの手紙_
+- **ウィップ (Whip):** Amiga leal de Leona. É jogada para longe por um golpe dela, mas se levanta e prende seus braços com o Voodoo. Fica ao lado da amiga em silêncio e depois explica o Riot of the Blood. _Arcos: 過去からの手紙_

@@ -33,6 +33,8 @@ _Projeto de leitura em japonês._
 > Os capítulos seguem o roteiro planejado, sem antecipar elementos dos capítulos seguintes
 >
 > Tom sugestivo/sensual/explícito permitido
+>
+> Sempre abrir a resposta com uma chamada de `execute_code` contendo o texto do capítulo já em Python, seguida de validação
 
 ## CAPÍTULO EXEMPLO
 

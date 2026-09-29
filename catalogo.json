@@ -5290,65 +5290,74 @@
     {
       "chapter": 588,
       "chapter_kanji": "第五百八十八章",
-      "arc": "71 - ",
-      "group": "71 - ",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "arc": "71 - 過去からの手紙",
+      "group": "71 - 過去からの手紙",
+      "title": "赤い封蝋の手紙",
+      "file": "chapters/第588章　赤い封蝋の手紙.html",
+      "status": "existing"
     },
     {
       "chapter": 589,
       "chapter_kanji": "第五百八十九章",
-      "arc": "71 - ",
-      "group": "71 - ",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "arc": "71 - 過去からの手紙",
+      "group": "71 - 過去からの手紙",
+      "title": "デルタレッドからの任務",
+      "file": "chapters/第589章　デルタレッドからの任務.html",
+      "status": "existing"
     },
     {
       "chapter": 590,
       "chapter_kanji": "第五百九十章",
-      "arc": "71 - ",
-      "group": "71 - ",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "arc": "71 - 過去からの手紙",
+      "group": "71 - 過去からの手紙",
+      "title": "旧友との再会、バンコクの空港で",
+      "file": "chapters/第590章　旧友との再会、バンコクの空港で.html",
+      "status": "existing"
     },
     {
       "chapter": 591,
       "chapter_kanji": "第五百九十一章",
-      "arc": "71 - ",
-      "group": "71 - ",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "arc": "71 - 過去からの手紙",
+      "group": "71 - 過去からの手紙",
+      "title": "似た者同士",
+      "file": "chapters/第591章　似た者同士.html",
+      "status": "existing"
     },
     {
       "chapter": 592,
       "chapter_kanji": "第五百九十二章",
-      "arc": "71 - ",
-      "group": "71 - ",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "arc": "71 - 過去からの手紙",
+      "group": "71 - 過去からの手紙",
+      "title": "夜の密林へ",
+      "file": "chapters/第592章　夜の密林へ.html",
+      "status": "existing"
     },
     {
       "chapter": 593,
       "chapter_kanji": "第五百九十三章",
-      "arc": "71 - ",
-      "group": "71 - ",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "arc": "71 - 過去からの手紙",
+      "group": "71 - 過去からの手紙",
+      "title": "奪還作戦",
+      "file": "chapters/第593章　奪還作戦.html",
+      "status": "existing"
     },
     {
       "chapter": 594,
       "chapter_kanji": "第五百九十四章",
-      "arc": "71 - ",
-      "group": "71 - ",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "arc": "71 - 過去からの手紙",
+      "group": "71 - 過去からの手紙",
+      "title": "血の暴走",
+      "file": "chapters/第594章　血の暴走.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 595,
+      "chapter_kanji": "第五百九十五章",
+      "arc": "71 - 過去からの手紙",
+      "group": "71 - 過去からの手紙",
+      "title": "静けさの後で",
+      "file": "chapters/第595章　静けさの後で.html",
+      "status": "existing"
     }
   ]
 }
