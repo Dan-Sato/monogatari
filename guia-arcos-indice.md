@@ -262,7 +262,7 @@ Nova viagem à praia para “reescrever” o trauma do arco pirata, com biquíni
 
 ---
 
-## Arcos 61–69 (gato, Xangai/Shadaloo, brinquedos adultos, folclore, RPG Sengoku, wrestling e aniversário)
+## Arcos 61–80 (gato, Xangai/Shadaloo, brinquedos adultos, folclore, RPG Sengoku, wrestling, aniversário e ancião mascarado)
 
 ### 61. 猫と本屋の季節編 (529–533) — Estação do gato e da livraria
 
@@ -304,6 +304,14 @@ Fechamento do verão num parque aquático: novos biquínis com shorts, toboágua
 
 O grupo vai a um festival tradicional e, seguindo um boato de "espírito mascarado". Uma senhora que encenava a lenda para proteger os visitantes de uma área do santuário em risco de desabamento; descobrem que ela já havia falecido dez anos antes — encerrando o verão com um mistério doce-amargo e a promessa cumprida de cuidar do santuário.
 
+## Arcos 71–80 (Tailândia/Ikari Warriors, passado de Tifa 3,)
+
 ### 71. 過去からの手紙 (588-595) - Cartas do passado
 
 Cammy recebe uma missão da Delta Red para recuperar um dispositivo roubado numa mata na Tailândia que já foi base da Shadaloo. O grupo trabalha com as agentes Leona e Whip, da Ikari Warriors.
+
+### 72. ティファの過去編 三 (596–603) - A História de Tifa — Parte 3
+
+Continuação da história de FF7: esgotos, pilar, queda da placa, busca de Aerith, fuga de Midgar.
+
+### 73. ティファのセブンスヘブン編 (604–609) - Seventh Heaven de Tifa

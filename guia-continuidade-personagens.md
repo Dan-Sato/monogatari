@@ -41,7 +41,7 @@ _Projeto de leitura em japonês._
 - Tipo sanguíneo: B
 - Cor dos olhos: Vermelho
 - Cor do cabelo: Marrom/Preto
-- Doce, expressiva, bartender do 7th Heaven
+- Doce, expressiva, cuidadora, bartender do 7th Heaven
 - Zangan-ryu: sem hesitação, golpes que penetram para dentro, fluxo contínuo
 - Membro da AVALANCHE (anti-Shinra)
 - Cicatriz no peito: ferida de Sephiroth — já revelada ao grupo (cap 317)
@@ -203,3 +203,4 @@ Focada em:
 - - 源田のばあさん: uma senhora que encenava a lenda para proteger os visitantes de uma área do santuário em risco de desabamento; descobrem, por um jornal, que ela já havia falecido dez anos antes. _Arcos: 仮面の祭_
 - **レオナ (Leona):** Soldado calada, marcada pelo sangue de Orochi e sem lembrança do que aconteceu. Reconhece o custo da contenção e agradece a Cammy com um aceno mínimo. _Arcos: 過去からの手紙_
 - **ウィップ (Whip):** Amiga leal de Leona. É jogada para longe por um golpe dela, mas se levanta e prende seus braços com o Voodoo. Fica ao lado da amiga em silêncio e depois explica o Riot of the Blood. _Arcos: 過去からの手紙_
+- **Personagens do FFVII:** Personagens do FFVII aparecem por meio do passado narrado por ティファ. _Arcos: ティファの過去編_

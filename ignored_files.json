@@ -1,5 +1,9 @@
 [
   {
+    "file": "chapters/576_html.html",
+    "reason": "filename_does_not_match_expected_pattern"
+  },
+  {
     "file": "chapters/capitulo9.html",
     "reason": "filename_does_not_match_expected_pattern"
   },
