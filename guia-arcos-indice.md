@@ -306,7 +306,7 @@ O grupo vai a um festival tradicional e, seguindo um boato de "espírito mascara
 
 ## Arcos 71–80 (Tailândia/Ikari Warriors, passado de Tifa 3,)
 
-### 71. 過去からの手紙 (588-595) - Cartas do passado
+### 71. 過去からの手紙 (588-595) ⭐ - Cartas do passado
 
 Cammy recebe uma missão da Delta Red para recuperar um dispositivo roubado numa mata na Tailândia que já foi base da Shadaloo. O grupo trabalha com as agentes Leona e Whip, da Ikari Warriors.
 
@@ -314,4 +314,6 @@ Cammy recebe uma missão da Delta Red para recuperar um dispositivo roubado numa
 
 Continuação da história de FF7: esgotos, pilar, queda da placa, busca de Aerith, fuga de Midgar.
 
-### 73. ティファのセブンスヘブン編 (604–609) - Seventh Heaven de Tifa
+### 73. ティファのセブンスヘブン編 (604–609) ⭐⭐⭐⭐⭐ - Seventh Heaven de Tifa
+
+Comovidos pela história das perdas da ティファ, os quatro administram temporariamente um bar inspirado no Seventh Heaven, entre atendimento, clientes, cuidados mútuos e pequenos conflitos de portaria. O arco termina com a última noite, as despedidas e a volta ao apartamento, onde a foto vai para o painel e a ティファ diz "ただいま". Ela é recebida com "おかえり".

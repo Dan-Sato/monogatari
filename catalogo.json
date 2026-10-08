@@ -5436,51 +5436,87 @@
       "chapter_kanji": "第六百四章",
       "arc": "73 - ティファのセブンスヘブン編",
       "group": "73 - ティファのセブンスヘブン編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "懐かしい夜、足りない場所",
+      "file": "chapters/第604章　懐かしい夜、足りない場所.html",
+      "status": "existing"
     },
     {
       "chapter": 605,
       "chapter_kanji": "第六百五章",
       "arc": "73 - ティファのセブンスヘブン編",
       "group": "73 - ティファのセブンスヘブン編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "秘密の改装工事、サルーンの扉",
+      "file": "chapters/第605章　秘密の改装工事、サルーンの扉.html",
+      "status": "existing"
     },
     {
       "chapter": 606,
       "chapter_kanji": "第六百六章",
       "arc": "73 - ティファのセブンスヘブン編",
       "group": "73 - ティファのセブンスヘブン編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "開店初日、女子限定のセブンスヘブン",
+      "file": "chapters/第606章　開店初日、女子限定のセブンスヘブン.html",
+      "status": "existing"
     },
     {
       "chapter": 607,
       "chapter_kanji": "第六百七章",
       "arc": "73 - ティファのセブンスヘブン編",
       "group": "73 - ティファのセブンスヘブン編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "カウンター越しの恋話",
+      "file": "chapters/第607章　カウンター越しの恋話.html",
+      "status": "existing"
     },
     {
       "chapter": 608,
       "chapter_kanji": "第六百八章",
       "arc": "73 - ティファのセブンスヘブン編",
       "group": "73 - ティファのセブンスヘブン編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "入口の番人と、夜の休憩",
+      "file": "chapters/第608章　入口の番人と、夜の休憩.html",
+      "status": "existing"
     },
     {
       "chapter": 609,
       "chapter_kanji": "第六百九章",
       "arc": "73 - ティファのセブンスヘブン編",
       "group": "73 - ティファのセブンスヘブン編",
+      "title": "最後の一杯、ただいま",
+      "file": "chapters/第609章　最後の一杯、ただいま.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 610,
+      "chapter_kanji": "第六百十章",
+      "arc": "74 - ",
+      "group": "74 - ",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 611,
+      "chapter_kanji": "第六百十一章",
+      "arc": "74 - ",
+      "group": "74 - ",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 612,
+      "chapter_kanji": "第六百十二章",
+      "arc": "74 - ",
+      "group": "74 - ",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 613,
+      "chapter_kanji": "第六百十三章",
+      "arc": "74 - ",
+      "group": "74 - ",
       "title": null,
       "file": null,
       "status": "planned"

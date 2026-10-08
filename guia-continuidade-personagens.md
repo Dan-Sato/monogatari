@@ -70,7 +70,7 @@ _Projeto de leitura em japonês._
 - Abre-se gradualmente — vulnerabilidade é rara e preciosa
 - ユーニ (Juni): "irmã" ex-Doll, em recuperação em Londres — laço mais próximo
 - ❤️ ティファ, dormem juntas
-- **Desenvolvimento:** Antes sem família (criada Shadaloo), agora encontrou "選んだ家族"; comprou lembrança Tower Bridge (primeira vez comprando algo sentimental)
+- **Desenvolvimento:** Antes sem família (criada Shadaloo), agora encontrou "選んだ家族"; comprou lembrança Tower Bridge (primeira vez comprando algo sentimental); no arco 69. 夏の残り火、プールの一日編 aprendeu o "olhar assassino" pra afastar gente que perturba
 
 ### Relacionamentos
 
@@ -186,7 +186,7 @@ Focada em:
 - **ミケ:** Gato cinza da 山田さん. Running gag — adora キャミィ. キャミィ disse 「かわいい」 sem perceber e negou depois.
 - **田中さん:** Cozinheira profissional, 2º andar. Amiga de 舞; ensina culinária. Apareceu no arco ミステリー編.
 - **三階の女性:** Vizinha tímida, 3º andar. Deixou ミモザ na porta como agradecimento. Inspirou キャミィ a repetir o gesto.
-- **佐藤さくら:** Universitária do clube de leitura. Aparência: gentil, tímida, admiradora de ティファ. Verdade: vilã cômica em potencial — leotard, capa e máscara. Percebeu a desconfiança de キャミィ e fingiu "não é amor" para escapar. Sorriso malicioso confirmado no cap 362. Retornou no cap 402-408. さくら falhou em tudo que planejou e ganhou o que precisava, não uma resposta ao sentimento, mas uma porta aberta para uma amizade normal.
+- **佐藤さくら:** Universitária do clube de leitura. Aparência: gentil, tímida, admiradora de ティファ. Verdade: vilã cômica em potencial — leotard, capa e máscara. Percebeu a desconfiança de キャミィ e fingiu "não é amor" para escapar. Sorriso malicioso confirmado no cap 362. Retornou no cap 402-408. さくら falhou em tudo que planejou e ganhou o que precisava, não uma resposta ao sentimento, mas uma porta aberta para uma amizade normal. _Arcos: 秋の祭り編 ; さくらの逆襲編_
 - **リタ・ルワンダ:** Soldado de elite da Delta Red, conhecida pela disciplina rígida, pragmatismo e eficiência em combate. Costuma analisar situações de forma fria e objetiva, mas possui forte senso de dever e lealdade aos companheiros. _Arcos: 過去の影編_
 - **ディカープリ:** Ex-Doll Shadaloo, "irmã" キャミィ, em Londres sob cuidados da Delta Red. _Arcos: 過去の影編 ; 桜の季節編_
 - **ブルー・マリー & アントン:** — Os Hidensho e Geese — a investigação de マリー documentou, não resolveu. Disse algo a 舞, será revelado no futuro. Fio solto para arco futuro se quiser expandir o lado investigativo. O cão アントン sempre fiel a マリー, na espera da próxima aventura, ficará feliz quando ver ダン no futuro. _Arcos: 餓狼伝説編 ; リアルバウト_

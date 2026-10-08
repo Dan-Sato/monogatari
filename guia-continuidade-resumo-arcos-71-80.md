@@ -96,3 +96,68 @@ Uma encruzilhada do destino, e além.
 Na via expressa, ティファ conduz o veículo roubado enquanto クラウド enfrenta soldados, drones, helicópteros e a máquina M.O.T.O.R. Quando chegam ao fim da estrada, os Whispers cobrem Midgar e セフィロス abre uma passagem para um espaço fora da realidade. エアリス hesita porque entende que atravessá-la significa desafiar o destino e aceitar um futuro sem garantias. ティファ também teme o desconhecido, mas escolhe permanecer ao lado dela. O capítulo acompanha a fuga de Midgar, a entrada na singularidade e o confronto com os Whispers e セフィロス.
 Dentro da singularidade, o grupo enfrenta os arautos do destino e recebe visões fragmentadas de um futuro possível. A narração evita explicar como certezas aquilo que ティファ não compreendia; para ela, eram imagens de perda, um meteorito e a sensação de que algo precioso podia ser arrancado. Ela luta ao lado de エアリス e クラウド até a derrota do Harbinger. O confronto particular entre クラウド e セフィロス no Edge of Creation aparece somente como relato posterior de クラウド, sem incluir acontecimentos que ティファ não poderia conhecer. De volta ao mundo normal, o grupo deixa Midgar para perseguir セフィロス. Começa a chover, e エアリス olha para o céu com desconforto. Fim da história, por hora.
 No apartamento, ティファ encerra o relato dizendo que, naquele instante, acreditava que deixar Midgar era o começo de uma jornada na qual todos permaneceriam juntos. Sua voz falha porque ela conhece o destino de エアリス. 舞 se aproxima primeiro, キャミィ segura sua mão e ダン não tenta preencher o silêncio. ティファ afirma que prefere lembrar de エアリス não pelo fim, mas pelo modo como transformou uma desconhecida encontrada num porão em uma amiga capaz de atravessar esgotos, fantasmas, ruínas e o próprio destino ao seu lado. O arco termina com os quatro reunidos, e com a certeza de que a continuação dessa história será contada apenas quando ティファ estiver pronta.
+
+### 73 - 604-609 ティファのセブンスヘブン編 (Seventh Heaven de Tifa)
+
+**604 — 懐かしい夜、足りない場所**
+(Uma noite nostálgica, um lugar que faz falta)
+
+Dias depois do relato, a ティファ continua mais calada. Ela limpa o apartamento sem necessidade, polindo copos que ninguém usa. Olha pela janela e, sem perceber, faz o gesto de servir uma bebida no ar.
+A キャミィ nota que ela está "operando em modo de espera" e comunica isso à 舞, em linguagem de relatório. A 舞 reconhece o que é: a ティファ sente falta do balcão. Em cada foto do painel da sala, ela pára um segundo na do bar.
+O ダン sugere algo que não seja só consolo. A 舞 propõe um bar temporário, só para mulheres, por um mês. A キャミィ levanta objeções práticas, como licença, dinheiro e estoque, mas a ideia já a conquistou.
+Eles combinam um pacto de segredo e uma escala de turnos. Cada um fica com a ティファ em casa enquanto os outros dois cuidam do projeto. Será ensaiado um jeito de "despistar", e a キャミィ treina a cara de quem não esconde nada. O resultado é péssimo.
+À noite, a ティファ ouve os três cochichando e finge dormir, sorrindo no escuro. Ela não sabe do plano, mas sabe que algo está sendo preparado por amor.
+
+**605 — 秘密の改装工事、サルーンの扉**
+(Obra secreta de renovação, porta do saloon)
+
+O ダン pesquisa pontos vazios e acha um café recém-fechado, numa rua mais movimentada, perto de casa. Ele e a 舞 visitam o local e encontram mesas, cadeiras, duas máquinas de pinball e um jogo de dardos. A 舞 já imagina madeira escura, lampiões e portas de vai-e-vem.
+A reforma é feita por revezamento. A 舞 pinta e cose cortinas, o ダン carrega tábuas e a キャミィ cuida da precisão, mede tudo e se ofende com uma prateleira torta. Em casa, a ティファ começa a desconfiar: tinta nas mãos, serragem nos cabelos e desculpas ruins.
+No dia da revelação, os três a levam de olhos vendados. Ela entra num salão de saloon, e o balcão é de madeira. Fica sem palavras, chora e ri ao mesmo tempo, e abraça os três de uma vez.
+Eles escolhem o cardápio juntos. Ela hesita e depois lembra do pão da adolescência o 八番街スラムの饅頭. Diz que é uma receita especial, que um dia contará a história da juventude e que agora quer que eles provem antes de vender. O grupo, confundindo com 肉まん, fica curioso. Depois o ダン fotografa a placa nova do bar café Seventh Heaven.
+
+**606 — 開店初日、女子限定のセブンスヘブン**
+(Dia da sua inauguração, Seventh Heaven exclusivo para mulheres)
+
+A abertura é discreta: um cartaz na porta e a vizinhança avisada pelo boca a boca. A ティファ prepara as bebidas, a キャミィ e a 舞 servem as mesas de avental, e o ダン fica no banco na entrada como segurança.
+A キャミィ leva as comandas à risca, e as clientes acham seu rosto sério charmoso demais. Uma pergunta como "quer o cardápio?" soa como uma intimação. A 舞 aprende rápido a lidar com os elogios e as piscadelas, e as gorjetas aumentam.
+Duas máquinas de pinball viram atração. A 山田さん, a vizinha, aparece com os gatos ミケ e ミク. ダン oferece para ficar com os gatos na porta, e a キャミィ finge não se importar, o que dura pouco, ela deixa que entrem.
+O 八番街スラムの饅頭 esgota três vezes, nem deu tempo dos três experimentarem antes. A ティファ demonstra o corte, a abertura em concha, a alface e os três coberturas à escolha da cliente (pimentão, nuts ou aipo). Ela se orgulha do talento antigo, e a 舞 observa com carinho. Tenta uma gaiola de dardos, e a キャミィ acerta o centro sem esforço.
+O ダン barra um bêbado educadamente, sem usar força. Ao fechar, ティファ guardou quatro pãezinhos, os quatro se deliciam, conversam sobre o primeiro dia e dividem as primeiras risadas de cansaço.
+
+**607 — カウンター越しの恋話**
+(Histórias de amor do outro lado do balcão)
+
+Alguns dias depois, com a casa cheia, a ティファ vai reencontrando o prazer de ouvir. As clientes contam amores, rupturas e dúvidas, e ela responde com poucas palavras e o copo certo. Pensa em como era o antigo 7th Heaven, com as vozes, o piano e o riso.
+A 舞 leva um pedido a uma mesa onde duas garotas disputam sua atenção. Ela responde com piscadelas, sem se comprometer, e depois volta ao balcão rindo. A キャミィ percebe tudo e comenta, como quem informa o clima, que "há tensão de flerte na mesa quatro".
+Uma cliente pergunta à キャミィ sobre seu "amor". Ela responde em termos de missão, e a mesa inteira aplaude. A キャミィ foge para a cozinha, e a ティファ a segue só para vê-la corar.
+さくら (arcos: 秋の祭り編 e さくらの逆襲編) aparece disfarçada, desastrada como sempre (bate na mesa, tropeça na cadeira, derruba alguma coisa), mas ティファ e キャミィ logo a reconhecem. キャミィ lança seu olhar assassino, mas ティファ diz que está tudo bem.
+A 田中さん, cozinheira do prédio, prova o pão e elogia o equilíbrio do molho. Pergunta a origem, e a ティファ sorri e responde "uma história para outro dia". Ela experimenta as outroa duas coberturas também. A 舞 pega a deixa e apoia a promessa em silêncio.
+Perto do fim da noite, a ティファ senta ao balcão, olha o salão e diz baixinho que se lembrava disso. Ninguém interrompe.
+
+**608 — 入口の番人と、夜の休憩**
+(O porteiro e o descanso noturno)
+
+Num certo dia, ダン cuida da porta com simpatia, sem violência: tom firme, sorriso de funcionário e uma lista mental de "pessoas que não entram". Os bêbados desistem diante da paciência dele. Durante uma ida de ダン ao banheiro, os pervertidos encontram a キャミィ tomando uma água na entrada, ela lança o olhar assassino e esquecem rápido por que vieram. ダン logo voltando pergunta se ela está bem.
+Entre os turnos, algumas clientes saem para respirar e conversam com ele. Uma conta como o dia foi, outra fala do ex, outra só pede um minuto de ar. O ダン pergunta como elas estão e como está lá dentro, e elas elogiam o bar e os quatro responsáveis.
+Uma delas diz que a casa é acolhedora porque "parece que alguém cuida de nós". Ele pensa na ティファ e fotografa a fachada com os lampiões acesos.
+A 舞 aparece com um copo d'água e um beijinho na boca, ダン diz que ela está bem gostozinha de avental. A キャミィ traz torta de maçã, e ele agradece. Os dois conversam sobre o ritmo do salão, e a 舞 pergunta se ele está bem lá fora, sozinho. Ele diz que está tudo bem, é pela ティファ. Perto do fim do expediente, ティファ também aparece, ainda sentado no banco, ela abraça a cintura dela.
+
+**609 — 最後の一杯、ただいま**
+(Último drinque, estou em casa)
+
+No último dia, a casa está lotada e as despedidas são longas. As clientes trazem pequenos presentes: flores, um cartão, uma foto. A ティファ guarda tudo com cuidado, e a キャミィ organiza as lembranças numa caixa, como se fosse material operacional.
+Depois do último pedido, o grupo fecha a porta. O cansaço é grande: a キャミィ tira os sapatos sem cerimônia, e a 舞 se joga numa cadeira. O ダン só se encosta na parede e suspira de alívio.
+A ティファ serve a última rodada, uma bebida para cada um, inspirado no seu famoso Cosmo Canyon (já que os ingredientes não são exatamente os mesmos que ela usava). E o 八番街スラムの饅頭 também é servido. Ela agradece, com a voz um pouco trêmula, por devolverem um pedaço do que ela perdeu. Diz que o bar foi, por um mês, um lugar que ela pôde habitar de novo.
+A キャミィ responde, em linguagem de missão, que a operação foi bem-sucedida. A 舞 completa dizendo que a casa foi só um empréstimo. O ダン tira a última foto: os quatro no balcão.
+De volta ao apartamento, a ティファ pendura a foto no painel e promete que um dia contará a história do pão e da juventude. Ninguém pergunta quando. Eles apenas ficam juntos.
+
+#### Resumo dos Personagens
+
+- ティファ: É o centro emocional do arco. Ela volta a trabalhar num bar acolhedor, parecido com o Seventh Heaven, e vive isso como uma forma de "habitar de novo" algo que perdeu. No fim, agradece ao grupo com a voz trêmula e promete contar um dia a história do pão e da juventude dela.
+
+- 舞: É a animação social do grupo. Atende clientes com leveza, provoca o ダン com carinho e traz acolhimento. No fim, diz que a casa foi "só um empréstimo", mas que o lugar foi de verdade um lar para a ティファ.
+
+- キャミィ: Atua com disciplina e franqueza, sempre em "modo de missão". Intimida os inconvenientes só com o olhar, organiza as lembranças numa caixa como se fosse material operacional e declara a "operação" bem-sucedida. Esconde a emoção, mas se emociona.
+
+- ダン: Cuida da porta com paciência, tom firme e sem violência. Ouve as clientes que saem para respirar e registra os momentos com a câmera. Faz isso por causa da ティファ e tira a foto final dos quatro no balcão.
