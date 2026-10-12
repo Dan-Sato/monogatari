@@ -5488,38 +5488,38 @@
     {
       "chapter": 610,
       "chapter_kanji": "第六百十章",
-      "arc": "74 - ",
-      "group": "74 - ",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "arc": "74 - 何でもない一週間編",
+      "group": "74 - 何でもない一週間編",
+      "title": "買い物リストは作戦書じゃない",
+      "file": "chapters/第610章　買い物リストは作戦書じゃない.html",
+      "status": "existing"
     },
     {
       "chapter": 611,
       "chapter_kanji": "第六百十一章",
-      "arc": "74 - ",
-      "group": "74 - ",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "arc": "74 - 何でもない一週間編",
+      "group": "74 - 何でもない一週間編",
+      "title": "洗濯日和と、行方不明の靴下",
+      "file": "chapters/第611章　洗濯日和と、行方不明の靴下.html",
+      "status": "existing"
     },
     {
       "chapter": 612,
       "chapter_kanji": "第六百十二章",
-      "arc": "74 - ",
-      "group": "74 - ",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "arc": "74 - 何でもない一週間編",
+      "group": "74 - 何でもない一週間編",
+      "title": "電球が切れた夜に",
+      "file": "chapters/第612章　電球が切れた夜に.html",
+      "status": "existing"
     },
     {
       "chapter": 613,
       "chapter_kanji": "第六百十三章",
-      "arc": "74 - ",
-      "group": "74 - ",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "arc": "74 - 何でもない一週間編",
+      "group": "74 - 何でもない一週間編",
+      "title": "四人で作る晩ごはん",
+      "file": "chapters/第613章　四人で作る晩ごはん.html",
+      "status": "existing"
     }
   ]
 }

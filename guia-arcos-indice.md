@@ -304,7 +304,7 @@ Fechamento do verão num parque aquático: novos biquínis com shorts, toboágua
 
 O grupo vai a um festival tradicional e, seguindo um boato de "espírito mascarado". Uma senhora que encenava a lenda para proteger os visitantes de uma área do santuário em risco de desabamento; descobrem que ela já havia falecido dez anos antes — encerrando o verão com um mistério doce-amargo e a promessa cumprida de cuidar do santuário.
 
-## Arcos 71–80 (Tailândia/Ikari Warriors, passado de Tifa 3,)
+## Arcos 71–80 (Tailândia/Ikari Warriors, passado de Tifa 3, Seventh Heaven, rotina,)
 
 ### 71. 過去からの手紙 (588-595) ⭐ - Cartas do passado
 
@@ -317,3 +317,7 @@ Continuação da história de FF7: esgotos, pilar, queda da placa, busca de Aeri
 ### 73. ティファのセブンスヘブン編 (604–609) ⭐⭐⭐⭐⭐ - Seventh Heaven de Tifa
 
 Comovidos pela história das perdas da ティファ, os quatro administram temporariamente um bar inspirado no Seventh Heaven, entre atendimento, clientes, cuidados mútuos e pequenos conflitos de portaria. O arco termina com a última noite, as despedidas e a volta ao apartamento, onde a foto vai para o painel e a ティファ diz "ただいま". Ela é recebida com "おかえり".
+
+### 74. 何でもない一週間編 (610–613) - (Uma Semana Comum)
+
+Um arco curto e leve, passado dentro de uma semana comum, sem missão e sem drama. Os quatro lidam com compras, roupa lavada, um reparo doméstico e um jantar coletivo. O humor vem de quatro jeitos diferentes de resolver a mesma tarefa, e o carinho vem dos casais: 舞×ダン como casal principal e ティファ×キャミィ como casal secundário, com a relação aberta tratada de forma natural e sem constrangimento.

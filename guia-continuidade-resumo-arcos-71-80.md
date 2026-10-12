@@ -161,3 +161,29 @@ De volta ao apartamento, a ティファ pendura a foto no painel e promete que u
 - キャミィ: Atua com disciplina e franqueza, sempre em "modo de missão". Intimida os inconvenientes só com o olhar, organiza as lembranças numa caixa como se fosse material operacional e declara a "operação" bem-sucedida. Esconde a emoção, mas se emociona.
 
 - ダン: Cuida da porta com paciência, tom firme e sem violência. Ouve as clientes que saem para respirar e registra os momentos com a câmera. Faz isso por causa da ティファ e tira a foto final dos quatro no balcão.
+
+### 74 - 610-613 何でもない一週間編 (Uma Semana Comum)
+
+**610 — 買い物リストは作戦書じゃない**
+(A lista de compras não é um plano de operação)
+
+A geladeira está quase vazia, e o ダン propõe uma ida rápida ao mercado. O pedido vira uma operação quando a キャミィ entrega uma lista cronometrada, com rotas por corredor e "pontos de extração" no caixa. A 舞 acrescenta em silêncio salgadinhos e sorvete, o que ela chama de "reservas estratégicas".
+A ティファ escolhe os legumes com olhar de especialista, conversa com a peixeira e consegue desconto. A キャミィ fica fascinada pela seção de comida de gato, mesmo sem ter gato em casa. O ダン empurra o carrinho e vê o orçamento estourar com um sorriso resignado. No caixa, a 舞 deixa um beijinho no rosto do ダン para que ele "perdoe" os extras, e a ティファ puxa a キャミィ pela mão antes que ela compre um arranhador. Eles voltam carregados, rindo, com a ração de gato "só para olhar" no fundo da sacola.
+
+**611 — 洗濯日和と、行方不明の靴下**
+(Dia de lavar roupa e a meia desaparecida)
+
+Dia de sol, e o varal da varanda fica cheio de roupas coloridas. A 舞 aparece só calcinha e com camiseta (emprestada do ダン), descabelada e com cara de sono e "finge" não saber por quê. A キャミィ dobra tudo em ângulos perfeitos, enquanto a ティファ separa as roupas (camisetas, calças, lingeries, cuecas, meias, etc...) de cada um por cor com um cuidado quase ritual.
+No fim, falta uma meia. Surge uma investigação cômica: a キャミィ interroga a máquina de lavar, a 舞 acusa o ダン, e o ダン jura inocência com a meia errada no pé. 舞 procura ajoelhada no chão e provoca ダン pela posição sugestiva e pela vestimenta (ou falta da vestimenta). A ティファ acha a peça dentro da manga de um casaco, e o grupo ri da paranoia. Para compensar, os quatro penduram as roupas juntos e tomam suco na varanda, com a brisa balançando os lençóis. O ダン bate uma foto do varal colorido para o painel da sala.
+
+**612 — 電球が切れた夜に**
+(Na noite em que a lâmpada queimou)
+
+A luz da sala pisca e apaga. O ダン se oferece para trocar a lâmpada, mas a escada é baixa, e a 舞 comenta que ele vai "cair com estilo". キャミィ aparece com uma lanterna tática e instruções precisas; a ティファ segura a escada e finge não olhar para cima.
+A troca vira um pequeno espetáculo: o ダン tenta, a キャミィ corrige, a 舞 narra como se fosse uma luta e a ティファ entrega as ferramentas certas. Quando a luz volta, todos aplaudem. Como a energia da casa ainda está instável, eles jantam à luz de velas, entre piadas, comida simples e conversa. A 舞 apoia a cabeça no ombro do ダン, e キャミィ apoia a dela no da ティファ, sem dizer nada.
+
+**613 — 四人で作る晩ごはん**
+(Jantar feito pelos quatro)
+
+Para fechar a semana, o grupo decide cozinhar junto sem pressa, macarrão e molho caseiro. A ティファ comanda a cozinha, mas aceita sugestões. キャミィ corta tudo em tamanhos idênticos, a 舞 prova mais do que ajuda (em certo momento ela prova do dedo de ダン chupando de um jeito extremamente erótico), e o ダン mexe a panela e tenta não queimar nada.
+Surgem pequenos acidentes e risadas: farinha no rosto, um molho salgado demais, a 舞 corrigindo com açúcar e キャミィ desconfiando do resultado. Mesmo assim, a refeição fica boa à sua maneira. Eles comem ao redor da mesa, sujam o rosto e cai uns pingos na roupa, falam da semana e fecham o arco olhando o painel de fotos, onde a imagem do varal e a da luz de velas ganham lugar. A frase final fica com a ティファ: algo como "いつもの日が、いちばん好き".
