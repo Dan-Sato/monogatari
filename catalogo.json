@@ -5515,11 +5515,101 @@
     {
       "chapter": 613,
       "chapter_kanji": "第六百十三章",
-      "arc": "74 - 何でもない一週間編",
-      "group": "74 - 何でもない一週間編",
+      "arc": "75 - 家族の記念日編",
+      "group": "75 - 家族の記念日編",
       "title": "四人で作る晩ごはん",
       "file": "chapters/第613章　四人で作る晩ごはん.html",
       "status": "existing"
+    },
+    {
+      "chapter": 614,
+      "chapter_kanji": "第六百十四章",
+      "arc": "75 - 家族の記念日編",
+      "group": "75 - 家族の記念日編",
+      "title": "いつから家族だった？",
+      "file": "chapters/第614章　いつから家族だった？.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 615,
+      "chapter_kanji": "第六百十五章",
+      "arc": "75 - 家族の記念日編",
+      "group": "75 - 家族の記念日編",
+      "title": "写真が覚えていること",
+      "file": "chapters/第615章　写真が覚えていること.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 616,
+      "chapter_kanji": "第六百十六章",
+      "arc": "75 - 家族の記念日編",
+      "group": "75 - 家族の記念日編",
+      "title": "約束の棚卸し",
+      "file": "chapters/第616章　約束の棚卸し.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 617,
+      "chapter_kanji": "第六百十七章",
+      "arc": "75 - 家族の記念日編",
+      "group": "75 - 家族の記念日編",
+      "title": "四人で作る記念日",
+      "file": "chapters/第617章　四人で作る記念日.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 618,
+      "chapter_kanji": "第六百十八章",
+      "arc": "75 - 家族の記念日編",
+      "group": "75 - 家族の記念日編",
+      "title": "帰る場所はここに",
+      "file": "chapters/第618章　帰る場所はここに.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 619,
+      "chapter_kanji": "第六百十九章",
+      "arc": "76 - 寒波と湯けむり編",
+      "group": "76 - 寒波と湯けむり編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 620,
+      "chapter_kanji": "第六百二十章",
+      "arc": "76 - 寒波と湯けむり編",
+      "group": "76 - 寒波と湯けむり編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 621,
+      "chapter_kanji": "第六百二十一章",
+      "arc": "76 - 寒波と湯けむり編",
+      "group": "76 - 寒波と湯けむり編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 622,
+      "chapter_kanji": "第六百二十二章",
+      "arc": "76 - 寒波と湯けむり編",
+      "group": "76 - 寒波と湯けむり編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 623,
+      "chapter_kanji": "第六百二十三章",
+      "arc": "76 - 寒波と湯けむり編",
+      "group": "76 - 寒波と湯けむり編",
+      "title": null,
+      "file": null,
+      "status": "planned"
     }
   ]
 }

@@ -41,7 +41,7 @@ _Projeto de leitura em japonês._
 - Tipo sanguíneo: B
 - Cor dos olhos: Vermelho
 - Cor do cabelo: Marrom/Preto
-- Doce, expressiva, cuidadora, bartender do 7th Heaven
+- Doce, expressiva, cuidadora, materna, bartender do 7th Heaven
 - Zangan-ryu: sem hesitação, golpes que penetram para dentro, fluxo contínuo
 - Membro da AVALANCHE (anti-Shinra)
 - Cicatriz no peito: ferida de Sephiroth — já revelada ao grupo (cap 317)

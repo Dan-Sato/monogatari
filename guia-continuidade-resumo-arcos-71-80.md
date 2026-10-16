@@ -187,3 +187,94 @@ A troca vira um pequeno espetáculo: o ダン tenta, a キャミィ corrige, a �
 
 Para fechar a semana, o grupo decide cozinhar junto sem pressa, macarrão e molho caseiro. A ティファ comanda a cozinha, mas aceita sugestões. キャミィ corta tudo em tamanhos idênticos, a 舞 prova mais do que ajuda (em certo momento ela prova do dedo de ダン chupando de um jeito extremamente erótico), e o ダン mexe a panela e tenta não queimar nada.
 Surgem pequenos acidentes e risadas: farinha no rosto, um molho salgado demais, a 舞 corrigindo com açúcar e キャミィ desconfiando do resultado. Mesmo assim, a refeição fica boa à sua maneira. Eles comem ao redor da mesa, sujam o rosto e cai uns pingos na roupa, falam da semana e fecham o arco olhando o painel de fotos, onde a imagem do varal e a da luz de velas ganham lugar. A frase final fica com a ティファ: algo como "いつもの日が、いちばん好き".
+
+### 75 - 614–618 家族の記念日編 (Aniversário da família)
+
+**614 — いつから家族だった？**
+(Desde quando éramos uma família?)
+
+Depois do jantar, ティファ atualiza o calendário da cozinha e percebe que está fazendo quase um ano desde que a convivência dos quatro deixou de ser provisória. Ela comenta em voz alta, e a observação imediatamente vira discussão. キャミィ quer estabelecer uma data verificável: mudança de endereço, primeira noite com todas as malas no apartamento ou primeira divisão oficial das tarefas. ダン procura recibos antigos e defende o dia em que compraram mantimentos para quatro pela primeira vez. 舞 rejeita tudo: 「家族になった日なんて、レシートで決めるものじゃないでしょ」.
+Enquanto procuram uma resposta, pequenos objetos despertam recordações: uma passagem de trem lembra os passeios sob chuva; uma foto do mar lembra quando ainda hesitavam em demonstrar carinho; um comprovante amassado faz ダン recordar quantas vezes voltou com compras demais. As versões entram em conflito de modo cômico. 舞 afirma que já eram família antes de perceber; キャミィ responde que isso é “emocionalmente plausível, mas cronologicamente inútil”. ティファ então pergunta quando cada um começou a pensar no apartamento como o lugar para onde queria voltar.
+O clima muda. ダン lembra a primeira vez em que ouviu as três dizendo 「おかえり」 ao mesmo tempo. 舞 recorda uma noite em que ninguém quis dormir sozinho. ティファ pensa nas conversas em que conseguiu revelar Nibelheim sem ser pressionada. キャミィ admite que foi quando deixou de preparar mentalmente uma rota de fuga toda vez que entrava em casa. Como ninguém concorda numa data exata, escolhem celebrar o presente: não o dia em que “viraram” família, mas o primeiro aniversário da decisão contínua de permanecer juntos. キャミィ abre uma planilha de organização; 舞 toma o celular dela e decreta: 「記念日は作戦じゃない。お祝いなの！」
+
+**615 — 写真が覚えていること**
+(O que as fotografias lembram)
+
+ダン decide reorganizar o painel de fotografias e montar um álbum para a celebração. A regra parece simples: cada um deve escolher três imagens importantes. Ela desmorona quando 舞 tenta esconder todas as fotos em que aparece despenteada, enquanto ダン insiste que são justamente as melhores. ティファ encontra registros do acampamento nas montanhas (primeira vez que houve troca íntima de parceiros), dos festivais, das praias, do onsen e das viagens; キャミィ separa as imagens por data até perceber que está segurando por tempo demais a primeira foto em que sorriu sem notar.
+Cada escolha produz um flashback dialogado. ティファ escolhe a réplica do cinturão e recorda a torcida exagerada de 舞, as análises militares de キャミィ e as fotografias tremidas de ダン. キャミィ hesita entre Londres, o resgate de ユーリ e uma simples imagem tomando chá no sofá. 舞 seleciona a foto tirada depois de dominar 陽炎の舞, mas admite que o mais importante não foi a técnica: foi a primeira vez que disse 「愛してる」 ao ダン. Quando perguntam qual prefere, responde: 「任務の写真は大事だ。でも、帰ってきた後の写真のほうが好きだ」.
+Também surgem lembranças difíceis: o naufrágio, os laboratórios da Shadaloo, o colapso do Setor Sete e os momentos em que quase perderam alguém. ダン sugere deixar essas imagens fora do álbum, mas ティファ discorda. Ela explica que uma família não é formada apenas pelas fotografias bonitas; é também quem permanece ao lado quando ninguém consegue sorrir. Depois de uma discussão sobre ordem cronológica, montam páginas por sentimentos — “primeiras vezes”, “lugares para onde voltamos”, “medos atravessados” e “bobagens que sobreviveram”. A última página fica vazia. 舞 escreve no topo: 「これから」. ダン tenta fotografá-la escrevendo; ela percebe, ameaça acertá-lo com o leque e acaba rindo na foto.
+
+**616 — 約束の棚卸し**
+(Inventário das promessas)
+
+Inspirada pelo álbum, キャミィ aparece de manhã com duas colunas: 「完了」 e 「継続中」. 舞 reclama que ela transformou sentimentos em relatório, mas ティファ se anima ao perceber quantas promessas realmente foram cumpridas. A restauração do santuário foi concluída; ティファ contou a continuação de seu passado quando se sentiu pronta; o grupo devolveu a ela, ainda que temporariamente, a experiência do Seventh Heaven; uma segunda campanha de RPG aconteceu; viagens prometidas deixaram de ser apenas ideias. Cada item provoca comentários e pequenos flashbacks, inclusive versões exageradas de 舞 que キャミィ corrige com precisão irritante.
+A coluna das pendências é maior e mais engraçada. Ainda precisam voltar a Xangai quando ユーリ (Juli) estiver recuperada; ティファ deve uma revanche individual a Rainbow Mika; エルヴィラ continua esperando os aventureiros em アルディア; 舞 prometeu contar outras histórias que ouviu da avó; existe o onsen de inverno; ティファ ainda quer falar sobre o 八番街饅頭 e outras partes do passado quando puder. Por fim, enquanto 舞 sentada no colo do ダン, aponta para ele e キャミィ e cobra a ida conjunta à loja de “brinquedos adultos”, prometida para surpreender ela e ティファ. Os dois trocam um olhar sério demais. ダン admite que já pensou nos "brinquedos"; キャミィ acrescenta que preparou uma lista. ティファ ri até ficar vermelha, enquanto 舞 exige ver a lista e recebe um 「機密事項だ」.
+A conversa ganha um tom mais íntimo quando ダン pergunta se promessas abertas não parecem dívidas. ティファ responde que não: são provas de que todos imaginam um futuro juntos. キャミィ risca o título “pendências” e escreve 「これからの楽しみ」 — coisas para esperar. Eles não resolvem artificialmente os grandes fios; apenas confirmam quais continuam vivos. A única promessa renovada naquele dia é a mais antiga: honestidade, cuidado mútuo e ninguém enfrentando sozinho aquilo que ainda assusta. 舞 fecha a pasta, encosta-se em ダン e conclui: 「じゃあ、全部ゆっくり叶えよう。四人でね」.
+
+**617 — 四人で作る記念日**
+(Um aniversário feito pelos quatro)
+
+A celebração será simples e em casa, mas cada um assume uma parte. ティファ prepara o jantar e quatro drinks inspiradas em lugares importantes: mar, montanha, Londres e Seventh Heaven (o drink do Seventh Heaven é o Cosmo Canyon). 舞 cuida da decoração com fitas e pequenos leques de papel, recusando qualquer coisa “discreta demais”. ダン imprime o álbum e monta na televisão uma apresentação de fotos. キャミィ fica encarregada do bolo; insiste que confeitaria é uma operação de precisão e mede os ingredientes como se desarmasse uma bomba.
+Os preparativos viram um episódio de recapitulação cômica. A apresentação de ダン inclui por engano fotos que deveriam permanecer privadas: 舞 dormindo de boca aberta, ティファ coberta de farinha, キャミィ abraçada a um gato e o próprio ダン só de cueca depois de perder o 脱衣麻雀. 舞 tenta arrancar o controle remoto; ele foge ao redor do sofá; ティファ ri tanto que quase derruba uma bandeja. キャミィ, ainda segurando a espátula, sentencia: 「証拠は保存するべきだ」, até aparecer uma foto dela pulando durante a vitória de ティファ no wrestling. Ela muda imediatamente de posição: 「一部の証拠は削除してもいい」.
+Entre as risadas, cada um deixa sobre a mesa um objeto simbólico: o leque presenteado a 舞, a lembrança da Tower Bridge de キャミィ, a réplica do cinturão de ティファ e a câmera de ダン. Não são os objetos mais valiosos, mas representam escolhas feitas depois que passaram a viver juntos. ティファ sugere acrescentar a caixa de cartas recebidas no Seventh Heaven; キャミィ a traz com cuidado, reforçando que lembranças de pessoas de fora também ajudaram a construir aquela casa.
+Quando tudo finalmente está pronto, percebem que o bolo de キャミィ ficou torto. Ela encara o resultado como falha operacional, mas ティファ a abraça por trás e beija sua bochecha e diz que está perfeito porque foi feito por ela. 舞 acrescenta uma placa de chocolate com 「家族」; ダン corrige que faltou 「の記念日」. Não há espaço. Eles espremem as letras, deixam a inscrição desalinhada e decidem que combina com os quatro.
+
+**618 — 帰る場所はここに**
+(O lugar para onde voltamos é aqui)
+
+A noite começa sem convidados, roupas formais ou grande cerimônia. Os quatro se sentam ao redor da mesa preparada em conjunto e brindam: 「家族の記念日に」. Antes de comer, ティファ propõe uma brincadeira: cada um deve dizer qual lembrança melhor representa “casa”. 舞 escolhe todas as vezes em que voltou para casa e encontrou ダン esperando, contrastando isso com os anos em que correu atrás de alguém que nunca olhava para trás. ダン escolhe o barulho cotidiano — máquina de lavar, facas na cozinha, discussões sobre compras — porque antes o silêncio significava solidão e agora significa que todos estão por perto. ティファ diz que iria falar a mesma coisa do ダン, mas para diferenciar fala do antigo Seventh Heaven, da perda e do pequeno bar temporário que os quatro construíram para ela. Explica que finalmente entendeu que um lugar pode desaparecer sem levar embora tudo o que foi vivido nele. キャミィ demora mais. Quando todos esperam uma definição técnica, ela diz: 「帰る場所は、命令がなくても戻りたい場所だ」. Depois olha para os três e completa que, pela primeira vez, nunca precisa perguntar se tem permissão para voltar. O silêncio emocionado dura até 舞 enxugar os olhos e reclamar que キャミィ “trapaceou dizendo a frase mais bonita”.
+Após o bolo, assistem à apresentação de fotos. As imagens fazem as conversas saltarem entre o passado e o presente: a chuva, os festivais, onsen, montanha, Londres, South Town, a Escócia, o navio, Xangai, o ringue e o Seventh Heaven. Ninguém tenta decidir qual foi o melhor momento. O sentido está na sequência: sempre há uma fotografia de retorno depois das aventuras.
+Por fim, colocam o álbum aberto na página 「これから」 e tiram a primeira foto do novo ciclo. Não fazem uma promessa grandiosa. Combinam apenas repetir a celebração todos os anos, mesmo que a data continue imprecisa. キャミィ já tenta definir horário e duração; 舞 manda que ela guarde a planilha; ティファ ri; ダン aciona o temporizador e corre para se juntar às três. A foto captura os quatro espremidos no sofá. Momento de amor e afetos entre os quatro, abraços e beijos calorosos. Mais tarde, adormecem ali mesmo, com o álbum sobre a mesa. Antes de fechar os olhos, ティファ murmura 「ただいま」. As três vozes respondem 「おかえり」, encerrando o ciclo e abrindo o próximo.
+
+### 76 - 619–623 寒波と湯けむり編 (Onda fria e vapor de fonte termal)
+
+**619 — 寒波警報、発令**
+
+A previsão do tempo anuncia uma frente fria "excepcional" para a semana toda, e ninguém liga muito. Na manhã seguinte o aquecedor da sala morre com um estalo, e o apartamento cai alguns graus em poucas horas.
+キャミィ trata a situação como emergência de sobrevivência. Ela cola na geladeira um "Protocolo Anti-Hipotermia" com turnos de chá quente, camadas de roupa numeradas e uma regra de que ninguém fica sozinho no quarto frio. ダン vai tentar consertar o aquecedor com o manual e uma lanterna. 舞 aparece enrolada em dois cobertores e diz que o protocolo é exagerado.
+ティファ ri e já separa legumes para um ensopado, porque comida quente também é parte do protocolo. As pilhas de roupa no sofá crescem a cada hora. À noite, o aquecedor continua morto, e a temperatura dentro de casa se aproxima da de fora.
+
+Cena-chave: キャミィ de gorro, cachecol e luvas, medindo a temperatura da sala com termômetro e anunciando 「想定より悪い」. O leque da 舞 continua em cena, sem abanar mas refletindo suas emoções.
+
+Fecho: ダン desiste do conserto e diz que só um técnico resolve, mas só aparece daqui a quatro dias.
+
+**620 — 毛布戦争と鍋の夜**
+
+No segundo dia, 舞 virou uma "montanha de cobertores" que se recusa a dividir. Ela alega que calor humano é mais eficiente que tecido e tenta puxar os outros para o ninho. キャミィ contesta com números e propõe distribuição igualitária. Começa uma guerra de cobertores, com ティファ de juíza.
+Para acabar a briga, ティファ serve um ensopado de ingredientes de inverno e uma bebida de gengibre e mel. Com a barriga quente, ninguém quer mais lutar. Os quatro acabam dividindo a mesa baixa debaixo de um cobertor gigante só de colcha costurada de qualquer jeito.
+ダン propõe que talvez valha mais a pena pesquisar pousadas com onsen privativo, "só para esperar o técnico". O silêncio dura dois segundos, e 舞 e ティファ erguem as mãos juntas.
+
+Fecho: キャミィ finge que precisa de "análise de risco", mas o rosto entrega que já aprovou. 「悪くない作戦だ」, diz ela. O quarto deles esquenta mais com a ideia do que com o aquecedor.
+
+**621 — 雪待ちの道と湯の宿**
+
+Uma pousada encontra vaga de última hora e eles partem na manhã seguinte. O céu está branco e o vento corta. O trem é uma das poucas coisas quentes do dia, e 舞 dorme no ombro do ダン enquanto ティファ e キャミィ dividem um único par de luvas.
+Na estação final, um ônibus pequeno sobe por uma estrada de montanha com garoa fria. キャミィ memoriza saídas de emergência por hábito, e ティファ comenta que isso faz parte da graça dela. A recepcionista, uma senhora gentil, leva todos ao quarto: tatame, mesa baixa, futons e uma varanda com onsen privativo.
+Eles trocam as roupas de rua por yukata e haori acolchoados. ダン não sabe para onde olhar, 舞 se diverte com isso e provoca fazendo poses e ティファ ajeita a gola da キャミィ. A comida de boas-vindas inclui chá quente e doces simples.
+
+Fecho: cada um se senta à mesa baixa com uma xícara, e por um momento ninguém diz nada. 舞 finalmente suspira 「あったかい…」. É a primeira vez em dias que eles sentem o corpo inteiro aquecido.
+
+**622 — 貸切露天風呂**
+
+À noite o céu abre. O onsen privativo fica na varanda, cercado de pedras e vapor. Eles entram quase ao mesmo tempo, já sem a vergonha dos primeiros banhos, e ficam um tempo só ouvindo a água. ダン antes de entrar fica de bobeira na borda, ティファ manda ele tirar a toalha e entrar logo, ele escorrega de leve e as três tentam segurá-lo ao mesmo tempo.
+舞 comenta que a primeira vez deles no onsen foi desastre: 「あの時は大変だった」. ティファ lembra do onsen escondido do acampamento e da fonte natural da viagem de bicicleta, e キャミィ comenta que o desta noite tem "melhor logística". ダン admite que, em cada onsen, o que ele guardou não foi a água, e sim as pessoas dentro dela.
+O clima fica mais íntimo. 舞 se encosta no ダン e ティファ apoia a cabeça no ombro da キャミィ. Há carinho, ombros massageados e um beijo ou outro, tudo sem pressa e com a graça de quem já conhece o jeito do outro. A coisa vai ficando quente, há beijos na nuca, na boca; mão nas costas, coxas, virilha, mamilo, etc; há mordidinhas e suor misturado com vapor.
+
+Fecho: com o vapor subindo, キャミィ murmura que "este é o resultado mais satisfatório da operação". As outras riem baixinho, e ninguém corrige.
+
+**623 — 卓球と浴衣の大勝負**
+
+Na manhã seguinte, depois de um café da manhã japonês completo, 舞 descobre uma mesa de tênis de mesa no salão da pousada. Ela desafia todos, e a partida vira uma disputa de duplas: 舞+ダン contra ティファ+キャミィ. A perdedora faz uma tarefa decidida pelas vencedoras.
+A comédia vem dos yukatas que insistem em abrir (舞 provocando com a situação), das bolas que somem debaixo dos móveis e da seriedade absurda da キャミィ, que trata cada rali como missão. ティファ usa a força do golpe de monge e quase quebra a rede. ダン é o elo fraco, e 舞 compensa com saques enganosos e pose de campeã.
+O placar fica apertado até o último ponto. Quem perde, perde por pouco, e a tarefa pedida é simples e fofa: massagem nos ombros da dupla vencedora. A massagem acontece depois do jantar, no quarto, com luz baixa.
+À noite os quatro dormem juntos nos futons, rindo baixinho de cada golpe da partida. A intimidade já é natural, e a conversa vai caindo até o silêncio.
+
+Fecho: lá fora a chuva fria continua, e o quarto parece o único lugar quente do mundo.
+
+**624 — 寒い部屋、あたたかい家**
+
+No último dia o técnico finalmente avisa que o conserto sai em breve, e a pousada se despede deles com um pequeno amuleto e uma caixa de doces. A volta de trem é tranquila, com cabeças inclinadas e olhos fechados.
+O apartamento continua frio. A sala está silenciosa, o aquecedor segue quebrado e as pilhas de roupa ainda estão onde ficaram. Por um instante ninguém fala. Então 山田さん aparece à porta com ミケ no colo e uma sacola de frutas, avisando que o técnico vem amanhã.
+ティファ liga o fogão e coloca a chaleira. 舞 puxa os cobertores de volta para o sofá, agora sem briga. キャミィ risca o "Protocolo Anti-Hipotermia" da geladeira e escreve embaixo uma linha nova: 「帰宅、完了」. ダン tira uma foto dos três sentados no sofá, ainda de casaco.
+
+Fecho: o apartamento não está quente, mas é a casa deles. Cada um se acomoda no seu lugar de sempre, e 舞 diz 「ただいま」, ao que os outros respondem em coro.

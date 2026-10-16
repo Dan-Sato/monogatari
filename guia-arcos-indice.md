@@ -321,3 +321,12 @@ Comovidos pela história das perdas da ティファ, os quatro administram tempo
 ### 74. 何でもない一週間編 (610–613) - (Uma Semana Comum)
 
 Um arco curto e leve, passado dentro de uma semana comum, sem missão e sem drama. Os quatro lidam com compras, roupa lavada, um reparo doméstico e um jantar coletivo. O humor vem de quatro jeitos diferentes de resolver a mesma tarefa, e o carinho vem dos casais: 舞×ダン como casal principal e ティファ×キャミィ como casal secundário, com a relação aberta tratada de forma natural e sem constrangimento.
+
+### 75 - 614–618 家族の記念日編 ⭐ - (Aniversário da família)
+
+O aniversário não precisa corresponder ao contrato do apartamento nem a uma data perfeitamente objetiva. A graça está justamente na discussão sobre quando os quatro realmente “viraram uma família”. Ao final, eles escolhem celebrar o período em que passaram a considerar o apartamento um lugar para o qual todos poderiam dizer 「ただいま」.
+Os flashbacks devem surgir dentro dos diálogos e ser breves, sem reproduzir cenas inteiras. As lembranças dolorosas — Shadaloo, Nibelheim, naufrágio, missões e perdas — aparecem ao lado das felizes, mostrando que o grupo não apagou o passado; aprendeu a carregá-lo em conjunto.
+
+### 76 - 619–623 寒波と湯けむり編 (Onda fria e vapor de fonte termal)
+
+Uma frente fria inesperada cobre a cidade durante uma semana. Depois de enfrentar aquecedor defeituoso, roupas empilhadas e キャミィ tratando o frio como situação de sobrevivência, os quatro viajam para um ryokan com onsen. A viagem relembra banhos e pousadas anteriores, mas mostra como agora dividem o mesmo espaço com intimidade natural.
