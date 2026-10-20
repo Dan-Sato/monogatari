@@ -226,7 +226,7 @@ A noite começa sem convidados, roupas formais ou grande cerimônia. Os quatro s
 Após o bolo, assistem à apresentação de fotos. As imagens fazem as conversas saltarem entre o passado e o presente: a chuva, os festivais, onsen, montanha, Londres, South Town, a Escócia, o navio, Xangai, o ringue e o Seventh Heaven. Ninguém tenta decidir qual foi o melhor momento. O sentido está na sequência: sempre há uma fotografia de retorno depois das aventuras.
 Por fim, colocam o álbum aberto na página 「これから」 e tiram a primeira foto do novo ciclo. Não fazem uma promessa grandiosa. Combinam apenas repetir a celebração todos os anos, mesmo que a data continue imprecisa. キャミィ já tenta definir horário e duração; 舞 manda que ela guarde a planilha; ティファ ri; ダン aciona o temporizador e corre para se juntar às três. A foto captura os quatro espremidos no sofá. Momento de amor e afetos entre os quatro, abraços e beijos calorosos. Mais tarde, adormecem ali mesmo, com o álbum sobre a mesa. Antes de fechar os olhos, ティファ murmura 「ただいま」. As três vozes respondem 「おかえり」, encerrando o ciclo e abrindo o próximo.
 
-### 76 - 619–623 寒波と湯けむり編 (Onda fria e vapor de fonte termal)
+### 76 - 619–624 寒波と湯けむり編 (Onda fria e vapor de fonte termal)
 
 **619 — 寒波警報、発令**
 (Aviso de onda de frio emitido)
@@ -234,9 +234,7 @@ Por fim, colocam o álbum aberto na página 「これから」 e tiram a primeir
 A previsão do tempo anuncia uma frente fria "excepcional" para a semana toda, e ninguém liga muito. Na manhã seguinte o aquecedor da sala morre com um estalo, e o apartamento cai alguns graus em poucas horas.
 キャミィ trata a situação como emergência de sobrevivência. Ela cola na geladeira um "Protocolo Anti-Hipotermia" com turnos de chá quente, camadas de roupa numeradas e uma regra de que ninguém fica sozinho no quarto frio. ダン vai tentar consertar o aquecedor com o manual e uma lanterna. 舞 aparece enrolada em dois cobertores e diz que o protocolo é exagerado.
 ティファ ri e já separa legumes para um ensopado, porque comida quente também é parte do protocolo. As pilhas de roupa no sofá crescem a cada hora. À noite, o aquecedor continua morto, e a temperatura dentro de casa se aproxima da de fora.
-
 Cena-chave: キャミィ de gorro, cachecol e luvas, medindo a temperatura da sala com termômetro e anunciando 「想定より悪い」. O leque da 舞 continua em cena, sem abanar mas refletindo suas emoções.
-
 Fecho: ダン desiste do conserto e diz que só um técnico resolve, mas só aparece daqui a quatro dias.
 
 **620 — 毛布戦争と鍋の夜**
@@ -245,7 +243,6 @@ Fecho: ダン desiste do conserto e diz que só um técnico resolve, mas só apa
 No segundo dia, 舞 virou uma "montanha de cobertores" que se recusa a dividir. Ela alega que calor humano é mais eficiente que tecido e tenta puxar os outros para o ninho. キャミィ contesta com números e propõe distribuição igualitária. Começa uma guerra de cobertores, com ティファ de juíza.
 Para acabar a briga, ティファ serve um ensopado de ingredientes de inverno e uma bebida de gengibre e mel. Com a barriga quente, ninguém quer mais lutar. Os quatro acabam dividindo o kotatsu, mas só esquenta as pernas. As pernas se tocam, se provocam, mas ninguém sabe de quem é quem as pernas.
 ダン propõe que talvez valha mais a pena pesquisar pousadas com onsen privativo, "só para esperar o técnico". O silêncio dura dois segundos, e 舞 e ティファ erguem as mãos juntas. Uma pousada encontra vaga de última hora e eles partem na manhã seguinte.
-
 Fecho: キャミィ finge que precisa de "análise de risco", mas o rosto entrega que já aprovou. 「悪くない作戦だ」, diz ela. O quarto deles esquenta mais com a ideia do que com o aquecedor. Se preparam para a partida na manhã seguinte.
 
 **621 — 霧雨待ちの道と湯の宿**
@@ -254,7 +251,6 @@ Fecho: キャミィ finge que precisa de "análise de risco", mas o rosto entreg
 De manhã cedinho, o céu está branco e o vento corta. O trem é uma das poucas coisas menos frias do dia, e 舞 dorme no ombro do ダン, dividindo um cobertor, enquanto ティファ e キャミィ dividem um único par de luvas, assim como outro cobertor.
 Na estação final, um ônibus pequeno sobe por uma estrada de montanha com garoa fria. キャミィ memoriza saídas de emergência por hábito, e ティファ comenta que isso faz parte da graça dela. Chegando no ryokan, a recepcionista, uma senhora gentil, leva todos ao quarto: tatame, mesa baixa, futons e uma varanda com onsen privativo.
 Eles trocam as roupas de rua por yukata e haori acolchoados. ダン não sabe para onde olhar, 舞 se diverte com isso e provoca fazendo poses e ティファ ajeita a gola da キャミィ. A comida de boas-vindas inclui chá quente e doces simples.
-
 Fecho: cada um se senta ao kotatsu com uma xícara, e por um momento ninguém diz nada. 舞 finalmente suspira 「あったかい…」. É a primeira vez em dias que eles sentem o corpo inteiro aquecido.
 
 **622 — 貸切露天風呂**
@@ -263,7 +259,6 @@ Fecho: cada um se senta ao kotatsu com uma xícara, e por um momento ninguém di
 À noite o céu abre. O onsen privativo fica na varanda, cercado de pedras e vapor. Eles entram quase ao mesmo tempo, já sem a vergonha dos primeiros banhos, e ficam um tempo só ouvindo a água. ダン antes de entrar fica de bobeira na borda, ティファ manda ele tirar a toalha e entrar logo, ele escorrega de leve e as três tentam segurá-lo ao mesmo tempo.
 Depois, 舞 comenta que a primeira vez deles no onsen foi desastre: 「あの時は大変だった」. ティファ lembra do onsen escondido do acampamento e da fonte natural da viagem de bicicleta, e キャミィ comenta que o desta noite tem "melhor logística". ダン admite que, em cada onsen, o que ele guardou não foi a água, e sim as pessoas dentro dela.
 O clima fica mais íntimo. 舞 se encosta no ダン e ティファ apoia a cabeça no ombro da キャミィ. Há carinho, ombros massageados e um beijo ou outro, tudo sem pressa e com a graça de quem já conhece o jeito do outro. A coisa vai ficando quente, há beijos na nuca, na boca; mão nas costas, coxas, virilha, bumbum, mamilo, etc; há mordidinhas e suor misturado com vapor.
-
 Fecho: com o vapor subindo, finalmente com os corpos quentes, キャミィ murmura que "este é o resultado mais satisfatório da operação". As outras riem baixinho, e ninguém corrige.
 
 **623 — 卓球と浴衣の大勝負**
@@ -273,7 +268,6 @@ Na manhã seguinte, depois de um café da manhã japonês completo, 舞 descobre
 A comédia vem dos yukatas que insistem em abrir (舞 provocando com a situação), das bolas que somem debaixo dos móveis e da seriedade absurda da キャミィ, que trata cada rali como missão. ティファ usa a força do golpe de monge e quase quebra a rede. ダン é o elo fraco, e 舞 compensa com saques enganosos e pose de campeã. ティファ e キャミィ se aproveitam do yukata abrindo para ganhar vantagem distraindo, 舞 brinca também e ダン fala que eles vão perder assim.
 O placar fica apertado até o último ponto. Quem perde, perde por pouco, e no fim quem perde é 舞+ダン, como quase sempre. Dessa vez que errou a raquetada foi 舞, pela distração, após o yukata de キャミィ abrir completamente. A tarefa pedida é simples e fofa: massagem no corpo da dupla vencedora. A massagem acontece depois do jantar, no quarto, com luz baixa.
 À noite os quatro dormem juntos nos futons, rindo baixinho de cada golpe da partida. A intimidade já é natural, e a conversa vai caindo até o silêncio.
-
 Fecho: lá fora a chuva fria continua, e o quarto parece o único lugar quente do mundo.
 
 **624 — 寒い部屋、あたたかい家**
@@ -282,7 +276,62 @@ Fecho: lá fora a chuva fria continua, e o quarto parece o único lugar quente d
 No último dia, ダン recebe uma mensagem do técnico avisando que finalmente que o conserto sai em breve, e a pousada se despede deles com um pequeno amuleto e uma caixa de doces. A volta de trem é tranquila, com cabeças inclinadas e olhos fechados.
 O apartamento continua frio. A sala está silenciosa, o aquecedor segue quebrado e as pilhas de roupa ainda estão onde ficaram. Por um instante ninguém fala.
 ティファ liga o fogão e coloca a chaleira. ダン liga a TV bem no horário da previsão do tempo, para alívio, a partir de amanhã começa a esquentar. 舞 entra na montanha de cobertores novamente, agora sem briga. キャミィ risca o "Protocolo Anti-Hipotermia" da geladeira e escreve embaixo uma linha nova: 「帰宅、完了」. 舞 chama ダン outra vez para entrar no ninho. Dessa vez, キャミィ não atrapalha, e ele entra e ficam abraçados dividindo o calor corporal. Breve conversa sobre o ocorrido no onsen e os yukatas abrindo.
-
 Fecho: o apartamento não está quente, mas é a casa deles. Depois de tomarem o chá quente, todos entram no ninho de cobertor.
 
-### 77 - 624-629 停電の夜と四つの灯り編 (A Noite do Apagão e as Quatro Luzes)
+### 77 - 625-629 停電の夜と四つの灯り編 (A Noite do Apagão e as Quatro Luzes)
+
+**625 — 暖房の戻った夕べ**
+(Uma noite com o aquecimento de volta)
+
+Alguns dias depois da viagem ao onsen, o técnico finalmente conserta o aquecedor. A frente fria começa a perder força, mas o apartamento ainda está gelado o bastante para todos manterem meias grossas e roupas compridas. キャミィ acompanha o reparo como se estivesse inspecionando equipamento militar; quando o aparelho volta a funcionar, registra no antigo protocolo: 「暖房、復旧」. 舞, ainda enrolada num cobertor, reclama que o “ninho” perdeu sua utilidade. ダン responde que ela pode devolvê-lo ao armário. 舞 o puxa para dentro e declara que utilidade e necessidade são coisas diferentes.
+À noite, ティファ prepara chocolate quente enquanto os outros organizam as fotografias da viagem. As brincadeiras giram em torno do tênis de mesa, dos yukatas abrindo, do corpo torneado da キャミィ e do escorregão de ダン no onsen. Quando o apartamento finalmente parece confortável, todas as luzes se apagam de uma vez. O aquecedor silencia, a televisão desaparece e o prédio inteiro mergulha no escuro.
+キャミィ acende imediatamente sua lanterna tática e ordena que ninguém se mova. 舞 acende o celular sob o próprio rosto para assustar ダン, mas acaba assustando a si mesma ao ver uma sombra passar na janela. ティファ procura velas, enquanto ダン verifica os disjuntores e confirma que o problema atingiu todo o prédio. Pela janela, veem o quarteirão parcialmente apagado. 舞 reclama que se demorar de mais para a energia voltar tem que montar o ninho de cobertores novamente, já que acabou de guardar.
+Quatro fontes de luz são colocadas sobre a mesa: a lanterna de キャミィ, uma vela segurada por 舞, o celular de ティファ e a pequena luz de emergência de ダン. Antes que possam relaxar, alguma coisa pesada cai no andar de cima. Em seguida, passos lentos atravessam o corredor do prédio.
+
+**626 — 暗闇を歩く音**
+(O som que caminha na escuridão)
+
+キャミィ apaga três das quatro luzes para enxergar melhor além da porta. 舞 pergunta se aquilo não deixará todos mais assustados; キャミィ responde que o medo não muda a necessidade de avaliar a situação. ティファ reconhece que tem medo de fantasmas, mas insiste que não ficará esperando sozinha. ダン tenta telefonar para a administração do prédio, porém a rede está instável.
+Um novo ruído sobe pela tubulação, seguido de três batidas espaçadas. 舞 brinca que talvez seja a velha do santuário visitando ティファ. A piada termina quando algo raspa do outro lado da porta. キャミィ pega uma faca, 舞 abre o leque e ダン lembra às duas que provavelmente se trata de um vizinho. Ao abrir, encontram o corredor vazio e iluminado apenas pela luz de emergência distante.
+Os quatro descem juntos, mas a escada estreita os divide naturalmente: 舞 e キャミィ seguem à frente com a lanterna; ティファ e ダン ficam atrás com a luz de emergência. 舞 provoca キャミィ por se aproximar demais cada vez que o prédio estala. Atrás delas, ティファ segura a mão de ダン quando o corrimão vibra inesperadamente. Ele pergunta se ela está assustada. 「少しだけ。でも、一人じゃないから」, responde.
+No andar inferior, descobrem uma janela aberta batendo com o vento e um suporte metálico caído. Parte dos ruídos está explicada, mas não os passos. Nesse instante, uma silhueta cruza o patamar superior. Eles sobem depressa e encontram ミケ diante do apartamento, depois de escapar da casa de 山田さん durante a confusão. O mistério se desfaz em alívio e risadas.
+Com 山田さん dormindo e sem luz, decidem manter ミケ com eles até a manhã. Ao retornar, キャミィ percebe que a temperatura do apartamento já começa a cair novamente.
+
+**627 — 二人ずつの灯り**
+(Duas luzes para cada dupla)
+
+De volta à sala, os quatro improvisam um acampamento doméstico. Fecham as cortinas, espalham futons e colocam as luzes no centro. ティファ aquece no fogão a gás o ensopado que restou do jantar; キャミィ confere duas vezes se a ventilação está adequada. ミケ se acomoda no colo dela, destruindo qualquer tentativa de manter expressão militar.
+Durante a refeição, 舞 comenta que a caminhada formou duplas diferentes das habituais: ela com キャミィ, ティファ com ダン. Em vez de constrangimento, surge curiosidade. 舞 pergunta diretamente se todos se sentem confortáveis em permanecer assim naquela noite. ティファ olha para キャミィ antes de responder; キャミィ segura sua mão e diz que confiança não desaparece só porque o parceiro ao lado mudou. ダン confirma com 舞 que nada está sendo feito por obrigação. Ela encosta a testa na dele e responde: 「分かってる。だからできるの」.
+Decidem dividir a vigília. 舞 e キャミィ ficarão primeiro na sala, próximas à porta e às janelas; ティファ e ダン descansarão no quarto, levando uma das lanternas. Depois trocam. 舞 provoca que aquilo parece uma desculpa elaborada para explorar combinações diferentes. キャミィ responde, séria demais, que “a distribuição tem justificativa térmica e operacional”. Ninguém acredita.
+No quarto, ティファ e ダン conversam sobre como a relação dos quatro mudou desde os primeiros dias, quando um toque acidental já causava silêncio. Na sala, 舞 retira as luvas de キャミィ e aquece seus dedos entre as mãos. Quando as luzes piscam brevemente e apagam outra vez, as duas se aproximam por reflexo. 舞 sorri: 「怖いなら、もっと近くに来てもいいわよ」. キャミィ responde que não está com medo — mas não se afasta.
+
+**628 — 闇の中のぬくもり**
+(O calor dentro da escuridão)
+
+Com a madrugada avançando, o suspense dá lugar ao silêncio íntimo. 舞 e キャミィ permanecem no sofá sob o mesmo cobertor. 舞 pergunta se キャミィ acha estranho estar ali sem ティファ. Ela responde que estranho não significa errado e admite que confia em 舞 para cuidar dela sem transformar o momento numa competição. 舞 abandona a provocação por alguns segundos, toca sua cicatriz na bochecha com delicadeza e pergunta antes de beijá-la. キャミィ consente com um movimento curto da cabeça. O beijo começa cauteloso e se torna mais demorado, misturando curiosidade, carinho e o calor procurado desde o apagão. Há beijos, mordidas, mão no corpo todo como mamilo, virilha etc.
+No quarto, ティファ está deitada ao lado de ダン, ambos ainda vestidos. Ela recorda os momentos em que ele permaneceu esperando enquanto as três enfrentavam perigo e admite que sempre quis agradecê-lo sem fazer parecer que estava invadindo o espaço de 舞. ダン responde que 舞 não é um território, assim como ela não pertence à キャミィ. ティファ ri da seriedade da frase, aproxima-se e o beija. O clima ganha sensualidade com carícias, mãos sob as roupas e corpos dividindo o mesmo cobertor, mas os dois mantêm a conversa e verificam os limites um do outro. Depois senta no colo, se ajudam a se despir, há contato no corpo todo, como mamilo, cintura, bumbum, etc.
+Mais tarde, ainda de madrugada, as duplas se reencontram na sala. Não existe cobrança nem necessidade de esconder o que aconteceu. ティファ beija a testa da キャミィ; 舞 se senta no colo de ダン por alguns instantes. Depois, como escolha consciente, voltam às duplas trocadas. As quatro luzes são apagadas, restando somente uma vela.
+舞 e キャミィ se acomodam num futon; ティファ e ダン, no outro. Entre beijos, risadas baixas e carícias mais ousadas, a noite se torna terna e sensual. Não há promessa de mudança permanente: apenas confiança suficiente para permitir uma exceção compartilhada por todos.
+
+**629 — 四つの灯り、ひとつの家**
+(Quatro luzes, uma só casa)
+
+Pouco antes do amanhecer, os quatro despertam na sala. 舞 está abraçada à キャミィ, enquanto ティファ dorme com a cabeça no peito de ダン. ミケ ocupa o espaço central como se tivesse organizado tudo. A cena provoca um silêncio divertido até 舞 perguntar se alguém pretende fingir constrangimento. キャミィ responde: 「必要ない。全員が同意した」.
+A energia ainda não voltou. ティファ prepara café no fogão, ダン fatia o pão e 舞 reclama que キャミィ roubou o cobertor durante a madrugada. キャミィ rebate que 舞 se enrolou nele como uma lagarta. O tom leve impede que a troca de parceiros ganhe peso dramático indevido. Em conversa aberta, todos confirmam que gostaram da experiência e que ninguém se sentiu deixado de lado.
+Os casais habituais se recompõem naturalmente. 舞 abraça ダン por trás enquanto ele prepara o café; ティファ ajeita o cabelo da キャミィ e recebe um beijo discreto. Isso não apaga o carinho da noite anterior: ティファ agradece a ダン por ouvi-la, e キャミィ diz a 舞 que ela foi “surpreendentemente cuidadosa”. 舞 protesta apenas contra o advérbio.
+Quando a eletricidade retorna, as lâmpadas acendem de repente e todos cobrem os olhos. O aquecedor reinicia, a geladeira apita e o apartamento volta aos ruídos habituais. Antes de apagar as velas, ダン posiciona as quatro pequenas luzes sobre a mesa e tira uma fotografia. キャミィ acrescenta ao protocolo: 「停電時、単独行動禁止。体温共有は有効」. 舞 escreve embaixo: 「組み合わせは自由」.
+Depois de devolver ミケ, os quatro descansam juntos no sofá. A noite termina sem redefinir os casais ou criar ciúmes: apenas amplia a intimidade da família escolhida. A fotografia das quatro luzes vai para o painel com a legenda 「暗くても、帰る場所は見える」 — Mesmo no escuro, ainda podemos enxergar o lugar para onde voltar.
+
+_Notas de continuidade_
+
+- Casais preservados: 舞+ダン e ティファ+キャミィ continuam sendo os pares românticos centrais; a troca é casual, consensual e restrita àquela noite.
+
+- Sem “primeira vez” absoluta: o texto deve tratar a troca como aprofundamento da relação aberta já existente, não como uma ruptura repentina.
+
+- Consentimento dialogado: cada aproximação deve incluir pergunta, confirmação ou linguagem corporal inequívoca.
+
+- Quatro luzes: lanterna de キャミィ, vela de 舞, celular de ティファ e luz de emergência de ダン representam quatro personalidades diferentes iluminando a mesma casa.
+
+- Continuidade imediata: o aquecedor foi consertado depois do capítulo 624, a frente fria está terminando e o frio permanece apenas como elemento de atmosfera.
+
+- quilíbrio tonal: capítulos 625–626 priorizam suspense; 627 faz a transição romântica; 628 concentra a sensualidade; 629 encerra com comédia e afeto cotidiano.
