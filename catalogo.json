@@ -5515,8 +5515,8 @@
     {
       "chapter": 613,
       "chapter_kanji": "第六百十三章",
-      "arc": "75 - 家族の記念日編",
-      "group": "75 - 家族の記念日編",
+      "arc": "74 - 何でもない一週間編",
+      "group": "74 - 何でもない一週間編",
       "title": "四人で作る晩ごはん",
       "file": "chapters/第613章　四人で作る晩ごはん.html",
       "status": "existing"
@@ -5571,42 +5571,96 @@
       "chapter_kanji": "第六百十九章",
       "arc": "76 - 寒波と湯けむり編",
       "group": "76 - 寒波と湯けむり編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "寒波警報、発令",
+      "file": "chapters/第619章　寒波警報、発令.html",
+      "status": "existing"
     },
     {
       "chapter": 620,
       "chapter_kanji": "第六百二十章",
       "arc": "76 - 寒波と湯けむり編",
       "group": "76 - 寒波と湯けむり編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "毛布戦争と鍋の夜",
+      "file": "chapters/第620章　毛布戦争と鍋の夜.html",
+      "status": "existing"
     },
     {
       "chapter": 621,
       "chapter_kanji": "第六百二十一章",
       "arc": "76 - 寒波と湯けむり編",
       "group": "76 - 寒波と湯けむり編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "霧雨待ちの道と湯の宿",
+      "file": "chapters/第621章　霧雨待ちの道と湯の宿.html",
+      "status": "existing"
     },
     {
       "chapter": 622,
       "chapter_kanji": "第六百二十二章",
       "arc": "76 - 寒波と湯けむり編",
       "group": "76 - 寒波と湯けむり編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "貸切露天風呂",
+      "file": "chapters/第622章　貸切露天風呂.html",
+      "status": "existing"
     },
     {
       "chapter": 623,
       "chapter_kanji": "第六百二十三章",
       "arc": "76 - 寒波と湯けむり編",
       "group": "76 - 寒波と湯けむり編",
+      "title": "卓球と浴衣の大勝負",
+      "file": "chapters/第623章　卓球と浴衣の大勝負.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 624,
+      "chapter_kanji": "第六百二十四章",
+      "arc": "76 - 寒波と湯けむり編",
+      "group": "76 - 寒波と湯けむり編",
+      "title": "寒い部屋、あたたかい家",
+      "file": "chapters/第624章　寒い部屋、あたたかい家.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 625,
+      "chapter_kanji": "第六百二十五章",
+      "arc": "77 - 停電の夜と四つの灯り編",
+      "group": "77 - 停電の夜と四つの灯り編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 626,
+      "chapter_kanji": "第六百二十六章",
+      "arc": "77 - 停電の夜と四つの灯り編",
+      "group": "77 - 停電の夜と四つの灯り編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 627,
+      "chapter_kanji": "第六百二十七章",
+      "arc": "77 - 停電の夜と四つの灯り編",
+      "group": "77 - 停電の夜と四つの灯り編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 628,
+      "chapter_kanji": "第六百二十八章",
+      "arc": "77 - 停電の夜と四つの灯り編",
+      "group": "77 - 停電の夜と四つの灯り編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 629,
+      "chapter_kanji": "第六百二十九章",
+      "arc": "77 - 停電の夜と四つの灯り編",
+      "group": "77 - 停電の夜と四つの灯り編",
       "title": null,
       "file": null,
       "status": "planned"
