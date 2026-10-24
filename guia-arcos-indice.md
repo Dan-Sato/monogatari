@@ -331,6 +331,10 @@ Os flashbacks devem surgir dentro dos diálogos e ser breves, sem reproduzir cen
 
 Uma frente fria inesperada cobre a cidade durante uma semana. Depois de enfrentar aquecedor defeituoso, roupas empilhadas e キャミィ tratando o frio como situação de sobrevivência, os quatro viajam para um ryokan com onsen. A viagem relembra banhos e pousadas anteriores, mas mostra como agora dividem o mesmo espaço com intimidade natural.
 
-### 77 - 625-629 停電の夜と四つの灯り編 - A Noite do Apagão e as Quatro Luzes
+### 77 - 625-629 停電の夜と四つの灯り編 ⭐⭐⭐ - A Noite do Apagão e as Quatro Luzes
 
 Uma queda de energia prende os quatro no apartamento durante uma noite fria. Lanternas, velas e ruídos do prédio criam tensão, enquanto a proximidade forçada transforma o medo em uma noite íntima e afetuosa.
+
+### 78 - 630-634 猫を預かる一週間編 - (Uma semana cuidando dos gatos)
+
+Alguns dia depois, com a temperatura mais agradável, 山田さん precisa viajar e deixa ミケ e ミク com o grupo. キャミィ prepara o apartamento como uma base felina, mas descobre que gatos ignoram completamente planos operacionais.

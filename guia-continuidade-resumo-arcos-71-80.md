@@ -2,7 +2,7 @@
 
 _Projeto de leitura em japonês._
 
-## 📚 RESUMO DOS ARCOS CONCLUÍDOS
+## 📚 RESUMO DOS ARCOS
 
 ### 71 - 588-595 過去からの手紙
 
@@ -322,16 +322,78 @@ Os casais habituais se recompõem naturalmente. 舞 abraça ダン por trás enq
 Quando a eletricidade retorna, as lâmpadas acendem de repente e todos cobrem os olhos. O aquecedor reinicia, a geladeira apita e o apartamento volta aos ruídos habituais. ダン desliga as luzes novamente, posiciona as quatro pequenas luzes sobre a mesa e tira uma fotografia. キャミィ acrescenta ao protocolo: 「停電時、単独行動禁止。体温共有は有効」. 舞 escreve embaixo: 「組み合わせは自由」.
 No meio da manhã, depois de devolver ミケ, os quatro descansam juntos no sofá, todos com olheira e com cara de sono. O dia começa sem redefinir os casais ou criar ciúmes: apenas amplia a intimidade da família escolhida. A fotografia das quatro luzes vai para o painel com a legenda 「暗くても、帰る場所は見える」 — Mesmo no escuro, ainda podemos enxergar o lugar para onde voltar.
 
-_Notas de continuidade_
+### 78 - 630-634 猫を預かる一週間編 - (Uma semana cuidando dos gatos)
 
-- Casais preservados: 舞+ダン e ティファ+キャミィ continuam sendo os pares românticos centrais; a troca é casual, consensual e restrita àquela noite.
+**Tom:** Comédia / Slice of life, com afeto cotidiano e sem conflito dramático maior.  
+**Formato:** quatro capítulos; roteiros em português com títulos e falas-chave em japonês.  
+**Progressão:** chegada e preparação → adaptação da rotina → pequenas confusões → devolução e encerramento.
 
-- Sem “primeira vez” absoluta: o texto deve tratar a troca como aprofundamento da relação aberta já existente, não como uma ruptura repentina.
+## Encaixe de continuidade
 
-- Consentimento dialogado: cada aproximação deve incluir pergunta, confirmação ou linguagem corporal inequívoca.
+O [cadastro oficial de arcos](https://github.com/Dan-Sato/monogatari/blob/HEAD/arcos.json) já reserva os capítulos **630–633** para o arco 78. O [guia dos arcos 71–80](https://github.com/Dan-Sato/monogatari/blob/HEAD/guia-continuidade-resumo-arcos-71-80.md) encerra o 629 com a energia restabelecida e ミケ devolvido à vizinha; portanto, esta é uma nova hospedagem, dias depois, não uma extensão do apagão.
 
-- Quatro luzes: lanterna de キャミィ, vela de 舞, celular de ティファ e luz de emergência de ダン representam quatro personalidades diferentes iluminando a mesma casa.
+O [guia de personagens](https://github.com/Dan-Sato/monogatari/blob/HEAD/guia-continuidade-personagens.md) identifica ミケ como o gato cinza de 山田さん e ミク como a gata marrom sob seus cuidados; não há mudança de donos. A antiga coleção de pequenos objetos de ミケ, apresentada em [ミステリー編](https://github.com/Dan-Sato/monogatari/blob/HEAD/guia-continuidade-resumo-arcos-1-40.md), permite uma retomada cômica sem repetir o mistério inteiro.
 
-- Continuidade imediata: o aquecedor foi consertado depois do capítulo 624, a frente fria está terminando e o frio permanece apenas como elemento de atmosfera.
+**Proposta nova:** a viagem da vizinha, o mapa da base felina, as situações domésticas e todos os diálogos abaixo são sugestões para este arco, não acontecimentos já publicados.
 
-- quilíbrio tonal: capítulos 625–626 priorizam suspense; 627 faz a transição romântica; 628 concentra a sensualidade; 629 encerra com comédia e afeto cotidiano.
+## Capítulos propostos
+
+### 630 — 猫たちの入居作戦
+
+_Operação de mudança dos gatos_
+
+Alguns dias depois do apagão, com o aquecedor funcionando e a temperatura agradável, 山田さん pede que cuidem de ミケ e ミク durante uma viagem de uma semana. キャミィ aceita na hora. 舞 ergue o leque: 「返事、早すぎない？」. Ela responde que está apenas facilitando a comunicação. ダン aponta as compras já abertas no celular: a preparação começou antes do pedido terminar.
+
+山田さん traz ração, caixas de areia, mantas e orientações. ティファ anota os hábitos dos dois, enquanto キャミィ apresenta um mapa com áreas de alimentação, descanso e brincadeiras. ダン protege cabos e confere janelas; 舞 afasta os enfeites e reclama da quantidade de regras. Antes de partir, a vizinha aconselha: 「無理に仲良くしなくても、大丈夫ですよ」. キャミィ garante que já conhece os hóspedes.
+
+A recepção derrota o planejamento: ミケ deita sobre o mapa e ミク permanece na caixa de transporte aberta, ignorando a cama nova. 舞 chama isso de insubordinação. ティファ sugere deixá-los explorar sem plateia. Na chamada de vídeo, 山田さん vê os quatro no chão, esperando os gatos decidirem o próximo movimento.
+
+À noite, ミク finalmente sai e escolhe a caixa de papelão das compras. ダン pergunta o que fazer com a cama cara. キャミィ senta ao lado dela e responde: 「予備だ」. ミケ ocupa seu colo. A comandante da base perde a liberdade de movimento no primeiro dia.
+
+### 631 — 猫の時間、人の都合
+
+_O tempo dos gatos e os planos dos humanos_
+
+No segundo dia, ミケ acorda キャミィ antes do despertador. Ela elogia a disciplina, até ele voltar a dormir no horário oficial das brincadeiras. ミク prefere observar tudo debaixo de uma cadeira. ティファ mantém a alimentação conforme as instruções de 山田さん; ダン pergunta se o cronograma felino inclui deixar os humanos tomarem café.
+
+舞 resolve conquistar os dois com um brinquedo de vareta. Faz poses e exige que ダン registre sua vitória. ミケ acompanha a ponta com os olhos, mas não se mexe. Quando ela desiste e senta, ele salta. ダン fotografa a expressão indignada de 舞. 「今のは撮らなくていい！」. ミク, por sua vez, aproxima-se de ティファ justamente quando ela para de chamá-la.
+
+No terceiro dia, a rotina já mudou: alguém precisa retirar os gatos do cesto antes da lavagem; a cadeira favorita de ダン vira território disputado; キャミィ anota preferências, não horários. 舞 acusa a soldado de favorecer ミケ, até perceber que reservou uma manta para ミク. Ela diz que é proteção do sofá. Ninguém acredita.
+
+À noite, tentam assistir a um filme. ミケ dorme sobre as pernas de キャミィ e ミク se encosta em 舞, que interrompe uma reclamação para não assustá-la. ティファ entrega o chá a quem não alcança a mesa. ダン pergunta quem está cuidando de quem. キャミィ observa a sala ocupada: 「主導権は、向こうにある」.
+
+### 632 — 小さな宝物の行方
+
+_O paradeiro dos pequenos tesouros_
+
+Entre o quarto e o sexto dia, o apartamento parece obedecer aos hóspedes. ダン quer uma fotografia dos seis para enviar a 山田さん, mas toda tentativa falha: ミケ se vira, ミク se esconde e 舞 sai borrada tentando atraí-los. キャミィ propõe posições fixas. ティファ aponta que só quatro participantes concordaram com a proposta.
+
+Então desaparecem um prendedor de roupa e a tampinha da lente. ダン lembra a antiga coleção de ミケ; キャミィ procura pelos cantos, sem acusar ninguém. 舞 interroga o gato: 「昨夜、どこにいたの？」. ミケ boceja. ティファ responde por ele: no colo da investigadora principal. A própria キャミィ confirma o álibi com seriedade ofensiva.
+
+Encontram os objetos sob o sofá, junto de um brinquedo. ミク aparece para conferir o movimento, impedindo qualquer conclusão sobre o culpado. ダン guarda a tampa na bolsa fechada e 舞 decreta que o caso está arquivado por excesso de fofura. キャミィ recolhe as peças e verifica se não restou nada pequeno ao alcance.
+
+Depois da arrumação, キャミィ senta no tapete, ミケ se estica em suas pernas e ミク acomoda-se perto da mão dela. 舞 e ティファ sentam ao lado. ダン deixa a câmera no temporizador e entra na cena, sem organizar poses. A primeira foto boa registra ninguém olhando para a lente. A resposta da vizinha chega logo: 「二匹とも、安心してるのね」.
+
+### 633 — 任務完了、またおいで
+
+_Missão cumprida, voltem sempre_
+
+No sétimo dia, キャミィ organiza a devolução: potes limpos, mantas separadas e um relatório de hábitos. 舞 encontra anotações sobre lugares favoritos e pedidos de carinho. 「ずいぶん詳しい報告ね」. キャミィ diz que são informações úteis. ダン nota que nada disso estava no plano original.
+
+山田さん retorna com doces e agradece pelas fotografias. ミケ se aproxima; ミク demora a sair da caixa, provocando risadas. ティファ relata a semana sem tratá-la como façanha. A vizinha vê a foto do interrogatório: ミケ nunca parece arrependido. キャミィ entrega o relatório dobrado dentro da sacola, fingindo que ninguém viu.
+
+Depois, a sala fica estranhamente livre. ダン senta na cadeira recuperada e se levanta: acostumou-se a buscar outra. 舞 encontra pelos na camiseta e reclama com um sorriso. ティファ percebe キャミィ olhando o espaço onde ficavam os potes e segura sua mão. 「寂しい？」. Ela demora: 「少しだけ」.
+
+Guardam os acessórios. A caixa preferida de ミク segue com 山田さん. Antes do jantar, chega uma foto dos dois dormindo em casa; キャミィ relaxa. No relatório, troca “cumprimento do cronograma” por “uma semana tranquila”. 舞 acrescenta: 「またおいで」. ダン prende no painel a fotografia dos seis. A mesa fica livre — até 舞 apoiar o leque no lugar do mapa.
+
+## Orientações de escrita
+
+- Distribuir a semana em chegada no primeiro dia, rotina no segundo e terceiro, pequenas confusões entre o quarto e o sexto e devolução no sétimo.
+- Desenvolver as falas-chave em conversas naturais; o humor deve surgir de respostas, pausas e ações, não de uma sucessão de relatórios militares.
+- Fazer キャミィ continuar competente nos cuidados e na segurança: fracassa apenas a pretensão de programar as vontades dos gatos.
+- Dar função aos quatro: キャミィ prepara e aprende a observar; ティファ acolhe e organiza os cuidados; 舞 improvisa brincadeiras e provoca; ダン adapta a casa e registra o cotidiano.
+- Preservar os casais habituais sem transformar ciúmes dos gatos em conflito romântico. Este arco não precisa de cenas sensuais ou nova discussão sobre a relação.
+- Manter o clima agradável e o aquecedor funcionando; não repetir a onda fria nem o apagão.
+- Usar pequenas desordens, não fugas perigosas, doença ou ameaças. Portas e janelas continuam protegidas.
+- Evitar definir uma personalidade rígida para ミク: nesta hospedagem, sua aproximação é gradual, sem reescrever sua história anterior.
+- Encerrar a hospedagem de verdade: ambos voltam para 山田さん; o painel de fotografias recebe uma lembrança, não um novo animal permanente.
