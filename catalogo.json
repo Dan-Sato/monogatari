@@ -5625,42 +5625,78 @@
       "chapter_kanji": "第六百二十五章",
       "arc": "77 - 停電の夜と四つの灯り編",
       "group": "77 - 停電の夜と四つの灯り編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "暖房の戻った夕べ",
+      "file": "chapters/第625章　暖房の戻った夕べ.html",
+      "status": "existing"
     },
     {
       "chapter": 626,
       "chapter_kanji": "第六百二十六章",
       "arc": "77 - 停電の夜と四つの灯り編",
       "group": "77 - 停電の夜と四つの灯り編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "暗闇を歩く音",
+      "file": "chapters/第626章　暗闇を歩く音.html",
+      "status": "existing"
     },
     {
       "chapter": 627,
       "chapter_kanji": "第六百二十七章",
       "arc": "77 - 停電の夜と四つの灯り編",
       "group": "77 - 停電の夜と四つの灯り編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "二人ずつの灯り",
+      "file": "chapters/第627章　二人ずつの灯り.html",
+      "status": "existing"
     },
     {
       "chapter": 628,
       "chapter_kanji": "第六百二十八章",
       "arc": "77 - 停電の夜と四つの灯り編",
       "group": "77 - 停電の夜と四つの灯り編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "闇の中のぬくもり",
+      "file": "chapters/第628章　闇の中のぬくもり.html",
+      "status": "existing"
     },
     {
       "chapter": 629,
       "chapter_kanji": "第六百二十九章",
       "arc": "77 - 停電の夜と四つの灯り編",
       "group": "77 - 停電の夜と四つの灯り編",
+      "title": "四つの灯り、ひとつの家",
+      "file": "chapters/第629章　四つの灯り、ひとつの家.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 630,
+      "chapter_kanji": "第六百三十章",
+      "arc": "78 - 猫を預かる一週間編",
+      "group": "78 - 猫を預かる一週間編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 631,
+      "chapter_kanji": "第六百三十一章",
+      "arc": "78 - 猫を預かる一週間編",
+      "group": "78 - 猫を預かる一週間編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 632,
+      "chapter_kanji": "第六百三十二章",
+      "arc": "78 - 猫を預かる一週間編",
+      "group": "78 - 猫を預かる一週間編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 633,
+      "chapter_kanji": "第六百三十三章",
+      "arc": "78 - 猫を預かる一週間編",
+      "group": "78 - 猫を預かる一週間編",
       "title": null,
       "file": null,
       "status": "planned"
