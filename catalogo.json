@@ -5670,33 +5670,78 @@
       "chapter_kanji": "第六百三十章",
       "arc": "78 - 猫を預かる一週間編",
       "group": "78 - 猫を預かる一週間編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "猫たちの入居作戦",
+      "file": "chapters/第630章　猫たちの入居作戦.html",
+      "status": "existing"
     },
     {
       "chapter": 631,
       "chapter_kanji": "第六百三十一章",
       "arc": "78 - 猫を預かる一週間編",
       "group": "78 - 猫を預かる一週間編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "猫の時間、人の都合",
+      "file": "chapters/第631章　猫の時間、人の都合.html",
+      "status": "existing"
     },
     {
       "chapter": 632,
       "chapter_kanji": "第六百三十二章",
       "arc": "78 - 猫を預かる一週間編",
       "group": "78 - 猫を預かる一週間編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "小さな宝物の行方",
+      "file": "chapters/第632章　小さな宝物の行方.html",
+      "status": "existing"
     },
     {
       "chapter": 633,
       "chapter_kanji": "第六百三十三章",
       "arc": "78 - 猫を預かる一週間編",
       "group": "78 - 猫を預かる一週間編",
+      "title": "任務完了、またおいで",
+      "file": "chapters/第633章　任務完了、またおいで.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 634,
+      "chapter_kanji": "第六百三十四章",
+      "arc": "79 - ドールズの帰る場所編 1",
+      "group": "79 - ドールズの帰る場所編 1",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 635,
+      "chapter_kanji": "第六百三十五章",
+      "arc": "79 - ドールズの帰る場所編 1",
+      "group": "79 - ドールズの帰る場所編 1",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 636,
+      "chapter_kanji": "第六百三十六章",
+      "arc": "79 - ドールズの帰る場所編 1",
+      "group": "79 - ドールズの帰る場所編 1",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 637,
+      "chapter_kanji": "第六百三十七章",
+      "arc": "79 - ドールズの帰る場所編 1",
+      "group": "79 - ドールズの帰る場所編 1",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 638,
+      "chapter_kanji": "第六百三十八章",
+      "arc": "79 - ドールズの帰る場所編 1",
+      "group": "79 - ドールズの帰る場所編 1",
       "title": null,
       "file": null,
       "status": "planned"

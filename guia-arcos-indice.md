@@ -335,6 +335,10 @@ Uma frente fria inesperada cobre a cidade durante uma semana. Depois de enfrenta
 
 Uma queda de energia prende os quatro no apartamento durante uma noite fria. Lanternas, velas e ruídos do prédio criam tensão, enquanto a proximidade forçada transforma o medo em uma noite íntima e afetuosa.
 
-### 78 - 630-634 猫を預かる一週間編 - (Uma semana cuidando dos gatos)
+### 78 - 630-633 猫を預かる一週間編 - (Uma semana cuidando dos gatos)
 
 Alguns dia depois, com a temperatura mais agradável, 山田さん precisa viajar e deixa ミケ e ミク com o grupo. キャミィ prepara o apartamento como uma base felina, mas descobre que gatos ignoram completamente planos operacionais.
+
+### 79 - 634-638 ドールズの帰る場所編 1 - (Um lugar para as Dolls retornarem 1)
+
+A melhora de ユーリ (Juli) revela informações incompletas sobre uma instalação na China usada para esconder antigas Dolls. Depois de meses sem notícias, parece que ainda há remanescentes da Shadaloo. キャミィ, ユーニ (Juni) e ユーリ participam da investigação com apoio da Delta Red. O verdadeiro conflito não é apenas resgatá-las, mas permitir que cada sobrevivente escolha o próprio nome, destino e significado de “casa”. As novas Dolls a aparecer são ヤンユー (Jianyu) e ジウユー (Xiayu). Em algum momento ダン é pego em uma emboscada.
