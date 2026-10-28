@@ -355,3 +355,81 @@ No sétimo dia, キャミィ organiza a devolução: potes limpos, mantas separa
 山田さん retorna com doces e agradece pelas fotografias. ミケ se aproxima; ミク demora a sair da caixa, provocando risadas. ティファ relata a semana sem tratá-la como façanha. A vizinha vê a foto do interrogatório: ミケ nunca parece arrependido. キャミィ entrega o relatório dobrado dentro da sacola, fingindo que ninguém viu.
 Depois, a sala fica estranhamente livre. ダン senta na cadeira recuperada e se levanta: acostumou-se a buscar outra. 舞 encontra pelos na camiseta e reclama com um sorriso. ティファ percebe キャミィ olhando o espaço onde ficavam os potes e segura sua mão. 「寂しい？」. Ela demora: 「少しだけ」.
 Guardam os acessórios. A caixa preferida de ミク segue com 山田さん. Antes do jantar, chega uma foto dos dois dormindo em casa; キャミィ relaxa. No relatório, troca “cumprimento do cronograma” por “uma semana tranquila”. 舞 acrescenta: 「またおいで」. ダン prende no painel a fotografia dos seis. A mesa fica livre — até 舞 apoiar o leque no lugar do mapa.
+
+### 79 - 634-638 ドールズの帰る場所編 1 - (Um lugar para as Dolls retornarem 1)
+
+Cenário proposto: uma instalação fictícia nas montanhas ao norte de Pequim, próxima à Grande Muralha, disfarçada de antigo centro de manutenção. Isso também deixa Pequim e a região da muralha disponíveis para o turismo do arco 80.
+
+Caracterização das gêmeas
+A referência secundária consultada apresenta ヤンユー como a irmã mais velha, associada ao bastão, e ジウユー como a mais nova, associada ao nunchaku; ela também descreve o cabelo longo trançado de ヤンユー. Não consegui confirmar esses detalhes em uma ficha oficial nesta consulta.
+
+Para esta adaptação, ヤンユー estará lúcida, mas ainda desconfiada de organizações militares; ジウユー permanecerá submetida a uma máscara que reforça seu condicionamento. Retirá-la interrompe o controle ativo e permite que ela comece a recuperar a autonomia — não apaga imediatamente o trauma, justificando o tratamento em Londres.
+
+**634 — 朝のステップ、遠い声**
+(Passos pela manhã, uma voz distante)
+
+Alguns dias depois da hospedagem dos gatos, ダン acorda por último e encontra as três preparando o café. Ainda sonolento, mas inexplicavelmente animado, entra dançando, abraça ティファ, beija o rosto キャミィ e gira 舞 pela cintura antes de lhe dar um beijo caloroso e um tapinha no bumbum. 「朝から元気ね？」, ela provoca. キャミィ observa: 「異常だ。睡眠時間を確認する」. Ele responde que uma casa sem operações merece comemoração.
+A mensagem no celular de キャミィ interrompe as risadas. ユーニ (Juni) informa que ユーリ (Juli) está recuperada e foi liberada para participar de uma investigação acompanhada. Fragmentos de memória apontam para uma instalação chinesa: montanhas, veículos fechados e uma muralha vista durante um transporte. Duas irmãs estavam ligadas ao lugar, mas ela não sabe se continuam vivas.
+O café esfria enquanto a Delta Red envia imagens e registros de uma empresa aparentemente encerrada. Depois de meses de silêncio, alguém voltou a movimentar recursos da Shadaloo.
+Os quatro decidem viajar. ダン ficará no apoio de comunicações; ユーニ e ユーリ os encontrarão em Pequim. Antes de guardar o telefone, キャミィ ouve ユーリ pedir: 「今度は、私も助けたい」. Ela responde que ajudar será uma escolha, nunca uma dívida. Os quatro começam a preparação para a viagem dentro de alguns dias.
+
+**635 - 城壁の向こうの影**
+(Sombras além da muralha)
+
+Os quatro seguem rumo ao aeroporto. Partida e chegada. Em Pequim, o reencontro começa contido. ユーリ agradece ao grupo, mas trava quando ティファ pergunta o que gostaria de comer. ユーニ espera sem responder por ela. Uma escolha pequena estabelece o conflito do arco: estar recuperada não significa que decidir tenha se tornado fácil.
+No alojamento operacional, a Delta Red cruza suas lembranças com imagens da região. A suspeita recai sobre um centro de manutenção isolado. Há circulação noturna, embora a empresa responsável não tenha funcionários registrados. O apoio britânico coordena a investigação com contatos locais e prepara transporte médico, caso encontrem sobreviventes.
+Durante o reconhecimento, ユーリ identifica uma curva da estrada. Logo depois, キャミィ percebe que estão sendo observadas. Uma mulher surge entre construções abandonadas, segurando um bastão. Em vez de atacar, pergunta: 「まだ、組織のために戦っているの？」
+É ヤンユー (Jianyu). Ela escapou, mas voltou para buscar a irmã, capturada novamente. Não confia na Delta Red e exige que ninguém transforme o resgate em recrutamento. キャミィ aceita: 「連れて帰るんじゃない。選べる場所まで、一緒に行く」. ヤンユー baixa a arma, sem ainda abandonar a desconfiança.
+
+**636 - 仮面の下の妹**
+(A irmã sob a máscara)
+
+ヤンユー revela que os remanescentes recolhem antigas Dolls para tentar reconstruir uma unidade obediente. ジウユー (Xiayu) resistiu ao primeiro condicionamento, então recebeu uma máscara experimental que transmite comandos e dificulta sua orientação. A irmã lembra de sua voz, mas não sabe se ainda consegue reconhecê-la.
+ユーリ completa as lacunas: recorda o corredor médico e uma sala de transferência. Ao tentar descrever os procedimentos, perde o fôlego. ユーニ interrompe a reunião. 「思い出せるところまででいい」. A informação não vale mais que a pessoa que a fornece.
+O plano mantém ダン em um veículo de apoio, fora do perímetro, com o tablet recebendo imagens de reconhecimento e alertas de movimento. キャミィ, 舞, ティファ e as três ex-Dolls entram para confirmar a localização de ジウユー. A equipe de extração ficará disponível nas proximidades.
+Já dentro da instalação, encontram camas vazias e registros incompletos: outras mulheres passaram por ali. ヤンユー reconhece marcas feitas pela irmã numa parede. Então uma câmera muda de direção antes que alguém a toque. Pelo rádio, ダン avisa que os guardas não estão reagindo à invasão. Estão conduzindo o grupo para algum lugar.
+
+**637 - 逆流する赤い点**
+(Pontos vermelhos na contramão)
+
+No tablet, ダン acompanha sinais de movimento surgindo atrás da equipe. As imagens confirmam homens armados fechando os corredores de retirada. Ao mesmo tempo, ジウユー está sendo levada para um setor de transferência. Recuar agora significaria perdê-la; avançar sem alteração deixaria todas cercadas.
+ダン transmite o alerta, mas a comunicação começa a falhar. Pelo sistema de apoio, faz sua posição aparecer como um ponto ativo de retirada, chamando parte dos perseguidores para fora. Não tenta enfrentar ninguém: pretende dividir a atenção e abandonar o veículo pela rota combinada.
+Alguns sinais mudam de direção. キャミィ percebe a abertura e entende o que ele fez. 「ダン、離脱して」. A resposta vem entre ruídos: 「分かってる。そっちを先に——」
+A saída já está bloqueada. O grupo externo não seguia apenas o sinal: fazia parte de uma segunda emboscada. ダン tenta se afastar, é derrubado e atingido antes de alcançar abrigo. A cena acompanha sua dificuldade para proteger a cabeça e manter o rádio, sem transformar a agressão em espetáculo.
+舞 ouve um impacto e sua voz desaparecer, ela começa a ficar desesperada. ティファ segura seu braço por um instante. 「一緒に戻ろう」. As duas retornam; キャミィ, ヤンユー, ユーニ e ユーリ continuam até ジウユー.
+
+**638 - 二つの救出**
+(Dois resgates)
+
+A narrativa alterna os dois caminhos. 舞 quer correr diretamente até o veículo, mas ティファ identifica homens esperando pela aproximação. As duas contornam a emboscada e atacam juntas. 舞 mantém os agressores afastados enquanto ティファ alcança ダン, caído junto ao equipamento destruído.
+Ele tenta dizer que conseguiu desviá-los. Ela corta a explicação: 「今は、話さなくていい」. Quando 舞 se ajoelha ao seu lado, a raiva dá lugar ao medo. Não há bronca nem promessa de vingança; apenas a necessidade de mantê-lo consciente até chegar atendimento.
+Dentro da instalação, ジウユー intercepta o outro grupo. Combate com movimentos rápidos e nunchaku, obedecendo às instruções da máscara. ヤンユー chama seu nome, mas recebe a resposta: 「対象を排除する」. キャミィ percebe que ela reage antes mesmo de observar quem está à frente.
+ユーニ e ユーリ procuram interromper o controle, enquanto キャミィ protege ヤンユー dos golpes. A irmã insiste numa lembrança particular, anterior à Shadaloo: um pequeno hábito compartilhado, criado para esta história. Por um instante, ジウユー hesita.
+No rádio, chega a notícia de que ダン foi encontrado vivo. キャミィ fecha os olhos por um segundo. Então vê a mão de ジウユー tocar a própria máscara.
+
+**639 - その名前を呼んで**
+(Chame-a pelo nome)
+
+A hesitação dura pouco. Um controlador intensifica os comandos e ジウユー volta a atacar, agora com sinais claros de sofrimento. キャミィ evita golpes incapacitantes; ヤンユー se recusa a tratá-la como inimiga. 「命令じゃない。私の声を聞いて」.
+ユーニ e ユーリ interrompem a transmissão local, mas a máscara continua operando. Para removê-la, precisam se aproximar sem ferir ジウユー. キャミィ contém seu avanço, ユーリ protege ヤンユー e a irmã consegue alcançar as presilhas. O equipamento cai. ジウユー perde o equilíbrio, ainda procurando uma ordem que não chega.
+Ninguém exige reconhecimento imediato. ヤンユー se ajoelha à distância de um braço e pergunta se pode tocá-la. A resposta demora; depois vem um pequeno aceno. 「……お姉ちゃん？」. É o primeiro gesto de escolha, não uma recuperação completa.
+A equipe de apoio assume a instalação, recolhe provas e providencia a retirada. Os registros indicam outras transferências, preservando o sentido de “parte 1”.
+No atendimento médico, ダン é avaliado enquanto 舞 permanece ao seu lado na cadeira ao lado da maca dando frutas cortadas na boca. ティファ recebe キャミィ com um abraço silencioso. Quando ele pergunta pelas irmãs, ela responde: 「二人とも、ここにいる」. Só então ele deixa de tentar se levantar.
+
+**640 - 帰る場所は、自分で**
+(Um lugar para voltar, escolhido por si)
+
+Após alguns dias de observação, ダン recebe alta com restrições e necessidade de repouso. As contusões continuam visíveis; levantar e rir ainda incomodam. O contraste com a manhã dançante aparece quando ele abre os braços para receber 舞 e precisa diminuir o movimento. Ela se aproxima devagar, sem fazer da dor uma piada.
+ヤンユー recebe a proposta de tratamento em Londres e pergunta se isso exige entrar para a Delta Red. キャミィ responde que não. ジウユー também é consultada, com tempo e explicações simples. As duas escolhem viajar juntas, acompanhadas por uma equipe médica. Não precisam abandonar seus nomes nem decidir imediatamente onde viverão depois.
+ユーリ observa a despedida sem se colocar no papel de paciente. ユーニ lembra que elas prometeram aproveitar uma viagem sem passar todos os dias entre relatórios. Os quatro e as duas permanecem na região, mas o turismo só começará depois do descanso de ダン.
+À noite, ele agradece por terem voltado. ティファ responde: 「迎えに行くに決まってるでしょ」. キャミィ registra as irmãs como resgatadas, não como assunto encerrado. A última conversa é simples: amanhã, nada de missões. Primeiro, tomar café juntos.
+
+#### Notas para os próximos arcos
+
+Arco 80: turismo em Pequim e na região da muralha, com passeios ajustados à recuperação de ダン; não começar com esforço físico intenso nem apagar os ferimentos.
+
+Arco 81: fica reservada a reflexão sobre aprender a se defender. Neste arco, ダン não pesquisa aulas, não pede treinamento e não anuncia essa intenção.
+
+Parte 2 das Dolls: os registros encontrados apontam outras sobreviventes, mas não precisam revelar imediatamente nomes ou a próxima instalação.
+
+Núcleo emocional: ダン contribui como apoio, mas não vira combatente; ヤンユー pede ajuda sem entregar a autonomia da irmã; ユーリ participa por vontade própria; retirar a máscara inicia a recuperação de ジウユー, em vez de resolver tudo.
