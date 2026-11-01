@@ -179,7 +179,7 @@ Focada em:
 
 ### Personagens Secundários Estabelecidos
 
-- **ユーニ (Juni):** Ex-Doll Shadaloo, "irmã" キャミィ, loira olhos azuis, em Londres sob proteção Delta Red, aprendendo cozinhar, fala japonês (キャミィ ensinou). Transição 敬語→普通体 durante arco Inglaterra. _Arcos: 海外旅行編 ; 過去の影編 ; 桜の季節編_ . A partir do _上海の影_ cuida de Juli com a Delta Red.
+- **ユーニ (Juni):** Ex-Doll Shadaloo, "irmã" キャミィ, loira olhos azuis, em Londres sob proteção Delta Red, aprendendo cozinhar, fala japonês (キャミィ ensinou). Transição 敬語→普通体 durante arco Inglaterra. _Arcos: 海外旅行編 ; 過去の影編 ; 桜の季節編 ; ドールズの帰る場所編 1_ . A partir do _上海の影_ cuida de Juli com a Delta Red.
 - **ホクトマル:** Jovem ninja talentoso, 実務当主 do clã 不知火, responsável gestão diária da 里.
 - **トム:** Dono de pub em Londres, amigo キャミィ desde ela entrou Delta Red. Primeira vez キャミィ levou amigos ao pub.
 - **山田さん:** Idosa, 1º andar do prédio, dona do ミケ. Gentil e grata. Apareceu no arco ミステリー編 (350–356).
@@ -195,12 +195,14 @@ Focada em:
 - **モリガン・アーンスランド:** Súcubo dona do castelo, conduz a revelação sobre as garotas da vila, explica a influência dos sonhos e encerra o conflito sem luta, deixando tudo em tom leve e bem-humorado. _Arcos: スコットランド作戦編 ; 猫と本屋の季節 (ちょっとした焼き餅)_
 - **B.ジェニー:** É a capitã do navio pirata usado na operação — figura descontraída, confiável nos momentos de combate e cúmplice bem-humorada do grupo. Aliada externa recorrente que oferece apoio logístico e transporte. _Arcos: 海賊作戦編_
 - **ミク:** Gata marrom que apareceu na porta do apartamento. Depois ficou aos cuidados da 山田さん. _Arcos: 猫と本屋の季節_
-- **ユーリ (Juli):** Foi capturada pela Shadaloo e resgatada por Chun-Li e o grupo. Ficou aos cuidados de Juni e a Delta Red. _Arcos: 上海の影_
+- **ユーリ (Juli):** Foi capturada pela Shadaloo e resgatada por Chun-Li e o grupo. Ficou aos cuidados de Juni e a Delta Red. _Arcos: 上海の影 ; ドールズの帰る場所編 1_
 - **春麗 (Chun-Li):** Agente da Interpol. Derrotou a célula da Shadaloo em Xangai com o grupo. Antiga amiga de キャミィ e 舞. _Arcos: 上海の影_
 - **エルヴィラ:** Voluptuosa rainha de アルディア, costuma flertar com o grupo, principalmente com as garotas. Personagem das campanhas de RPG _Arcos: 雨の週とダンジョンの夜; 戦国異聞録編_
 - **レインボー・ミカ (R. Mika):** Veterana carismática e generosa; treinou Tifa do zero, tornou-se sua parceira de título e despediu-se sem rancor, prometendo revanche amistosa no futuro. _Arcos: 虹色の挑戦者編_
 - **ナデシコ (Nadeshiko)** — Parceira original da Mika; afastada por concussão durante o arco, retornou recuperada para retomar seu posto ao lado da campeã. _Arcos: 虹色の挑戦者編_
-- - 源田のばあさん: uma senhora que encenava a lenda para proteger os visitantes de uma área do santuário em risco de desabamento; descobrem, por um jornal, que ela já havia falecido dez anos antes. _Arcos: 仮面の祭_
+- **源田のばあさん**: uma senhora que encenava a lenda para proteger os visitantes de uma área do santuário em risco de desabamento; descobrem, por um jornal, que ela já havia falecido dez anos antes. _Arcos: 仮面の祭_
 - **レオナ (Leona):** Soldado calada, marcada pelo sangue de Orochi e sem lembrança do que aconteceu. Reconhece o custo da contenção e agradece a Cammy com um aceno mínimo. _Arcos: 過去からの手紙_
 - **ウィップ (Whip):** Amiga leal de Leona. É jogada para longe por um golpe dela, mas se levanta e prende seus braços com o Voodoo. Fica ao lado da amiga em silêncio e depois explica o Riot of the Blood. _Arcos: 過去からの手紙_
 - **Personagens do FFVII:** Personagens do FFVII aparecem por meio do passado narrado por ティファ. _Arcos: ティファの過去編_
+- **ヤンユー** (Jianyu): Irmã de Xiayu; Escapa da instalação e volta para buscar a irmã, com um bastão e trança longa (635). Desconfia da Delta Red e exige que o resgate não vire recrutamento. Chama a ジウユー pelo nome, abre as presilhas da máscara (639) e assina o termo de tratamento (640). _Arcos: ドールズの帰る場所編 1_
+- **ジウユー** (Xiayu): Irmã de Jianyu; Mantida por uma máscara de rosto inteiro que dá ordens e confunde a orientação. Ataca com nunchaku e repete 「対象を排除する」 (638). Hesita com o hábito de dividir o prato, perde a máscara e diz 「お姉ちゃん？」 (639). Aceita ir a Londres com a irmã (640). _Arcos: ドールズの帰る場所編 1_

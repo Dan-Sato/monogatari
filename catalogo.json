@@ -5706,42 +5706,96 @@
       "chapter_kanji": "第六百三十四章",
       "arc": "79 - ドールズの帰る場所編 1",
       "group": "79 - ドールズの帰る場所編 1",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "朝のステップ、遠い声",
+      "file": "chapters/第634章　朝のステップ、遠い声.html",
+      "status": "existing"
     },
     {
       "chapter": 635,
       "chapter_kanji": "第六百三十五章",
       "arc": "79 - ドールズの帰る場所編 1",
       "group": "79 - ドールズの帰る場所編 1",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "城壁の向こうの影",
+      "file": "chapters/第635章　城壁の向こうの影.html",
+      "status": "existing"
     },
     {
       "chapter": 636,
       "chapter_kanji": "第六百三十六章",
       "arc": "79 - ドールズの帰る場所編 1",
       "group": "79 - ドールズの帰る場所編 1",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "仮面の下の妹",
+      "file": "chapters/第636章　仮面の下の妹.html",
+      "status": "existing"
     },
     {
       "chapter": 637,
       "chapter_kanji": "第六百三十七章",
       "arc": "79 - ドールズの帰る場所編 1",
       "group": "79 - ドールズの帰る場所編 1",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "逆流する赤い点",
+      "file": "chapters/第637章　逆流する赤い点.html",
+      "status": "existing"
     },
     {
       "chapter": 638,
       "chapter_kanji": "第六百三十八章",
       "arc": "79 - ドールズの帰る場所編 1",
       "group": "79 - ドールズの帰る場所編 1",
+      "title": "二つの救出",
+      "file": "chapters/第638章　二つの救出.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 639,
+      "chapter_kanji": "第六百三十九章",
+      "arc": "79 - ドールズの帰る場所編 1",
+      "group": "79 - ドールズの帰る場所編 1",
+      "title": "その名前を呼んで",
+      "file": "chapters/第639章　その名前を呼んで.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 640,
+      "chapter_kanji": "第六百四十章",
+      "arc": "79 - ドールズの帰る場所編 1",
+      "group": "79 - ドールズの帰る場所編 1",
+      "title": "帰る場所は、自分で",
+      "file": "chapters/第640章　帰る場所は、自分で.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 641,
+      "chapter_kanji": "第六百四十一章",
+      "arc": "80 - 再会の約束編",
+      "group": "80 - 再会の約束編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 642,
+      "chapter_kanji": "第六百四十二章",
+      "arc": "80 - 再会の約束編",
+      "group": "80 - 再会の約束編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 643,
+      "chapter_kanji": "第六百四十三章",
+      "arc": "80 - 再会の約束編",
+      "group": "80 - 再会の約束編",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 644,
+      "chapter_kanji": "第六百四十四章",
+      "arc": "80 - 再会の約束編",
+      "group": "80 - 再会の約束編",
       "title": null,
       "file": null,
       "status": "planned"

@@ -304,7 +304,7 @@ Fechamento do verão num parque aquático: novos biquínis com shorts, toboágua
 
 O grupo vai a um festival tradicional e, seguindo um boato de "espírito mascarado". Uma senhora que encenava a lenda para proteger os visitantes de uma área do santuário em risco de desabamento; descobrem que ela já havia falecido dez anos antes — encerrando o verão com um mistério doce-amargo e a promessa cumprida de cuidar do santuário.
 
-## Arcos 71–80 (Tailândia/Ikari Warriors, passado de Tifa 3, Seventh Heaven, rotina,)
+## Arcos 71–80 (Tailândia/Ikari Warriors, passado de Tifa 3, Seventh Heaven, rotina, aniversário da família)
 
 ### 71. 過去からの手紙 (588-595) ⭐ - Cartas do passado
 
@@ -327,6 +327,8 @@ Um arco curto e leve, passado dentro de uma semana comum, sem missão e sem dram
 O aniversário não precisa corresponder ao contrato do apartamento nem a uma data perfeitamente objetiva. A graça está justamente na discussão sobre quando os quatro realmente “viraram uma família”. Ao final, eles escolhem celebrar o período em que passaram a considerar o apartamento um lugar para o qual todos poderiam dizer 「ただいま」.
 Os flashbacks devem surgir dentro dos diálogos e ser breves, sem reproduzir cenas inteiras. As lembranças dolorosas — Shadaloo, Nibelheim, naufrágio, missões e perdas — aparecem ao lado das felizes, mostrando que o grupo não apagou o passado; aprendeu a carregá-lo em conjunto.
 
+## Arcos 76–80 (Ryokan, apagão, gatos, ヤンユー (Jianyu) e ジウユー (Xiayu) em Pequim, turismo em Pequim)
+
 ### 76 - 619–624 寒波と湯けむり編 ⭐⭐⭐⭐⭐ - Onda fria e vapor de fonte termal
 
 Uma frente fria inesperada cobre a cidade durante uma semana. Depois de enfrentar aquecedor defeituoso, roupas empilhadas e キャミィ tratando o frio como situação de sobrevivência, os quatro viajam para um ryokan com onsen. A viagem relembra banhos e pousadas anteriores, mas mostra como agora dividem o mesmo espaço com intimidade natural.
@@ -335,10 +337,14 @@ Uma frente fria inesperada cobre a cidade durante uma semana. Depois de enfrenta
 
 Uma queda de energia prende os quatro no apartamento durante uma noite fria. Lanternas, velas e ruídos do prédio criam tensão, enquanto a proximidade forçada transforma o medo em uma noite íntima e afetuosa.
 
-### 78 - 630-633 猫を預かる一週間編 - (Uma semana cuidando dos gatos)
+### 78 - 630-633 猫を預かる一週間編 - Uma semana cuidando dos gatos
 
 Alguns dia depois, com a temperatura mais agradável, 山田さん precisa viajar e deixa ミケ e ミク com o grupo. キャミィ prepara o apartamento como uma base felina, mas descobre que gatos ignoram completamente planos operacionais.
 
-### 79 - 634-638 ドールズの帰る場所編 1 - (Um lugar para as Dolls retornarem 1)
+### 79 - 634-640 ドールズの帰る場所編 1 - Um lugar para as Dolls retornarem 1
 
 A melhora de ユーリ (Juli) revela informações incompletas sobre uma instalação na China usada para esconder antigas Dolls. Depois de meses sem notícias, parece que ainda há remanescentes da Shadaloo. キャミィ, ユーニ (Juni) e ユーリ participam da investigação com apoio da Delta Red. O verdadeiro conflito não é apenas resgatá-las, mas permitir que cada sobrevivente escolha o próprio nome, destino e significado de “casa”. As novas Dolls a aparecer são ヤンユー (Jianyu) e ジウユー (Xiayu). Em algum momento ダン é pego em uma emboscada.
+
+### 80 - 641-644 - 再会の約束編 - A Promessa da Reunião
+
+Como o grupo ainda está na China, resolvem cumprir a promessa feita no mirante, mas em vez de Xangai ficam onde estão, em Pequim. Em vez de uma nova missão, o foco está na recuperação de Juli, em sua dificuldade para fazer escolhas comuns e em キャミィ explorando a cidade todos juntos, sem tratá-la como soldado ou paciente. A promessa de retorno a Xangai já havia sido estabelecida depois do resgate.
