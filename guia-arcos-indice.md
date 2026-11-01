@@ -345,6 +345,6 @@ Alguns dia depois, com a temperatura mais agradável, 山田さん precisa viaja
 
 A melhora de ユーリ (Juli) revela informações incompletas sobre uma instalação na China usada para esconder antigas Dolls. Depois de meses sem notícias, parece que ainda há remanescentes da Shadaloo. キャミィ, ユーニ (Juni) e ユーリ participam da investigação com apoio da Delta Red. O verdadeiro conflito não é apenas resgatá-las, mas permitir que cada sobrevivente escolha o próprio nome, destino e significado de “casa”. As novas Dolls a aparecer são ヤンユー (Jianyu) e ジウユー (Xiayu). Em algum momento ダン é pego em uma emboscada.
 
-### 80 - 641-644 - 再会の約束編 - A Promessa da Reunião
+### 80 - 641-645 - 再会の約束編 - A Promessa da Reunião
 
 Como o grupo ainda está na China, resolvem cumprir a promessa feita no mirante, mas em vez de Xangai ficam onde estão, em Pequim. Em vez de uma nova missão, o foco está na recuperação de Juli, em sua dificuldade para fazer escolhas comuns e em キャミィ explorando a cidade todos juntos, sem tratá-la como soldado ou paciente. A promessa de retorno a Xangai já havia sido estabelecida depois do resgate.
