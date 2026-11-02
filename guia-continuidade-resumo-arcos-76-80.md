@@ -219,9 +219,7 @@ Após alguns dias de observação, enquanto 舞 está na cadeira ao lado da maca
 
 ### 80 - 641-645 - 再会の約束編 - A Promessa da Reunião
 
-Para **80 — 再会の約束編**, proponho **cinco capítulos, do 641 ao 645**, com os passeios distribuídos por vários dias. O fio condutor será **aprender a cuidar sem decidir pelo outro**, aproximando a superproteção da キャミィ com ユーリ e a da 舞 com ダン.
-
-Não consegui conferir diretamente os HTMLs nesta resposta; parti do registro disponível do encerramento do 640, que estabelece uma semana de repouso para ダン, sem peso ou longas caminhadas, e a continuidade da viagem com ユーニ e ユーリ. Por isso, a Grande Muralha fica para o fim da estadia, depois de uma reavaliação, sem transformar sua recuperação em algo instantâneo. [perplexity](https://www.perplexity.ai/search/80bd7ae1-dca6-4bae-b023-25fab9e862e3)
+Para **80 — 再会の約束編**, proponho **cinco capítulos, do 641 ao 645**, com os passeios distribuídos por vários dias. O fio condutor será **aprender a cuidar sem decidir pelo outro**, aproximando a superproteção da キャミィ com ユーリ e a da 舞 com ダン. Superproteção da 舞 com ダン é cômico, enquento da キャミィ com ユーリ é mais sério. Não esqueça das fotografias do ダン e leque da 舞.
 
 ## 641 — 今日は、何が食べたい？
 
@@ -239,7 +237,7 @@ O único passeio será uma saída curta nas proximidades. ダン pede para volta
 
 _Uma praça imensa, um pequeno desvio_
 
-Depois de uma manhã tranquila, visitam a Praça da Paz Celestial, com transporte organizado e um percurso curto. ダン usa cadeira de rodas para poupar esforço; 舞 segura as alças com uma seriedade que faz ティファ perguntar quem recebeu alta e quem assumiu o comando. Ele negocia: nada de corrida, nada de alimentá-lo enquanto estiverem andando.
+Depois de uma manhã tranquila, visitam a Praça da Paz Celestial, com transporte organizado e um percurso curto. ダン usa cadeira de rodas para poupar esforço; 舞 segura as alças com uma seriedade que faz ティファ perguntar quem recebeu alta e quem assumiu o comando. Ele negocia: nada de corrida, nada de alimentá-lo enquanto estiverem andando, 舞 reclama, mas quem cede é o ダン. 舞 e ティファ revezam o empurrar da cadeira.
 
 A amplitude da praça deixa ユーリ em silêncio. ユーニ pergunta se quer uma fotografia, mas ela demora para escolher onde ficar. キャミィ indica imediatamente uma posição com melhor circulação. Quando percebe, já reorganizou todos. 「観光にも配置があるの？」, ティファ pergunta baixinho.
 
@@ -285,13 +283,13 @@ No último dia, ユーリ pede uma hora para comprar lembranças. ユーニ a ac
 
 De volta ao alojamento, ユーリ entrega cinco presentes: uma pequena bolsa para キャミィ levar coisas que não sejam equipamento; chá para ティファ; um acessório de cabelo para 舞; um caderno para ダン registrar viagens sem trabalhar; e dois enfeites de cores diferentes, um para ユーニ e outro para si. Explica suas escolhas com frases simples, sem se desculpar por nenhuma delas.
 
-As fotografias da muralha completam a despedida. 舞 tenta incluir uma imagem de ダン recebendo comida, e ele exige direito de veto. ティファ oferece uma negociação claramente favorável a 舞.
+As fotografias da muralha completam a despedida. 舞 tenta incluir uma imagem de ダン recebendo comida, e ele exige direito de veto. ティファ oferece uma negociação claramente favorável a 舞. Acaba recebendo das duas.
 
 Quando surge a pergunta sobre o futuro, ユーリ diz que voltará a Londres por enquanto. Quer reencontrar as irmãs resgatadas e descobrir como será viver ali sem organizar todos os dias em torno da recuperação. Isso não significa decidir onde ficará para sempre. 「その先は、まだ決めてない」.
 
 キャミィ responde apenas: 「分かった」. Não oferece um plano melhor.
 
-Antes da partida, combinam mandar notícias e voltar a se encontrar. A promessa agora admite mudanças de cidade e de vontade. Na última cena, ユーリ escolhe seu café da manhã antes que alguém precise perguntar.
+Antes da partida, combinam mandar notícias e voltar a se encontrar. A promessa agora admite mudanças de cidade e de vontade. Na última cena, ユーリ escolhe seu café da manhã antes que alguém precise perguntar. Os dois grupos se separam, ユーニ e ユーリ voltam para Londres e os quatro voltam para casa no Japão.
 
 ## Amarrações de continuidade
 
