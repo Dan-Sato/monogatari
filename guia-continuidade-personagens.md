@@ -179,7 +179,7 @@ Focada em:
 
 ### Personagens Secundários Estabelecidos
 
-- **ユーニ (Juni):** Ex-Doll Shadaloo, "irmã" キャミィ, loira olhos azuis, em Londres sob proteção Delta Red, aprendendo cozinhar, fala japonês (キャミィ ensinou). Transição 敬語→普通体 durante arco Inglaterra. _Arcos: 海外旅行編 ; 過去の影編 ; 桜の季節編 ; ドールズの帰る場所編 1_ . A partir do _上海の影_ cuida de Juli com a Delta Red.
+- **ユーニ (Juni):** Ex-Doll Shadaloo, "irmã" キャミィ, loira olhos azuis, em Londres sob proteção Delta Red, aprendendo cozinhar, fala japonês (キャミィ ensinou). Transição 敬語→普通体 durante arco Inglaterra. A partir do _上海の影_ cuida de Juli com a Delta Red. _Arcos: 海外旅行編 ; 過去の影編 ; 桜の季節編 ; ドールズの帰る場所編 1 , 再会の約束編_ .
 - **ホクトマル:** Jovem ninja talentoso, 実務当主 do clã 不知火, responsável gestão diária da 里.
 - **トム:** Dono de pub em Londres, amigo キャミィ desde ela entrou Delta Red. Primeira vez キャミィ levou amigos ao pub.
 - **山田さん:** Idosa, 1º andar do prédio, dona do ミケ. Gentil e grata. Apareceu no arco ミステリー編 (350–356).
@@ -195,7 +195,7 @@ Focada em:
 - **モリガン・アーンスランド:** Súcubo dona do castelo, conduz a revelação sobre as garotas da vila, explica a influência dos sonhos e encerra o conflito sem luta, deixando tudo em tom leve e bem-humorado. _Arcos: スコットランド作戦編 ; 猫と本屋の季節 (ちょっとした焼き餅)_
 - **B.ジェニー:** É a capitã do navio pirata usado na operação — figura descontraída, confiável nos momentos de combate e cúmplice bem-humorada do grupo. Aliada externa recorrente que oferece apoio logístico e transporte. _Arcos: 海賊作戦編_
 - **ミク:** Gata marrom que apareceu na porta do apartamento. Depois ficou aos cuidados da 山田さん. _Arcos: 猫と本屋の季節_
-- **ユーリ (Juli):** Foi capturada pela Shadaloo e resgatada por Chun-Li e o grupo. Ficou aos cuidados de Juni e a Delta Red. _Arcos: 上海の影 ; ドールズの帰る場所編 1_
+- **ユーリ (Juli):** Foi capturada pela Shadaloo e resgatada por Chun-Li e o grupo. Ficou aos cuidados de Juni e a Delta Red. _Arcos: 上海の影 ; ドールズの帰る場所編 1 , 再会の約束編_
 - **春麗 (Chun-Li):** Agente da Interpol. Derrotou a célula da Shadaloo em Xangai com o grupo. Antiga amiga de キャミィ e 舞. _Arcos: 上海の影_
 - **エルヴィラ:** Voluptuosa rainha de アルディア, costuma flertar com o grupo, principalmente com as garotas. Personagem das campanhas de RPG _Arcos: 雨の週とダンジョンの夜; 戦国異聞録編_
 - **レインボー・ミカ (R. Mika):** Veterana carismática e generosa; treinou Tifa do zero, tornou-se sua parceira de título e despediu-se sem rancor, prometendo revanche amistosa no futuro. _Arcos: 虹色の挑戦者編_

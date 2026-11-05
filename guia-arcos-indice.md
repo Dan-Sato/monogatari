@@ -348,3 +348,7 @@ A melhora de ユーリ (Juli) revela informações incompletas sobre uma instala
 ### 80 - 641-645 - 再会の約束編 - A Promessa da Reunião
 
 Como o grupo ainda está na China, resolvem cumprir a promessa feita no mirante, mas em vez de Xangai ficam onde estão, em Pequim. Em vez de uma nova missão, o foco está na recuperação de Juli, em sua dificuldade para fazer escolhas comuns e em キャミィ explorando a cidade todos juntos, sem tratá-la como soldado ou paciente. A promessa de retorno a Xangai já havia sido estabelecida depois do resgate.
+
+## Arcos 81–85 (halloween,)
+
+### 81 - 646-649 -

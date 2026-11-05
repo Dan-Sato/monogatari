@@ -221,81 +221,61 @@ Após alguns dias de observação, enquanto 舞 está na cadeira ao lado da maca
 
 Para **80 — 再会の約束編**, proponho **cinco capítulos, do 641 ao 645**, com os passeios distribuídos por vários dias. O fio condutor será **aprender a cuidar sem decidir pelo outro**, aproximando a superproteção da キャミィ com ユーリ e a da 舞 com ダン. Superproteção da 舞 com ダン é cômico, enquento da キャミィ com ユーリ é mais sério. Não esqueça das fotografias do ダン e leque da 舞.
 
-## 641 — 今日は、何が食べたい？
-
-_Hoje, o que você quer comer?_
+**641 — 今日は、何が食べたい？**
+(Hoje, o que você quer comer?)
 
 Na manhã seguinte, os seis tomam café no alojamento. 舞 já cortou a comida de ダン e aproxima uma colher de sua boca. Ele aponta para as próprias mãos: 「ここは、まだ動くんだけど」. ティファ, divertindo-se, oferece um guardanapo como se fosse assistente de uma operação delicada. キャミィ tenta repreender as duas, mas ユーニ observa que ela também abriu o cardápio diretamente na página que considera adequada para ユーリ.
-
 Quando perguntam o que deseja comer, ユーリ responde: 「皆と同じものでいい」. キャミィ começa a escolher por ela; ティファ intervém perguntando apenas se prefere algo doce ou salgado. Depois de hesitar, ユーリ aponta para um prato diferente. Não haverá elogio exagerado: o pedido é recebido como qualquer outro.
-
 Durante a refeição, retomam a promessa feita em Xangai. ユーリ teme que Pequim não conte como cumprimento. キャミィ distingue as coisas: a visita à cidade continua possível, mas estar juntas novamente não depende do endereço.
-
 O único passeio será uma saída curta nas proximidades. ダン pede para voltar antes dos outros, e 舞 aceita sem discussão. À noite, ユーリ abre um mapa e circula um lugar que gostaria de conhecer. Pela primeira vez, não pergunta se escolheu certo.
 
-## 642 — 広い広場、小さな寄り道
+**642 — 広い広場、小さな寄り道**
+(Uma praça imensa, um pequeno desvio)
 
-_Uma praça imensa, um pequeno desvio_
-
-Depois de uma manhã tranquila, visitam a Praça da Paz Celestial, com transporte organizado e um percurso curto. ダン usa cadeira de rodas para poupar esforço; 舞 segura as alças com uma seriedade que faz ティファ perguntar quem recebeu alta e quem assumiu o comando. Ele negocia: nada de corrida, nada de alimentá-lo enquanto estiverem andando, 舞 reclama, mas quem cede é o ダン. 舞 e ティファ revezam o empurrar da cadeira.
-
+Depois de uma manhã tranquila, visitam a Praça da Paz Celestial, com transporte organizado e um percurso curto. ダン usa cadeira de rodas para poupar esforço; 舞 segura as alças com uma seriedade que faz ティファ perguntar quem recebeu alta e quem assumiu o comando. Ele negocia: nada de corrida, nada de alimentá-lo enquanto estiverem andando, 舞 reclama de não poder dar comida na boca, mas quem cede é o ダン. 舞 e ティファ revezam o empurrar da cadeira.
 A amplitude da praça deixa ユーリ em silêncio. ユーニ pergunta se quer uma fotografia, mas ela demora para escolher onde ficar. キャミィ indica imediatamente uma posição com melhor circulação. Quando percebe, já reorganizou todos. 「観光にも配置があるの？」, ティファ pergunta baixinho.
-
 Mais tarde, ユーリ se interessa por uma rua comercial vista no caminho. キャミィ responde que o roteiro prevê voltar ao alojamento. ティファ a chama de lado: ajudar também é deixar alguém escolher uma rua sem graça, uma comida ruim ou um passeio que termine cedo. Não precisam eliminar todo arrependimento.
-
 キャミィ guarda o mapa e pergunta se ユーリ ainda quer fazer o desvio. Ela quer. Encontram uma lojinha comum, sem nada extraordinário — e isso não estraga a tarde.
-
 Na volta, ユーリ admite que esperava outra coisa. キャミィ quase pede desculpas, mas responde: 「じゃあ、次は別の道にしよう」. ダン pede uma parada para descansar. Desta vez, ninguém trata nenhum dos pedidos como falha.
 
-## 643 — はずれの味も、旅のうち
-
-_Até o sabor errado faz parte_
+**643 — はずれの味も、旅のうち**
+(Até o sabor errado faz parte)
 
 Num dia dedicado às ruelas e lojas próximas de Shichahai, ユーリ escolhe uma peça de roupa que chama sua atenção, mas demora diante de duas cores. キャミィ abre a boca para aconselhar e fecha de novo. ユーニ experimenta uma das opções sem anunciar qual prefere. ユーリ acaba escolhendo a outra — não para contrariá-la, apenas porque gosta mais.
-
 No almoço, dividem jiaozi e outros pratos. ユーリ pede algo por curiosidade e descobre que não aprecia o sabor. Sua primeira reação é continuar comendo em silêncio. ダン percebe e propõe uma troca: o prato dele parece exatamente o que ela estava procurando. 「選んだからって、最後まで我慢しなくていいよ」.
-
-舞 aproveita para oferecer um bolinho na boca dele. ティファ apresenta o guardanapo com solenidade. ダン aceita um, mas recupera os próprios talheres antes que a refeição vire uma cerimônia.
-
+Numa cena carinhosa, 舞 aproveita para oferecer um bolinho na boca dele. ティファ apresenta o guardanapo com solenidade. ダン aceita um, mas recupera os próprios talheres antes que a refeição vire uma cerimônia.
 Durante o descanso, ユーリ pergunta a キャミィ como ela aprendeu a escolher. A resposta não será uma lição pronta: ainda compra coisas de que não precisa, pede conselhos e muda de ideia. ユーニ acrescenta que ela consegue transformar até férias numa lista de verificação.
-
 À noite, ユーリ escolhe o restaurante para um jantar com pato à Pequim. Ninguém anuncia que ela passou em algum teste. Simplesmente seguem sua sugestão e discutem, com entusiasmo demais, quem montou a porção mais desajeitada.
 
-## 644 — 登らない日にも、景色はある
+**644 — 登らない日にも、景色はある**
+(Há paisagens mesmo sem subir)
 
-_Há paisagens mesmo sem subir_
-
-Após os dias de repouso e uma reavaliação, organizam uma visita à Grande Muralha com limites claros: transporte, pausas e nenhuma obrigação de subir. ダン concorda, mas percebe que 舞 está disposta a abandonar o passeio inteiro para observá-lo respirar.
-
+Após os dias de repouso e uma reavaliação pela doutora, organizam uma visita à Grande Muralha com limites claros: transporte, pausas e nenhuma obrigação de subir. ダン concorda, mas percebe que 舞 está disposta a abandonar o passeio inteiro para observá-lo respirar.
 Já na área de visitação, ele prefere permanecer numa zona de descanso enquanto parte do grupo conhece um trecho da muralha. 舞 fica com ele. ティファ acompanha キャミィ, ユーニ e ユーリ num percurso breve, sem transformar os degraus em desafio físico. Os curativos da キャミィ continuam presentes; ela também precisa aceitar um ritmo mais lento.
-
 Diante da paisagem, ユーリ pergunta se キャミィ sente falta de receber ordens claras. Ela admite que, às vezes, saber exatamente o que fazer parece mais fácil. 「でも、楽なことと、望んでいることは違う」. ユーリ decide por conta própria quando quer voltar.
-
-Na área de descanso, 舞 confessa que ainda se lembra do rádio silencioso. ダン não promete nunca mais correr perigo; pede apenas que ela o escute quando disser do que precisa. Depois, pede ajuda para ajeitar a roupa, permitindo que o cuidado continue sem virar vigilância.
-
+Na área de descanso, 舞 confessa que ainda se lembra do rádio silencioso. ダン não promete nunca mais correr perigo; pede apenas que ela o escute quando disser do que precisa. Depois, pede ajuda para ajeitar a roupa, permitindo que o cuidado continue sem virar vigilância. Há demonstrações de afeto e carinho, olho no olho, abraços e beijos. Apesar dos exageros cômicos da 舞, ele agradece profundamente pelos cuidados.
 Os seis se reencontram para uma fotografia. ユーリ escolhe uma imagem imperfeita, com alguém piscando. É a única em que todos estavam rindo ao mesmo tempo.
 
-## 645 — おみやげと、まだ先の答え
-
-_Presentes e respostas que podem esperar_
+**645 — おみやげと、まだ先の答え**
+(Presentes e respostas que podem esperar)
 
 No último dia, ユーリ pede uma hora para comprar lembranças. ユーニ a acompanha até a região das lojas, mas espera enquanto ela escolhe. キャミィ descobre que não haverá relatório das compras e recebe olhares divertidos quando tenta perguntar pelo orçamento.
-
 De volta ao alojamento, ユーリ entrega cinco presentes: uma pequena bolsa para キャミィ levar coisas que não sejam equipamento; chá para ティファ; um acessório de cabelo para 舞; um caderno para ダン registrar viagens sem trabalhar; e dois enfeites de cores diferentes, um para ユーニ e outro para si. Explica suas escolhas com frases simples, sem se desculpar por nenhuma delas.
-
 As fotografias da muralha completam a despedida. 舞 tenta incluir uma imagem de ダン recebendo comida, e ele exige direito de veto. ティファ oferece uma negociação claramente favorável a 舞. Acaba recebendo das duas.
-
 Quando surge a pergunta sobre o futuro, ユーリ diz que voltará a Londres por enquanto. Quer reencontrar as irmãs resgatadas e descobrir como será viver ali sem organizar todos os dias em torno da recuperação. Isso não significa decidir onde ficará para sempre. 「その先は、まだ決めてない」.
-
 キャミィ responde apenas: 「分かった」. Não oferece um plano melhor.
+Antes da partida, combinam mandar notícias e voltar a se encontrar, ユーリ escolhe seu café da manhã antes que alguém precise perguntar. A promessa agora admite mudanças de cidade e de vontade. Na última cena, os dois grupos se separam no aeroporto, ユーニ e ユーリ voltam para Londres e os quatro voltam para casa.
 
-Antes da partida, combinam mandar notícias e voltar a se encontrar. A promessa agora admite mudanças de cidade e de vontade. Na última cena, ユーリ escolhe seu café da manhã antes que alguém precise perguntar. Os dois grupos se separam, ユーニ e ユーリ voltam para Londres e os quatro voltam para casa no Japão.
+#### Resumo dos personagens
 
-## Amarrações de continuidade
+- 舞 Cuida do ダン com exagero cômico: colher na boca, mantas, contar a respiração. No 644 confessa que ainda ouve o rádio silenciar e aprende a escutar o que ele pede em vez de decidir por ele.
+- ダン Ainda machucado, usa cadeira de rodas ou triciclo e fotografa o arco inteiro. Negocia limites com a 舞, oferece o próprio prato à ユーリ e não promete nunca mais correr risco. Pede só que ela o escute.
+- ティファ Acolhe sem decidir pelos outros. Reduz a escolha da ユーリ a "doce ou salgado" e explica à キャミィ que ajudar inclui deixar errar. Toca a gola do ダン com solenidade e negocia a favor da 舞.
+- キャミィ Ainda com curativos, tenta proteger e organizar a ユーリ (cardápio marcado, posições na foto, roteiro) e aprende a se segurar. Aceita um ritmo mais lento, admite que obedecer é mais fácil e termina com a bolsinha de "coisas que não são equipamento".
+- ユーリ Recuperada, escolhe a cada capítulo: prato salgado, jaqueta damasco, restaurante de pato. Prova que errar não estraga o dia (豆汁, loja comum), decide quando voltar da muralha e distribui presentes sem pedir desculpas. Volta a Londres e não decide a vida inteira.
+- ユーニ Companheira e amiga, com humor próprio: nota a contradição da キャミィ, espera sem escolher pela ユーリ, prova a jaqueta verde sem dizer qual prefere. Recebe o nó verde e segue com a ユーリ a Londres.
 
-- **Promessa do mirante:** cumpre-se o reencontro após a recuperação de ユーリ; o retorno específico a Xangai fica adiado por acordo, não esquecido.
-- **ダン e 舞:** o cuidado permanece carinhoso e cômico, mas o medo da emboscada recebe uma conversa breve, sem antecipar a ideia de aulas de defesa do arco 81.
-- **キャミィ e ユーリ:** não haverá “provas de autonomia”; roupa, comida, desvios e presentes serão escolhas comuns, inclusive quando derem errado.
-- **ユーニ:** participa como amiga e companheira de viagem, com preferências e humor próprios, não apenas como intérprete das necessidades de ユーリ.
-- **Ferimentos:** ダン não carrega bagagens nem enfrenta longos percursos; キャミィ continua com curativos e também aceita ajuda.
-- **Encerramento:** ユーニ e ユーリ seguem para Londres; os quatro preparam o retorno para casa. Nenhuma mensagem secreta, inimigo observando ou nova missão interrompe a despedida.
+### Fios do arco
+
+- Promessa do mirante: o reencontro se cumpre em Pequim, e Xangai fica para outra ocasião, com mudança de lugar e de vontade permitida.
+- Foto do 644: o grupo escolhe a imagem imperfeita, a única em que todos riem juntos.

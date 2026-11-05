@@ -5769,42 +5769,78 @@
       "chapter_kanji": "第六百四十一章",
       "arc": "80 - 再会の約束編",
       "group": "80 - 再会の約束編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "今日は、何が食べたい？",
+      "file": "chapters/第641章　今日は、何が食べたい？.html",
+      "status": "existing"
     },
     {
       "chapter": 642,
       "chapter_kanji": "第六百四十二章",
       "arc": "80 - 再会の約束編",
       "group": "80 - 再会の約束編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "広い広場、小さな寄り道",
+      "file": "chapters/第642章　広い広場、小さな寄り道.html",
+      "status": "existing"
     },
     {
       "chapter": 643,
       "chapter_kanji": "第六百四十三章",
       "arc": "80 - 再会の約束編",
       "group": "80 - 再会の約束編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "はずれの味も、旅のうち",
+      "file": "chapters/第643章　はずれの味も、旅のうち.html",
+      "status": "existing"
     },
     {
       "chapter": 644,
       "chapter_kanji": "第六百四十四章",
       "arc": "80 - 再会の約束編",
       "group": "80 - 再会の約束編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "title": "登らない日にも、景色はある",
+      "file": "chapters/第644章　登らない日にも、景色はある.html",
+      "status": "existing"
     },
     {
       "chapter": 645,
       "chapter_kanji": "第六百四十五章",
       "arc": "80 - 再会の約束編",
       "group": "80 - 再会の約束編",
+      "title": "おみやげと、まだ先の答え",
+      "file": "chapters/第645章　おみやげと、まだ先の答え.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 646,
+      "chapter_kanji": "第六百四十六章",
+      "arc": "81 - ",
+      "group": "81 - ",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 647,
+      "chapter_kanji": "第六百四十七章",
+      "arc": "81 - ",
+      "group": "81 - ",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 648,
+      "chapter_kanji": "第六百四十八章",
+      "arc": "81 - ",
+      "group": "81 - ",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 649,
+      "chapter_kanji": "第六百四十九章",
+      "arc": "81 - ",
+      "group": "81 - ",
       "title": null,
       "file": null,
       "status": "planned"
