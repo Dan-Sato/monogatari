@@ -480,9 +480,15 @@
     "status": "ok"
   },
   {
-    "arc": "81 - ",
+    "arc": "81 - 四人だけのハロウィン編",
     "start": 646,
     "end": 649,
+    "status": "ok"
+  },
+  {
+    "arc": "82 - ",
+    "start": 650,
+    "end": null,
     "status": "planned"
   }
 ]

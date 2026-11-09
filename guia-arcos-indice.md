@@ -351,4 +351,8 @@ Como o grupo ainda está na China, resolvem cumprir a promessa feita no mirante,
 
 ## Arcos 81–85 (halloween,)
 
-### 81 - 646-649 -
+### 81 - 646-649 — 四人だけのハロウィン編 - Halloween só dos quatro
+
+O arco recupera o prazer das pequenas confusões domésticas: cuidar continua importante, mas ダン também precisa voltar a participar da rotina. Realizam uma festinha só entre eles para comemorar a semana de Halloween.
+
+### 82 - 650-65x
