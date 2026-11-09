@@ -32,7 +32,7 @@ _Projeto de leitura em japonês._
 - NÃO é lutador de elite — suporte tático/estratégico em combate
 - **Contraste com アンディ:** アンディ ignorava 舞, ダン sempre ao lado dela
 - ❤️ 舞, dormem juntos
-- **Desenvolvimento:** Antes solitário, agora parte ativa da família escolhida
+- **Desenvolvimento:** Antes solitário, agora parte ativa da família escolhida. A partir do arco 82 - ティファの過去編４とダンの修行編, começou aulas de defesa com ティファ.
 
 ### ティファ (Tifa Lockhart — FFVII)
 

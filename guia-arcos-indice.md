@@ -349,10 +349,12 @@ A melhora de ユーリ (Juli) revela informações incompletas sobre uma instala
 
 Como o grupo ainda está na China, resolvem cumprir a promessa feita no mirante, mas em vez de Xangai ficam onde estão, em Pequim. Em vez de uma nova missão, o foco está na recuperação de Juli, em sua dificuldade para fazer escolhas comuns e em キャミィ explorando a cidade todos juntos, sem tratá-la como soldado ou paciente. A promessa de retorno a Xangai já havia sido estabelecida depois do resgate.
 
-## Arcos 81–85 (halloween,)
+## Arcos 81–85 (halloween, passado de ティファ e treinamento de ダン)
 
-### 81 - 646-649 — 四人だけのハロウィン編 - Halloween só dos quatro
+### 81 - 646-649 — 四人だけのハロウィン編 - Halloween só dos quatro ⭐
 
 O arco recupera o prazer das pequenas confusões domésticas: cuidar continua importante, mas ダン também precisa voltar a participar da rotina. Realizam uma festinha só entre eles para comemorar a semana de Halloween.
 
-### 82 - 650-65x
+## 82 — 650–656 - ティファの過去編４とダンの修行編 (A História de Tifa — Parte 4 e treinamento de ダン)
+
+História da adolecência de ティファ, desde a partida dos amigos até o incidente em Nibelhein. Mais treinamento de defesa pessoal do ダン baseado nas técnicas que ティファ ensinava os vizinhos antes do incidente.
