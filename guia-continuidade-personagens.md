@@ -176,6 +176,7 @@ Focada em:
 ## 📌 NOTAS DE CONTINUIDADE
 
 - ティファ montou um quadro de fotolembranças na parede de casa.
+- No arco 82 — ティファの過去編４とダンの修行編, ダン pede para aprender a se proteger, não para lutar. ティファ foi a professora. Treina postura, deslocamentos e a frase de recusa. Aprende a avisar quando precisa parar, a lidar com a frustração. Vem treinando algumas vezes por semana.
 
 ### Personagens Secundários Estabelecidos
 

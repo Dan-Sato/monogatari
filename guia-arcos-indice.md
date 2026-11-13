@@ -355,6 +355,6 @@ Como o grupo ainda está na China, resolvem cumprir a promessa feita no mirante,
 
 O arco recupera o prazer das pequenas confusões domésticas: cuidar continua importante, mas ダン também precisa voltar a participar da rotina. Realizam uma festinha só entre eles para comemorar a semana de Halloween.
 
-## 82 — 650–656 - ティファの過去編４とダンの修行編 (A História de Tifa — Parte 4 e treinamento de ダン)
+## 82 — 650–656 - ティファの過去編４とダンの修行編 (A História de Tifa — Parte 4 e treinamento de ダン) ⭐⭐
 
-História da adolecência de ティファ, desde a partida dos amigos até o incidente em Nibelhein. Mais treinamento de defesa pessoal do ダン baseado nas técnicas que ティファ ensinava os vizinhos antes do incidente.
+Alguns dias depois ダン já está sem dores e pensa em treinar para aprender a se defender e pede para que ティファ ensine. Arco alternando treino leve, conversas e lembranças da adolecência de ティファ, desde a partida dos amigos até o incidente em Nibelhein. A evolução principal não será ダン aprender a vencer uma luta, mas começar a recuperar a confiança no próprio corpo, enquanto 舞 aprende a apoiá-lo sem impedir sua participação.
