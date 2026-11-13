@@ -133,3 +133,97 @@ De volta para casa, combinam manter aulas curtas, descanso e progressão sem pre
 - ティファ: professora principal. Ensina de forma gradual e sempre avisa onde vai tocar. Conta seu passado em Nibelheim (Zangan, manuais, clube de calistenia, Brian, bracelete) sem recontar o incêndio, e termina o relato com 「ここから先は、前に話したよね」.
 
 - キャミィ: cuida do caderno, da segurança e das regras. Conduz o treino de limites no 654, lembra que ninguém pode garantir proteção total e que às vezes aguentar é mais seguro do que revidar. Troca "resultado do confronto" por "decisão tomada".
+
+## 83 — 657-661 - 寄り道だらけの週末デート編 (Um encontro de fim de semana cheio de desvios)
+
+Tom: Comédia romântica / Slice of Life
+
+**Cinco capítulos, do 657 ao 661**, com roteiros de aproximadamente **1.200 caracteres cada**. A proposta acompanha um sábado pela cidade: No meio do outono, pouco mais de um mês para o fim do ano, decorações de natal, 舞 prepara um programa romântico para os quatro, mas as melhores partes acabam surgindo fora do planejamento.
+
+O gancho será a oferta de ダン no capítulo 655 — quando disse que 舞 poderia pedir qualquer coisa —, registrada no [guia atualizado do arco 82](https://github.com/Dan-Sato/monogatari/blob/9e6f69964bad51cc64684ce88aa4d81928eca404/guia-continuidade-resumo-arcos-81-85.md). Ela aproveitará a brincadeira para propor o passeio, sem transformar a saída numa compensação obrigatória.
+
+### 657 — 週末の予定は、私に任せて
+
+_Deixem os planos do fim de semana comigo_
+
+Na sexta-feira à noite, 舞 coloca o celular no centro da mesa e anuncia que o sábado já tem programação. Depois de tantos dias entre dojo, exercícios e conversas sérias, precisam descansar a cabeça. ダン pergunta se “descansar” inclui acordar cedo. Ela evita responder e abre uma lista de cafés, lojas, comidas e lugares para passear, visitar e ver as decorações natalinas.
+
+「何でもお願いしていいって、言ったでしょ？」
+
+Ele lembra a oferta, mas pergunta por que há atividades suficientes para três dias. ティファ examina o roteiro e descobre dois almoços. 舞 esclarece que um deles é “uma possibilidade gastronômica”. キャミィ observa que as duas possibilidades ficam em direções opostas.
+
+A discussão vira uma negociação divertida. ダン quer tempo para sentar e conversar; ティファ escolhe uma loja; キャミィ pede que ninguém faça reservas sobrepostas. 舞 aceita alterações, mas mantém uma condição: amanhã não haverá aula, correções de postura nem contagem de repetições.
+
+Enquanto escolhem roupas, ela admite a ダン que sente falta de passear de mãos dadas sem perguntar a cada esquina se ele está bem. Ele responde que também quer isso e a puxa para perto. Da sala, ティファ pergunta se o planejamento terminou ou se precisa buscar os dois.
+
+Antes de dormir, キャミィ recebe a versão final: “caminhada, comida e o que der vontade”. Ela procura os horários. 舞 sorri: 「そこは、当日のお楽しみ！」
+
+### 658 — 手をつなぐには、理由はいらない
+
+_Não é preciso motivo para dar as mãos_
+
+O sábado começa com 舞 pronta antes de todos, embora tenha defendido que ninguém precisaria ter pressa. Na saída, ela segura a mão de ダン. Quando ele pergunta se é para controlar seu ritmo, responde: 「デートだから！」. ティファ pega a mão de キャミィ e declara que aquela explicação serve para elas também.
+
+Passeiam por uma alameda arborizada e param para observar folhas caindo sobre um banco e decorações de natal sendo instaladas. 舞 tenta organizar uma fotografia romântica, mas uma rajada joga seu cabelo no rosto de ダン. A primeira imagem registra os dois tentando enxergar; a segunda, ティファ rindo enquanto キャミィ segura uma bolsa contra o vento.
+
+Num café, 舞 escolhe uma sobremesa bonita demais para ser barata. ダン pergunta se deve fotografá-la antes que desapareça. Ela oferece a primeira colherada, mas ele aproveita para dar um beijo rápido. 「それはメニューにないわよ」. Ele pede que acrescentem como cortesia.
+
+Do outro lado da mesa, ティファ limpa um pouco de creme do canto da boca de キャミィ. Ela protesta que poderia fazer sozinha, mas não se afasta. A conversa segue por assuntos pequenos: vitrines estranhas, roupas e qual dos quatro demorou mais para se arrumar.
+
+Quando saem, ダン percebe que passou a manhã sem se avaliar como aluno. Apenas caminhou, conversou e se divertiu. 舞 consulta o celular: já perderam o horário da primeira loja. Guarda o aparelho sem preocupação e aperta a mão dele.
+
+### 659 — 試着室の向こうで、誰を待つ？
+
+_Quem está esperando além do provador?_
+
+Na rua comercial, a primeira parada deveria ser rápida. 舞 encontra uma peça de roupa, ティファ vê outra e, quando ダン percebe, está segurando bolsas diante dos provadores. キャミィ comenta que ele assumiu uma função logística. Ele entrega metade das sacolas a ela: 「共同作戦でしょ？」
+
+舞 aparece com um conjunto elegante e pergunta sua opinião. ダン elogia, mas hesita ao descobrir que ela quer uma comparação detalhada com os dois anteriores. ティファ surge ao lado usando uma roupa escolhida por 舞. キャミィ responde antes que perguntem: 「似合ってる」. A rapidez faz as outras exigirem que ela experimente algo também.
+
+A provocação volta contra 舞 quando ティファ escolhe uma camisa para ダン. Ao vê-lo, ela esquece o comentário espirituoso que preparava. Ele aproveita: 「さっきより、静かだね」. Ela ajeita sua gola e o acusa de estar ficando convencido.
+
+Depois, cada um sugere algo para o almoço. Em vez de atravessar a cidade buscando todas as opções, entram num restaurante próximo e dividem pratos. ダン oferece um pedaço à 舞; ela aceita com satisfação, até perceber que ティファ está imitando sua antiga expressão de “cuidadora responsável”.
+
+Numa lojinha, escolhem pequenos presentes uns para os outros, com um limite de preço que ninguém respeita perfeitamente. キャミィ encontra um chaveiro de gato e tenta devolvê-lo à prateleira antes que comentem. ティファ já está levando outro igual ao caixa.
+
+### 660 — 恋の歌は、採点しないで
+
+_Canções de amor não precisam de nota_
+
+Depois do almoço e das compras, o karaokê oferece uma pausa confortável. 舞 assume o controle das músicas e anuncia um dueto com ダン. Ele descobre que não conhece a introdução, entra no momento errado e passa os primeiros versos procurando na tela onde deveria estar.
+
+舞 tenta ajudá-lo sem interromper a própria parte. O resultado é um dueto em que os dois cantam trechos diferentes e acabam rindo antes do refrão. キャミィ observa que ensaiar teria melhorado a execução. ティファ coloca outro microfone em sua mão: agora é a vez delas.
+
+A escolha de キャミィ surpreende por ser uma canção romântica. Ela insiste que só conhece a melodia, mas canta olhando para a tela com concentração exagerada. ティファ acompanha e, no final, encosta o ombro no dela. 舞 começa a aplaudir antes de a música terminar.
+
+Quando aparece a pontuação, ダン propõe desligar a avaliação. Hoje ninguém precisa de resultado, classificação ou relatório. キャミィ concorda, embora pergunte discretamente qual foi a nota anterior.
+
+Alternam músicas animadas, interpretações dramáticas e pedidos impossíveis de atender com seriedade. 舞 dança apenas com os braços para não derrubar a mesa; ダン transforma uma introdução longa numa declaração exagerada para as três.
+
+Na última música, ninguém segura o microfone sozinho. Cantam baixo, tropeçam na letra e deixam a gravação original conduzir. 舞 olha o roteiro no celular, agora completamente atrasado, e acrescenta uma observação: “karaokê — ficar mais tempo da próxima vez”.
+
+### 661 — 予定になかった、いちばんいい時間
+
+_A melhor hora não estava nos planos_
+
+Ao sair do karaokê, encontram a cidade começando a acender as luzes. 舞 tinha pensado num restaurante com vista, mas ninguém está com vontade de enfrentar a fila. Por alguns segundos, ela parece decepcionada: queria terminar o passeio com uma cena especialmente romântica.
+
+ダン aponta para uma rua mais tranquila e pergunta se podem descobrir o que há por ali. Encontram um restaurante pequeno, sem decoração impressionante, mas com uma mesa confortável para quatro. ティファ observa que ninguém precisará gritar para conversar. キャミィ aprova a ausência de espera; 舞 aprova a sobremesa.
+
+Durante o jantar, ela pergunta qual foi a melhor parte do dia. Recebe respostas sobre o cabelo na fotografia, a camisa no provador e o dueto desastroso. 「失敗したところばっかりじゃない！」. ダン responde que eram justamente os momentos em que ela parou de tentar organizar tudo e se divertiu com eles.
+
+Na caminhada de volta à estação, fazem uma pausa perto das luzes refletidas na água. ティファ se encosta em キャミィ; 舞 apoia a cabeça no ombro de ダン. Não precisam transformar o silêncio numa conversa séria.
+
+Já em casa, deixam as compras sobre a mesa e conferem as fotografias. 舞 escolhe a imagem borrada do banco como favorita. ダン pergunta o que farão no domingo. Ela abre a boca para responder, mas muda de ideia.
+
+「朝ごはんを食べてから、考えましょ」
+
+O arco termina com os quatro dividindo o sofá, discutindo quem guardará as sacolas — uma tarefa que, por decisão unânime, pode esperar mais alguns minutos.
+
+## Direção do arco
+
+- **舞 conduz sem controlar:** seu entusiasmo cria situações cômicas, mas ela aproveita o passeio mesmo quando o roteiro muda.
+- **ダン participa normalmente:** não está novamente reduzido ao papel de paciente; o ritmo confortável é uma escolha dos quatro.
+- **Romance distribuído:** momentos de 舞 com ダン e de ティファ com キャミィ convivem com conversas, carinho e brincadeiras do grupo inteiro.
+- **Treinamento fica em segundo plano:** pequenas referências bastam; nenhuma confusão na rua deve servir para testar o que ダン aprendeu.
+- **Fechamento leve:** sem missão, ameaça ou discussão traumática. O valor do sábado está em voltarem a desfrutar uma saída comum.

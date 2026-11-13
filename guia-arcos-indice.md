@@ -358,3 +358,7 @@ O arco recupera o prazer das pequenas confusões domésticas: cuidar continua im
 ## 82 — 650–656 - ティファの過去編４とダンの修行編 (A História de Tifa — Parte 4 e treinamento de ダン) ⭐⭐
 
 Alguns dias depois ダン já está sem dores e pensa em treinar para aprender a se defender e pede para que ティファ ensine. Arco alternando treino leve, conversas e lembranças da adolecência de ティファ, desde a partida dos amigos até o incidente em Nibelhein. A evolução principal não será ダン aprender a vencer uma luta, mas começar a recuperar a confiança no próprio corpo, enquanto 舞 aprende a apoiá-lo sem impedir sua participação.
+
+## 83 — 657-661 - 寄り道だらけの週末デート編 (Um encontro de fim de semana cheio de desvios)
+
+Um sábado pela cidade: No meio do outono, pouco mais de um mês para o fim do ano, decorações de natal, 舞 prepara um programa romântico para os quatro, mas as melhores partes acabam surgindo fora do planejamento.
