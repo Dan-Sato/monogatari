@@ -349,7 +349,7 @@ A melhora de ユーリ (Juli) revela informações incompletas sobre uma instala
 
 Como o grupo ainda está na China, resolvem cumprir a promessa feita no mirante, mas em vez de Xangai ficam onde estão, em Pequim. Em vez de uma nova missão, o foco está na recuperação de Juli, em sua dificuldade para fazer escolhas comuns e em キャミィ explorando a cidade todos juntos, sem tratá-la como soldado ou paciente. A promessa de retorno a Xangai já havia sido estabelecida depois do resgate.
 
-## Arcos 81–85 (halloween, passado de ティファ e treinamento de ダン)
+## Arcos 81–85 (halloween, passado de ティファ e treinamento de ダン, date,)
 
 ### 81 - 646-649 — 四人だけのハロウィン編 - Halloween só dos quatro ⭐
 
@@ -359,6 +359,10 @@ O arco recupera o prazer das pequenas confusões domésticas: cuidar continua im
 
 Alguns dias depois ダン já está sem dores e pensa em treinar para aprender a se defender e pede para que ティファ ensine. Arco alternando treino leve, conversas e lembranças da adolecência de ティファ, desde a partida dos amigos até o incidente em Nibelhein. A evolução principal não será ダン aprender a vencer uma luta, mas começar a recuperar a confiança no próprio corpo, enquanto 舞 aprende a apoiá-lo sem impedir sua participação.
 
-## 83 — 657-661 - 寄り道だらけの週末デート編 (Um encontro de fim de semana cheio de desvios)
+## 83 — 657-661 - 寄り道だらけの週末デート編 (Um encontro de fim de semana cheio de desvios) ⭐⭐
 
 Um sábado pela cidade: No meio do outono, pouco mais de um mês para o fim do ano, decorações de natal, 舞 prepara um programa romântico para os quatro, mas as melhores partes acabam surgindo fora do planejamento.
+
+## 84 — 662–X - ティファの過去編5と八番街の味をもう一度編
+
+No dia seguinte, ティファ acorda mais cedo e por causa das lembranças do treinamento de ダン é pega pela nostalgia e começa a tentar recriar o sabor dos Sector 8 Steamed Buns (八番街スラムの饅頭) servido no encerramento do Seventh Heaven temporário, mas não consegue reproduzir o sabor de que se lembra. Cada tentativa desperta fragmentos de sua vida anterior. Em vez de copiar perfeitamente o passado, ela cria uma nova receita com os quatro e aceita que um sabor diferente, criado pela família escolhida, também pode carregar a mesma memória.
