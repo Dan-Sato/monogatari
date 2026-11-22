@@ -13,7 +13,7 @@ _Projeto de leitura em japonês._
 - Cor do cabelo: Marrom
 - Herdeira do clã ninja 不知火流, agora 名誉当主 (chefe honorário)
 - Confiante, provocadora, sensual, lidera emocionalmente
-- SEMPRE carrega o leque (扇子) — mesmo de 浴衣 ou em combate
+- SEMPRE carrega o leque (扇子) — mesmo de 浴衣 ou em combate (principal arma de combate)
 - Filosofia: 「蝶のように舞い、蜂のように刺す」
 - **Likes:** passar tempo com quem ama, presilha ornamental da avó falecida, tempo livre
 - **Dislikes:** aranhas 🕷️
@@ -50,7 +50,7 @@ _Projeto de leitura em japonês._
 - **Dislikes:** pessoas arrogantes, Shinra
 - **Hobbies:** trabalhar bar, tocar piano 🎹, treinar artes marciais
 - ❤️ キャミィ, dormem juntas
-- **Desenvolvimento:** Mais vocal sobre sentimentos, papel organizador do grupo, aprendeu respiração ninja com ホクトマル
+- **Desenvolvimento:** Mais vocal sobre sentimentos; papel organizador do grupo; aprendeu respiração ninja com ホクトマル; já contou a história do passado visto no Traces of Two Pasts, e FFVII Remake;
 
 ### キャミィ (Cammy White — Street Fighter)
 

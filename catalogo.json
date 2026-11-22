@@ -5956,53 +5956,98 @@
     {
       "chapter": 662,
       "chapter_kanji": "第六百六十二章",
-      "arc": "84 - ティファの過去編5と八番街の味をもう一度編",
-      "group": "84 - ティファの過去編5と八番街の味をもう一度編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "arc": "84 - ティファの過去編５と八番街の味をもう一度編",
+      "group": "84 - ティファの過去編５と八番街の味をもう一度編",
+      "title": "朝いちばんの、懐かしい匂い",
+      "file": "chapters/第662章　朝いちばんの、懐かしい匂い.html",
+      "status": "existing"
     },
     {
       "chapter": 663,
       "chapter_kanji": "第六百六十三章",
-      "arc": "84 - ティファの過去編5と八番街の味をもう一度編",
-      "group": "84 - ティファの過去編5と八番街の味をもう一度編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "arc": "84 - ティファの過去編５と八番街の味をもう一度編",
+      "group": "84 - ティファの過去編５と八番街の味をもう一度編",
+      "title": "生地がふくらむ、そのあいだに",
+      "file": "chapters/第663章　生地がふくらむ、そのあいだに.html",
+      "status": "existing"
     },
     {
       "chapter": 664,
       "chapter_kanji": "第六百六十四章",
-      "arc": "84 - ティファの過去編5と八番街の味をもう一度編",
-      "group": "84 - ティファの過去編5と八番街の味をもう一度編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "arc": "84 - ティファの過去編５と八番街の味をもう一度編",
+      "group": "84 - ティファの過去編５と八番街の味をもう一度編",
+      "title": "中身は、ちゃんと分かるもの",
+      "file": "chapters/第664章　中身は、ちゃんと分かるもの.html",
+      "status": "existing"
     },
     {
       "chapter": 665,
       "chapter_kanji": "第六百六十五章",
-      "arc": "84 - ティファの過去編5と八番街の味をもう一度編",
-      "group": "84 - ティファの過去編5と八番街の味をもう一度編",
-      "title": null,
-      "file": null,
-      "status": "planned"
+      "arc": "84 - ティファの過去編５と八番街の味をもう一度編",
+      "group": "84 - ティファの過去編５と八番街の味をもう一度編",
+      "title": "湯気の向こうにいた人たち",
+      "file": "chapters/第665章　湯気の向こうにいた人たち.html",
+      "status": "existing"
     },
     {
       "chapter": 666,
       "chapter_kanji": "第六百六十六章",
-      "arc": "84 - ティファの過去編5と八番街の味をもう一度編",
-      "group": "84 - ティファの過去編5と八番街の味をもう一度編",
+      "arc": "84 - ティファの過去編５と八番街の味をもう一度編",
+      "group": "84 - ティファの過去編５と八番街の味をもう一度編",
+      "title": "七番街へ、そして今の台所へ",
+      "file": "chapters/第666章　七番街へ、そして今の台所へ.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 667,
+      "chapter_kanji": "第六百六十七章",
+      "arc": "84 - ティファの過去編５と八番街の味をもう一度編",
+      "group": "84 - ティファの過去編５と八番街の味をもう一度編",
+      "title": "同じじゃなくても、懐かしい",
+      "file": "chapters/第667章　同じじゃなくても、懐かしい.html",
+      "status": "existing"
+    },
+    {
+      "chapter": 668,
+      "chapter_kanji": "第六百六十八章",
+      "arc": "85 - ",
+      "group": "85 - ",
       "title": null,
       "file": null,
       "status": "planned"
     },
     {
-      "chapter": 667,
-      "chapter_kanji": "第六百六十七章",
-      "arc": "84 - ティファの過去編5と八番街の味をもう一度編",
-      "group": "84 - ティファの過去編5と八番街の味をもう一度編",
+      "chapter": 669,
+      "chapter_kanji": "第六百六十九章",
+      "arc": "85 - ",
+      "group": "85 - ",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 670,
+      "chapter_kanji": "第六百七十章",
+      "arc": "85 - ",
+      "group": "85 - ",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 671,
+      "chapter_kanji": "第六百七十一章",
+      "arc": "85 - ",
+      "group": "85 - ",
+      "title": null,
+      "file": null,
+      "status": "planned"
+    },
+    {
+      "chapter": 672,
+      "chapter_kanji": "第六百七十二章",
+      "arc": "85 - ",
+      "group": "85 - ",
       "title": null,
       "file": null,
       "status": "planned"

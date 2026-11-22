@@ -200,154 +200,81 @@ O arco termina com os quatro dividindo o sofá, discutindo quem guardará as sac
 
 _A História de Tifa — Parte 5 e o sabor do Setor Oito outra vez_
 
-Sinopse:
-No dia seguinte, ティファ acorda mais cedo e por causa das lembranças do treinamento de ダン é pega pela nostalgia e começa a tentar recriar o sabor dos Sector 8 Steamed Buns (八番街スラムの饅頭) servido no encerramento do Seventh Heaven temporário (arco 73 - ティファのセブンスヘブン編), mas não consegue reproduzir o sabor de que se lembra. Cada tentativa desperta fragmentos de sua vida anterior. Em vez de copiar perfeitamente o passado, ela cria uma nova receita com os quatro e aceita que um sabor diferente, criado pela família escolhida, também pode carregar a mesma memória.
-
 ### 662 — 朝いちばんの、懐かしい匂い
 
 _O primeiro aroma de saudade_
 
 Na manhã seguinte ao passeio, ティファ acorda antes dos outros. Ao levantar, cobre キャミィ ao seu lado da cama. Na cozinha, ao procurar uma xícara, encontra algo que a faz lembrar dos pães servidos no encerramento do Seventh Heaven temporário. As conversas recentes sobre Nibelheim e o treinamento do ダン continuam próximas demais: tomada pela nostalgia, decide tentar novamente, agora procurando o sabor de quando realmente os vendia.
-
 Depois, キャミィ aparece e encontra farinha, uma tigela e ティファ olhando para anotações incompletas. Pergunta o que ela está fazendo e se precisam comprar alguma coisa. A resposta vem hesitante: 「材料より、思い出が足りないかも」.
-
 舞 chega atrás de ダン, ainda comentando as fotografias do sábado. Quando descobrem o projeto, ele pergunta se haverá café da manhã ou uma investigação culinária. ティファ responde que podem comer enquanto a massa descansa. Ela própria, porém, mal toca na xícara.
-
 Ao amassar, começa a contar o que aconteceu **depois** do incêndio: não repete a destruição do vilarejo, mas passa às consequências, ao socorro e à recuperação longe de casa, (resgate pelo ザンガン, cirurgia em Corel, transferência ao Sector 8 Slums em Midgar). O movimento das mãos diminui. キャミィ pergunta se deseja parar; ティファ prefere continuar.
-
 ダン afasta uma cadeira para ela. 舞 assume a tigela e descobre que a massa gruda mais do que esperava. A pequena reclamação devolve leveza à cozinha. ティファ explica como soltá-la e percebe que já não está preparando o café sozinha.
 
-**Referência para pesquisa — socorro e recuperação inicial**
-
-- **Início:** consequências imediatas do incidente de Nibelheim e auxílio de ザンガン.
-- **Fim:** instalação de ティファ em Midgar para receber cuidados, antes de desenvolver sua nova rotina.
-- **Pesquisar:** `Traces of Two Pasts Episode Tifa Zangan rescue Corel Midgar hospital recovery`.
-- **Limite importante:** conferir a ordem e quem fornece cada informação; não inventar lembranças conscientes de momentos em que ela estava inconsciente.
+A história do passado cobre: A ティファ acorda um mês depois do incêndio, numa clínica no Setor 8. A Dra. Damini Orange explica a lesão: esterno esmagado, enxerto sintético com arame de metal para sempre, espartilho e enxerto de pele. O Dr. Shillong, de Corel, fez as primeiras cirurgias. A ティファ só guarda fragmentos: a voz do ザンガン gritando "viva!" e o rosto grave do médico. O Rakesh conta o resto: o médico de Corel recomendou Midgar ou Junon, o ザンガン recusou a Shinra e a trouxe para esta clínica
 
 ### 663 — 生地がふくらむ、そのあいだに
 
 _Enquanto a massa cresce_
 
 Com a massa coberta, ダン pergunta quanto tempo precisam esperar. キャミィ consulta o relógio; 舞 declara que observar a tigela não acelerará nada. Pouco depois, é ela quem levanta o pano para verificar se cresceu.
-
 A espera permite que ティファ continue: recuperar-se não significava compreender imediatamente onde estava ou como viveria dali em diante. Sua história avança para as condições do tratamento, as despesas e a dependência de pessoas que conhecia pouco. A conversa permanece concreta, sem transformar cada lembrança numa explicação sobre sofrimento.
-
+Enquanto ティファ conta a parte do enxerto de pele, 舞, pede para ver a cicatriz de novo. ティファ com olhar desconfiado levanta a blusa e mostra a cicatriz abaixo do peito até a clavícula. キャミィ diz que foi um belo trabalho, ダン diz que está bonito e 舞 pergunta se eles estão falando da cicatriz ou o peito. Eles respondem ao mesmo tempo "Os dois". ティファ reclama brincando se isso foi só para ver o peito.
 ダン pergunta se alguém lhe explicava as coisas com clareza. ティファ demora antes de responder. キャミィ percebe a diferença entre receber ajuda e poder decidir o que fazer com ela, mas não interrompe com uma conclusão pronta.
-
 Quando voltam à bancada, dividem a massa. ティファ tenta reproduzir tamanhos iguais; ダン produz um pedaço muito maior. 舞 o chama de “porção de protagonista”. Ele oferece o excesso à professora, alegando respeito pela experiência.
-
 A primeira leva será pequena, apenas para testar textura. Enquanto modelam, ティファ observa que hoje pode escolher parar, trocar ingredientes ou desperdiçar uma tentativa sem comprometer o dia seguinte. Não diz isso com culpa: apenas reconhece a diferença.
-
 キャミィ recolhe a farinha espalhada. 「じゃあ、今日は失敗してもいい日だな」. ティファ concorda, embora ainda alise seu pão como se pudesse corrigir a memória pela superfície.
-
-**Referência para pesquisa — tratamento e condições materiais**
-
-- **Início:** período de tratamento em Midgar e esclarecimentos sobre sua situação.
-- **Fim:** transição para a necessidade de sustento e trabalho.
-- **Pesquisar:** `Traces of Two Pasts Tifa medical expenses debt treatment Midgar Rakesh`.
-- **Limite importante:** verificar valores, responsabilidades e revelações posteriores; não antecipar como fato algo que ティファ ainda desconhecia naquele momento.
+A história do passado cobre: Para sair, são três condições: a pele chegar ao nível 3, recuperar músculo e pagar uma soma absurda. Ela não tem dinheiro nem onde morar. O Rakesh faz a reabilitação com uma bolinha de borracha. O espartilho sai no último dia de novembro, e ela sai da clínica em 4 de dezembro, com um documento provisório com Corel como naturalidade.
 
 ### 664 — 中身は、ちゃんと分かるもの
 
 _Um recheio de procedência conhecida_
 
-Na hora do recheio, 舞 pergunta qual carne usavam nos pães de 八番街. ティファ responde com uma expressão que dispensa detalhes. ダン para de escrever. キャミィ exige uma categoria minimamente identificável, e a cozinheira anuncia que aquela parte da reprodução foi oficialmente abandonada.
-
+Na hora do recheio, 舞 pergunta qual carne usavam nos pães de 八番街. ティファ responde com uma expressão que dispensa detalhes. ダン para de escrever. キャミィ exige uma categoria minimamente identificável, ティファ diz que as cozinheiras nunca falavam, então ninguém sabia que carne era.
 ティファ diz que a grande marca registrada do recheio desses pãezinhos era o equilíbrio marcante entre o doce e o apimentado, uma combinação reconfortante feita sob medida para dar aos clientes "uma sensação de lar". Era uma receita secreta de família que levava carne (de origem não revelada) e alface.
-
 ティファ tenta ser fiel ao sabor da memória, mas deixa que o grupo escolha o recheio deles. Eles escolhem carne suína, repolho, cogumelos e gengibre para a versão da família. 舞 corta os vegetais; キャミィ separa pequenas porções; ダン anota o que realmente entra na panela. ティファ cozinha uma amostra do recheio para provarem antes de fechar os pães.
-
 O cheiro conduz o relato ao trabalho com comida e à venda dos pães em Midgar. Ela fala do que precisava aprender além de preparar: atender, observar o movimento e continuar trabalhando mesmo quando o corpo ou o humor não acompanhavam.
-
 舞 pergunta se ela gostava de comer aquilo. ティファ distingue gostar do sabor, estar com fome e sentir alívio por ter conseguido terminar mais um dia. Nenhum dos três tenta reduzir tudo a uma única resposta.
-
 A primeira amostra fica saborosa, mas não corresponde à lembrança. ダン pergunta se falta sal. 「たぶん、塩だけじゃない」. Em vez de despejar mais temperos, separam duas versões.
-
 Ao fechar os pães, 舞 coloca recheio demais e pede reforço para a massa. A gargalhada de ティファ vem antes da solução. Pela primeira vez naquela manhã, ela esquece de comparar o que está fazendo com o passado.
 
-**Referência para pesquisa — trabalho e pães de 八番街**
-
-- **Início:** ingresso de ティファ no trabalho ligado à venda dos pães.
-- **Fim:** estabelecimento da rotina de preparo, atendimento e sustento.
-- **Pesquisar:** `Traces of Two Pasts Tifa Sector 8 steamed buns stall work filling`.
-- **Limite importante:** confirmar nome do estabelecimento, responsáveis e descrição do alimento. O recheio de porco e vegetais é **adaptação deste arco**, não receita atribuída ao romance.
+A história do passado cobre: O Rakesh a leva ao "Beco dos Contêineres" (15 gil por dia) e a um vagão azul de cozinha com três mulheres que não falam com ela. Os bolinhos custam 3 gil, e ela fica com 20% do lucro. O recheio é carne picada doce e apimentada, e o "Uncle" diz que a receita é da mãe dele. A ティファ diz que nunca soube que carne era. (Alguém comenta que ela disse "gil" de novo, então ティファ explica que "gil" é a moeda daquele mundo e não faz ideia de quanto vale em yen)
 
 ### 665 — 湯気の向こうにいた人たち
 
 _As pessoas do outro lado do vapor_
 
 A primeira leva sai do vapor sob vigilância coletiva. 舞 quer abrir imediatamente; ティファ impede quatro mãos de se aproximarem ao mesmo tempo. ダン observa que nunca viu tanta competência reunida para ignorar a possibilidade de queimar a língua.
-
 Depois de esfriarem um pouco, cortam os pães (como ensinado pelo Pops/Uncle Manson) e examinam massa e recheio. A textura ficou mais pesada do que ティファ desejava. キャミィ descreve o resultado com precisão excessiva; 舞 pergunta se está avaliando um almoço ou um equipamento.
-
 Antes de comer ティファ separou os três tipos de toppings diferentes (pimentão, nuts e aipo). Enquanto comem, a história passa às pessoas que atravessaram sua reconstrução em Midgar. ティファ diferencia gentilezas reais, relações difíceis e situações que só conseguiu entender mais tarde. O passado não aparece como um bloco de miséria nem como uma coleção de salvadores: ela também observava, trabalhava e tomava decisões.
-
-Lembrança de um rapaz gordinho que comprou 22 pães, um para cada um dos dois amigos e 20 para ele. ティファ relembra com ternura dos, hoje falecidos Jessie, Biggs e Wedge, seus primeiros amigos e futuros companheiros do AVALANCHE.
-
+Lembrança de um rapaz gordinho que comprou 22 pães, um para cada um dos dois amigos e 20 para ele. ティファ relembra com ternura dos, hoje falecidos Jessie, Biggs e Wedge, seus futuros primeiros amigos e companheiros do AVALANCHE.
 キャミィ pergunta o que aconteceu quando percebeu que precisava mudar alguma coisa. A resposta conduz o relato para fora da rotina inicial, sem transformar os conflitos em cenas de ação.
-
 Na cozinha, ダン sugere que anotem “gostoso, mas diferente”. ティファ quase corrige para “não ficou certo”, porém deixa a frase. 舞 põe uma metade no prato dela: a tentativa não precisa ser descartada.
-
 Antes da próxima leva, recolhem o que pode ser aproveitado e limpam a bancada. A cozinha permanece bagunçada, mas ninguém parece com pressa de sair dali.
 
-**Referência para pesquisa — relações e mudança de situação**
-
-- **Início:** pessoas e vínculos formados durante o trabalho e a recuperação.
-- **Fim:** acontecimentos que alteram sua condição inicial e permitem outra etapa de vida.
-- **Pesquisar:** `Traces of Two Pasts Tifa Rakesh medical debt revelation Sector 8 Sector 7`.
-- **Limite importante:** conferir a sequência das revelações e o papel de cada personagem; não criar uma transição direta para o Setor 7 sem verificar os acontecimentos intermediários.
+A história do passado cobre: O "Uncle" ensina a cortar o pão como uma concha, com papel e faca, e o cliente escolhe três acompanhamentos. Na primeira prova, os do cliente são pimentão, nozes e aipo. O rapaz que compra 22 bolinhos é o Wedge (um para cada amigo e vinte para ele), com o Biggs e a Jessie. Depois de ver os três, ela chorou ao perceber que estava sozinha, sem família ou amigos.
 
 ### 666 — 七番街へ、そして今の台所へ
 
 _Rumo ao Setor Sete — e à cozinha de hoje_
 
 À tarde, ティファ prepara uma segunda massa menor. キャミィ pergunta qual característica deseja modificar. A resposta ainda começa com “antes era...”, mas ela interrompe: quer uma textura mais leve **agora**.
-
 Enquanto trabalham, o relato alcança a aproximação com o Setor 7 e os acontecimentos ligados ao Seventh Heaven. As perguntas dos três ajudam a distinguir etapas: chegar a um bairro, conhecer pessoas e encontrar um lugar na própria vida não são exatamente a mesma coisa.
-
 舞 lembra do bar temporário e pergunta se servir aqueles pães já era uma tentativa de trazer essa época para perto. ティファ admite que sim. Na ocasião, estava ocupada em receber clientes; hoje, com tempo para comparar, percebe o quanto procurava um sabor que talvez nunca tenha existido separado das circunstâncias.
-
 ダン sugere experimentar acompanhamentos em porções pequenas. 舞 prepara cebolinha; キャミィ separa um molho suave; ティファ deixa a pimenta à parte. Nenhum topping precisa corrigir o pão inteiro.
-
 Durante a prova, ela começa novamente: 「昔のは、もっと……」. Para, mastiga e muda a frase: 「こっちは、生地が好き」.
-
 O comentário é pequeno, mas os outros acompanham sem celebrar como se fosse uma conquista pública. Continuam provando. ダン risca “tentativa de cópia” no alto da página e pergunta como ela quer chamar a receita. ティファ ainda não sabe, mas pede que não apague os ingredientes.
 
-**Referência para pesquisa — Setor 7 e Seventh Heaven**
-
-- **Início:** transição da fase anterior para os vínculos e a vida no Setor 7.
-- **Fim:** acontecimentos do episódio de ティファ relacionados à sua ligação com o Seventh Heaven.
-- **Pesquisar:** `Traces of Two Pasts Tifa Sector 7 Marle Seventh Heaven establishment`.
-- **Limite importante:** verificar propriedade, administração e ordem dos encontros; não misturar automaticamente o romance com a cronologia ou as cenas de _Remake_.
+A história do passado cobre: A Marle, uma senhora idosa, é paciente da clínica e depois dona do Stargazer Heights, no Setor 7. Ela leva a ティファ ao Seventh Heaven, de propriedade do velho Monty, e a ティファ passa a trabalhar lá às quartas.
 
 ### 667 — 同じじゃなくても、懐かしい
 
 _Mesmo diferente, ainda traz saudade_
 
-No começo da noite, fazem a última leva, sem abrir uma competição entre receitas. Cada um modela alguns pães: os de キャミィ têm tamanho quase idêntico; os de 舞 recebem pregas elaboradas; ダン finalmente produz um que fecha sem ajuda. ティファ reúne todos na mesma bandeja.
-
-Enquanto esperam, conclui a parte de sua história, primeira vez que viu Barret e Marlene, compra do Seventh Heaven com sua economia de anos vendendo os pãezinhos, AVALANCHE. O importante é terminar o relato em sua própria voz, diante dos três. No fim do relato ティファ diz que ela já contou, a AVALANCHE contratou um certo mercenário para auxiliar na detonação do reator.
-
+Na manhã seguinte, fazem a última leva, sem abrir uma competição entre receitas. Cada um modela alguns pães: os de キャミィ têm tamanho quase idêntico; os de 舞 recebem pregas elaboradas; ダン finalmente produz um que fecha sem ajuda. ティファ reúne todos na mesma bandeja.
+Enquanto esperam, conclui a parte de sua história, primeira vez que viu Barret e Marlene, entrada do Seventh Heaven com sua economia de anos vendendo os pãezinhos, AVALANCHE. O importante é terminar o relato em sua própria voz, diante dos três. No fim do relato ティファ diz que ela já contou, a AVALANCHE contratou um certo mercenário para auxiliar na detonação do reator.
 À mesa, ninguém pergunta se finalmente ficou igual. ティファ prova primeiro e responde mesmo assim: não. A carne é outra, a massa está diferente e o acompanhamento nem fazia parte da tentativa inicial. Então pega mais um pedaço.
-
 「でも、また作りたい味になった」
-
 ダン pergunta qual medida deve registrar para o recheio. Descobrem que 舞 acrescentou um pouco a mais de gengibre e que ninguém pesou a última porção de vegetais. キャミィ suspira diante da precisão perdida; ティファ diz que podem ajustar na próxima vez.
+Guardam alguns pães para depois. No caderno, ela escreve 「うちの饅頭」 e mantém, abaixo, uma nota sobre 八番街. Não substituiu uma lembrança pela outra. Apenas passou a ter mais uma mesa associada àquele vapor. ティファ vira para ダン e comenta que amanhã retoma ao treinamento.
 
-Guardam alguns pães para o café da manhã. No caderno, ela escreve 「うちの饅頭」 e mantém, abaixo, uma nota sobre 八番街. Não substituiu uma lembrança pela outra. Apenas passou a ter mais uma mesa associada àquele vapor.
-
-**Referência para pesquisa — encerramento do episódio**
-
-- **Início:** últimos acontecimentos da parte de ティファ ainda não utilizados no capítulo anterior.
-- **Fim:** encerramento de **“Traces of Tifa”**, sem avançar para a parte de Aerith.
-- **Pesquisar:** `Traces of Two Pasts Traces of Tifa ending framing narrative`.
-- **Limite importante:** conferir onde termina a lembrança e onde retorna o enquadramento narrativo. **A receita familiar, sua criação coletiva e o nome 「うちの饅頭」 pertencem a este arco original.**
-
-## Cuidados de continuidade
-
-- **O pão já foi preparado antes:** no arco 73, ティファ conseguiu servir uma versão; aqui, o problema é não reconhecer nela o **sabor lembrado**, não esquecer completamente como cozinhar.
-- **A cozinha permanece no presente:** cada lembrança deve nascer de uma ação — esperar a massa, cortar ingredientes, provar, limpar — e terminar com uma interação entre os quatro.
-- **Poucas tentativas, diferenças claras:** primeira leva para diagnóstico; segunda para ajustar textura e tempero; última para registrar a versão familiar. Evitar seis capítulos repetindo “ainda não ficou igual”.
-- **Sem nostalgia romantizada:** a lembrança pode conter fome, esforço e relações difíceis; aceitar o passado não exige reproduzir suas condições.
-- **História encerrada, vida em andamento:** não é necessário repetir toda a trajetória de Avalanche ou Cloud já contada em outros arcos.
-- **Conferência bibliográfica:** usar o romance como referência principal; a [resenha já indicada na conversa](https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_Remake_Trace_of_Two_Pasts#Traces_of_Tifa) (https://pekotranslates.tumblr.com/) pode ajudar na contextualização, mas não substitui a verificação das cenas.
+A história do passado cobre: Aparecem o Barret e a Marlene, que dorme na cadeira da varanda. O Monty morre, e a ティファ entrega 160.000 gil de entrada para o bar não ser vendido. O Barret entra na AVALANCHE.

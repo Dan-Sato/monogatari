@@ -36,6 +36,15 @@ _Projeto de leitura em japonês._
 >
 > Sempre abrir a resposta com uma chamada de `execute_code` contendo o texto do capítulo já em Python, seguida de validação
 
+## EXEMPLO DE PESQUISA REFERÊNCIA
+
+**Referência para pesquisa — relações e mudança de situação**
+
+- **Início:** pessoas e vínculos formados durante o trabalho e a recuperação.
+- **Fim:** acontecimentos que alteram sua condição inicial e permitem outra etapa de vida.
+- **Pesquisar:** `Traces of Two Pasts Tifa Rakesh medical debt revelation Sector 8 Sector 7`.
+- **Limite importante:** conferir a sequência das revelações e o papel de cada personagem; não criar uma transição direta para o Setor 7 sem verificar os acontecimentos intermediários.
+
 ## CAPÍTULO EXEMPLO
 
 <!doctype html>
