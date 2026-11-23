@@ -278,3 +278,58 @@ Enquanto esperam, conclui a parte de sua história, primeira vez que viu Barret 
 Guardam alguns pães para depois. No caderno, ela escreve 「うちの饅頭」 e mantém, abaixo, uma nota sobre 八番街. Não substituiu uma lembrança pela outra. Apenas passou a ter mais uma mesa associada àquele vapor. ティファ vira para ダン e comenta que amanhã retoma ao treinamento.
 
 A história do passado cobre: Aparecem o Barret e a Marlene, que dorme na cadeira da varanda. O Monty morre, e a ティファ entrega 160.000 gil de entrada para o bar não ser vendido. O Barret entra na AVALANCHE.
+
+## 85 — 668–671 - 買い物袋と、なんでもない日々編
+
+_Sacolas de compras e dias sem nada de especial_
+
+Cotidiano distribuídos por alguns dias: supermercado, roupa para lavar, uma pequena reorganização da casa e uma noite sem programação. A graça está nas diferenças de hábitos dos quatro, sem transformar toda tarefa numa competição ou numa operação militar.
+
+### 668 — 買い物メモにないもの
+
+_O que não estava na lista de compras_
+
+Alguns dias depois, ティファ abre a geladeira e encontra três potes pequenos ocupando o espaço de uma refeição inteira. 舞 defende que todos contêm “coisas que ainda podem ser usadas”. ダン pergunta se alguém sabe o que há no pote do fundo. O silêncio decide a primeira tarefa do dia: conferir o que precisam antes de ir ao supermercado.
+キャミィ prepara uma lista curta. Na loja, porém, cada corredor acrescenta uma exceção. 舞 encontra um doce sazonal; ダン escolhe um salgadinho que não comia havia tempos; ティファ percebe uma promoção de ingredientes que realmente usam. キャミィ compara duas embalagens e descobre que ninguém está ouvindo sua explicação porque há uma degustação logo atrás.
+Dividem-se por alguns minutos para buscar itens diferentes. ダン e キャミィ discutem qual detergente foi pedido; 舞 e ティファ voltam com o correto e dois pacotes de biscoitos. 「洗剤は一つなのに、お菓子は二つ？」. 舞 responde que os biscoitos não precisam lavar nada.
+Na fila, ダン percebe que 舞 colocou discretamente a bebida de que ele gosta no carrinho. Ela descobre que ele fez o mesmo com a sobremesa dela. ティファ encosta uma embalagem fria na mão de キャミィ, que a recebe antes de notar o sorriso.
+Em casa, falta espaço para guardar tudo. A lista continua presa à geladeira; o único item esquecido foi justamente o que motivou a saída.
+
+### 669 — その服、私のじゃない？
+
+_Essa roupa não é minha?_
+
+Uma manhã de tempo aberto leva os quatro a aproveitar para lavar roupas e trocar os lençóis. ダン volta de uma sessão habitual com ティファ e deixa as peças de treino no cesto. Ela lembra, já passando pela cozinha, que a próxima aula será em outro dia. A conversa não vai além disso: o problema imediato é descobrir quem deixou um lenço de papel num bolso.
+舞 encontra pequenos fragmentos brancos numa camiseta escura e inicia uma investigação sem muita convicção. Cada um apresenta um álibi pior que o anterior. キャミィ verifica os bolsos restantes e retira um recibo que 舞 pretendia guardar. ダン sugere que arquivem tudo antes da próxima lavagem.
+Ao estender as roupas, misturam cabides, discutem espaço e descobrem que uma calcinha desapareceu. ティファ veste por distração um casaco de キャミィ para ir à varanda. Quando ela aponta a troca, recebe uma pergunta: 「返したほうがいい？」. キャミィ demora o bastante para 舞 responder por ela.
+Depois, ダン e 舞 tentam colocar a capa do edredom. Cada um segura uma ponta diferente, e ela acaba do lado de dentro, reclamando que ele está puxando o lado errado. ティファ aparece, observa a cena e chama キャミィ apenas para testemunhar.
+Resolvem sem pressa. Ao guardar tudo, ダン encontra a calcinha dentro de uma fronha. 舞 comemora a solução e se deita por um instante na cama recém-arrumada. Quando ele protesta que vão amassar, ela abre espaço ao lado: 「じゃあ、一緒に休めば？」
+
+### 670 — 引き出しひとつ分の大騒ぎ
+
+_Uma confusão do tamanho de uma gaveta_
+
+A compra de pilhas para o controle remoto revela uma dificuldade inesperada: ninguém consegue abrir direito a gaveta onde deveriam estar as reservas. ダン puxa um pouco, um cabo prende, e três objetos caem antes que encontrem qualquer pilha.
+Decidem organizar somente aquela gaveta. 舞 estabelece que isso não significa uma faxina geral; キャミィ concorda, embora já tenha separado pequenas caixas. ティファ põe uma bandeja na mesa para não espalharem tudo, e o conteúdo logo ultrapassa suas bordas.
+Aparecem canetas que não escrevem, carregadores sem identificação, moedas e um cabo que todos garantem ser importante. Quando perguntam para quê, ninguém sabe. ダン quer descartá-lo; 舞 exige uma última oportunidade para demonstrar utilidade. ティファ liga o aparelho correspondente, que estava bem ao lado.
+A arrumação se expande apenas até a prateleira da sala. キャミィ propõe retirar um objeto decorativo para abrir espaço; ティファ diz que gosta dele naquele lugar. キャミィ devolve imediatamente, e 舞 reclama que suas próprias sugestões nunca recebem aprovação tão rápida.
+Entre uma troca de posição e outra, ダン coloca atrás de 舞 uma almofada que ela procurava. Ela agradece puxando-o pela mão para um beijo, interrompido por ティファ pedindo passagem com uma caixa. 舞 reclama mas ティファ diz que dará um beijo nos dois mais tarde como compensação, 舞 diz que mais tarde não, quer agora.
+Ao fim, a gaveta abre sem resistência. Encontram as pilhas novas no fundo da sacola de compras. 舞 declara que, apesar disso, merecem um lanche. Ninguém discorda — mas ninguém sabe onde guardaram os guardanapos.
+
+### 671 — 今夜は、何もしない予定
+
+_Esta noite, o plano é não fazer nada_
+
+No fim de mais um dia comum, ダン pergunta o que vão fazer à noite. ティファ sugere aproveitar o que já há na geladeira, 舞 escolhe um filme e キャミィ avisa que não pretende sair novamente. Em poucos minutos, a ausência de planos exige decisões sobre comida, lugares no sofá e quem está com o controle.
+Preparam um jantar simples, cada um resolvendo uma parte. ダン tenta provar antes da hora; ティファ entrega um prato para que ajude de verdade. 舞 oferece a ele um pedaço do que está cortando e pede uma opinião sincera. A resposta é boa o bastante para ela provar também, reduzindo discretamente a porção destinada à mesa.
+Depois, o filme demora a começar porque ninguém concorda com a escolha. キャミィ aponta que já passaram mais tempo vendo sinopses do que levariam para assistir a um episódio de série. Aceitam a sugestão, mas ela descobre que ser a autora da solução também significa escolher o episódio.
+舞 se acomoda junto de ダン; ティファ estende as pernas e divide a manta com キャミィ. As conversas atravessam a tela: um comentário sobre o supermercado, uma provocação sobre a lavagem, um pedido para passarem os biscoitos.
+Quando os créditos aparecem, ダン admite que perdeu uma parte. As três também. Não voltam o vídeo. Na cozinha, lavam as xícaras aos pares, com pequenas trocas de carinho e espaço apertado. Antes de dormir, 舞 escreve o item esquecido na lista de compras. Desta vez, alguém acrescenta: 「これだけは忘れないこと」.
+
+## Continuidade e ritmo
+
+- **ダン já participa da rotina normalmente:** sem regressão ao papel de paciente e sem demonstrações repentinas de habilidade marcial.
+- **Treinamento apenas mencionado:** uma volta do dojo ou a combinação do próximo horário basta; não precisa virar assunto em todos os capítulos.
+- **キャミィ não é só a pessoa das listas:** também se distrai, aceita carinho, faz escolhas pessoais e participa do humor sem precisar militarizar cada tarefa.
+- **Romance pequeno e espontâneo:** lembrar uma preferência no supermercado, emprestar roupa, abrir espaço na cama e dividir a manta.
+- **Sem grande conclusão emocional:** este arco não precisa ensinar uma lição aos quatro. Seu fechamento é simplesmente a casa funcionando, com afeto, bagunça e uma compra ainda por fazer.
