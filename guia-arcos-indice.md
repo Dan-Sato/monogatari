@@ -371,4 +371,8 @@ No dia seguinte, ティファ acorda mais cedo e por causa das lembranças do tr
 
 Cotidiano distribuídos por alguns dias: supermercado, roupa para lavar, uma pequena reorganização da casa e uma noite sem programação. A graça está nas diferenças de hábitos dos quatro, sem transformar toda tarefa numa competição ou numa operação militar.
 
-## Arcos 86–90
+## Arcos 86–90 (folclore, sem-rosto e jizo; )
+
+### 86 — 672–676 - 昔語り編 — のっぺらぼうと笠地蔵 (Contos de outros tempos — O sem-rosto e os Jizō de chapéu)
+
+Ao longo de três dias chuvosos, 舞 conta duas histórias: um conto misterioso, um homem encontra uma mulher sem rosto e procura abrigo junto de um vendedor de soba, apenas para descobrir que o segundo encontro também é sobrenatural. É curto e funciona pela maneira de contar, não por violência ou explicações sobre o monstro. Para o segundo, a variante do casal idoso, dos seis Jizō e dos cinco chapéus, completados com um tenugui. O contraste é bom: a primeira história termina com uma luz se apagando; a segunda, com um gesto de cuidado sendo retribuído.
